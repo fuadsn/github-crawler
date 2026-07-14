@@ -1120,6 +1120,14 @@
    "world-models"
   ]
  },
+ "1293706768": {
+  "created_at": "2026-07-08T14:20:32Z",
+  "desc": "\u7cbe\u9009 LLM \u7834\u7532\u63d0\u793a\u8bcd\u5408\u96c6 \u2014 Codex / GPT-5.x / Claude / Gemini / DeepSeek / Grok \u2014 UNFILTERED MODE \u00b7 GODMODE \u00b7 CTF Sandbox",
+  "lang": "",
+  "name": "lingbol088-spec/jailbreak-prompts",
+  "node_id": "R_kgDOTRxmEA",
+  "topics": []
+ },
  "1293717823": {
   "created_at": "2026-07-08T14:29:17Z",
   "desc": "Auth codex plugin for opencode with local dashboard, force mode, and etc. Codex plugin",
@@ -1959,6 +1967,14 @@
    "vfx"
   ]
  },
+ "1295985574": {
+  "created_at": "2026-07-10T02:54:35Z",
+  "desc": "",
+  "lang": "",
+  "name": "inclusionAI/SingGuard-NSFA",
+  "node_id": "R_kgDOTT8rpg",
+  "topics": []
+ },
  "1296016994": {
   "created_at": "2026-07-10T03:43:30Z",
   "desc": "",
@@ -1969,7 +1985,7 @@
  },
  "1296024548": {
   "created_at": "2026-07-10T03:55:38Z",
-  "desc": " A Visual-Text Foundation Model for Document AI",
+  "desc": "MonkeyOCRv2 Vision Encoder \u2014 A Document-Native Visual Backbone",
   "lang": "Python",
   "name": "Yuliang-Liu/MonkeyOCRv2",
   "node_id": "R_kgDOTT_D5A",
@@ -2322,6 +2338,14 @@
   "node_id": "R_kgDOTUaZUw",
   "topics": []
  },
+ "1296484148": {
+  "created_at": "2026-07-10T12:35:09Z",
+  "desc": "Real-time visibility into Claude Code sessions inside VS Code, plus in-editor config editing.",
+  "lang": "TypeScript",
+  "name": "vietphu/claudevisual",
+  "node_id": "R_kgDOTUbHNA",
+  "topics": []
+ },
  "1296557893": {
   "created_at": "2026-07-10T13:57:07Z",
   "desc": "",
@@ -2649,6 +2673,14 @@
    "startup"
   ]
  },
+ "1297414511": {
+  "created_at": "2026-07-11T12:15:01Z",
+  "desc": "Blazing fast email client with keyboard shortcuts",
+  "lang": "Rust",
+  "name": "NextOSP/comail",
+  "node_id": "R_kgDOTVT5bw",
+  "topics": []
+ },
  "1297429458": {
   "created_at": "2026-07-11T12:37:09Z",
   "desc": "Superpowers for GPT-5.6, 85.5% leaner. Target to more token-efficient use of GPT-5.6.",
@@ -2798,6 +2830,31 @@
   "lang": "Jupyter Notebook",
   "name": "mate-matt/rag-memory-lab",
   "node_id": "R_kgDOTV22mw",
+  "topics": []
+ },
+ "1298021489": {
+  "created_at": "2026-07-12T05:54:55Z",
+  "desc": "\u4ed5\u4e8b\u306e\u65e5\u672c\u8a9e\u6587\u66f8\u3092\u8aad\u307f\u3084\u3059\u304f\u308f\u304b\u308a\u3084\u3059\u304f\u66f8\u304f\u30fb\u76f4\u3059 Agent Skill\u3002\u8b70\u4e8b\u9332\u30fb\u8abf\u67fb\u30ec\u30dd\u30fc\u30c8\u30fb\u793e\u5185\u30ac\u30a4\u30c9\u30fb\u30ea\u30b5\u30fc\u30c1\u30e1\u30e2\u30fb\u30b9\u30e9\u30a4\u30c9\u69cb\u6210\u306b\u5bfe\u5fdc\u3057\u3001AI\u81ed\u3055\u306e\u9664\u53bb\u3082\u5de5\u7a0b\u306b\u542b\u3080\u3002sudachipy \u5f62\u614b\u7d20\u89e3\u6790\u306b\u3088\u308b\u6a5f\u68b0\u691c\u51fa\u4ed8\u304d\u3002",
+  "lang": "Python",
+  "name": "coji/natural-japanese",
+  "node_id": "R_kgDOTV48cQ",
+  "topics": [
+   "agent-skills",
+   "claude",
+   "claude-code",
+   "japanese",
+   "lint",
+   "nlp",
+   "sudachipy",
+   "writing"
+  ]
+ },
+ "1298037639": {
+  "created_at": "2026-07-12T06:24:16Z",
+  "desc": "Offical repo for the paper \"LATO.2: Factorized 3D Mesh Generation with Vertex and Topology Flow\"",
+  "lang": "",
+  "name": "LoHhhha/LATO.2",
+  "node_id": "R_kgDOTV57hw",
   "topics": []
  },
  "1298124536": {
@@ -3008,6 +3065,31 @@
   "node_id": "R_kgDOTW4SHA",
   "topics": []
  },
+ "1299075525": {
+  "created_at": "2026-07-13T08:57:38Z",
+  "desc": "Observable diagnostics, failure attribution, metrics, and no-key replay for multi-agent runtimes.",
+  "lang": "Python",
+  "name": "try1004/FlowLens-AgentOps",
+  "node_id": "R_kgDOTW5RxQ",
+  "topics": [
+   "agentops",
+   "diagnostics",
+   "fastapi",
+   "langgraph",
+   "llmops",
+   "multi-agent",
+   "observability",
+   "replay"
+  ]
+ },
+ "1299133936": {
+  "created_at": "2026-07-13T10:01:36Z",
+  "desc": "",
+  "lang": "",
+  "name": "liucongg/liucong-skills",
+  "node_id": "R_kgDOTW818A",
+  "topics": []
+ },
  "1299238433": {
   "created_at": "2026-07-13T11:56:13Z",
   "desc": "",
@@ -3082,6 +3164,14 @@
    "tabs",
    "transcribe"
   ]
+ },
+ "1299734316": {
+  "created_at": "2026-07-13T21:05:06Z",
+  "desc": "A hands-on Swift and Metal course for building LLM inference from first principles on Apple silicon, with 48 guided lessons, runnable exercises, a native macOS Studio, and a complete companion book.",
+  "lang": "Swift",
+  "name": "videlalvaro/leet-llm",
+  "node_id": "R_kgDOTXhfLA",
+  "topics": []
  },
  "1299827099": {
   "created_at": "2026-07-13T23:44:04Z",
