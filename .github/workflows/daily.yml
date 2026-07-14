@@ -1,0 +1,52 @@
+name: daily
+
+on:
+  schedule:
+    # 06:17 UTC. Odd minute on purpose: top-of-hour is the most congested slot on
+    # GitHub's scheduler and gets delayed hardest. Scheduled runs are best-effort
+    # regardless — 10-30 min late is normal, occasional skips happen.
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# A manual run overlapping the cron would make the second push non-fast-forward,
+# failing the job. That day's CSV only ever existed on a runner that no longer
+# exists, and you cannot re-snapshot a past date.
+concurrency:
+  group: snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # Full discovery (~2-3k search requests at 30/min) only on Mondays.
+      # The repo set barely moves day to day; the snapshot is the daily product.
+      - name: Discover + snapshot
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || github.token }}
+        run: |
+          if [ "$(date -u +%u)" = "1" ]; then
+            python crawl.py --full
+          else
+            python crawl.py
+          fi
+
+      - name: Render
+        run: python render.py
+
+      - name: Commit
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data index.html DIGEST.md
+          git commit -m "snapshot $(date -u +%F)" || exit 0
+          git push || (git pull --rebase && git push)
