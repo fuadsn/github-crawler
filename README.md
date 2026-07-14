@@ -6,13 +6,25 @@ result, and publishes to GitHub Pages. No server, no database, $0/month.
 
 ## The thing to understand
 
-GitHub restricted the stargazers API on 2026-06-30. **No endpoint tells you a repo's star
-count on a past date.** GitHub reports the count *now*. Last month's number has to have been
-written down last month.
+**No endpoint tells you a repo's star count on a past date.** GitHub reports the count *now*.
+Last month's number has to have been written down last month.
 
 So the daily snapshot *is* the product, and every metric here is a subtraction between two
-recordings. **The first morning it runs is the most valuable one** — every day it isn't
-running is history that cannot be bought back.
+recordings.
+
+And there is no way to buy that history back later, because **every route to the past is
+closing**:
+
+| Source | Status |
+|---|---|
+| REST `/stargazers` | **dead** — 404 since 2026-06-30 |
+| Public events firehose → GH Archive → ClickHouse | **gutted** — GitHub throttled `WatchEvent` ~90% (3.73% of the firehose in Jul 2025 → 0.30% by May 2026) |
+| GraphQL `stargazers { starredAt }` | **the last door open** — and it leaks the same usernames the lockdown exists to protect, so don't count on it |
+| `stargazerCount` (the current count) | **works, and always will** |
+
+`backfill.py` is a one-time raid on that last open door — run it now, while it's open. But the
+product doesn't depend on it. **The snapshot is the only thing.** Every morning it doesn't run is
+a day of history that no API, archive, or mirror can reconstruct for you.
 
 ## Files
 

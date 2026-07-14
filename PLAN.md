@@ -251,10 +251,42 @@ No JS framework (CSS-only tabs). No sparklines/avatars. No BigQuery/GCP. No star
 
 ## Rejected after testing
 
-- **ClickHouse GH Archive mirror** — looked perfect, then: ~33k stars/day in April, **1.4k/day in
-  July (~5% complete)**. Ranking on it would have been silently, plausibly wrong.
-- **GH Archive raw files** — work (20 MB/hr, 14 GB per 30 days) but unnecessary now that GraphQL
-  `starredAt` is confirmed open. **Keep as the escape hatch:** GitHub closed the REST door to stop
-  harvesting, and it's not unreasonable the GraphQL door narrows next. The event firehose is unaffected.
+- **GH Archive / the public events firehose — DEAD, and this is the big one.**
+  GitHub didn't only restrict the stargazers API; it **throttled `WatchEvent` out of the public
+  events firehose**, ~90%, somewhere between Jan and May 2026 — *before* the API lockdown.
+  Measured, same hour-of-day, from `data.gharchive.org`:
+
+  | | stars/hour | % of firehose |
+  |---|---|---|
+  | 2025-07 | 5,659 | 3.73% |
+  | 2026-01 | 4,096 | 2.79% |
+  | 2026-05 | **458** | **0.30%** |
+  | 2026-07 | 573 | 0.33% |
+
+  `ollama/ollama` — gaining ~80 stars/day — appears **zero** times in a sampled hour.
+  This also explains the ClickHouse mirror: it isn't incomplete, it faithfully mirrors GH Archive,
+  which faithfully mirrors a firehose that has been drained. **Every layer downstream inherits the
+  hole.** There is no escape hatch here.
+
+- **ClickHouse GH Archive mirror** — same root cause. ~33k stars/day in April → 1.4k/day in July.
+  Ranking on it would have been silently, plausibly wrong.
 - **REST `/repos/{o}/{r}/events`** — capped at 300 events / 90 days. On a hot repo that's ~3 hours.
 - **github.com/trending** — no API. We compute a better one anyway.
+
+## The conclusion that follows
+
+| Source | Status |
+|---|---|
+| REST `/stargazers` | **dead** (404) |
+| Events firehose → GH Archive → ClickHouse | **gutted** (~90% of stars gone since ~May 2026) |
+| GraphQL `stargazers { starredAt }` | **the last door open** |
+| `stargazerCount` (the current count) | **works, and is not a harvesting vector** |
+
+**There is no second way to reconstruct the past.** If GitHub closes the GraphQL door — and it has
+an active reason to, since that connection pages through `User` nodes and leaks exactly the usernames
+the lockdown exists to protect — then star history becomes strictly unobtainable, and the only
+history in the world is the history you already wrote down.
+
+So the daily snapshot is not the spine *with a backup*. **It is the only thing.** `backfill.py` is a
+one-time raid on a door that is visibly closing: run it while it's open, but the product does not
+depend on it. Every morning the cron runs, you own a day nobody can take back.

@@ -38,13 +38,26 @@ WORD_RE = re.compile(r"\b(" + "|".join(WORDS) + r")\b", re.I)
 
 
 def get(url, body=None):
+    """Retries transient failures. A full discovery run is ~600 requests over 20 minutes,
+    so a socket timeout somewhere in there is close to certain — and without this, one
+    blip loses the entire run's work. HTTPError is re-raised: callers handle 403/422.
+    """
     req = urllib.request.Request(url, data=body, headers={
         "Authorization": "Bearer " + TOKEN,
         "Accept": "application/vnd.github+json",
         "User-Agent": "github-crawler",
     })
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return r.read()
+    for attempt in range(5):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                return r.read()
+        except urllib.error.HTTPError:
+            raise
+        except Exception as e:  # socket.timeout, URLError, ssl, connection reset
+            if attempt == 4:
+                raise
+            print("  retry %d/4 (%s)" % (attempt + 1, type(e).__name__))
+            time.sleep(2 ** attempt)
 
 
 # --- discovery -------------------------------------------------------------
