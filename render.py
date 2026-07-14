@@ -165,6 +165,8 @@ nav{display:flex;flex-wrap:wrap;gap:.5rem;border-bottom:1px solid var(--line);ma
 nav label{padding:.5rem .75rem;cursor:pointer;color:var(--dim);border-bottom:2px solid transparent;margin-bottom:-1px}
 nav label:hover{color:var(--fg)}
 .p{display:none}
+#q{width:100%;padding:.5rem .75rem;margin:0 0 1rem;font:inherit;color:var(--fg);
+ background:var(--card);border:1px solid var(--line);border-radius:6px}
 article{padding:1.25rem 0;border-bottom:1px solid var(--line)}
 h3{margin:0;font-size:1.05rem}
 a{color:var(--fg)}
@@ -175,6 +177,18 @@ a{color:var(--fg)}
 .empty{color:var(--dim);padding:2rem 0}
 footer{max-width:52rem;margin:3rem auto 0;padding-top:1.5rem;border-top:1px solid var(--line);
  color:var(--dim);font-size:.8125rem}
+"""
+
+
+# Subsequence match, like fzf: "opnai" matches "openai". Cards carry their own text,
+# so the haystack is just textContent - no index, no search field to keep in sync.
+SEARCH_JS = """
+var q=document.getElementById('q'),arts=[].slice.call(document.querySelectorAll('article')),
+ keys=arts.map(function(a){return a.textContent.toLowerCase()});
+function hit(k,t){for(var i=0,j=0;j<t.length;j++){i=k.indexOf(t[j],i)+1;if(!i)return false}return true}
+q.addEventListener('input',function(){
+ var t=q.value.toLowerCase().replace(/\\s+/g,'');
+ arts.forEach(function(a,i){a.hidden=!!t&&!hit(keys[i],t)})});
 """
 
 
@@ -198,8 +212,11 @@ def html_page(sections, repos, snaps, latest, approx, now):
         "<title>AI repos by star growth</title><style>%s</style>"
         "<main><h1>AI repos by star growth</h1>"
         '<p class="sub">Ranked by median daily star delta - one spike does not make a trend.</p>'
-        "%s<nav>%s</nav><div class=\"panels\">%s</div></main>"
+        "%s<nav>%s</nav>"
+        '<input type="search" id="q" placeholder="Filter repos" aria-label="Filter repos">'
+        '<div class="panels">%s</div></main>'
         "<footer>Generated %s UTC &middot; %s repos tracked &middot; %s snapshots%s</footer>"
+        "<script>%s</script>"
     ) % (
         css,
         "".join('<input type="radio" name="tab" id="t%d"%s>' % (i, " checked" if i == 0 else "")
@@ -207,6 +224,7 @@ def html_page(sections, repos, snaps, latest, approx, now):
         "".join('<label for="t%d">%s</label>' % (i, html.escape(t)) for i, (t, _) in enumerate(sections)),
         "".join(body),
         now.strftime("%Y-%m-%d %H:%M"), num(len(repos)), num(len(snaps)), note,
+        SEARCH_JS,
     )
 
 
