@@ -1,135 +1,135 @@
-# AI repos - 2026-07-14
+# AI repos - 2026-07-15
 
 ## Brand new
 
 - **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** - Infinite Worlds with Versatile Interactions  
-  1,083 stars - +56 today - Python
-
-- **[vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)** - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.  
-  951 stars - +101 today - Python
+  1,146 stars - +63 today - Python
 
 - **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。  
-  940 stars - +287 today - Python
+  1,126 stars - +186 today - Python
+
+- **[vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)** - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.  
+  979 stars - +28 today - Python
 
 - **[littledivy/mimic](https://github.com/littledivy/mimic)** - Intercept any app, then call it from Python like a library  
-  857 stars - +199 today - Python
+  919 stars - +62 today - Python
 
 - **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** - Local-first, zero-trust agentic IDE for verifiable autonomous software development.  
-  799 stars - +103 today - TypeScript - agentic-ai, agentic-ide, ai-agents, developer-tools, electron, ide, local-first, typescript, zero-trust
+  803 stars - +4 today - TypeScript - agentic-ai, agentic-ide, ai-agents, developer-tools, electron, ide, local-first, typescript, zero-trust
 
 - **[Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video)** - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence  
-  781 stars - +27 today - Python - image-to-video, lingbot-video, video-generation, world-models
+  793 stars - +12 today - Python - image-to-video, lingbot-video, video-generation, world-models
 
 - **[AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)** - A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。  
-  645 stars - +173 today - Python - codex, guide, llm, workbuddy
+  747 stars - +102 today - Python - codex, guide, llm, workbuddy
 
-- **[William-Lu-stack/LuxyAI](https://github.com/William-Lu-stack/LuxyAI)** - AI SRE AgenticOps for Kubernetes and cloud infrastructure.  
-  613 stars - +73 today - Python - agenticops, ai, aiops, aisre, cloud, cloud-native, devops, kubernetes, llm, mcp, observability, sre
+- **[pengchujin/jzsub](https://github.com/pengchujin/jzsub)** - JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。  
+  620 stars - +180 today - Python - bilingual, codex, subtitles, video, yt-dlp
+
+- **[William-Lu-stack/Flawless](https://github.com/William-Lu-stack/Flawless)** - AI SRE AgenticOps for Kubernetes and cloud infrastructure.  
+  620 stars - +7 today - Python - agenticops, ai, aiops, aisre, cloud, cloud-native, devops, kubernetes, llm, mcp, observability, sre
 
 - **[cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk)** - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.  
-  544 stars - +61 today - Go
-
-- **[Raymondhou0917/speak-human-tw](https://github.com/Raymondhou0917/speak-human-tw)** - 「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。  
-  498 stars - +22 today - agent-skills, ai-writing, claude-code, codex, cursor, humanizer, prompt-engineering, traditional-chinese, writing-tools, zh-tw
+  605 stars - +61 today - Go
 
 
 ## Last 24 hours
 
-- **[modiqo/waggle](https://github.com/modiqo/waggle)** - Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.  
-  425 stars - +424 today - Rust - ai-agents, harness-engineering, llm-tools, loop-engineering
+- **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.  
+  86,984 stars - +1,265 today - Python - antigravity, claude-code, codex, gemini, graphrag, knowledge-graph, leiden, openclaw, rag, skills, tree-sitter
 
-- **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。  
-  940 stars - +287 today - Python
+- **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.  
+  121,369 stars - +1,004 today - Python - agents, llms, python, rag
 
-- **[littledivy/mimic](https://github.com/littledivy/mimic)** - Intercept any app, then call it from Python like a library  
-  857 stars - +199 today - Python
+- **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** - "Vibe-Trading: Your Personal Trading Agent"  
+  23,210 stars - +707 today - Python - ai-agent, algorithmic-trading, backtesting, fintech, llm, mcp, multi-agent, python, quantitative-finance, trading
 
-- **[AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)** - A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。  
-  645 stars - +173 today - Python - codex, guide, llm, workbuddy
+- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.  
+  6,482 stars - +687 today - CSS
 
-- **[pengchujin/jzsub](https://github.com/pengchujin/jzsub)** - JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。  
-  440 stars - +154 today - Python - bilingual, codex, subtitles, video, yt-dlp
+- **[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.  
+  17,167 stars - +684 today - C# - agent, ai, claude-code, cli, codex, docx, excel, office, openclaw, pptx, presentation, skills, word, xlsx
 
-- **[aws-samples/sample-specship](https://github.com/aws-samples/sample-specship)** - Spec-driven autonomous engineering workflow for AI coding agents: recon → plan → build → validate → ship — with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.  
-  140 stars - +139 today - Shell - ai-agents, autonomous-agents, code-generation, developer-tools, kiro, llm, spec-driven-development, tdd
+- **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework & software development methodology that works.  
+  255,002 stars - +553 today - Shell - ai, brainstorming, coding, obra, sdlc, skills, subagent-driven-development, superpowers
 
-- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** - Local-first, zero-trust agentic IDE for verifiable autonomous software development.  
-  799 stars - +103 today - TypeScript - agentic-ai, agentic-ide, ai-agents, developer-tools, electron, ide, local-first, typescript, zero-trust
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.  
+  83,391 stars - +551 today - JavaScript - agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
 
-- **[andry-lebedev/neobank-primitives](https://github.com/andry-lebedev/neobank-primitives)** -   
-  101 stars - +101 today - TypeScript
+- **[Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)** - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.  
+  4,529 stars - +398 today - Rust - ai-agents, cli, developer-tools, git, rust, safety
 
-- **[vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)** - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.  
-  951 stars - +101 today - Python
+- **[github/spec-kit](https://github.com/github/spec-kit)** - 💫 Toolkit to help you get started with Spec-Driven Development  
+  121,421 stars - +395 today - Python - ai, copilot, development, engineering, prd, spec, spec-driven
 
-- **[marcelpanse/youtube-guitar-tab-parser](https://github.com/marcelpanse/youtube-guitar-tab-parser)** - CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab.  
-  136 stars - +81 today - TypeScript - guitar, tabs, transcribe
+- **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.  
+  22,665 stars - +383 today - TypeScript - ai, ai-agents, career, claude-code, cover-letter, cv, interview-preparation, job-application, job-hunting, job-search, latex, resume
 
 
 ## This week
 
-- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** - Infinite Worlds with Versatile Interactions  
-  1,083 stars - +1,083 in 7d - Python
+- **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.  
+  86,984 stars - +1,265 in 7d - Python - antigravity, claude-code, codex, gemini, graphrag, knowledge-graph, leiden, openclaw, rag, skills, tree-sitter
 
-- **[vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)** - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.  
-  951 stars - +951 in 7d - Python
+- **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.  
+  121,369 stars - +1,004 in 7d - Python - agents, llms, python, rag
 
-- **[Raymondhou0917/speak-human-tw](https://github.com/Raymondhou0917/speak-human-tw)** - 「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。  
-  498 stars - +498 in 7d - agent-skills, ai-writing, claude-code, codex, cursor, humanizer, prompt-engineering, traditional-chinese, writing-tools, zh-tw
+- **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** - "Vibe-Trading: Your Personal Trading Agent"  
+  23,210 stars - +707 in 7d - Python - ai-agent, algorithmic-trading, backtesting, fintech, llm, mcp, multi-agent, python, quantitative-finance, trading
 
-- **[William-Lu-stack/LuxyAI](https://github.com/William-Lu-stack/LuxyAI)** - AI SRE AgenticOps for Kubernetes and cloud infrastructure.  
-  613 stars - +613 in 7d - Python - agenticops, ai, aiops, aisre, cloud, cloud-native, devops, kubernetes, llm, mcp, observability, sre
+- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.  
+  6,482 stars - +687 in 7d - CSS
 
-- **[yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop)** - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com  
-  430 stars - +430 in 7d - TypeScript
+- **[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.  
+  17,167 stars - +684 in 7d - C# - agent, ai, claude-code, cli, codex, docx, excel, office, openclaw, pptx, presentation, skills, word, xlsx
 
-- **[osama-fawad/Pekingman](https://github.com/osama-fawad/Pekingman)** -   
-  343 stars - +343 in 7d - HTML
+- **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework & software development methodology that works.  
+  255,002 stars - +553 in 7d - Shell - ai, brainstorming, coding, obra, sdlc, skills, subagent-driven-development, superpowers
 
-- **[Robbyant/lingbot-vla-v2](https://github.com/Robbyant/lingbot-vla-v2)** - From Foundation to Application  
-  529 stars - +511 in 7d - Python
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.  
+  83,391 stars - +551 in 7d - JavaScript - agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
 
-- **[Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video)** - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence  
-  781 stars - +781 in 7d - Python - image-to-video, lingbot-video, video-generation, world-models
+- **[Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)** - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.  
+  4,529 stars - +398 in 7d - Rust - ai-agents, cli, developer-tools, git, rust, safety
 
-- **[op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration)** - 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。  
-  654 stars - +653 in 7d - agent, chart-visualization, chinese, claude-code, codex, data-visualization, explainer, illustration, image-generation, material-illustration, skill, social-media
+- **[github/spec-kit](https://github.com/github/spec-kit)** - 💫 Toolkit to help you get started with Spec-Driven Development  
+  121,421 stars - +395 in 7d - Python - ai, copilot, development, engineering, prd, spec, spec-driven
 
-- **[Nanako0129/pilotfish](https://github.com/Nanako0129/pilotfish)** - Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.  
-  440 stars - +440 in 7d - Python - ai-agents, anthropic, claude, claude-code, multi-agent, orchestration
+- **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.  
+  22,665 stars - +383 in 7d - TypeScript - ai, ai-agents, career, claude-code, cover-letter, cv, interview-preparation, job-application, job-hunting, job-search, latex, resume
 
 
 ## This month
 
-- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** - Infinite Worlds with Versatile Interactions  
-  1,083 stars - +1,083 in 30d - Python
+- **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.  
+  86,984 stars - +1,265 in 30d - Python - antigravity, claude-code, codex, gemini, graphrag, knowledge-graph, leiden, openclaw, rag, skills, tree-sitter
 
-- **[vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)** - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.  
-  951 stars - +951 in 30d - Python
+- **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.  
+  121,369 stars - +1,004 in 30d - Python - agents, llms, python, rag
 
-- **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。  
-  940 stars - +940 in 30d - Python
+- **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** - "Vibe-Trading: Your Personal Trading Agent"  
+  23,210 stars - +707 in 30d - Python - ai-agent, algorithmic-trading, backtesting, fintech, llm, mcp, multi-agent, python, quantitative-finance, trading
 
-- **[littledivy/mimic](https://github.com/littledivy/mimic)** - Intercept any app, then call it from Python like a library  
-  857 stars - +857 in 30d - Python
+- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.  
+  6,482 stars - +687 in 30d - CSS
 
-- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** - Local-first, zero-trust agentic IDE for verifiable autonomous software development.  
-  799 stars - +799 in 30d - TypeScript - agentic-ai, agentic-ide, ai-agents, developer-tools, electron, ide, local-first, typescript, zero-trust
+- **[iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.  
+  17,167 stars - +684 in 30d - C# - agent, ai, claude-code, cli, codex, docx, excel, office, openclaw, pptx, presentation, skills, word, xlsx
 
-- **[Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video)** - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence  
-  781 stars - +781 in 30d - Python - image-to-video, lingbot-video, video-generation, world-models
+- **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework & software development methodology that works.  
+  255,002 stars - +553 in 30d - Shell - ai, brainstorming, coding, obra, sdlc, skills, subagent-driven-development, superpowers
 
-- **[op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration)** - 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。  
-  654 stars - +654 in 30d - agent, chart-visualization, chinese, claude-code, codex, data-visualization, explainer, illustration, image-generation, material-illustration, skill, social-media
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.  
+  83,391 stars - +551 in 30d - JavaScript - agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
 
-- **[AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)** - A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。  
-  645 stars - +645 in 30d - Python - codex, guide, llm, workbuddy
+- **[Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)** - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.  
+  4,529 stars - +398 in 30d - Rust - ai-agents, cli, developer-tools, git, rust, safety
 
-- **[William-Lu-stack/LuxyAI](https://github.com/William-Lu-stack/LuxyAI)** - AI SRE AgenticOps for Kubernetes and cloud infrastructure.  
-  613 stars - +613 in 30d - Python - agenticops, ai, aiops, aisre, cloud, cloud-native, devops, kubernetes, llm, mcp, observability, sre
+- **[github/spec-kit](https://github.com/github/spec-kit)** - 💫 Toolkit to help you get started with Spec-Driven Development  
+  121,421 stars - +395 in 30d - Python - ai, copilot, development, engineering, prd, spec, spec-driven
 
-- **[cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk)** - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.  
-  544 stars - +544 in 30d - Go
+- **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.  
+  22,665 stars - +383 in 30d - TypeScript - ai, ai-agents, career, claude-code, cover-letter, cv, interview-preparation, job-application, job-hunting, job-search, latex, resume
 
 
 
