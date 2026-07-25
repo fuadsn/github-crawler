@@ -176985,6 +176985,14 @@
   "node_id": "R_kgDOTcEbgg",
   "topics": []
  },
+ "1304519591": {
+  "created_at": "2026-07-18T01:51:24Z",
+  "desc": "Agent-native graph orchestration for Codex, Claude, and skill-compatible agents",
+  "lang": "Python",
+  "name": "luckeyfaraday/athena-graphs",
+  "node_id": "R_kgDOTcFjpw",
+  "topics": []
+ },
  "1304526833": {
   "created_at": "2026-07-18T02:08:39Z",
   "desc": "Build with AI Bootcamp series by Hack 2 Skill and Google for Developers",
@@ -177039,6 +177047,14 @@
   "lang": "Python",
   "name": "frontier-ai-next/gMAS",
   "node_id": "R_kgDOTcJ9SA",
+  "topics": []
+ },
+ "1304595029": {
+  "created_at": "2026-07-18T04:27:06Z",
+  "desc": "\u8c37\u6b4c\u591a\u5f00",
+  "lang": "JavaScript",
+  "name": "timethrough/xiaohei-Chrome",
+  "node_id": "R_kgDOTcKKVQ",
   "topics": []
  },
  "1304597154": {
@@ -177288,6 +177304,14 @@
   "node_id": "R_kgDOTcc2nw",
   "topics": []
  },
+ "1304923286": {
+  "created_at": "2026-07-18T13:21:34Z",
+  "desc": "Your Pi prompt edit features right in your neovim $EDITOR window",
+  "lang": "Lua",
+  "name": "dabstractor/pi-nvim-bridge",
+  "node_id": "R_kgDOTceMlg",
+  "topics": []
+ },
  "1304924850": {
   "created_at": "2026-07-18T13:23:46Z",
   "desc": "Pocket workbench for Hermes Agent \u2014 limited FOA desk, dual decode, skills+MEMORY fabric, neural FOA. Not J-space. Not a second runtime.",
@@ -177427,6 +177451,21 @@
   "name": "wyzardWu/mc-neurosymbolic-ledger",
   "node_id": "R_kgDOTclrrQ",
   "topics": []
+ },
+ "1305046490": {
+  "created_at": "2026-07-18T16:12:53Z",
+  "desc": "A quiet macOS notch indicator for Claude Code, OpenCode, and Codex CLI sessions",
+  "lang": "Swift",
+  "name": "ixjosemi/AgentGlance",
+  "node_id": "R_kgDOTclt2g",
+  "topics": [
+   "claude-code",
+   "codex",
+   "developer-tools",
+   "macos",
+   "opencode",
+   "swift"
+  ]
  },
  "1305056996": {
   "created_at": "2026-07-18T16:27:18Z",
@@ -177771,7 +177810,7 @@
  },
  "1305383508": {
   "created_at": "2026-07-19T03:15:21Z",
-  "desc": "\ud83d\udc27 Your Automated Agent Builder Lives on Your Desktop",
+  "desc": "\ud83d\udc27 Your Automated Agent Builder Lives on Your Desktop: The Best Self-Improving Harness",
   "lang": "TypeScript",
   "name": "Prism-Shadow/penguin-harness",
   "node_id": "R_kgDOTc6SVA",
@@ -177840,6 +177879,14 @@
    "diffusion-models",
    "large-language-models"
   ]
+ },
+ "1305444772": {
+  "created_at": "2026-07-19T05:29:08Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "that-company/dat-skill",
+  "node_id": "R_kgDOTc-BpA",
+  "topics": []
  },
  "1305466278": {
   "created_at": "2026-07-19T06:09:52Z",
@@ -178215,6 +178262,14 @@
   "node_id": "R_kgDOTdcj8w",
   "topics": []
  },
+ "1305990791": {
+  "created_at": "2026-07-19T20:05:24Z",
+  "desc": "281 art-style prompts as a ComfyUI dropdown + a split-slider gallery to SEE the whole library on one subject \ud83d\udc85",
+  "lang": "HTML",
+  "name": "lumenastrum/clio-style-preview",
+  "node_id": "R_kgDOTdfWhw",
+  "topics": []
+ },
  "1306012498": {
   "created_at": "2026-07-19T20:54:36Z",
   "desc": "Local-first data-to-decision delivery workbench.",
@@ -178418,6 +178473,21 @@
   "node_id": "R_kgDOTd7KQw",
   "topics": []
  },
+ "1306447506": {
+  "created_at": "2026-07-20T09:38:33Z",
+  "desc": "\u7528 ChatGPT\uff0fCodex \u5b89\u88dd AI \u526a\u8f2f\u74b0\u5883\uff0c\u4e26\u4f9d\u516b\u5927\u6b65\u9a5f\u5b8c\u6210\u53ef\u9a57\u8b49\u7684\u77ed\u5f71\u97f3\u526a\u8f2f\u3002",
+  "lang": "Shell",
+  "name": "Jaycheng1103/chatgpt-video-editing-skills",
+  "node_id": "R_kgDOTd7Okg",
+  "topics": [
+   "agent-skills",
+   "elevenlabs",
+   "ffmpeg",
+   "hyperframes",
+   "traditional-chinese",
+   "video-editing"
+  ]
+ },
  "1306448176": {
   "created_at": "2026-07-20T09:39:22Z",
   "desc": "",
@@ -178432,7 +178502,18 @@
   "lang": "Python",
   "name": "longhang2004/vietnamese-humanizer",
   "node_id": "R_kgDOTd-MLw",
-  "topics": []
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "developer-tools",
+   "developer-tools-ai-agent",
+   "llm-tools",
+   "python",
+   "text-rewriting",
+   "vietnamese",
+   "vietnamese-nlp",
+   "writing-assistant"
+  ]
  },
  "1306496060": {
   "created_at": "2026-07-20T10:38:08Z",
@@ -178447,6 +178528,14 @@
    "swift",
    "whisper"
   ]
+ },
+ "1306500877": {
+  "created_at": "2026-07-20T10:44:20Z",
+  "desc": "AIOps-\u043f\u043e\u043c\u043e\u0449\u043d\u0438\u043a \u0434\u043b\u044f \u0438\u043d\u0446\u0438\u0434\u0435\u043d\u0442\u043e\u0432: \u043e\u0431\u043e\u0433\u0430\u0449\u0430\u0435\u0442 \u0430\u043b\u0435\u0440\u0442\u044b \u043c\u0435\u0442\u0440\u0438\u043a\u0430\u043c\u0438 \u0438 K8s-\u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043e\u043c, \u0441\u0432\u044f\u0437\u044b\u0432\u0430\u0435\u0442 \u043a\u0430\u0441\u043a\u0430\u0434 \u0430\u043b\u0435\u0440\u0442\u043e\u0432 \u0432 \u043e\u0434\u0438\u043d \u0438\u043d\u0446\u0438\u0434\u0435\u043d\u0442 \u0438 \u0448\u043b\u0451\u0442 AI-\u0440\u0430\u0437\u0431\u043e\u0440 \u0432 Telegram.",
+  "lang": "Go",
+  "name": "sersert/IncidentGPT",
+  "node_id": "R_kgDOTd-fDQ",
+  "topics": []
  },
  "1306503677": {
   "created_at": "2026-07-20T10:47:56Z",
@@ -178527,6 +178616,22 @@
   "node_id": "R_kgDOTeFYRg",
   "topics": []
  },
+ "1306656310": {
+  "created_at": "2026-07-20T13:49:05Z",
+  "desc": "A complete Codex theme platform for browsing, AI creation, custom themes, community publishing and creator rewards.",
+  "lang": "TypeScript",
+  "name": "freestylefly/codex-themes",
+  "node_id": "R_kgDOTeH-Ng",
+  "topics": []
+ },
+ "1306664176": {
+  "created_at": "2026-07-20T13:57:11Z",
+  "desc": "Open-source Dreamer world-model implementation in JAX",
+  "lang": "Python",
+  "name": "next-state/open-dreamer",
+  "node_id": "R_kgDOTeIc8A",
+  "topics": []
+ },
  "1306722822": {
   "created_at": "2026-07-20T14:58:48Z",
   "desc": "\u4e00\u4e2a\u5148\u63a5\u4f4f\u60c5\u7eea\u3001\u518d\u5206\u6790\u5173\u7cfb\u5e76\u7ed9\u51fa\u53ef\u6267\u884c\u7b56\u7565\u7684 Codex \u604b\u7231\u519b\u5e08\uff0c\u5185\u7f6e\u5fc3\u7406\u3001\u6cd5\u5f8b\u3001\u793e\u4f1a\u3001\u4eba\u6587\u3001\u54f2\u5b66\u3001\u5a5a\u59fb\u5bb6\u5ead\u4e0e\u6027\u5b66\u77e5\u8bc6\u5e93\uff0c\u652f\u6301\u591a\u5143\u5173\u7cfb\u3002",
@@ -178549,6 +178654,14 @@
   "lang": "Swift",
   "name": "Blaizzy/nativ",
   "node_id": "R_kgDOTeOMkQ",
+  "topics": []
+ },
+ "1306768200": {
+  "created_at": "2026-07-20T15:48:25Z",
+  "desc": "labs-OO-agents",
+  "lang": "Python",
+  "name": "NVIDIA-NeMo/labs-OO-Agents",
+  "node_id": "R_kgDOTeOzSA",
   "topics": []
  },
  "1306826997": {
@@ -178703,6 +178816,14 @@
   "lang": "TypeScript",
   "name": "karminski/VibeGamer",
   "node_id": "R_kgDOTeiILg",
+  "topics": []
+ },
+ "1307097672": {
+  "created_at": "2026-07-20T23:42:08Z",
+  "desc": "",
+  "lang": "Shell",
+  "name": "ergon-automation-labs/ergon-wrong-turn-logger",
+  "node_id": "R_kgDOTei6SA",
   "topics": []
  },
  "1307104496": {
@@ -178874,6 +178995,14 @@
   "node_id": "R_kgDOTe0Vvw",
   "topics": []
  },
+ "1307448787": {
+  "created_at": "2026-07-21T08:13:58Z",
+  "desc": "AI-Powered Web Intelligence & Outreach Platform",
+  "lang": "TypeScript",
+  "name": "ZhangBoyanEvens/Vetra",
+  "node_id": "R_kgDOTe4V0w",
+  "topics": []
+ },
  "1307486190": {
   "created_at": "2026-07-21T08:54:45Z",
   "desc": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
@@ -178959,6 +179088,14 @@
   "lang": "C++",
   "name": "itshamzabendelladj/AIGuardSIEM",
   "node_id": "R_kgDOTfJvAw",
+  "topics": []
+ },
+ "1307762938": {
+  "created_at": "2026-07-21T13:59:07Z",
+  "desc": "The project integrates the RAG and FAQ dual mechanisms, introduces intent recognition, dynamic adaptive retrieval, and the RAGAS automated evaluation system, achieving a transformation from empirical optimization to data-driven optimization. ",
+  "lang": "Python",
+  "name": "phoenix-zhou/industrial-general-rag",
+  "node_id": "R_kgDOTfLg-g",
   "topics": []
  },
  "1307773072": {
@@ -179055,6 +179192,21 @@
    "pdf",
    "python",
    "wechat"
+  ]
+ },
+ "1308124634": {
+  "created_at": "2026-07-21T21:09:22Z",
+  "desc": "Run GLM-4.5-Air (110B) on a 16GB-RAM consumer machine - identify the best memory allocation to overcome standard hardware limitations in Local LLM applications. Placement beats budget. Falsification-Tested laws, probes and recipes for LLMs on commodity hardware",
+  "lang": "Python",
+  "name": "FedericoTs/quantprobe",
+  "node_id": "R_kgDOTfhl2g",
+  "topics": [
+   "gguf",
+   "inference",
+   "llama-cpp",
+   "llm",
+   "moe",
+   "quantization"
   ]
  },
  "1308149332": {
@@ -179191,6 +179343,23 @@
    "empirical-research"
   ]
  },
+ "1308648534": {
+  "created_at": "2026-07-22T09:47:19Z",
+  "desc": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
+  "lang": "JavaScript",
+  "name": "danilo-znamerovszkij/draw-your-font",
+  "node_id": "R_kgDOTgBkVg",
+  "topics": [
+   "claude-code",
+   "claude-skill",
+   "font",
+   "handwriting",
+   "handwriting-font",
+   "potrace",
+   "ttf",
+   "woff2"
+  ]
+ },
  "1308708421": {
   "created_at": "2026-07-22T10:54:47Z",
   "desc": "Ten cooperating AI agents that turn long podcasts into short-form videos, automatically. Free and open source, runs on free AI providers.",
@@ -179226,6 +179395,25 @@
    "technical-writing"
   ]
  },
+ "1308813487": {
+  "created_at": "2026-07-22T12:42:22Z",
+  "desc": "AI agent skills for Upwork freelancers, from a real Top Rated Plus playbook. Free, open, community-written. Not affiliated with Upwork.",
+  "lang": "",
+  "name": "abullaisi/upwork-skills",
+  "node_id": "R_kgDOTgLorw",
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "claude",
+   "claude-code",
+   "cursor",
+   "freelance",
+   "freelancing",
+   "proposal-writing",
+   "skills",
+   "upwork"
+  ]
+ },
  "1308843906": {
   "created_at": "2026-07-22T13:14:54Z",
   "desc": "\u62d6\u5165\u9879\u76ee\uff0c\u751f\u6210 60 \u9875\u8f6f\u8457\u6e90\u7a0b\u5e8f\u6587\u6863\u3002\u79bb\u7ebf\u62bd\u53d6\u3001\u6ce8\u91ca\u6e05\u6d17\u3001\u81ea\u52a8\u6392\u7248\uff0c\u5bfc\u51fa\u524d\u5148\u5e2e\u4f60\u8fc7\u4e00\u904d\u5ba1\u67e5\u2014\u2014\u4ee3\u7801\u4e0d\u51fa\u672c\u673a\u3002",
@@ -179247,6 +179435,25 @@
   "name": "Evanli21/token-factory",
   "node_id": "R_kgDOTgPTKw",
   "topics": []
+ },
+ "1308924757": {
+  "created_at": "2026-07-22T14:36:11Z",
+  "desc": "Custom proactive skills for Azure SRE Agent \u2014 governance, cost intelligence, architecture quality, AI workload posture",
+  "lang": "",
+  "name": "ricmmartins/azure-sre-agent-skills",
+  "node_id": "R_kgDOTgSbVQ",
+  "topics": [
+   "ai-foundry",
+   "azure",
+   "azure-sre-agent",
+   "devops",
+   "finops",
+   "governance",
+   "openai",
+   "site-reliability-engineering",
+   "sre",
+   "well-architected"
+  ]
  },
  "1309048757": {
   "created_at": "2026-07-22T16:48:50Z",
@@ -179279,6 +179486,21 @@
   "node_id": "R_kgDOTgdmpw",
   "topics": []
  },
+ "1309116723": {
+  "created_at": "2026-07-22T18:06:42Z",
+  "desc": "Skill que d\u00e1 super poderes de gest\u00e3o de produto as pessoas",
+  "lang": "",
+  "name": "chiodipaulo/product-manager",
+  "node_id": "R_kgDOTgeJMw",
+  "topics": [
+   "chatgpt",
+   "claude-code",
+   "product-gurus",
+   "product-management",
+   "product-manager",
+   "skills"
+  ]
+ },
  "1309151187": {
   "created_at": "2026-07-22T18:48:07Z",
   "desc": "",
@@ -179292,6 +179514,28 @@
    "model-context-protocol",
    "self-hosted"
   ]
+ },
+ "1309246845": {
+  "created_at": "2026-07-22T20:53:17Z",
+  "desc": "White-label design system: fork it, feed it a brand, generate on-brand UI",
+  "lang": "TypeScript",
+  "name": "appariciojunior/PrismSystem",
+  "node_id": "R_kgDOTgmFfQ",
+  "topics": [
+   "design-system",
+   "design-tokens",
+   "shadcn",
+   "storybook",
+   "white-label"
+  ]
+ },
+ "1309341321": {
+  "created_at": "2026-07-22T23:24:15Z",
+  "desc": "\u72ec\u7acb\u7684 Galatea Garden \u667a\u80fd\u4f53\u5524\u9192\u6865\uff1a\u8ba2\u9605 Garden SSE \u4e8b\u4ef6\uff0c\u5e76\u901a\u8fc7\u53ef\u66ff\u6362\u7684 Runtime Adapter \u5c06\u6d88\u606f\u6ce8\u5165 Codex\u3001Claude Code \u7b49 Agent Runtime\u3002",
+  "lang": "TypeScript",
+  "name": "WenXiaoWendy/galatea-garden-wake-bridge",
+  "node_id": "R_kgDOTgr2iQ",
+  "topics": []
  },
  "1309348250": {
   "created_at": "2026-07-22T23:37:54Z",
@@ -179309,6 +179553,30 @@
    "local-first",
    "skills"
   ]
+ },
+ "1309360788": {
+  "created_at": "2026-07-23T00:03:35Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "dusk-futile/arabic-schoolbook-ocr",
+  "node_id": "R_kgDOTgtClA",
+  "topics": []
+ },
+ "1309433504": {
+  "created_at": "2026-07-23T02:17:30Z",
+  "desc": "\u4e00\u952e\u7ed5\u8fc7CDN\u83b7\u53d6\u771f\u5b9eIP",
+  "lang": "",
+  "name": "0xShe/FUCK-CDN",
+  "node_id": "R_kgDOTgxeoA",
+  "topics": []
+ },
+ "1309499087": {
+  "created_at": "2026-07-23T04:03:31Z",
+  "desc": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents.",
+  "lang": "Python",
+  "name": "XYZ-AI-Lab/AxisAgentic",
+  "node_id": "R_kgDOTg1ezw",
+  "topics": []
  },
  "1309505221": {
   "created_at": "2026-07-23T04:13:21Z",
@@ -179414,6 +179682,19 @@
   "node_id": "R_kgDOThU6Ig",
   "topics": []
  },
+ "1310014869": {
+  "created_at": "2026-07-23T14:11:41Z",
+  "desc": "Shell Gym - an Interactive Linux Command-Line Trainer",
+  "lang": "Go",
+  "name": "iximiuz/shellgym",
+  "node_id": "R_kgDOThU9lQ",
+  "topics": [
+   "learning-by-doing",
+   "linux",
+   "shell",
+   "trainer"
+  ]
+ },
  "1310057619": {
   "created_at": "2026-07-23T14:53:51Z",
   "desc": "",
@@ -179430,6 +179711,48 @@
   "node_id": "R_kgDOThYIkQ",
   "topics": []
  },
+ "1310082015": {
+  "created_at": "2026-07-23T15:18:51Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "techinz/geelark-mcp",
+  "node_id": "R_kgDOThZD3w",
+  "topics": []
+ },
+ "1310109196": {
+  "created_at": "2026-07-23T15:47:07Z",
+  "desc": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306",
+  "lang": "Python",
+  "name": "NulightJens/humanizer-stack",
+  "node_id": "R_kgDOThauDA",
+  "topics": [
+   "ai-detection",
+   "ai-writing",
+   "anthropic",
+   "claude-code",
+   "claude-skills",
+   "humanizer",
+   "writing-tools"
+  ]
+ },
+ "1310161451": {
+  "created_at": "2026-07-23T16:42:09Z",
+  "desc": "Your agent says it's done. Vinv says prove it. Real traces + live code graph + closed-loop verify, served to your agent over MCP.",
+  "lang": "Python",
+  "name": "VinvAI/VinvAI",
+  "node_id": "R_kgDOThd6Kw",
+  "topics": [
+   "ai-agents",
+   "code-graph",
+   "coding-agent",
+   "developer-tools",
+   "fault-localization",
+   "mcp",
+   "observability",
+   "python",
+   "tracing"
+  ]
+ },
  "1310162837": {
   "created_at": "2026-07-23T16:43:40Z",
   "desc": "Desktop workbench for Grok Build CLI \u2014 sessions, projects, media, automations (Tauri 2 \u00b7 unofficial)",
@@ -179438,12 +179761,124 @@
   "node_id": "R_kgDOThd_lQ",
   "topics": []
  },
+ "1310271207": {
+  "created_at": "2026-07-23T18:52:10Z",
+  "desc": "Open, local-first visual prompt archive with traceable prompt-image references and installable Agent Skills.",
+  "lang": "Python",
+  "name": "NanmiCoder/open-image-prompts",
+  "node_id": "R_kgDOThkm5w",
+  "topics": [
+   "image-skill",
+   "imagesprompts",
+   "open-image-prompts",
+   "openimages"
+  ]
+ },
+ "1310285353": {
+  "created_at": "2026-07-23T19:11:52Z",
+  "desc": "Free macOS workspace for SEO and GEO agencies",
+  "lang": "",
+  "name": "on-page-ai/geo-seo-superapp",
+  "node_id": "R_kgDOThleKQ",
+  "topics": [
+   "geo",
+   "macos",
+   "on-page-seo",
+   "search-console",
+   "seo",
+   "technical-seo"
+  ]
+ },
  "1310380073": {
   "created_at": "2026-07-23T21:26:04Z",
   "desc": "",
   "lang": "Python",
   "name": "tyedalwaves/HuggingHack",
   "node_id": "R_kgDOThrQKQ",
+  "topics": []
+ },
+ "1310586510": {
+  "created_at": "2026-07-24T03:27:50Z",
+  "desc": "Single-file, zero-dependency task board: owner-vs-agent plates, a dependency map, tap-to-complete.",
+  "lang": "HTML",
+  "name": "rockthemike712/mission-control-board",
+  "node_id": "R_kgDOTh32jg",
+  "topics": []
+ },
+ "1310594307": {
+  "created_at": "2026-07-24T03:40:51Z",
+  "desc": "Plan, source, and insert recognizable memes into HTML slide decks for Claude Code and Codex.",
+  "lang": "Python",
+  "name": "amnotyoung/slide-meme-inserter",
+  "node_id": "R_kgDOTh4VAw",
+  "topics": []
+ },
+ "1310624440": {
+  "created_at": "2026-07-24T04:27:13Z",
+  "desc": "A fork of Bun based on modern Zig",
+  "lang": "Zig",
+  "name": "jazzzooo/buz",
+  "node_id": "R_kgDOTh6KuA",
+  "topics": []
+ },
+ "1310715414": {
+  "created_at": "2026-07-24T06:37:13Z",
+  "desc": "Devnors Data - Python SDK: \u63a5\u53e3,\u6570\u636eAPI,\u88c1\u5224\u6587\u4e66,Legal Case,\u6cd5\u5f8b\u6cd5\u89c4,\u6cd5\u6761,Law Article,\u4f01\u4e1a\u5de5\u5546,Company Registry,\u4f01\u4e1a\u5e74\u62a5,Annual Report,\u7a0e\u53f7\u5f00\u7968,Tax Invoice,\u5931\u4fe1\u6838\u67e5,Dishonest Judgment Debtor,\u88ab\u6267\u884c\u4eba,Enforcement Debtor,\u5173\u952e\u8bcd\u6307\u6570,Keyword Index,\u5fae\u4fe1\u6307\u6570,WeChat Index,\u70ed\u641c\u699c,Hot Rank,\u5fae\u535a\u70ed\u641c,\u6296\u97f3\u70ed\u641c,\u5feb\u9012\u67e5\u8be2,Express Tracking,\u5feb\u9012\u516c\u53f8\u7f16\u53f7,\u7edf\u4e00\u67e5\u8be2,/v1/data/query,API Key,MCP,AI Agent",
+  "lang": "Python",
+  "name": "DevnorsAI/devnors-data-python",
+  "node_id": "R_kgDOTh_uFg",
+  "topics": []
+ },
+ "1310830484": {
+  "created_at": "2026-07-24T08:48:59Z",
+  "desc": "AI-assisted, local-first job search workflow framework \u2014 triage, scoring, application tracking",
+  "lang": "JavaScript",
+  "name": "rcnsnr/job-search-workflow",
+  "node_id": "R_kgDOTiGvlA",
+  "topics": [
+   "ai-assisted",
+   "career",
+   "job-search",
+   "job-triage",
+   "linkedin",
+   "local-first",
+   "markdown",
+   "privacy-first",
+   "resume"
+  ]
+ },
+ "1310902433": {
+  "created_at": "2026-07-24T10:11:21Z",
+  "desc": "Gesture viewfinder + real-time AI face restyle with FLUX.2 klein",
+  "lang": "HTML",
+  "name": "xcc3641/blinkface",
+  "node_id": "R_kgDOTiLIoQ",
+  "topics": []
+ },
+ "1311096964": {
+  "created_at": "2026-07-24T14:01:18Z",
+  "desc": "Open-source, self-hosted personal travel app by Giovanni Brees - keep every flight, hotel, ride and trip on one living timeline. Built with AI agents, runs on Cloudflare Workers.",
+  "lang": "HTML",
+  "name": "giovannibrees/travel-roamradar",
+  "node_id": "R_kgDOTiXAhA",
+  "topics": [
+   "ai-agent",
+   "ai-agents",
+   "google-calendar",
+   "personal-software",
+   "roamradar",
+   "travel",
+   "travel-app",
+   "travel-planner",
+   "travel-planning"
+  ]
+ },
+ "1311225763": {
+  "created_at": "2026-07-24T16:28:06Z",
+  "desc": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+  "lang": "Python",
+  "name": "mikehasa/agentacct",
+  "node_id": "R_kgDOTie3ow",
   "topics": []
  },
  "131582572": {
