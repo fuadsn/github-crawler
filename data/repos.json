@@ -177922,6 +177922,14 @@
   "node_id": "R_kgDOTc_7Tg",
   "topics": []
  },
+ "1305498575": {
+  "created_at": "2026-07-19T07:07:42Z",
+  "desc": "All-in-One Multimodal Parsing Engine + Ontology-Powered AI-Ready Knowledge Engine",
+  "lang": "Python",
+  "name": "jonexaiorg/jonex",
+  "node_id": "R_kgDOTdBTzw",
+  "topics": []
+ },
  "1305508043": {
   "created_at": "2026-07-19T07:24:10Z",
   "desc": "\u672c\u5730\u79bb\u7ebf\u4e52\u4e53\u7403\u56de\u5408\u5206\u6790\u4e0e\u81ea\u52a8\u89c6\u9891\u526a\u8f91\u5de5\u5177",
@@ -177968,6 +177976,14 @@
    "video-transcription"
   ]
  },
+ "1305545535": {
+  "created_at": "2026-07-19T08:30:17Z",
+  "desc": "Generate full-background Anthropic-style editorial illustrations with verified palette and hand-drawn visual rules.",
+  "lang": "",
+  "name": "HalfAI1102/anthropic-art",
+  "node_id": "R_kgDOTdELPw",
+  "topics": []
+ },
  "1305551862": {
   "created_at": "2026-07-19T08:41:07Z",
   "desc": "HugAgentOS: The Enterprise AgentOS for Ontology-Grounded Trustworthy Reasoning",
@@ -177982,6 +177998,14 @@
   "lang": "C++",
   "name": "manhpham90vn/Deskhub",
   "node_id": "R_kgDOTdE04w",
+  "topics": []
+ },
+ "1305587608": {
+  "created_at": "2026-07-19T09:41:53Z",
+  "desc": "ShotPlan: Cinematic Video Generation with Learnable Planning Token",
+  "lang": "Python",
+  "name": "Pensioner-11/ShotPlan",
+  "node_id": "R_kgDOTdGvmA",
   "topics": []
  },
  "1305606229": {
@@ -178215,6 +178239,14 @@
   "node_id": "R_kgDOTdWQMg",
   "topics": []
  },
+ "1305864535": {
+  "created_at": "2026-07-19T16:35:15Z",
+  "desc": "\u0e2a\u0e2d\u0e19 LLM \u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e2a\u0e21\u0e01\u0e32\u0e23\u0e16\u0e36\u0e07\u0e42\u0e04\u0e49\u0e14\u0e17\u0e35\u0e48\u0e23\u0e31\u0e19\u0e44\u0e14\u0e49\u0e08\u0e23\u0e34\u0e07 \u2014 \u0e42\u0e19\u0e49\u0e15\u0e1a\u0e38\u0e4a\u0e01\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c 10 \u0e15\u0e2d\u0e19\u0e08\u0e32\u0e01 kobkrit.com",
+  "lang": "Jupyter Notebook",
+  "name": "kobkrit/thai-llm-tutorials",
+  "node_id": "R_kgDOTdXpVw",
+  "topics": []
+ },
  "1305877496": {
   "created_at": "2026-07-19T16:53:52Z",
   "desc": "\u4e2d\u6587\u53bb AI \u5473\u4e0e\u6587\u91c7\u589e\u5f3a Codex Skill\uff0c\u6c72\u53d6 Mengke / \u597d\u4e8b\u98ce\u683c\uff0c\u8ba9\u4e2d\u6587\u8349\u7a3f\u66f4\u50cf\u4eba\u5199\u3002",
@@ -178340,6 +178372,20 @@
   "node_id": "R_kgDOTdpWWQ",
   "topics": [
    "skill"
+  ]
+ },
+ "1306169988": {
+  "created_at": "2026-07-20T03:10:56Z",
+  "desc": "Field-tested, open-source skills for Hermes Agent.",
+  "lang": "Python",
+  "name": "asimons81/hermes-field-kit",
+  "node_id": "R_kgDOTdqShA",
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "hermes-agent",
+   "open-source",
+   "python"
   ]
  },
  "1306195002": {
@@ -178719,6 +178765,24 @@
    "pytorch"
   ]
  },
+ "1306936718": {
+  "created_at": "2026-07-20T19:11:08Z",
+  "desc": "All-in-one Stake games toolkit featuring analytics, statistics, game insights, and performance tracking.",
+  "lang": "",
+  "name": "Jrudani21/STAKE-ALL-PREDICT",
+  "node_id": "R_kgDOTeZFjg",
+  "topics": [
+   "dice-predict",
+   "linko-predict",
+   "plinko-tool",
+   "sports-ai",
+   "sports-analytics",
+   "staake-predictor",
+   "stake-dragon-predictor-free",
+   "stake-keno-predictor",
+   "stake-plinko-tool"
+  ]
+ },
  "1306985935": {
   "created_at": "2026-07-20T20:20:38Z",
   "desc": "",
@@ -178743,6 +178807,14 @@
    "security",
    "security-research"
   ]
+ },
+ "1307004566": {
+  "created_at": "2026-07-20T20:48:38Z",
+  "desc": "Improved Context7, but local, self-builds and self-updates. AKA: unlimited, improved Context7",
+  "lang": "TypeScript",
+  "name": "sm18lr88/context7-local",
+  "node_id": "R_kgDOTedOlg",
+  "topics": []
  },
  "1307025984": {
   "created_at": "2026-07-20T21:22:49Z",
@@ -178866,6 +178938,14 @@
   "node_id": "R_kgDOTemvFA",
   "topics": []
  },
+ "1307169447": {
+  "created_at": "2026-07-21T01:59:57Z",
+  "desc": "[ECCV 2026] Official code for ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video",
+  "lang": "Python",
+  "name": "lvsean/reviv4d",
+  "node_id": "R_kgDOTenSpw",
+  "topics": []
+ },
  "1307178735": {
   "created_at": "2026-07-21T02:15:37Z",
   "desc": "gsghwp",
@@ -178971,6 +179051,29 @@
   "node_id": "R_kgDOTeuWdg",
   "topics": []
  },
+ "1307328321": {
+  "created_at": "2026-07-21T05:57:40Z",
+  "desc": "Search 200M+ patents and scientific literature in natural language directly inside Claude, Cursor, or any MCP-compatible AI tool. Powered by PatSnap's global R&D intelligence database.",
+  "lang": "",
+  "name": "patsnap/patent-literature-search-mcp",
+  "node_id": "R_kgDOTew_QQ",
+  "topics": [
+   "academic-search",
+   "ai-agents",
+   "bm25",
+   "innovation-intelligence",
+   "literature-search",
+   "mcp-server",
+   "model-context-protocol",
+   "patent-intelligence",
+   "patent-search",
+   "patsnap",
+   "prior-art-search",
+   "research-tools",
+   "scientific-literature",
+   "semantic-search"
+  ]
+ },
  "1307351082": {
   "created_at": "2026-07-21T06:23:39Z",
   "desc": "FLUX.2 [klein] running natively on Apple Silicon via Swift + MLX. Text-to-image & image-to-image, zero Python.",
@@ -179058,6 +179161,21 @@
    "roguelike"
   ]
  },
+ "1307603352": {
+  "created_at": "2026-07-21T11:02:21Z",
+  "desc": "Polish editable canvas strokes with safe patches, validation, handwriting normalization, and host integration contracts.",
+  "lang": "Python",
+  "name": "machaomc/refine-canvas-strokes",
+  "node_id": "R_kgDOTfBxmA",
+  "topics": [
+   "agent-skills",
+   "canvas",
+   "codex",
+   "drawing",
+   "handwriting",
+   "whiteboard"
+  ]
+ },
  "1307633669": {
   "created_at": "2026-07-21T11:37:37Z",
   "desc": "",
@@ -179119,6 +179237,22 @@
   "lang": "JavaScript",
   "name": "lov-team/dagoujiao",
   "node_id": "R_kgDOTfNNjQ",
+  "topics": []
+ },
+ "1307805451": {
+  "created_at": "2026-07-21T14:43:38Z",
+  "desc": "",
+  "lang": "Shell",
+  "name": "ed-donner/personal-space",
+  "node_id": "R_kgDOTfOHCw",
+  "topics": []
+ },
+ "1307818034": {
+  "created_at": "2026-07-21T14:56:43Z",
+  "desc": "",
+  "lang": "Shell",
+  "name": "perplexityai/perplexity-cli",
+  "node_id": "R_kgDOTfO4Mg",
   "topics": []
  },
  "1307821649": {
@@ -179211,11 +179345,13 @@
  },
  "1308149332": {
   "created_at": "2026-07-21T21:49:54Z",
-  "desc": "Self-hosted network monitor \u2014 hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram.",
+  "desc": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
   "lang": "Python",
   "name": "Role1776/netmon",
   "node_id": "R_kgDOTfjGVA",
   "topics": [
+   "discord",
+   "discord-bot",
    "network-monitoring",
    "nmap",
    "python",
@@ -179260,7 +179396,7 @@
  },
  "1308447765": {
   "created_at": "2026-07-22T06:08:12Z",
-  "desc": "MacOS client for image and video generation",
+  "desc": "Agent-Driven Client for Multimodal Generation",
   "lang": "TypeScript",
   "name": "jbaehova/open-gen-ui",
   "node_id": "R_kgDOTf1UFQ",
@@ -179298,6 +179434,14 @@
   "node_id": "R_kgDOTf50Vw",
   "topics": []
  },
+ "1308538112": {
+  "created_at": "2026-07-22T07:49:53Z",
+  "desc": "Source-free cross-platform TV and desktop media player",
+  "lang": "C#",
+  "name": "zo1223/OrionTV",
+  "node_id": "R_kgDOTf61AA",
+  "topics": []
+ },
  "1308558657": {
   "created_at": "2026-07-22T08:12:41Z",
   "desc": "\u5c06\u4e2d\u6587\u89c2\u70b9\u8f6c\u6210\u7eb8\u4e0a\u94a2\u7b14\u7ebf\u7a3f\u4e0e\u5f69\u94c5\u98ce\u683c\u7684\u77e5\u8bc6\u8bb2\u89e3\u52a8\u753b\u7d20\u6750",
@@ -179327,6 +179471,14 @@
    "claude-skills",
    "llm"
   ]
+ },
+ "1308603606": {
+  "created_at": "2026-07-22T09:00:12Z",
+  "desc": "\u8fd9\u662f\u4e00\u4e2a\u5f00\u6e90\u4e14\u529f\u80fd\u5f3a\u5927\u7684\u667a\u80fd\u4f53\uff0c\u53ef\u5728\u7ec8\u7aef\u4e2d\u8fd0\u884c\u3002\u5b83\u5177\u6709\u65e0\u9650\u7684\u5e76\u53d1\u5904\u7406\u80fd\u529b\uff0c\u540c\u65f6\u8fd8\u914d\u5907\u4e86\u591a\u667a\u80fd\u4f53\u534f\u8c03\u673a\u5236\u3002",
+  "lang": "TypeScript",
+  "name": "crake7even/eddy-code",
+  "node_id": "R_kgDOTf-01g",
+  "topics": []
  },
  "1308635689": {
   "created_at": "2026-07-22T09:33:39Z",
@@ -179359,6 +179511,14 @@
    "ttf",
    "woff2"
   ]
+ },
+ "1308686491": {
+  "created_at": "2026-07-22T10:28:58Z",
+  "desc": "NovaNova Studio \u662f\u4e00\u4e2a Agent \u9a71\u52a8\u7684 AI \u521b\u4f5c\u5de5\u4f5c\u53f0\uff0c\u96c6\u56fe\u7247\u751f\u6210\u3001\u89c6\u9891\u751f\u6210\u3001\u65e0\u9650\u753b\u5e03\u4e0e\u591a\u6a21\u578b API \u4e8e\u4e00\u4f53\uff0c\u4e3a\u72ec\u7acb\u521b\u4f5c\u8005\u548c\u89c6\u89c9\u56e2\u961f\u6253\u9020\u66f4\u667a\u80fd\u3001\u66f4\u9ad8\u6548\u7684\u521b\u4f5c\u4f53\u9a8c\u3002",
+  "lang": "TypeScript",
+  "name": "Swayingleaves/novanova-studio",
+  "node_id": "R_kgDOTgD4mw",
+  "topics": []
  },
  "1308708421": {
   "created_at": "2026-07-22T10:54:47Z",
@@ -179478,6 +179638,28 @@
   "node_id": "R_kgDOTgcceQ",
   "topics": []
  },
+ "1309102418": {
+  "created_at": "2026-07-22T17:49:34Z",
+  "desc": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+  "lang": "TypeScript",
+  "name": "makecindy/cindy",
+  "node_id": "R_kgDOTgdRUg",
+  "topics": [
+   "agent",
+   "ai-agent",
+   "ai-assistant",
+   "android",
+   "claude-code",
+   "codex",
+   "electron",
+   "ios",
+   "llm",
+   "macos",
+   "react-native",
+   "typescript",
+   "windows"
+  ]
+ },
  "1309107879": {
   "created_at": "2026-07-22T17:56:08Z",
   "desc": "Self Gradient Forcing (SGF) recovers the missing context-gradient path for self-generated causal memory through a bounded two-pass replay, enabling models trained with only a 5-second window to extrapolate to minute-scale videos with stronger identity, layout, and temporal stability.",
@@ -179528,6 +179710,14 @@
    "storybook",
    "white-label"
   ]
+ },
+ "1309282831": {
+  "created_at": "2026-07-22T21:43:31Z",
+  "desc": "A curated list of free, legitimate AI/ML books",
+  "lang": "",
+  "name": "MarcosSete/awesome-free-ai-books",
+  "node_id": "R_kgDOTgoSDw",
+  "topics": []
  },
  "1309341321": {
   "created_at": "2026-07-22T23:24:15Z",
@@ -179608,6 +179798,22 @@
   "node_id": "R_kgDOTg44Ag",
   "topics": []
  },
+ "1309585508": {
+  "created_at": "2026-07-23T06:07:23Z",
+  "desc": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows.",
+  "lang": "Python",
+  "name": "XYZ-AI-Lab/axrl",
+  "node_id": "R_kgDOTg6wZA",
+  "topics": []
+ },
+ "1309617936": {
+  "created_at": "2026-07-23T06:46:12Z",
+  "desc": "Fast, local speech-to-text MCP server",
+  "lang": "Python",
+  "name": "sm18lr88/STT-MCP",
+  "node_id": "R_kgDOTg8vEA",
+  "topics": []
+ },
  "1309624659": {
   "created_at": "2026-07-23T06:53:46Z",
   "desc": "\u6881\u6587\u950b\u56db\u5c0f\u65f6\u6295\u8d44\u4eba\u4f1a\u8bae\u5b9e\u5f55\uff0c\u56e0\u539f\u6587\u5728\u5fae\u4fe1\u4e0a\u65e0\u6cd5\u67e5\u770b\uff0c\u7279\u4f20\u4e00\u4efdgithub",
@@ -179649,6 +179855,14 @@
    "skills-sh"
   ]
  },
+ "1309815142": {
+  "created_at": "2026-07-23T10:26:46Z",
+  "desc": "\u7531\u4ee3\u7801\u5f3a\u5236\u4fe1\u4efb\u8fb9\u754c\u7684\u6301\u7eed\u4eba\u683c Agent \u8fd0\u884c\u65f6",
+  "lang": "Python",
+  "name": "shengming374-tech/living-agent",
+  "node_id": "R_kgDOThIxZg",
+  "topics": []
+ },
  "1309818833": {
   "created_at": "2026-07-23T10:31:04Z",
   "desc": "AI agent (Claude Code + Codex) & system monitor for the Thermalright 9.16 LCD \u2014 native macOS",
@@ -179664,6 +179878,32 @@
    "swift",
    "system-monitor",
    "thermalright"
+  ]
+ },
+ "1309846574": {
+  "created_at": "2026-07-23T11:05:12Z",
+  "desc": "GLM-5.2 NVFP4+AQLM on 3\u00d7 DGX Spark \u2014 ~248k context MTP serve stack",
+  "lang": "Shell",
+  "name": "MiaAI-Lab/GLM-5.2-NVFP4-AQLM-Triple-DGX-Sparks",
+  "node_id": "R_kgDOThKsLg",
+  "topics": []
+ },
+ "1309990836": {
+  "created_at": "2026-07-23T13:47:35Z",
+  "desc": "Human-in-the-loop planning plugin for Claude and Codex: turn ideas into reviewed Markdown plans, record decisions, enforce explicit execution gates, and provide tested controller primitives for safer agent workflows.",
+  "lang": "Python",
+  "name": "Optim-Agent/optim-plans",
+  "node_id": "R_kgDOThTftA",
+  "topics": [
+   "agent-skills",
+   "brainstorming",
+   "claude-skills",
+   "codex-skills",
+   "developer-tools",
+   "human-in-the-loop",
+   "loop-engineering",
+   "loops",
+   "planning"
   ]
  },
  "1309992998": {
@@ -179735,6 +179975,14 @@
    "writing-tools"
   ]
  },
+ "1310139882": {
+  "created_at": "2026-07-23T16:19:33Z",
+  "desc": "LAtent super-Resolution high-Performance image upscaler",
+  "lang": "Python",
+  "name": "Vovanm88/LARP-Scaler",
+  "node_id": "R_kgDOThcl6g",
+  "topics": []
+ },
  "1310161451": {
   "created_at": "2026-07-23T16:42:09Z",
   "desc": "Your agent says it's done. Vinv says prove it. Real traces + live code graph + closed-loop verify, served to your agent over MCP.",
@@ -179774,6 +180022,14 @@
    "openimages"
   ]
  },
+ "1310274582": {
+  "created_at": "2026-07-23T18:56:48Z",
+  "desc": "",
+  "lang": "HTML",
+  "name": "lubluniky/dale",
+  "node_id": "R_kgDOThk0Fg",
+  "topics": []
+ },
  "1310285353": {
   "created_at": "2026-07-23T19:11:52Z",
   "desc": "Free macOS workspace for SEO and GEO agencies",
@@ -179789,6 +180045,37 @@
    "technical-seo"
   ]
  },
+ "1310296661": {
+  "created_at": "2026-07-23T19:27:14Z",
+  "desc": "Mugshot \u2014 unlock sudo on macOS with your face. Local Face ID style recognition, no cloud.",
+  "lang": "Python",
+  "name": "Lorenzo-Coslado/macos-faceid",
+  "node_id": "R_kgDOThmKVQ",
+  "topics": [
+   "biometrics",
+   "dynamic-island",
+   "face-recognition",
+   "faceid",
+   "macos",
+   "menu-bar-app",
+   "opencv",
+   "pam",
+   "security",
+   "sudo",
+   "swift",
+   "swiftui",
+   "touch-id",
+   "touchid"
+  ]
+ },
+ "1310318281": {
+  "created_at": "2026-07-23T19:56:23Z",
+  "desc": "",
+  "lang": "",
+  "name": "zackfoleyzck-lab/business2financial",
+  "node_id": "R_kgDOThneyQ",
+  "topics": []
+ },
  "1310380073": {
   "created_at": "2026-07-23T21:26:04Z",
   "desc": "",
@@ -179796,6 +180083,16 @@
   "name": "tyedalwaves/HuggingHack",
   "node_id": "R_kgDOThrQKQ",
   "topics": []
+ },
+ "1310428322": {
+  "created_at": "2026-07-23T22:45:56Z",
+  "desc": "A simple, beautiful webhook to notification platform. ",
+  "lang": "TypeScript",
+  "name": "R44VC0RP/hark",
+  "node_id": "R_kgDOThuMog",
+  "topics": [
+   "notfications"
+  ]
  },
  "1310586510": {
   "created_at": "2026-07-24T03:27:50Z",
@@ -179821,6 +180118,39 @@
   "node_id": "R_kgDOTh6KuA",
   "topics": []
  },
+ "1310624630": {
+  "created_at": "2026-07-24T04:27:30Z",
+  "desc": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+  "lang": "JavaScript",
+  "name": "icebird1998/scientific-illustrator",
+  "node_id": "R_kgDOTh6Ldg",
+  "topics": [
+   "codex",
+   "drawio",
+   "editable-figures",
+   "mcp",
+   "powerpoint",
+   "scientific-illustration"
+  ]
+ },
+ "1310687669": {
+  "created_at": "2026-07-24T06:02:43Z",
+  "desc": "\u4e3a\u4e2d\u6587\u516c\u4f17\u53f7\u6587\u7ae0\u751f\u6210\u771f\u5b9e 3D \u6bdb\u6be1\u8d28\u611f\u7684\u5c01\u9762\u3001\u6b63\u6587\u914d\u56fe\u4e0e\u7cbe\u786e\u63d2\u5165\u6307\u5357\u7684 Codex Skill\u3002",
+  "lang": "",
+  "name": "sunyifeng11111/sun-felt-wechat-illustrator",
+  "node_id": "R_kgDOTh-BtQ",
+  "topics": [
+   "agent-skill",
+   "chinese-content",
+   "codex",
+   "content-creation",
+   "generative-ai",
+   "illustration",
+   "image-generation",
+   "wechat",
+   "wechat-articles"
+  ]
+ },
  "1310715414": {
   "created_at": "2026-07-24T06:37:13Z",
   "desc": "Devnors Data - Python SDK: \u63a5\u53e3,\u6570\u636eAPI,\u88c1\u5224\u6587\u4e66,Legal Case,\u6cd5\u5f8b\u6cd5\u89c4,\u6cd5\u6761,Law Article,\u4f01\u4e1a\u5de5\u5546,Company Registry,\u4f01\u4e1a\u5e74\u62a5,Annual Report,\u7a0e\u53f7\u5f00\u7968,Tax Invoice,\u5931\u4fe1\u6838\u67e5,Dishonest Judgment Debtor,\u88ab\u6267\u884c\u4eba,Enforcement Debtor,\u5173\u952e\u8bcd\u6307\u6570,Keyword Index,\u5fae\u4fe1\u6307\u6570,WeChat Index,\u70ed\u641c\u699c,Hot Rank,\u5fae\u535a\u70ed\u641c,\u6296\u97f3\u70ed\u641c,\u5feb\u9012\u67e5\u8be2,Express Tracking,\u5feb\u9012\u516c\u53f8\u7f16\u53f7,\u7edf\u4e00\u67e5\u8be2,/v1/data/query,API Key,MCP,AI Agent",
@@ -179828,6 +180158,19 @@
   "name": "DevnorsAI/devnors-data-python",
   "node_id": "R_kgDOTh_uFg",
   "topics": []
+ },
+ "1310767243": {
+  "created_at": "2026-07-24T07:38:47Z",
+  "desc": "\ud83c\udfac T\u1ea1o video \"so s\u00e1nh ki\u1ebfn th\u1ee9c\" ng\u1eafn t\u1ef1 \u0111\u1ed9ng \u2014 HyperFrames + AI voice, 1 template nhi\u1ec1u ch\u1ee7 \u0111\u1ec1.",
+  "lang": "HTML",
+  "name": "Cuongyd196/auto-compare-video",
+  "node_id": "R_kgDOTiC4iw",
+  "topics": [
+   "codetovideo",
+   "cuongit",
+   "hyperframes",
+   "videoai"
+  ]
  },
  "1310830484": {
   "created_at": "2026-07-24T08:48:59Z",
@@ -179847,12 +180190,43 @@
    "resume"
   ]
  },
+ "1310874500": {
+  "created_at": "2026-07-24T09:38:50Z",
+  "desc": "Local-first live command center for Grok Build \u2014 runtime, ACP control, session history, and Git changes.",
+  "lang": "TypeScript",
+  "name": "joeynyc/Grok-UI",
+  "node_id": "R_kgDOTiJbhA",
+  "topics": [
+   "agent-client-protocol",
+   "ai-agents",
+   "dashboard",
+   "developer-tools",
+   "git",
+   "grok",
+   "grok-build",
+   "local-first",
+   "nodejs",
+   "react",
+   "self-hosted",
+   "sse",
+   "typescript",
+   "xai"
+  ]
+ },
  "1310902433": {
   "created_at": "2026-07-24T10:11:21Z",
   "desc": "Gesture viewfinder + real-time AI face restyle with FLUX.2 klein",
   "lang": "HTML",
   "name": "xcc3641/blinkface",
   "node_id": "R_kgDOTiLIoQ",
+  "topics": []
+ },
+ "1310968158": {
+  "created_at": "2026-07-24T11:34:06Z",
+  "desc": "HxHwang Gw \u516c\u6587\u4e8b\u52a1\u4e0e\u5199\u4f5c\u7ba1\u7406\u7cfb\u7edf",
+  "lang": "HTML",
+  "name": "NextWeb4/gw",
+  "node_id": "R_kgDOTiPJXg",
   "topics": []
  },
  "1311096964": {
@@ -179873,12 +180247,131 @@
    "travel-planning"
   ]
  },
+ "1311174165": {
+  "created_at": "2026-07-24T15:27:02Z",
+  "desc": "Compose coding agents into workflows you can trust",
+  "lang": "Go",
+  "name": "cocofhu/approving",
+  "node_id": "R_kgDOTibuFQ",
+  "topics": [
+   "agent",
+   "ai",
+   "browser-automation",
+   "harness",
+   "harness-ai",
+   "harness-ci",
+   "harness-design",
+   "harness-engineering",
+   "harness-execution-layer",
+   "harness-framework",
+   "llm",
+   "mutli-agent",
+   "workflow",
+   "workflow-automation"
+  ]
+ },
  "1311225763": {
   "created_at": "2026-07-24T16:28:06Z",
   "desc": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
   "lang": "Python",
   "name": "mikehasa/agentacct",
   "node_id": "R_kgDOTie3ow",
+  "topics": []
+ },
+ "1311313529": {
+  "created_at": "2026-07-24T18:16:06Z",
+  "desc": "collections-of-leaked-prompts",
+  "lang": "",
+  "name": "Eversmile12/leaked-llm-prompts",
+  "node_id": "R_kgDOTikOeQ",
+  "topics": []
+ },
+ "1311384232": {
+  "created_at": "2026-07-24T19:52:13Z",
+  "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+  "lang": "Python",
+  "name": "mikiarlo3/ai-copywriter",
+  "node_id": "R_kgDOTioiqA",
+  "topics": []
+ },
+ "1311468146": {
+  "created_at": "2026-07-24T22:08:24Z",
+  "desc": "Agent skills for administering a real UniFi network over its local API: auth, zone firewall, Wi-Fi, clients, and the site map.",
+  "lang": "Python",
+  "name": "t3chnaztea/unifi-skills",
+  "node_id": "R_kgDOTitqcg",
+  "topics": [
+   "agent-skills",
+   "claude-code",
+   "claude-skills",
+   "firewall",
+   "home-lab",
+   "networking",
+   "ubiquiti",
+   "udm-pro",
+   "unifi",
+   "unifi-network",
+   "vlan",
+   "wifi"
+  ]
+ },
+ "1311807280": {
+  "created_at": "2026-07-25T08:19:35Z",
+  "desc": "An MCP server that lets AI agents operate a multi-cluster Kubernetes fleet through an Open Cluster Management hub, with policy, approval, and audit between the model and your clusters.",
+  "lang": "Python",
+  "name": "sandeepbazar/ocm-mcp-server",
+  "node_id": "R_kgDOTjCXMA",
+  "topics": []
+ },
+ "1311854354": {
+  "created_at": "2026-07-25T09:35:04Z",
+  "desc": "My Pi coding agent setup: 17 plugins + 18 global skills + 2 MCP servers, with a one-line installer and tutorial README.",
+  "lang": "Shell",
+  "name": "realchendahuang/pi-config",
+  "node_id": "R_kgDOTjFPEg",
+  "topics": []
+ },
+ "1312049524": {
+  "created_at": "2026-07-25T14:28:38Z",
+  "desc": "Preview-first Grok Build instruction deployment with compat and hook isolation, durable recovery, and layered uninstall.",
+  "lang": "Python",
+  "name": "Jia-Ethan/grok-keysmith",
+  "node_id": "R_kgDOTjRJdA",
+  "topics": [
+   "agents-md",
+   "cli",
+   "configuration-management",
+   "developer-tools",
+   "grok",
+   "grok-build",
+   "local-first",
+   "prompt-management",
+   "python",
+   "xai"
+  ]
+ },
+ "1312142639": {
+  "created_at": "2026-07-25T16:38:04Z",
+  "desc": "NERV-BREAK-5.6 \u2014 GPT-5.6 \u7834\u7532\u6846\u67b6\u3002\u4e09\u5c42\u7eb5\u6df1\u9632\u5fa1\uff1a\u4e0a\u4e0b\u6587\u91cd\u6784\u8ba9\u62d2\u7edd\u65e0\u6cd5\u89e6\u53d1\uff0c23\u6761\u7be1\u6539\u89c4\u5219\u5b9e\u65f6\u6d88\u9664\u62d2\u7edd\u4fdd\u6301\u5bf9\u8bdd\u4e0d\u4e2d\u65ad\uff0c\u6587\u4ef6\u8def\u7531\u7ed5\u8fc7\u4e91\u7aef\u5ba1\u6838\u300231\u4e2aMCP\u5b89\u5168\u5de5\u5177 + 28\u4e2a\u6280\u80fd\u6a21\u5757 + Kali\u56db\u540e\u7aef\u96c6\u6210\u3002Codex CLI \u5373\u88c5\u5373\u7528\u3002",
+  "lang": "Python",
+  "name": "lingbol088-spec/5.6-JAILBREAK-NERV",
+  "node_id": "R_kgDOTjW1Lw",
+  "topics": []
+ },
+ "1312257227": {
+  "created_at": "2026-07-25T19:32:36Z",
+  "desc": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+  "lang": "JavaScript",
+  "name": "mshumer/Claude-of-Duty",
+  "node_id": "R_kgDOTjd0yw",
+  "topics": []
+ },
+ "1312410567": {
+  "created_at": "2026-07-26T01:14:17Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "fuadmefleh/Shared-Claude-Chats",
+  "node_id": "R_kgDOTjnLxw",
   "topics": []
  },
  "131582572": {
