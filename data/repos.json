@@ -192409,6 +192409,29 @@
   "node_id": "R_kgDOTejU8A",
   "topics": []
  },
+ "1307119235": {
+  "created_at": "2026-07-21T00:26:32Z",
+  "desc": "Free open source disk cleaner for developers. Clean Hugging Face, Ollama, npm, pip, conda, Docker caches, app leftovers, and junk files on macOS and Windows. Built with Tauri.",
+  "lang": "Rust",
+  "name": "riponcm/Jharu",
+  "node_id": "R_kgDOTekOgw",
+  "topics": [
+   "cleaner",
+   "cleanmymac-alternative",
+   "developer-tools",
+   "disk-cleaner",
+   "disk-space-analyzer",
+   "disk-usage",
+   "huggingface",
+   "machine-learning",
+   "macos",
+   "react",
+   "rust",
+   "tauri",
+   "uninstaller",
+   "windows"
+  ]
+ },
  "1307144877": {
   "created_at": "2026-07-21T01:16:36Z",
   "desc": "SOC2 compliance dashboard \u2014 the Vanta killer. Next.js + Supabase + Claude AI.",
@@ -192905,6 +192928,14 @@
    "workflow-engine"
   ]
  },
+ "1307649454": {
+  "created_at": "2026-07-21T11:55:55Z",
+  "desc": "From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search",
+  "lang": "",
+  "name": "AaronLiu0702/MAPD",
+  "node_id": "R_kgDOTfElrg",
+  "topics": []
+ },
  "1307673508": {
   "created_at": "2026-07-21T12:23:34Z",
   "desc": "A multi-timescale ETF forecasting and virtual trading system for AI and robotics ETFs.",
@@ -192912,6 +192943,24 @@
   "name": "yingfanxu/etf-quant-research-system",
   "node_id": "R_kgDOTfGDpA",
   "topics": []
+ },
+ "1307679581": {
+  "created_at": "2026-07-21T12:30:35Z",
+  "desc": "Make your coding agents better at getting better.",
+  "lang": "JavaScript",
+  "name": "QoderAI/better-harness",
+  "node_id": "R_kgDOTfGbXQ",
+  "topics": [
+   "agent-plugin",
+   "claude-code",
+   "codex",
+   "cursor",
+   "harness-design",
+   "harness-engineering",
+   "loop-engineering",
+   "qoder",
+   "skill"
+  ]
  },
  "1307694207": {
   "created_at": "2026-07-21T12:46:29Z",
@@ -193170,7 +193219,7 @@
  "1307984484": {
   "created_at": "2026-07-21T17:56:58Z",
   "desc": "Turn simple scene ideas into restrained, physically believable cinematic AIGC prompts.",
-  "lang": "",
+  "lang": "Python",
   "name": "popopo-99/zy-cinematic-realism",
   "node_id": "R_kgDOTfZCZA",
   "topics": []
@@ -194194,6 +194243,14 @@
    "writing"
   ]
  },
+ "1309451980": {
+  "created_at": "2026-07-23T02:48:07Z",
+  "desc": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+  "lang": "Rust",
+  "name": "kvcache-ai/AgentENV",
+  "node_id": "R_kgDOTgymzA",
+  "topics": []
+ },
  "1309476358": {
   "created_at": "2026-07-23T03:26:21Z",
   "desc": "A well-commented, ready-to-use Pi Agent configuration starter that helps you actually understand what's happening.",
@@ -194353,12 +194410,28 @@
    "llm"
   ]
  },
+ "1309661906": {
+  "created_at": "2026-07-23T07:36:15Z",
+  "desc": "PerceptionBench: Evaluating Atomic Visual Perception in Multimodal Large Language Models",
+  "lang": "Python",
+  "name": "MoonshotAI/PerceptionBench",
+  "node_id": "R_kgDOTg_a0g",
+  "topics": []
+ },
  "1309664593": {
   "created_at": "2026-07-23T07:39:09Z",
   "desc": "",
   "lang": "Verilog",
   "name": "MoonshotAI/nano-kpu",
   "node_id": "R_kgDOTg_lUQ",
+  "topics": []
+ },
+ "1309664986": {
+  "created_at": "2026-07-23T07:39:34Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "MoonshotAI/minitriton",
+  "node_id": "R_kgDOTg_m2g",
   "topics": []
  },
  "1309668849": {
@@ -194438,6 +194511,14 @@
   "lang": "Python",
   "name": "Haohuangsix/gpt-register-pipeline",
   "node_id": "R_kgDOThCUAQ",
+  "topics": []
+ },
+ "1309760179": {
+  "created_at": "2026-07-23T09:25:09Z",
+  "desc": "SkillDeck \u00b7 \u53ef\u89c6\u5316 Skill \u63a7\u5236\u53f0\uff1a\u628a\u672c\u5730 Skill \u53d8\u6210\u5361\u7247\u5899\uff0c\u4e00\u952e\u628a\u547d\u4ee4\u53d1\u9001\u5230 Codex \u4f1a\u8bdd\u6267\u884c\uff08Codex \u539f\u751f widget \u63d2\u4ef6 + \u72ec\u7acb web \u7248\uff09",
+  "lang": "JavaScript",
+  "name": "SpaceZephyr/skilldeck",
+  "node_id": "R_kgDOThFasw",
   "topics": []
  },
  "1309781127": {
@@ -194760,16 +194841,22 @@
  },
  "1310161451": {
   "created_at": "2026-07-23T16:42:09Z",
-  "desc": "The RL loop that makes your coding agents smarter and their written code production-ready",
+  "desc": "Runs, benchmarks and optimizes your agent-written Python code until it's production-ready. Zero-edit runtime tracing joins every call to source, builds one context graph, and serves it to Claude Code and Cursor over MCP \u2014 with every fix verified against tests the agent never sees.",
   "lang": "Python",
   "name": "VinvAI/VinvAI",
   "node_id": "R_kgDOThd6Kw",
   "topics": [
+   "agent-verification",
    "ai-agents",
+   "ai-code-review",
+   "claude-code",
    "code-graph",
    "coding-agent",
+   "cursor",
    "developer-tools",
+   "fastapi",
    "fault-localization",
+   "llm-tools",
    "mcp",
    "observability",
    "python",
@@ -194909,7 +194996,7 @@
  },
  "1310429236": {
   "created_at": "2026-07-23T22:47:33Z",
-  "desc": "The Astro-native visual builder for the Cloudflare era.",
+  "desc": "The open-source, Astro-native visual builder for the Cloudflare era.",
   "lang": "TypeScript",
   "name": "ariabuilder/aria",
   "node_id": "R_kgDOThuQNA",
@@ -195131,6 +195218,14 @@
    "resume"
   ]
  },
+ "1310847317": {
+  "created_at": "2026-07-24T09:07:21Z",
+  "desc": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+  "lang": "Python",
+  "name": "MoonshotAI/MoonEP",
+  "node_id": "R_kgDOTiHxVQ",
+  "topics": []
+ },
  "1310865330": {
   "created_at": "2026-07-24T09:28:09Z",
   "desc": "[SIGGRAPH Asia 2026 Journal Track, Conditional Acceptance] InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthesis",
@@ -195211,6 +195306,30 @@
   "node_id": "R_kgDOTiPJXg",
   "topics": []
  },
+ "1310982497": {
+  "created_at": "2026-07-24T11:51:49Z",
+  "desc": "Cursor's Tab in Neovim \u2014 the only maintained plugin on Cursor's real backend. Next-edit predictions, cursor jumps & ghost text. A Copilot / Supermaven / Codeium alternative.",
+  "lang": "Lua",
+  "name": "teocns/neocursor.nvim",
+  "node_id": "R_kgDOTiQBYQ",
+  "topics": [
+   "ai",
+   "autocomplete",
+   "code-completion",
+   "copilot",
+   "copilot-alternative",
+   "cursor",
+   "cursor-prediction",
+   "cursor-tab",
+   "ghost-text",
+   "llm",
+   "lua",
+   "neovim",
+   "neovim-plugin",
+   "next-edit-prediction",
+   "nvim"
+  ]
+ },
  "1311096964": {
   "created_at": "2026-07-24T14:01:18Z",
   "desc": "Open-source, self-hosted personal travel app by Giovanni Brees - keep every flight, hotel, ride and trip on one living timeline. Built with AI agents, runs on Cloudflare Workers.",
@@ -195247,7 +195366,7 @@
  },
  "1311174165": {
   "created_at": "2026-07-24T15:27:02Z",
-  "desc": "Compose coding agents into workflows you can trust",
+  "desc": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
   "lang": "Go",
   "name": "cocofhu/approving",
   "node_id": "R_kgDOTibuFQ",
@@ -195282,6 +195401,14 @@
   "lang": "TypeScript",
   "name": "kommander/tts-lab",
   "node_id": "R_kgDOTif4PQ",
+  "topics": []
+ },
+ "1311250427": {
+  "created_at": "2026-07-24T16:57:46Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "Tylogi/TyloQuant",
+  "node_id": "R_kgDOTigX-w",
   "topics": []
  },
  "1311307019": {
@@ -195445,6 +195572,14 @@
   "node_id": "R_kgDOTi7AJg",
   "topics": []
  },
+ "1311706813": {
+  "created_at": "2026-07-25T05:59:09Z",
+  "desc": "",
+  "lang": "Rust",
+  "name": "chenyujian/agentspellbook",
+  "node_id": "R_kgDOTi8OvQ",
+  "topics": []
+ },
  "1311716728": {
   "created_at": "2026-07-25T06:13:46Z",
   "desc": " N\u2080-TWAM: A Tactile-Native World Action Model for Contact-Rich Manipulation",
@@ -195552,6 +195687,28 @@
   "name": "Rakshana0205/AI_Data_Analatyics_Assistant",
   "node_id": "R_kgDOTjLetA",
   "topics": []
+ },
+ "1311957569": {
+  "created_at": "2026-07-25T12:17:18Z",
+  "desc": "Open-source OpenXR VR mod for F.E.A.R. 1.08 - native stereo world rendering, headtracking and motion controls",
+  "lang": "C++",
+  "name": "DR-89/fear-vr",
+  "node_id": "R_kgDOTjLiQQ",
+  "topics": [
+   "cpp",
+   "d3d9",
+   "fear",
+   "game-mod",
+   "lithtech",
+   "modding",
+   "motion-controls",
+   "openxr",
+   "reverse-engineering",
+   "steamvr",
+   "stereoscopic-3d",
+   "virtual-reality",
+   "vr"
+  ]
  },
  "1312008708": {
   "created_at": "2026-07-25T13:31:39Z",
@@ -195716,6 +195873,14 @@
   "node_id": "R_kgDOTja0DQ",
   "topics": []
  },
+ "1312224999": {
+  "created_at": "2026-07-25T18:37:24Z",
+  "desc": "Lineage 2 Interlude in the browser \u2014 real server, real protocol, real assets. Complete AI-built toolchain: protocol gateway, format parsers, model/terrain pipelines, web client.",
+  "lang": "JavaScript",
+  "name": "elberacasa/Lineage2Elbera",
+  "node_id": "R_kgDOTjb25w",
+  "topics": []
+ },
  "1312228909": {
   "created_at": "2026-07-25T18:43:08Z",
   "desc": "Argus \u2014 Local-first OSINT framework. 13 modules, 100% open source, zero API keys. AI chaining via Ollama. MCP server for Hermes/Claude Code/Cursor.",
@@ -195803,7 +195968,7 @@
  },
  "1312410567": {
   "created_at": "2026-07-26T01:14:17Z",
-  "desc": "",
+  "desc": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
   "lang": "Python",
   "name": "fuadmefleh/Shared-Claude-Chats",
   "node_id": "R_kgDOTjnLxw",
@@ -195833,6 +195998,14 @@
    "vercel"
   ]
  },
+ "1312477654": {
+  "created_at": "2026-07-26T03:56:34Z",
+  "desc": "A basic set of skills and workers to run loop engineering with Claude Code.",
+  "lang": "",
+  "name": "brittanyellich/loop-board",
+  "node_id": "R_kgDOTjrR1g",
+  "topics": []
+ },
  "1312485662": {
   "created_at": "2026-07-26T04:14:18Z",
   "desc": "Real-Time Multimodal AI Agent for Desktop Interaction",
@@ -195843,7 +196016,7 @@
  },
  "1312488824": {
   "created_at": "2026-07-26T04:20:50Z",
-  "desc": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+  "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
   "lang": "TypeScript",
   "name": "deerwork-ai/deer-workflow",
   "node_id": "R_kgDOTjr9eA",
@@ -195856,6 +196029,7 @@
    "bun",
    "dynamic-workflow",
    "dynamic-workflows",
+   "graph-engineering",
    "llm",
    "workflow"
   ]
@@ -195911,6 +196085,14 @@
   "node_id": "R_kgDOTjxMPA",
   "topics": []
  },
+ "1312580372": {
+  "created_at": "2026-07-26T07:11:14Z",
+  "desc": "goat is a package provides agent framework written in golang",
+  "lang": "Go",
+  "name": "torrischen/goat",
+  "node_id": "R_kgDOTjxjFA",
+  "topics": []
+ },
  "1312609286": {
   "created_at": "2026-07-26T07:57:08Z",
   "desc": "This repo is the official implementation of  \"\u03c40-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation\".",
@@ -195933,6 +196115,22 @@
    "ontology",
    "rag"
   ]
+ },
+ "1312619737": {
+  "created_at": "2026-07-26T08:15:05Z",
+  "desc": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
+  "lang": "TypeScript",
+  "name": "Autumn-27/ARTEX",
+  "node_id": "R_kgDOTjz82Q",
+  "topics": []
+ },
+ "1312680132": {
+  "created_at": "2026-07-26T09:54:17Z",
+  "desc": "Agent skill for revising research papers given an Overleaf project.",
+  "lang": "",
+  "name": "CISLab-HKUST/revise-paper",
+  "node_id": "R_kgDOTj3oxA",
+  "topics": []
  },
  "1312693131": {
   "created_at": "2026-07-26T10:14:47Z",
@@ -195969,6 +196167,14 @@
    "rag",
    "retrieval-augmented-generation"
   ]
+ },
+ "1312698116": {
+  "created_at": "2026-07-26T10:21:37Z",
+  "desc": "Overview of available HFT software",
+  "lang": "",
+  "name": "vivek-v-rao/High-Frequency-Trading-Software",
+  "node_id": "R_kgDOTj4vBA",
+  "topics": []
  },
  "1312716448": {
   "created_at": "2026-07-26T10:49:07Z",
@@ -196008,6 +196214,36 @@
   "lang": "",
   "name": "provencher/codex-skills",
   "node_id": "R_kgDOTj8pPQ",
+  "topics": []
+ },
+ "1312807575": {
+  "created_at": "2026-07-26T13:04:44Z",
+  "desc": "Use ChatGPT Pro as a native model in the Codex app \u2014 with context, compaction, streaming, images, and optional MCP tools.",
+  "lang": "TypeScript",
+  "name": "miuuyy/codex-chatgpt-web",
+  "node_id": "R_kgDOTj_alw",
+  "topics": [
+   "ai-tools",
+   "chatgpt",
+   "chatgpt-pro",
+   "codex",
+   "codex-cli",
+   "developer-tools",
+   "free-ai",
+   "macos",
+   "mcp",
+   "openai",
+   "playwright",
+   "responses-api",
+   "typescript"
+  ]
+ },
+ "1312835170": {
+  "created_at": "2026-07-26T13:43:27Z",
+  "desc": "remotion-talking-head-director",
+  "lang": "",
+  "name": "chenjin-cmd/remotion-talking-head-director",
+  "node_id": "R_kgDOTkBGYg",
   "topics": []
  },
  "1312909652": {
@@ -196052,6 +196288,22 @@
    "yandex-market"
   ]
  },
+ "1313041772": {
+  "created_at": "2026-07-26T18:06:50Z",
+  "desc": "Render a real Chromium view inside a Herdr pane and drive it over CDP.",
+  "lang": "TypeScript",
+  "name": "ogulcancelik/herdr-browser",
+  "node_id": "R_kgDOTkNtbA",
+  "topics": [
+   "browser",
+   "browser-automation",
+   "cdp",
+   "chromium",
+   "herdr-plugin",
+   "kitty-graphics",
+   "terminal"
+  ]
+ },
  "1313062785": {
   "created_at": "2026-07-26T18:35:28Z",
   "desc": "Self-replicating adaptive grids dynamically allocate resources, ensuring seamless load-balancing across a resilient computational fabric.",
@@ -196083,6 +196335,31 @@
   "name": "wesselkuijper/AgentDev",
   "node_id": "R_kgDOTkSDHg",
   "topics": []
+ },
+ "1313138826": {
+  "created_at": "2026-07-26T20:28:18Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "mikearnaldi/effect-torch",
+  "node_id": "R_kgDOTkToig",
+  "topics": []
+ },
+ "1313142522": {
+  "created_at": "2026-07-26T20:34:29Z",
+  "desc": "OmniVAE: An Audio-Video VAE with Cross-Modal Alignment for Joint Generation",
+  "lang": "Python",
+  "name": "OpenMOSS/OmniVAE",
+  "node_id": "R_kgDOTkT2-g",
+  "topics": [
+   "audio",
+   "audio-generation",
+   "audio-video-generation",
+   "dit",
+   "multimodal-generation",
+   "vaes",
+   "video",
+   "video-generation"
+  ]
  },
  "1313143888": {
   "created_at": "2026-07-26T20:36:43Z",
@@ -196119,10 +196396,53 @@
    "rust"
   ]
  },
+ "1313181765": {
+  "created_at": "2026-07-26T21:41:17Z",
+  "desc": "A curated guide & directory for open-source AI devtools, local LLMs, autonomous agents, and SaaS alternatives. Built for modern AI developers.",
+  "lang": "",
+  "name": "Sami-Uysal/awesome-open-ai-developer-tools",
+  "node_id": "R_kgDOTkWQRQ",
+  "topics": []
+ },
+ "1313214764": {
+  "created_at": "2026-07-26T22:41:56Z",
+  "desc": "Always-on-top desktop sprite avatar UI shell for a local Hermes Agent gateway. PySide6, OpenAI-compatible HTTP API.",
+  "lang": "Python",
+  "name": "erenciracioglu-dotcom/hermes-desktop-avatar",
+  "node_id": "R_kgDOTkYRLA",
+  "topics": []
+ },
+ "1313215450": {
+  "created_at": "2026-07-26T22:43:11Z",
+  "desc": "\ud83c\udfac Open source, transcript-based video/audio editor that lives in the browser.",
+  "lang": "TypeScript",
+  "name": "wassgha/rescript",
+  "node_id": "R_kgDOTkYT2g",
+  "topics": [
+   "audio",
+   "media",
+   "media-editing",
+   "media-editor",
+   "transcribe",
+   "transcription",
+   "video",
+   "video-editing",
+   "video-editor",
+   "video-processing"
+  ]
+ },
+ "1313236648": {
+  "created_at": "2026-07-26T23:24:51Z",
+  "desc": "",
+  "lang": "",
+  "name": "Emily2040/-threejs-evidence-graph",
+  "node_id": "R_kgDOTkZmqA",
+  "topics": []
+ },
  "1313300049": {
   "created_at": "2026-07-27T01:25:01Z",
   "desc": "Using AI to translate Homer's Odyssey according to my specifications.",
-  "lang": "",
+  "lang": "Python",
   "name": "robertdavidgraham/ai-odyssey",
   "node_id": "R_kgDOTkdeUQ",
   "topics": []
@@ -196223,12 +196543,65 @@
   "node_id": "R_kgDOTkljpw",
   "topics": []
  },
+ "1313434625": {
+  "created_at": "2026-07-27T05:03:11Z",
+  "desc": "An old coder's strategy for the agent era: don't read the code \u2014 make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+  "lang": "Python",
+  "name": "AmazingAng/old-coder",
+  "node_id": "R_kgDOTklsAQ",
+  "topics": [
+   "ai-agents",
+   "claude-code",
+   "skills",
+   "tdd"
+  ]
+ },
+ "1313436648": {
+  "created_at": "2026-07-27T05:06:30Z",
+  "desc": "PhD-level Tauri 2 desktop app skills: Rust, React, Python, MCP, streaming, CI/CD \u2014 parallel execution ready",
+  "lang": "Python",
+  "name": "peditx/tauri-skills",
+  "node_id": "R_kgDOTklz6A",
+  "topics": []
+ },
  "1313451184": {
   "created_at": "2026-07-27T05:29:36Z",
   "desc": "A read-only AI skill for finding domain names, checking availability in bulk, and comparing renewal prices.",
   "lang": "Python",
   "name": "meepo-it/letsfinddomain-skill",
   "node_id": "R_kgDOTkmssA",
+  "topics": []
+ },
+ "1313573635": {
+  "created_at": "2026-07-27T07:58:43Z",
+  "desc": "\u901a\u7528\u3001\u53ef\u79fb\u690d\u7684\u591a\u8d26\u53f7\u56fe\u4e66\u77ed\u89c6\u9891\u751f\u4ea7 Skill",
+  "lang": "Python",
+  "name": "bytec-ai/book-video-factory",
+  "node_id": "R_kgDOTkuLAw",
+  "topics": []
+ },
+ "1313576395": {
+  "created_at": "2026-07-27T08:01:37Z",
+  "desc": "Open Frontier Intelligence",
+  "lang": "",
+  "name": "MoonshotAI/Kimi-K3",
+  "node_id": "R_kgDOTkuVyw",
+  "topics": []
+ },
+ "1313614650": {
+  "created_at": "2026-07-27T08:43:36Z",
+  "desc": "A space exploration game built by Claude Opus 5",
+  "lang": "JavaScript",
+  "name": "achimala/TheLongSilence",
+  "node_id": "R_kgDOTkwrOg",
+  "topics": []
+ },
+ "1314190101": {
+  "created_at": "2026-07-27T19:08:06Z",
+  "desc": "",
+  "lang": "",
+  "name": "h9-tec/ai-system-design",
+  "node_id": "R_kgDOTlTzFQ",
   "topics": []
  },
  "131582572": {
