@@ -193448,6 +193448,21 @@
   "node_id": "R_kgDOTfzCow",
   "topics": []
  },
+ "1308419721": {
+  "created_at": "2026-07-22T05:31:38Z",
+  "desc": "\u57fa\u4e8e JitWord \u5f00\u653e API \u7684\u6587\u6863\u89e3\u6790\u4e0e\u7f16\u8f91\u80fd\u529b\uff0c\u6784\u5efa\u7684\u96c6\u683c\u5f0f\u68c0\u67e5\u3001\u5408\u89c4\u626b\u63cf\u3001\u4e00\u81f4\u6027\u9a8c\u8bc1\u3001\u8d28\u91cf\u8bc4\u5206\u3001\u62a5\u544a\u5bfc\u51fa\u4e8e\u4e00\u4f53\u7684\u667a\u80fd\u6587\u6863\u8d28\u91cf\u5ba1\u67e5\u5de5\u5177\u3002",
+  "lang": "TypeScript",
+  "name": "jitOffice/DocQuality",
+  "node_id": "R_kgDOTfzmiQ",
+  "topics": [
+   "doc-editor",
+   "doc-management",
+   "doc-quality",
+   "docs",
+   "docx-editor",
+   "docx-parser"
+  ]
+ },
  "1308444605": {
   "created_at": "2026-07-22T06:04:08Z",
   "desc": "Self-hosted multilingual (English + 5 Indic) phone voice agent template - LiveKit Agents + Sarvam STT/TTS + OpenAI + Vobiz SIP. ~700ms-1.2s latency, under Rs 5.5/min. Demo: a real-estate site-visit booking agent.",
@@ -193481,7 +193496,7 @@
  "1308448263": {
   "created_at": "2026-07-22T06:08:49Z",
   "desc": "",
-  "lang": "Shell",
+  "lang": "",
   "name": "rocwood/unity-cli-2022-mod",
   "node_id": "R_kgDOTf1WBw",
   "topics": []
@@ -194187,6 +194202,14 @@
    "swift"
   ]
  },
+ "1309399723": {
+  "created_at": "2026-07-23T01:19:19Z",
+  "desc": "A multi-agent world model of US equity markets \u2014 simulating institutional players, information asymmetry, and emergent price dynamics",
+  "lang": "Python",
+  "name": "hongjin-he/MicroWorld",
+  "node_id": "R_kgDOTgvaqw",
+  "topics": []
+ },
  "1309407208": {
   "created_at": "2026-07-23T01:32:20Z",
   "desc": "**SmartHomeAI** is a smart home interaction system based on **Python, OpenCV, and MediaPipe**. It enables real-time hand tracking, gesture recognition, and device control through computer vision. The project combines **AI, computer vision, and embedded systems**, with future support for **STM32/ESP32 and IoT integration**.",
@@ -194197,7 +194220,7 @@
  },
  "1309425913": {
   "created_at": "2026-07-23T02:04:06Z",
-  "desc": "Drive a running Godot 4.7 editor \u2014 and the running game \u2014 from the terminal or an AI agent. Go CLI + editor addon, 312 commands, MCP server with live-built tool schemas.",
+  "desc": "Control a running Godot 4.7 editor and game directly from the terminal. Includes a Go CLI, editor addon, 312 commands, and an MCP server with dynamically generated tool schemas.",
   "lang": "GDScript",
   "name": "regiellis/godot-mcp-go",
   "node_id": "R_kgDOTgxA-Q",
@@ -194409,6 +194432,14 @@
    "liang-wenfeng",
    "llm"
   ]
+ },
+ "1309647838": {
+  "created_at": "2026-07-23T07:20:39Z",
+  "desc": "\u62c6\u89e3 Pi Agent \u6e90\u7801\u8bbe\u8ba1\u7684\u5b66\u4e60\u7ad9\u70b9\uff0c\u6bcf\u7ae0\u914d\u9762\u8bd5\u95ee\u7b54",
+  "lang": "TypeScript",
+  "name": "zhoujianbin/pi-agent-guide",
+  "node_id": "R_kgDOTg-j3g",
+  "topics": []
  },
  "1309661906": {
   "created_at": "2026-07-23T07:36:15Z",
@@ -194915,6 +194946,14 @@
    "technical-seo"
   ]
  },
+ "1310294466": {
+  "created_at": "2026-07-23T19:24:10Z",
+  "desc": "Autonomous multi-agent harness for Claude Code (A.L.B.E.R.T. orchestrator) plus a zero-dependency live HUD console.",
+  "lang": "JavaScript",
+  "name": "Sdraugel/albert",
+  "node_id": "R_kgDOThmBwg",
+  "topics": []
+ },
  "1310296661": {
   "created_at": "2026-07-23T19:27:14Z",
   "desc": "Mugshot \u2014 unlock sudo on macOS with your face. Local Face ID style recognition, no cloud.",
@@ -195306,6 +195345,14 @@
   "node_id": "R_kgDOTiPJXg",
   "topics": []
  },
+ "1310981351": {
+  "created_at": "2026-07-24T11:50:32Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "yixuanli98/CameraAnything",
+  "node_id": "R_kgDOTiP85w",
+  "topics": []
+ },
  "1310982497": {
   "created_at": "2026-07-24T11:51:49Z",
   "desc": "Cursor's Tab in Neovim \u2014 the only maintained plugin on Cursor's real backend. Next-edit predictions, cursor jumps & ghost text. A Copilot / Supermaven / Codeium alternative.",
@@ -195329,6 +195376,14 @@
    "next-edit-prediction",
    "nvim"
   ]
+ },
+ "1311000427": {
+  "created_at": "2026-07-24T12:12:00Z",
+  "desc": "A 3D vinyl record player developed in three.js using Claude Fable 5",
+  "lang": "HTML",
+  "name": "thebuggeddev/vinyl",
+  "node_id": "R_kgDOTiRHaw",
+  "topics": []
  },
  "1311096964": {
   "created_at": "2026-07-24T14:01:18Z",
@@ -195362,6 +195417,14 @@
   "lang": "JavaScript",
   "name": "charlesdove977/zenmillionaire",
   "node_id": "R_kgDOTiaFqQ",
+  "topics": []
+ },
+ "1311153410": {
+  "created_at": "2026-07-24T15:03:38Z",
+  "desc": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
+  "lang": "TypeScript",
+  "name": "qaml-ai/camelAI",
+  "node_id": "R_kgDOTiadAg",
   "topics": []
  },
  "1311174165": {
@@ -195538,6 +195601,28 @@
    "windows"
   ]
  },
+ "1311616339": {
+  "created_at": "2026-07-25T03:11:42Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "OpenFDEAI/ChatDemo",
+  "node_id": "R_kgDOTi2tUw",
+  "topics": []
+ },
+ "1311640403": {
+  "created_at": "2026-07-25T03:55:11Z",
+  "desc": "Transactional scan-review-promote pipeline for authorized Douyin favorites and local knowledge notes",
+  "lang": "Python",
+  "name": "tars1230/douyin-favorites-to-knowledge",
+  "node_id": "R_kgDOTi4LUw",
+  "topics": [
+   "agent-skills",
+   "douyin",
+   "knowledge-base",
+   "obsidian",
+   "python"
+  ]
+ },
  "1311668806": {
   "created_at": "2026-07-25T04:49:38Z",
   "desc": "Open-source video skills for ChatCut editing and timestamp-accurate SRT generation.",
@@ -195613,6 +195698,19 @@
    "tauri"
   ]
  },
+ "1311769536": {
+  "created_at": "2026-07-25T07:22:45Z",
+  "desc": "Official code for the paper \"A New Role for Relevance: Guiding Corpus Interaction in Agentic Search\"",
+  "lang": "Python",
+  "name": "LeqsNaN/RARG",
+  "node_id": "R_kgDOTjADwA",
+  "topics": [
+   "agentic-search",
+   "embeddings-similarity",
+   "grep-search",
+   "ranking"
+  ]
+ },
  "1311807280": {
   "created_at": "2026-07-25T08:19:35Z",
   "desc": "An MCP server that lets AI agents operate a multi-cluster Kubernetes fleet through an Open Cluster Management hub, with policy, approval, and audit between the model and your clusters.",
@@ -195680,6 +195778,14 @@
   "node_id": "R_kgDOTjI4Ow",
   "topics": []
  },
+ "1311936638": {
+  "created_at": "2026-07-25T11:44:28Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "baoqingwang3-prog/intent-translator",
+  "node_id": "R_kgDOTjKQfg",
+  "topics": []
+ },
  "1311956660": {
   "created_at": "2026-07-25T12:15:53Z",
   "desc": "",
@@ -195734,6 +195840,14 @@
    "openclaw",
    "skill-sh"
   ]
+ },
+ "1312029783": {
+  "created_at": "2026-07-25T14:01:10Z",
+  "desc": "A remake of Trevor Noah's Book collection page in threejs using Claude Fable 5",
+  "lang": "HTML",
+  "name": "thebuggeddev/books",
+  "node_id": "R_kgDOTjP8Vw",
+  "topics": []
  },
  "1312049524": {
   "created_at": "2026-07-25T14:28:38Z",
@@ -195865,6 +195979,14 @@
    "skills"
   ]
  },
+ "1312198605": {
+  "created_at": "2026-07-25T17:55:27Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "MarcusXavierr/cata-centavo",
+  "node_id": "R_kgDOTjaPzQ",
+  "topics": []
+ },
  "1312207885": {
   "created_at": "2026-07-25T18:10:24Z",
   "desc": "Cloud-native ZKLayerPro2 harnesses AI-driven analytics, containerized workflows, and orchestration to deliver intelligent, scalable, and adaptive performance optimizers.",
@@ -195872,6 +195994,30 @@
   "name": "victorferf/EliteZ",
   "node_id": "R_kgDOTja0DQ",
   "topics": []
+ },
+ "1312220956": {
+  "created_at": "2026-07-25T18:31:04Z",
+  "desc": "An opinionated personal dashboard for your terminal \u2014 world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui.",
+  "lang": "Rust",
+  "name": "jchultarsky/mirador",
+  "node_id": "R_kgDOTjbnHA",
+  "topics": [
+   "cli",
+   "command-line-tool",
+   "crossterm",
+   "dashboard",
+   "notes",
+   "productivity",
+   "ratatui",
+   "rust",
+   "system-monitor",
+   "task-management",
+   "terminal",
+   "terminal-dashboard",
+   "todo",
+   "tui",
+   "weather"
+  ]
  },
  "1312224999": {
   "created_at": "2026-07-25T18:37:24Z",
@@ -195927,6 +196073,30 @@
   "node_id": "R_kgDOTjfRMg",
   "topics": [
    "agent-skills"
+  ]
+ },
+ "1312288602": {
+  "created_at": "2026-07-25T20:30:31Z",
+  "desc": "\u8de8\u5e73\u53f0 SSH / SFTP \u684c\u9762\u5ba2\u6237\u7aef \u00b7 \u7ec8\u7aef \u00b7 \u8fde\u63a5\u7ba1\u7406 \u00b7 \u6587\u4ef6\u4f20\u8f93 | Cross-platform SSH/SFTP desktop client for macOS, Windows ",
+  "lang": "Swift",
+  "name": "lyu0805/pixshell",
+  "node_id": "R_kgDOTjfvWg",
+  "topics": [
+   "cross-platform",
+   "desktop-app",
+   "devops",
+   "electron",
+   "linux",
+   "macos",
+   "pixshell",
+   "remote-desktop",
+   "sftp",
+   "sftp-client",
+   "ssh",
+   "ssh-client",
+   "terminal",
+   "windows",
+   "xterm"
   ]
  },
  "1312292672": {
@@ -196050,6 +196220,20 @@
   "node_id": "R_kgDOTjvIkg",
   "topics": []
  },
+ "1312545887": {
+  "created_at": "2026-07-26T06:12:13Z",
+  "desc": "A fast documentation template powered by FumaPress and deployed on Cloudflare Workers.",
+  "lang": "TypeScript",
+  "name": "open-fox/mkdocs",
+  "node_id": "R_kgDOTjvcXw",
+  "topics": [
+   "cloudflare-workers",
+   "documentation",
+   "fumapress",
+   "template",
+   "typescript"
+  ]
+ },
  "1312546480": {
   "created_at": "2026-07-26T06:13:21Z",
   "desc": "A complete first-person shooter in a single 290 KB HTML file. No build step, no assets, no dependencies beyond three.js from a CDN.",
@@ -196122,6 +196306,14 @@
   "lang": "TypeScript",
   "name": "Autumn-27/ARTEX",
   "node_id": "R_kgDOTjz82Q",
+  "topics": []
+ },
+ "1312627260": {
+  "created_at": "2026-07-26T08:27:24Z",
+  "desc": "Web UI Coding Agent | ReAct Loop | Mobile Supported",
+  "lang": "Java",
+  "name": "seteliu/st-cute",
+  "node_id": "R_kgDOTj0aPA",
   "topics": []
  },
  "1312680132": {
@@ -196253,6 +196445,22 @@
   "name": "ahmedemad3/arch-wiki",
   "node_id": "R_kgDOTkFpVA",
   "topics": []
+ },
+ "1312949782": {
+  "created_at": "2026-07-26T16:10:55Z",
+  "desc": "Turn vague research directions into falsifiable, evidence-grounded Research Idea Briefs with a six-stage Codex workflow.",
+  "lang": "",
+  "name": "cpt13-g/clarify-research-idea",
+  "node_id": "R_kgDOTkIGFg",
+  "topics": [
+   "academic-research",
+   "ai-research",
+   "codex",
+   "codex-skills",
+   "research-idea",
+   "research-workflow",
+   "scientific-method"
+  ]
  },
  "1312956538": {
   "created_at": "2026-07-26T16:19:28Z",
@@ -196399,10 +196607,13 @@
  "1313181765": {
   "created_at": "2026-07-26T21:41:17Z",
   "desc": "A curated guide & directory for open-source AI devtools, local LLMs, autonomous agents, and SaaS alternatives. Built for modern AI developers.",
-  "lang": "",
+  "lang": "JavaScript",
   "name": "Sami-Uysal/awesome-open-ai-developer-tools",
   "node_id": "R_kgDOTkWQRQ",
-  "topics": []
+  "topics": [
+   "awesome",
+   "awesome-list"
+  ]
  },
  "1313214764": {
   "created_at": "2026-07-26T22:41:56Z",
@@ -196429,6 +196640,22 @@
    "video-editing",
    "video-editor",
    "video-processing"
+  ]
+ },
+ "1313225248": {
+  "created_at": "2026-07-26T23:01:28Z",
+  "desc": "Formally verified 3D mesh intersection - trust 93 lines of spec, not 1000+ lines of AI-written code",
+  "lang": "Lean",
+  "name": "schildep/verified-3d-mesh-intersection",
+  "node_id": "R_kgDOTkY6IA",
+  "topics": [
+   "computational-geometry",
+   "constructive-solid-geometry",
+   "formal-methods",
+   "formal-verification",
+   "lean4",
+   "mesh-processing",
+   "verified-software"
   ]
  },
  "1313236648": {
@@ -196487,6 +196714,14 @@
   "node_id": "R_kgDOTkhDWg",
   "topics": []
  },
+ "1313360734": {
+  "created_at": "2026-07-27T03:01:59Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "dv-hart/newspeak",
+  "node_id": "R_kgDOTkhLXg",
+  "topics": []
+ },
  "1313362029": {
   "created_at": "2026-07-27T03:04:17Z",
   "desc": "Hyper-distributed, self-healing AgentMeshNet architecture enables adaptive, real-time Service Routing and scalable Service Registry.",
@@ -196509,6 +196744,14 @@
   "lang": "",
   "name": "laurentberg/Agent3905",
   "node_id": "R_kgDOTkhqIA",
+  "topics": []
+ },
+ "1313378548": {
+  "created_at": "2026-07-27T03:31:32Z",
+  "desc": "",
+  "lang": "",
+  "name": "kaomei/hand-drawn-video-prompts",
+  "node_id": "R_kgDOTkiQ9A",
   "topics": []
  },
  "1313390677": {
@@ -196556,6 +196799,20 @@
    "tdd"
   ]
  },
+ "1313435339": {
+  "created_at": "2026-07-27T05:04:26Z",
+  "desc": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+  "lang": "JavaScript",
+  "name": "QwenAudio/qwen-audio-agent",
+  "node_id": "R_kgDOTkluyw",
+  "topics": [
+   "agent",
+   "agentic-ai",
+   "voice-agent",
+   "voice-ai",
+   "voice-chat"
+  ]
+ },
  "1313436648": {
   "created_at": "2026-07-27T05:06:30Z",
   "desc": "PhD-level Tauri 2 desktop app skills: Rust, React, Python, MCP, streaming, CI/CD \u2014 parallel execution ready",
@@ -196596,12 +196853,271 @@
   "node_id": "R_kgDOTkwrOg",
   "topics": []
  },
+ "1313763142": {
+  "created_at": "2026-07-27T11:27:22Z",
+  "desc": "Semantic diff review for coding agents",
+  "lang": "TypeScript",
+  "name": "mikker/semantic-review",
+  "node_id": "R_kgDOTk5vRg",
+  "topics": []
+ },
+ "1313817088": {
+  "created_at": "2026-07-27T12:27:22Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "Loki200399/india-itr-copilot",
+  "node_id": "R_kgDOTk9CAA",
+  "topics": []
+ },
+ "1313921896": {
+  "created_at": "2026-07-27T14:14:09Z",
+  "desc": "Local-first, human-participatory four-agent AI deliberation workspace",
+  "lang": "Python",
+  "name": "loveramarois-byte/council-lab",
+  "node_id": "R_kgDOTlDbaA",
+  "topics": [
+   "ai-agents",
+   "ccswitch",
+   "deliberation",
+   "fastapi",
+   "langgraph",
+   "local-first",
+   "multi-agent",
+   "nextjs"
+  ]
+ },
+ "1313978749": {
+  "created_at": "2026-07-27T15:11:28Z",
+  "desc": "Evidence-first, chart-led, native-editable consulting PowerPoint Skill",
+  "lang": "Python",
+  "name": "zairuilab/consulting-deck",
+  "node_id": "R_kgDOTlG5fQ",
+  "topics": [
+   "agent-skill",
+   "consulting",
+   "data-visualization",
+   "powerpoint",
+   "pptx",
+   "presentations"
+  ]
+ },
+ "1314036825": {
+  "created_at": "2026-07-27T16:09:26Z",
+  "desc": "SpeakHub\u662f\u4e00\u6b3e\u9762\u5411 Windows \u7684 AI \u82f1\u8bed\u53e3\u8bed\u7ec3\u4e60\u5de5\u5177\u3002\u5b83\u628a\u81ea\u7531\u5bf9\u8bdd\u3001\u5b9e\u65f6\u5b57\u5e55\u3001\u67e5\u8bcd\u6536\u85cf\u3001\u7ec3\u4e60\u590d\u76d8\u548c\u8bcd\u6c47\u590d\u4e60\u4e32\u6210\u4e00\u6761\u5b8c\u6574\u7684\u5b66\u4e60\u94fe\u8def\uff0c\u8ba9\u6bcf\u4e00\u6b21\u5f00\u53e3\u90fd\u80fd\u7559\u4e0b\u53ef\u4ee5\u7ee7\u7eed\u5229\u7528\u7684\u5b66\u4e60\u8bb0\u5f55\u3002",
+  "lang": "TypeScript",
+  "name": "yin-yizhen/SpeakHub",
+  "node_id": "R_kgDOTlKcWQ",
+  "topics": []
+ },
+ "1314070900": {
+  "created_at": "2026-07-27T16:47:54Z",
+  "desc": "",
+  "lang": "Rust",
+  "name": "QW-AI-Code/Aether_Desktop",
+  "node_id": "R_kgDOTlMhdA",
+  "topics": []
+ },
+ "1314104494": {
+  "created_at": "2026-07-27T17:25:30Z",
+  "desc": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
+  "lang": "Python",
+  "name": "cneuralnetwork/smol-kimi-k3",
+  "node_id": "R_kgDOTlOkrg",
+  "topics": []
+ },
  "1314190101": {
   "created_at": "2026-07-27T19:08:06Z",
   "desc": "",
   "lang": "",
   "name": "h9-tec/ai-system-design",
   "node_id": "R_kgDOTlTzFQ",
+  "topics": []
+ },
+ "1314267613": {
+  "created_at": "2026-07-27T20:49:53Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "mintdotgg/bookshelf",
+  "node_id": "R_kgDOTlYh3Q",
+  "topics": []
+ },
+ "1314368765": {
+  "created_at": "2026-07-27T23:51:45Z",
+  "desc": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+  "lang": "Python",
+  "name": "PipeNetwork/kimi-k3-mlx",
+  "node_id": "R_kgDOTles_Q",
+  "topics": []
+ },
+ "1314404827": {
+  "created_at": "2026-07-28T01:01:23Z",
+  "desc": "Run Kimi K3, a 2.8T-parameter Mixture-of-Experts LLM, on a single Apple Silicon Mac. Streams MXFP4 experts on demand over HTTP into a local disk cache \u2014 fused NEON kernels, Metal/MPS compute, exact reproducible decoding, and an OpenAI-compatible API server for local chat and coding agents.",
+  "lang": "Python",
+  "name": "gavamedia/deltafin",
+  "node_id": "R_kgDOTlg52w",
+  "topics": [
+   "kimi",
+   "kimi-k3",
+   "local-ai",
+   "local-llm"
+  ]
+ },
+ "1314435335": {
+  "created_at": "2026-07-28T01:52:36Z",
+  "desc": "A beginner-friendly guide to building and launching apps with Base44\u2014using plain-English prompts, practical examples, and zero coding experience.",
+  "lang": "",
+  "name": "cporter202/vibe-coding-with-base44",
+  "node_id": "R_kgDOTlixBw",
+  "topics": [
+   "ai-app-builder",
+   "base44",
+   "beginner-guide",
+   "low-code",
+   "no-code",
+   "prompt-engineering",
+   "tutorial",
+   "vibe-coding"
+  ]
+ },
+ "1314513956": {
+  "created_at": "2026-07-28T03:57:25Z",
+  "desc": "\u4ece\u539f\u70b9\u51fa\u53d1\uff0c\u65e0\u9650\u903c\u8fd1\u771f\u77e5\u3002\u76ee\u6807\u9a71\u52a8\u3001\u8bc1\u636e\u5bfc\u5411\u3001\u53ef\u9a8c\u8bc1\u3001\u53ef\u8fed\u4ee3\u7684\u5b66\u4e60\u8def\u7ebf\u89c4\u5212 Skill\u3002",
+  "lang": "Python",
+  "name": "ssuixinsuoyu/zede-zero-learning-roadmap",
+  "node_id": "R_kgDOTlnkJA",
+  "topics": []
+ },
+ "1314535038": {
+  "created_at": "2026-07-28T04:31:38Z",
+  "desc": "Starling \u2014 a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
+  "lang": "Swift",
+  "name": "starling-build/starling",
+  "node_id": "R_kgDOTlo2fg",
+  "topics": [
+   "ai",
+   "compositor",
+   "desktop",
+   "desktop-environment",
+   "drm",
+   "flutter",
+   "gpu",
+   "kms",
+   "linux",
+   "swift",
+   "ubuntu",
+   "wayland",
+   "wayland-compositor",
+   "window-manager",
+   "x11"
+  ]
+ },
+ "1314575864": {
+  "created_at": "2026-07-28T05:30:32Z",
+  "desc": "A Homeworld-style, universe-scale space RTS in the browser. Written by Claude Opus 5 from a single prompt. Procedural hulls, planets and effects \u2014 no image assets.",
+  "lang": "TypeScript",
+  "name": "e01-ai/starfall",
+  "node_id": "R_kgDOTlrV-A",
+  "topics": []
+ },
+ "1314587317": {
+  "created_at": "2026-07-28T05:45:33Z",
+  "desc": "Open-source agentic infrastructure for running AI agents in isolated, stateful sandboxes.",
+  "lang": "Go",
+  "name": "cofy-x/axern",
+  "node_id": "R_kgDOTlsCtQ",
+  "topics": [
+   "agent-sandbox",
+   "agentic-infrastructure",
+   "ai-agents",
+   "cloud-native",
+   "code-execution",
+   "kubernetes",
+   "remote-execution",
+   "sandbox",
+   "self-hosted"
+  ]
+ },
+ "1314609786": {
+  "created_at": "2026-07-28T06:13:18Z",
+  "desc": "\u26f0\ufe0f Write a filesystem in JavaScript, mount it as a real kernel filesystem.",
+  "lang": "TypeScript",
+  "name": "pithings/mountx",
+  "node_id": "R_kgDOTltaeg",
+  "topics": []
+ },
+ "1314785707": {
+  "created_at": "2026-07-28T09:25:03Z",
+  "desc": "Open-source deep research engine that builds structured knowledge graphs. MCP-native. avg 0.82+ quality.",
+  "lang": "Python",
+  "name": "qa10devteam/behive",
+  "node_id": "R_kgDOTl4Jqw",
+  "topics": []
+ },
+ "1314787397": {
+  "created_at": "2026-07-28T09:26:48Z",
+  "desc": "A Claude Code / Codex skill to export and decrypt WeChat (macOS) chat history into plaintext SQLite databases",
+  "lang": "",
+  "name": "robbin/wechat-exporter",
+  "node_id": "R_kgDOTl4QRQ",
+  "topics": []
+ },
+ "1314797404": {
+  "created_at": "2026-07-28T09:37:33Z",
+  "desc": "\u57fa\u4e8e CesiumJS 1.142 \u7684\u539f\u751f Cesium Agent Skill\uff08Cursor / Codex / Claude\uff09\u3002\u542b\u7ea6 185 \u4e2a JS \u793a\u4f8b\u4e0e\u6750\u8d28\u811a\u672c\uff0c\u8986\u76d6\u5730\u5f62\u30013D Tiles\u3001\u7279\u6548\u7b49\uff1b\u4ec5 md/js\uff0c\u65e0 HTML\u3002\u590d\u5236\u5230 .cursor/skills\u3001.agents/skills \u6216 .claude/skills \u5373\u53ef\u4f7f\u7528\u3002",
+  "lang": "HTML",
+  "name": "OpenCesium/Cesium-Skills",
+  "node_id": "R_kgDOTl43XA",
+  "topics": []
+ },
+ "1315019806": {
+  "created_at": "2026-07-28T13:35:39Z",
+  "desc": "MCP server for Substack posts (FastMCP + substack-api-client)",
+  "lang": "Python",
+  "name": "alxgntv/substack-api-mcp",
+  "node_id": "R_kgDOTmGcHg",
+  "topics": []
+ },
+ "1315060524": {
+  "created_at": "2026-07-28T14:15:16Z",
+  "desc": "",
+  "lang": "JavaScript",
+  "name": "onovoprogramador/onp-spec-driven",
+  "node_id": "R_kgDOTmI7LA",
+  "topics": []
+ },
+ "1315061605": {
+  "created_at": "2026-07-28T14:16:19Z",
+  "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "lang": "JavaScript",
+  "name": "0xwilliamortiz/ponytail-improved",
+  "node_id": "R_kgDOTmI_ZQ",
+  "topics": [
+   "agent-skills",
+   "claude-code",
+   "claude-code-plugin",
+   "claude-code-skill",
+   "claude-skills",
+   "cursor-rules",
+   "ponytail",
+   "prompt-engineering",
+   "prompt-optimization",
+   "yagni"
+  ]
+ },
+ "1315555252": {
+  "created_at": "2026-07-29T00:53:53Z",
+  "desc": "\u9762\u5411\u4e2a\u4eba\u81ea\u6211\u8bb0\u5f55\u3001\u590d\u76d8\u548c\u8ba4\u77e5\u68b3\u7406\u7684\u4f19\u4f34\u578b-\u63d0\u793a\u8bcd\u53caagent\u914d\u7f6e\u6587\u4ef6\uff1a\u4ece\u5177\u4f53\u7ebf\u7d22\u51fa\u53d1\uff0c\u533a\u5206\u4e8b\u5b9e\u3001\u611f\u53d7\u548c\u89e3\u91ca\uff0c\u5728\u5171\u60c5\u7684\u540c\u65f6\u4fdd\u7559\u73b0\u5b9e\u68c0\u9a8c\u3002",
+  "lang": "",
+  "name": "LotusDecoder/zhixin-companion",
+  "node_id": "R_kgDOTmnHtA",
+  "topics": []
+ },
+ "1315559738": {
+  "created_at": "2026-07-29T01:02:08Z",
+  "desc": "Let your AI feel the hesitation in your typing. Rhythm only, never content.",
+  "lang": "Python",
+  "name": "eveacla11/fingertips",
+  "node_id": "R_kgDOTmnZOg",
   "topics": []
  },
  "131582572": {
