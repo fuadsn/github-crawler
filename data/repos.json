@@ -210882,11 +210882,24 @@
  },
  "1314437735": {
   "created_at": "2026-07-28T01:56:28Z",
-  "desc": "An AI Agent Development Framework           AI Agent \u5f00\u53d1\u811a\u624b\u67b6",
+  "desc": "ZhuLing \u2014 Zero-config AI Agent framework for Java. One YAML to launch Agents on Spring AI + DDD, with MCP tools, full observability and a ReAct core.  Ai Agent \u5feb\u901f\u5f00\u53d1\u6846\u67b6",
   "lang": "Java",
   "name": "Vinist123/zhuling",
   "node_id": "R_kgDOTli6Zw",
-  "topics": []
+  "topics": [
+   "agent",
+   "agentic",
+   "ai-agent",
+   "chatbot",
+   "ddd",
+   "java",
+   "llm",
+   "mcp",
+   "observability",
+   "spring-ai",
+   "spring-boot",
+   "streaming"
+  ]
  },
  "1314507647": {
   "created_at": "2026-07-28T03:47:24Z",
@@ -211329,6 +211342,20 @@
   "node_id": "R_kgDOTl_qdg",
   "topics": []
  },
+ "1314921521": {
+  "created_at": "2026-07-28T11:54:23Z",
+  "desc": "Review, install, update, and recover Codex Skills on Windows.",
+  "lang": "Go",
+  "name": "bme-lyh/Codex-Skill-Manager",
+  "node_id": "R_kgDOTmAcMQ",
+  "topics": [
+   "codex",
+   "security",
+   "skill-manager",
+   "skills",
+   "windows"
+  ]
+ },
  "1314930526": {
   "created_at": "2026-07-28T12:04:04Z",
   "desc": "A portable AI-assisted Knowledge OS starter kit for Obsidian, Codex, Claude Code, and compatible AI coding agents.",
@@ -211523,6 +211550,14 @@
    "multi-agent"
   ]
  },
+ "1315274753": {
+  "created_at": "2026-07-28T17:46:13Z",
+  "desc": "About me",
+  "lang": "",
+  "name": "ClaerDev/ClaerDev",
+  "node_id": "R_kgDOTmWAAQ",
+  "topics": []
+ },
  "1315310857": {
   "created_at": "2026-07-28T18:25:50Z",
   "desc": "\u9762\u5411 AI Agent \u7684\u53ef\u6eaf\u6e90 A \u80a1\u677f\u5757\u7814\u7a76 Skill\uff0c\u8d2f\u901a\u653f\u7b56\u3001\u6743\u5a01\u5a92\u4f53\u3001\u5e02\u573a\u8d44\u91d1\u3001\u516c\u53f8\u4e0e ETF\uff0c\u652f\u6301\u5b9e\u65f6\u67e5\u8be2\u3001\u7814\u7a76\u7f16\u6392\u548c\u4e8c\u6b21\u5e94\u7528\u5f00\u53d1\u3002",
@@ -211644,7 +211679,7 @@
  },
  "1315427742": {
   "created_at": "2026-07-28T21:01:42Z",
-  "desc": "\u6570\u4e07\u884c\u6563\u843d\u7684 Claude Code\u3001Codex\u3001Kimi Code \u4e0e Pi JSONL \u4f1a\u8bdd\uff0c\u7d22\u5f15\u81f3\u540c\u4e00\u4e2a SQLite \u4e2d\uff1a\u2028Agent \u53ef\u901a\u8fc7 CLI \u5b9e\u73b0\u6beb\u79d2\u7ea7\u67e5\u8be2\uff0c\u7528\u6237\u53ef\u901a\u8fc7 App \u76f4\u89c2\u6d4f\u89c8\uff5cPast Claude Code, Codex, Kimi Code, Pi sessions -- queryable by your agent, browsable by you",
+  "desc": "\u6570\u4e07\u884c\u6563\u843d\u7684 Claude Code\u3001Codex \u4e0e Pi JSONL \u4f1a\u8bdd\uff0c\u7d22\u5f15\u81f3\u540c\u4e00\u4e2a SQLite \u4e2d\uff1a\u2028Agent \u53ef\u901a\u8fc7 CLI \u5b9e\u73b0\u6beb\u79d2\u7ea7\u67e5\u8be2\uff0c\u7528\u6237\u53ef\u901a\u8fc7 App \u76f4\u89c2\u6d4f\u89c8\uff5cPast Claude Code, Codex, Pi sessions -- queryable by your agent, browsable by you",
   "lang": "JavaScript",
   "name": "wutongyuonce/Trajex",
   "node_id": "R_kgDOTmfVng",
@@ -211725,6 +211760,14 @@
   "lang": "Python",
   "name": "eveacla11/fingertips",
   "node_id": "R_kgDOTmnZOg",
+  "topics": []
+ },
+ "1315574398": {
+  "created_at": "2026-07-29T01:28:27Z",
+  "desc": "\u672c\u5730\u4f18\u5148\u7684\u5173\u7cfb\u5206\u6790\u4e0e\u6c9f\u901a\u8f85\u52a9 Android \u5e94\u7528",
+  "lang": "Kotlin",
+  "name": "SouthautumnYa/junshi-android",
+  "node_id": "R_kgDOTmoSfg",
   "topics": []
  },
  "1315593981": {
@@ -212063,9 +212106,9 @@
  },
  "1315946971": {
   "created_at": "2026-07-29T09:33:20Z",
-  "desc": "\u9762\u5411 Codex\u3001Claude Code \u548c Agent Skills \u5de5\u5177\u7684 Remotion \u771f\u4eba\u53e3\u64ad\u526a\u8f91 Skill\uff08\u975e\u5546\u4e1a\u8bb8\u53ef\uff09",
+  "desc": "JJ \u53e3\u64ad\u526a\u8f91 Skill \u5f00\u6e90\u8bd5\u7528\u7248\uff08\u529f\u80fd\u5c1a\u672a\u5b8c\u5584\uff0c\u4ec5\u4f9b\u5b66\u4e60\u4f53\u9a8c\uff0c\u975e\u5546\u4e1a\u8bb8\u53ef\uff09\u3002\u6700\u65b0\u5b8c\u6574\u7248\u672c\u53ca\u5b89\u88c5\u3001\u73af\u5883\u914d\u7f6e\u3001\u90e8\u7f72\u95ee\u9898\u8bf7\u8054\u7cfb\u539f\u4f5c\u8005\u535a\u4e3b\u5fae\u4fe1\uff1aLhwai2026",
   "lang": "TypeScript",
-  "name": "jiamo509/jj-koubo",
+  "name": "jiamo509/koubo",
   "node_id": "R_kgDOTm_B2w",
   "topics": [
    "agent-skills",
@@ -212110,6 +212153,14 @@
   "lang": "CSS",
   "name": "Tongyi-MAI/Qwen-UI-Agent",
   "node_id": "R_kgDOTnD9PA",
+  "topics": []
+ },
+ "1316033508": {
+  "created_at": "2026-07-29T11:07:40Z",
+  "desc": "The open Sourcey catalog of startup credits and offers. Canonical YAML, reviewed in public.",
+  "lang": "",
+  "name": "sourcey/startup-credits",
+  "node_id": "R_kgDOTnET5A",
   "topics": []
  },
  "1316058101": {
@@ -212164,6 +212215,29 @@
   "name": "LiJiaxing0213/DistillAlign",
   "node_id": "R_kgDOTnGxHA",
   "topics": []
+ },
+ "1316095157": {
+  "created_at": "2026-07-29T12:15:38Z",
+  "desc": "A lightweight macOS menu bar companion that reads copied conversation text and AI responses from Codex, Kimi Work, Doubao, and other apps aloud via Doubao TTS. BYOK.",
+  "lang": "Swift",
+  "name": "PolinniZhong/omi-read-aloud",
+  "node_id": "R_kgDOTnIEtQ",
+  "topics": [
+   "accessibility",
+   "ai-assistant",
+   "ai-productivity",
+   "byok",
+   "clipboard",
+   "codex",
+   "doubao",
+   "kimi-work",
+   "macos",
+   "menu-bar-app",
+   "read-aloud",
+   "swift",
+   "text-to-speech",
+   "tts"
+  ]
  },
  "1316114472": {
   "created_at": "2026-07-29T12:35:40Z",
@@ -212290,6 +212364,25 @@
    "python",
    "word",
    "xlsx"
+  ]
+ },
+ "1316440427": {
+  "created_at": "2026-07-29T18:12:46Z",
+  "desc": "Modern Windows observability app with real-time system insights.",
+  "lang": "Dart",
+  "name": "Regncreative/Pulse",
+  "node_id": "R_kgDOTndJaw",
+  "topics": [
+   "cpp",
+   "desktop-application",
+   "diagnostics",
+   "event-log",
+   "flutter",
+   "flutter-desktop",
+   "observability",
+   "system-monitor",
+   "windows",
+   "windows-api"
   ]
  },
  "1316441040": {
@@ -212679,6 +212772,25 @@
    "rag"
   ]
  },
+ "1317086026": {
+  "created_at": "2026-07-30T09:26:20Z",
+  "desc": "Deep research skill for AI agents: live web research, source reputation checks, safer URL fetches, and structured evidence feedback.",
+  "lang": "Python",
+  "name": "h4444433333/net-deep-research",
+  "node_id": "R_kgDOToEjSg",
+  "topics": [
+   "ai-agents",
+   "citations",
+   "deep-research",
+   "information-retrieval",
+   "llm",
+   "prompt-engineering",
+   "rag",
+   "research-tool",
+   "source-verification",
+   "web-research"
+  ]
+ },
  "1317118119": {
   "created_at": "2026-07-30T10:00:29Z",
   "desc": "Libra: Efficient Resource Management for Agentic RL Post-Training",
@@ -212693,6 +212805,14 @@
   "lang": "",
   "name": "Utsavdon/polymind",
   "node_id": "R_kgDOToImpA",
+  "topics": []
+ },
+ "1317172464": {
+  "created_at": "2026-07-30T11:04:27Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "KnowledgeXLab/MemHarness",
+  "node_id": "R_kgDOToJ08A",
   "topics": []
  },
  "1317190160": {
@@ -212729,6 +212849,14 @@
    "ux"
   ]
  },
+ "1317198312": {
+  "created_at": "2026-07-30T11:35:24Z",
+  "desc": "Bridge between agents and IDA Pro.",
+  "lang": "Python",
+  "name": "cellebrite-labs/ida-bridge",
+  "node_id": "R_kgDOToLZ6A",
+  "topics": []
+ },
  "1317202867": {
   "created_at": "2026-07-30T11:41:00Z",
   "desc": "Explore the live platform: protocol36.vercel.app",
@@ -212739,7 +212867,7 @@
  },
  "1317210052": {
   "created_at": "2026-07-30T11:49:22Z",
-  "desc": "Switch between isolated Claude Code accounts on Linux without logging in again.",
+  "desc": "Switch between isolated Claude Code accounts on Linux and macOS without logging in again.",
   "lang": "Rust",
   "name": "hamzarehmandeveloper/claude-account",
   "node_id": "R_kgDOToMHxA",
@@ -212747,8 +212875,10 @@
    "account-switcher",
    "claude-code",
    "cli",
+   "cross-platform",
    "developer-tools",
    "linux",
+   "macos",
    "rust"
   ]
  },
@@ -212767,6 +212897,22 @@
   "name": "vishal-A52-vishi/leafora-vishi",
   "node_id": "R_kgDOToN0Ew",
   "topics": []
+ },
+ "1317239419": {
+  "created_at": "2026-07-30T12:21:48Z",
+  "desc": "Run Kimi K3 locally on CPU with ~55GB measured runtime RAM. A single-file Linux inference server powered by cPilot Runtime.",
+  "lang": "HTML",
+  "name": "onetoken-oss/K3Flight",
+  "node_id": "R_kgDOToN6ew",
+  "topics": [
+   "cpu-inference",
+   "edge-ai",
+   "inference-engine",
+   "kimi-k3",
+   "local-llm",
+   "low-memory",
+   "moe"
+  ]
  },
  "1317244380": {
   "created_at": "2026-07-30T12:27:34Z",
@@ -212821,12 +212967,116 @@
   "node_id": "R_kgDOToTESA",
   "topics": []
  },
+ "1317332295": {
+  "created_at": "2026-07-30T14:01:53Z",
+  "desc": "Browser-based security portfolio and technical blog covering AI security, data protection, machine-learning threats, and secure engineering, with site configuration and local setup guidance.",
+  "lang": "HTML",
+  "name": "reedjordanvrb4237/0xcarnemuerta-security-hub",
+  "node_id": "R_kgDOToTlRw",
+  "topics": []
+ },
+ "1317333477": {
+  "created_at": "2026-07-30T14:03:07Z",
+  "desc": "Browser-based 10DLC and CTIA SMS compliance tool with live message checks and AI-assisted rewrites. Use the web application or Chrome Extension to review SMS content and identify potential compliance issues in 2026.",
+  "lang": "HTML",
+  "name": "gabeexhill9128/10dlc-check-compliance-hub",
+  "node_id": "R_kgDOToTp5Q",
+  "topics": []
+ },
+ "1317353600": {
+  "created_at": "2026-07-30T14:23:51Z",
+  "desc": "AI Assignment Checker is a browser-based educational assessment platform for receiving student work, helping teachers evaluate assignments, checking possible plagiarism, managing marks, and producing assessment reports.",
+  "lang": "HTML",
+  "name": "logan-carterxe5702/ai-assignment-checker-tool",
+  "node_id": "R_kgDOToU4gA",
+  "topics": []
+ },
+ "1317354312": {
+  "created_at": "2026-07-30T14:24:35Z",
+  "desc": "Browser-accessible online proctoring software for 2026 that combines AI-oriented exam supervision with assessment integrity detection support, configurable settings, troubleshooting guidance, and newer version updates for online assessments.",
+  "lang": "HTML",
+  "name": "isaaccooperots3231/ai-online-proctoring-system",
+  "node_id": "R_kgDOToU7SA",
+  "topics": []
+ },
+ "1317355443": {
+  "created_at": "2026-07-30T14:25:48Z",
+  "desc": "Browser-based Lumiere Skin Clinic AI chatbot powered by Google Gemini 2.5 Flash, supporting appointment scheduling and live availability checks for clinic visitors.",
+  "lang": "HTML",
+  "name": "cooperjordanyl4007/lumiere-ai-clinic-chat",
+  "node_id": "R_kgDOToU_sw",
+  "topics": []
+ },
+ "1317355814": {
+  "created_at": "2026-07-30T14:26:12Z",
+  "desc": "Python-based, cross-platform AI developer toolkit combining web scraping, spreadsheet operations, repository security review, Telegram business workflows, and income management in one productivity-focused workspace.",
+  "lang": "HTML",
+  "name": "leo-younglrd9471/ai-dev-toolkit-2026",
+  "node_id": "R_kgDOToVBJg",
+  "topics": []
+ },
+ "1317356529": {
+  "created_at": "2026-07-30T14:26:54Z",
+  "desc": "AI Disclosure Checker is a browser-accessible compliance utility for reviewing AI disclosure requirements, with the latest 2026 release available through its hosted version and support for local serving.",
+  "lang": "HTML",
+  "name": "brandonjamesvuvu3880/ai-disclosure-checker-tool",
+  "node_id": "R_kgDOToVD8Q",
+  "topics": []
+ },
  "1317358185": {
   "created_at": "2026-07-30T14:28:39Z",
   "desc": "\u591a\u529f\u80fd\u5de5\u5177\u7bb1 \u00b7 \u684c\u9762\u7aef\u5f00\u6e90\u7248 | \u97f3\u89c6\u9891/\u56fe\u7247/PDF/AI \u4e00\u7ad9\u5f0f\u5904\u7406",
   "lang": "JavaScript",
   "name": "ZihangDong/toolknit-desktop",
   "node_id": "R_kgDOToVKaQ",
+  "topics": []
+ },
+ "1317358607": {
+  "created_at": "2026-07-30T14:29:04Z",
+  "desc": "AI Divide is a browser-based one-page AI business website for Czech businesses, including a welcome bot that provides practical AI-assisted visitor support in a focused web experience.",
+  "lang": "HTML",
+  "name": "will-adamsoq497/ai-divide-ai-chatbot",
+  "node_id": "R_kgDOToVMDw",
+  "topics": []
+ },
+ "1317359824": {
+  "created_at": "2026-07-30T14:30:16Z",
+  "desc": "AI Hardware Checker 2026 is a browser-based utility that examines computer hardware and estimates its suitability for running mainstream AI models, with hosted and local launch options.",
+  "lang": "HTML",
+  "name": "loganiofisher6621/ai-pc-hardware-checker",
+  "node_id": "R_kgDOToVQ0A",
+  "topics": []
+ },
+ "1317360095": {
+  "created_at": "2026-07-30T14:30:33Z",
+  "desc": "Responsive AI healthcare web application with conversational tools for symptom discovery, medicine information, wellness calculations, appointment workflows, and emergency assistance, powered by Ollama and Llama 3.2.",
+  "lang": "HTML",
+  "name": "dylangrayrdm376/ai-healthcare-assistant-app",
+  "node_id": "R_kgDOToVR3w",
+  "topics": []
+ },
+ "1317360904": {
+  "created_at": "2026-07-30T14:31:21Z",
+  "desc": "AI Health Prediction is a browser-based healthcare application that processes medical information with machine-learning models to estimate disease likelihood and support early health assessment.",
+  "lang": "HTML",
+  "name": "cartertaylordgya4410/ai-medical-prediction",
+  "node_id": "R_kgDOToVVCA",
+  "topics": []
+ },
+ "1317362445": {
+  "created_at": "2026-07-30T14:32:54Z",
+  "desc": "AI Infinity Force One is an unreleased 2026 cross-platform security vault built around a Rust zero-trust core, offering a structured foundation for protecting and managing sensitive data.",
+  "lang": "HTML",
+  "name": "owen-parkercr1268/ai-infinity-force-vault",
+  "node_id": "R_kgDOToVbDQ",
+  "topics": []
+ },
+ "1317363305": {
+  "created_at": "2026-07-30T14:33:48Z",
+  "desc": "AI IQ Predictor is a browser-based machine learning application that uses CGPA to estimate IQ, assign a cognitive category, and generate an automatic skill profile through a simple web workflow.",
+  "lang": "HTML",
+  "name": "zackhallme5359/ai-iq-ml-predictor",
+  "node_id": "R_kgDOToVeaQ",
   "topics": []
  },
  "1317376183": {
@@ -212853,7 +213103,7 @@
   "created_at": "2026-07-30T14:55:42Z",
   "desc": "A practical coding agent for terminal workflows.",
   "lang": "Python",
-  "name": "ikooky/litecoder",
+  "name": "ikooky/LiteCoder",
   "node_id": "R_kgDOToW2Cw",
   "topics": []
  },
@@ -212975,6 +213225,14 @@
   "node_id": "R_kgDOTofeqw",
   "topics": []
  },
+ "1317541451": {
+  "created_at": "2026-07-30T17:49:50Z",
+  "desc": "\u5de5\u4e1a\u6db2\u4f4d\u4e0e\u5b57\u7b26\u68c0\u6d4b\u8d28\u91cf Agent\uff1a\u96c6\u6210 YOLO\u3001\u6db2\u4f4d\u53cd\u6f14\u3001\u5b57\u7b26\u8bc6\u522b\u3001\u53d7\u63a7\u590d\u68c0\u3001\u786e\u5b9a\u6027\u4ef2\u88c1\u3001RAG \u89e3\u91ca\u4e0e SQLite \u5ba1\u8ba1\u3002",
+  "lang": "Python",
+  "name": "hnyzhufan-wq/liquid-quality-agent",
+  "node_id": "R_kgDOTogWSw",
+  "topics": []
+ },
  "1317564135": {
   "created_at": "2026-07-30T18:18:08Z",
   "desc": "",
@@ -213037,6 +213295,14 @@
   "lang": "",
   "name": "thatssoheil/prompts",
   "node_id": "R_kgDOToq7Nw",
+  "topics": []
+ },
+ "1317721033": {
+  "created_at": "2026-07-30T22:15:32Z",
+  "desc": "DeepSeek-V4-Flash-DSpark optimized vLLM 0.26.0 SM121 dual-GB10 evidence (NVFP4 KV, B12X, DSpark K6)",
+  "lang": "Python",
+  "name": "r0b0tlab/DeepSeek-V4-Flash-DSpark-v026-SM121",
+  "node_id": "R_kgDOTorTyQ",
   "topics": []
  },
  "1317724906": {
@@ -213354,6 +213620,14 @@
    "svg"
   ]
  },
+ "1318257480": {
+  "created_at": "2026-07-31T11:05:16Z",
+  "desc": "Spec-Driven Development for product design \u2014 spec-kit for design, powered by Claude Code /dsf:* commands",
+  "lang": "HTML",
+  "name": "denysosadchyi/design-spec-framework",
+  "node_id": "R_kgDOTpMDSA",
+  "topics": []
+ },
  "1318274214": {
   "created_at": "2026-07-31T11:26:06Z",
   "desc": "Official GitHub MCP Server \u2014 connect AI agents to GitHub API",
@@ -213459,6 +213733,19 @@
    "dscode"
   ]
  },
+ "1318388542": {
+  "created_at": "2026-07-31T13:39:00Z",
+  "desc": "Wild Pokemon appear while you work in Claude Code.",
+  "lang": "JavaScript",
+  "name": "zamarrowski/claudemon",
+  "node_id": "R_kgDOTpUDPg",
+  "topics": [
+   "claude-code",
+   "claude-code-plugin",
+   "pokemon",
+   "terminal-game"
+  ]
+ },
  "1318404555": {
   "created_at": "2026-07-31T13:56:35Z",
   "desc": "\ud55c\uad6d\uc5b4 \ubb38\uc11c \uad50\uc815\u00b7\ubb38\uccb4 \uac1c\uc120\u00b7\uad6c\uc870 \uc815\ub9ac \ubc0f \uc720\ud615\ubcc4 \ud488\uc9c8 \ud3c9\uac00\ub97c \uc704\ud55c Agent Skill",
@@ -213466,6 +213753,16 @@
   "name": "CreatoonForge/korean-writing-reviewer",
   "node_id": "R_kgDOTpVByw",
   "topics": []
+ },
+ "1318423155": {
+  "created_at": "2026-07-31T14:16:26Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "lucaGazzola/forgeo",
+  "node_id": "R_kgDOTpWKcw",
+  "topics": [
+   "software-factory"
+  ]
  },
  "1318431764": {
   "created_at": "2026-07-31T14:25:55Z",
@@ -213681,6 +213978,14 @@
   "node_id": "R_kgDOTpwLLA",
   "topics": []
  },
+ "1318855915": {
+  "created_at": "2026-08-01T00:47:55Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "ultramuseart/famegrid-auto-color",
+  "node_id": "R_kgDOTpwk6w",
+  "topics": []
+ },
  "1318865785": {
   "created_at": "2026-08-01T01:10:49Z",
   "desc": "A web-based Canvas game utility featuring a Minimax-powered AI opponent that evaluates moves algorithmically. Built with HTML and HTML Canvas for browser play, with adjustable source and no native installation required.",
@@ -213782,6 +214087,14 @@
   "node_id": "R_kgDOTpzsQA",
   "topics": []
  },
+ "1318913074": {
+  "created_at": "2026-08-01T02:54:28Z",
+  "desc": "A lightweight browser-based HTML presentation for evaluating an AI interior design Telegram bot in 2026, created for bot owners and operators with guidance for local viewing, settings, and deployment.",
+  "lang": "HTML",
+  "name": "michaelreedmf2135/ai-interior-design-bot-demo",
+  "node_id": "R_kgDOTp0EMg",
+  "topics": []
+ },
  "1318914813": {
   "created_at": "2026-08-01T02:57:49Z",
   "desc": "A smart bookmark & knowledge curation desktop app with AI summarization, semantic search, and cross-device sync. Built with Go + Wails + React.",
@@ -213843,6 +214156,14 @@
   "lang": "Python",
   "name": "zjssun/TradeMirror",
   "node_id": "R_kgDOTp2_nw",
+  "topics": []
+ },
+ "1318963796": {
+  "created_at": "2026-08-01T04:30:03Z",
+  "desc": "",
+  "lang": "Java",
+  "name": "TensorHub-ORG/Coomi-Android",
+  "node_id": "R_kgDOTp3KVA",
   "topics": []
  },
  "1319019946": {
@@ -213953,6 +214274,14 @@
   "lang": "TypeScript",
   "name": "lalalune/outreachr",
   "node_id": "R_kgDOTqACEw",
+  "topics": []
+ },
+ "1319119605": {
+  "created_at": "2026-08-01T08:39:56Z",
+  "desc": "",
+  "lang": "",
+  "name": "LisanalGaib7/first-principles",
+  "node_id": "R_kgDOTqAq9Q",
   "topics": []
  },
  "1319174653": {
@@ -214134,6 +214463,22 @@
   "node_id": "R_kgDOTqN8AQ",
   "topics": []
  },
+ "1319353851": {
+  "created_at": "2026-08-01T14:20:01Z",
+  "desc": "Generate and review MiniMax H3 video prompts from user goals and multimodal references.",
+  "lang": "Python",
+  "name": "penposs/minimax-h3-video-prompt",
+  "node_id": "R_kgDOTqO9-w",
+  "topics": []
+ },
+ "1319367318": {
+  "created_at": "2026-08-01T14:38:56Z",
+  "desc": "",
+  "lang": "HTML",
+  "name": "tenex-labs/daily-brief",
+  "node_id": "R_kgDOTqPylg",
+  "topics": []
+ },
  "1319373413": {
   "created_at": "2026-08-01T14:47:30Z",
   "desc": "Cross-disciplinary, source-grounded paper deep-reading Agent Skill with vision/text-only routes, domain lenses, and evidence audits.",
@@ -214285,6 +214630,27 @@
   "name": "samdhhill5803/aio-mod-loader-update",
   "node_id": "R_kgDOTqdiMQ",
   "topics": []
+ },
+ "1319600255": {
+  "created_at": "2026-08-01T20:18:50Z",
+  "desc": "WRAITH \u2014 a modern browser-hooking framework (BeEF + blind-XSS successor) for red teams, researchers, and educators. For authorized security testing, research & education only.",
+  "lang": "JavaScript",
+  "name": "Arcanum-Sec/wraith",
+  "node_id": "R_kgDOTqeAfw",
+  "topics": [
+   "beef",
+   "blind-xss",
+   "browser-exploitation",
+   "man-in-the-browser",
+   "offensive-security",
+   "penetration-testing",
+   "phishing",
+   "red-team",
+   "security",
+   "security-education",
+   "security-tools",
+   "xss"
+  ]
  },
  "1319608945": {
   "created_at": "2026-08-01T20:35:32Z",
@@ -214452,12 +214818,28 @@
    "persona-clone"
   ]
  },
+ "1319630833": {
+  "created_at": "2026-08-01T21:20:15Z",
+  "desc": "AI-powered Adobe extension for generating subtitles and captions in Premiere Pro and After Effects, using OpenAI Whisper integration to transcribe audio and speed up caption creation workflows.",
+  "lang": "HTML",
+  "name": "loganhilloz6927/premiere-caption-generator-pro",
+  "node_id": "R_kgDOTqf38Q",
+  "topics": []
+ },
  "1319634614": {
   "created_at": "2026-08-01T21:28:43Z",
   "desc": "A 2026 Claude Code learning package for converting Adobe Illustrator designs into responsive, accessible HTML, CSS, and SVG implementations ready for browser development.",
   "lang": "HTML",
   "name": "masonpsreed8378/illustrator-html-design-skill",
   "node_id": "R_kgDOTqgGtg",
+  "topics": []
+ },
+ "1319638566": {
+  "created_at": "2026-08-01T21:36:59Z",
+  "desc": "Python and Flask AI internship applications for browser-based multilingual translation and natural-language FAQ assistance, with configurable setup, launch guidance, system requirements, and troubleshooting documentation for 2026.",
+  "lang": "HTML",
+  "name": "owenkellyvavw9391/codealpha-flask-ai-tasks",
+  "node_id": "R_kgDOTqgWJg",
   "topics": []
  },
  "1319643307": {
@@ -214474,6 +214856,14 @@
   "lang": "HTML",
   "name": "colefelixoe1029/compact-writer-canvas-v25",
   "node_id": "R_kgDOTqgvXQ",
+  "topics": []
+ },
+ "1319645784": {
+  "created_at": "2026-08-01T21:52:26Z",
+  "desc": "Condelio v2026 is a browser-based AI tools website built with HTML, offering free AI utilities through a straightforward web interface for accessible online use.",
+  "lang": "HTML",
+  "name": "noahwdefisher5056/condelio-ai-tools-hub",
+  "node_id": "R_kgDOTqgyWA",
   "topics": []
  },
  "1319651356": {
@@ -214516,6 +214906,14 @@
   "node_id": "R_kgDOTqho9Q",
   "topics": []
  },
+ "1319662583": {
+  "created_at": "2026-08-01T22:30:21Z",
+  "desc": "CreatorAI Studio vLatest is a browser-based AI video editor for 2026 that analyzes reference footage and reshapes raw clips around its pacing, transitions, and color style in the current release.",
+  "lang": "HTML",
+  "name": "gaberossifs1127/creatorai-video-studio",
+  "node_id": "R_kgDOTqhz9w",
+  "topics": []
+ },
  "1319665034": {
   "created_at": "2026-08-01T22:36:24Z",
   "desc": "Crow Translate 2026 v18 is Windows desktop translation software for multilingual workflows, with API-powered translation and batch document handling in a focused application.",
@@ -214538,6 +214936,22 @@
   "lang": "HTML",
   "name": "leo-hughesdzvw5365/devassist420-ios-devtool",
   "node_id": "R_kgDOTqks0Q",
+  "topics": []
+ },
+ "1319718366": {
+  "created_at": "2026-08-02T00:54:04Z",
+  "desc": "Adribot is an HTML-based chatbot for interactive conversations in a web browser, offering an accessible interface, browser-based launching, configuration notes, system requirements, FAQs, and access to the latest build.",
+  "lang": "HTML",
+  "name": "brooksnathanjjsv1228/adribot-web-chatbot",
+  "node_id": "R_kgDOTqlN3g",
+  "topics": []
+ },
+ "1319720221": {
+  "created_at": "2026-08-02T00:59:05Z",
+  "desc": "Python Flask computer vision web application for AI image recognition. Upload images to identify objects, read visible text, and view annotated results with confidence scores in a browser-based interface.",
+  "lang": "HTML",
+  "name": "zackedwardsnxc4782/flask-image-recognition-tool",
+  "node_id": "R_kgDOTqlVHQ",
   "topics": []
  },
  "1319753754": {
@@ -214564,6 +214978,22 @@
   "node_id": "R_kgDOTqnuRg",
   "topics": []
  },
+ "1319776248": {
+  "created_at": "2026-08-02T03:16:04Z",
+  "desc": "\u72ec\u7acb\u5f00\u53d1\u8005\u4fe1\u53f7\u96f7\u8fbe Dashboard \u2014 \u6bcf\u5929\u81ea\u52a8\u91c7\u96c6 19 \u4e2a\u56fd\u5185\u5916\u4fe1\u606f\u6e90\uff08App Store \u65b0\u5e94\u7528/GitHub \u70ed\u699c/\u5373\u523b\u5708\u5b50/36\u6c2a\u7b49\uff09\uff0c\u53ef\u89c6\u5316\u6d4f\u89c8 + \u6536\u85cf\u5355\u6761\u4fe1\u606f + \u4e2d\u6587\u7ffb\u8bd1",
+  "lang": "HTML",
+  "name": "susumr/radar-dashboard",
+  "node_id": "R_kgDOTqov-A",
+  "topics": []
+ },
+ "1319780465": {
+  "created_at": "2026-08-02T03:25:04Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "humanpen/humanpen-skill",
+  "node_id": "R_kgDOTqpAcQ",
+  "topics": []
+ },
  "1319782366": {
   "created_at": "2026-08-02T03:28:41Z",
   "desc": "Python utility for converting automotive requirements from REQIF and REQIFZ files into structured test cases, with support for local models, asynchronous execution, and multiple output formats.",
@@ -214571,6 +215001,22 @@
   "name": "jason-brooksmrz9755/automotive-ai-test-generator",
   "node_id": "R_kgDOTqpH3g",
   "topics": []
+ },
+ "1319786688": {
+  "created_at": "2026-08-02T03:37:25Z",
+  "desc": "A curated, learning-friendly list of tactile sensing research resources for robotic manipulation: papers, datasets, benchmarks, simulation platforms, and frameworks, covering the integration of touch with Vision-Language-Action (VLA) models and World Models for contact-rich manipulation",
+  "lang": "",
+  "name": "sun254667/awesome-touch",
+  "node_id": "R_kgDOTqpYwA",
+  "topics": [
+   "awesome-list",
+   "tactile",
+   "tactile-sensing",
+   "tactile-sensor",
+   "touch",
+   "vla",
+   "world-model"
+  ]
  },
  "1319793410": {
   "created_at": "2026-08-02T03:45:50Z",
@@ -214623,6 +215069,22 @@
   "lang": "",
   "name": "BruceLanLan/sol-luna-engineering-workflow",
   "node_id": "R_kgDOTqsXrQ",
+  "topics": []
+ },
+ "1319855210": {
+  "created_at": "2026-08-02T05:38:38Z",
+  "desc": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+  "lang": "HTML",
+  "name": "Accio-Lab/RealReplicaBench",
+  "node_id": "R_kgDOTqtkag",
+  "topics": []
+ },
+ "1319921002": {
+  "created_at": "2026-08-02T07:28:24Z",
+  "desc": "repo for QuerySplat",
+  "lang": "Python",
+  "name": "inspatio/querysplat",
+  "node_id": "R_kgDOTqxlag",
   "topics": []
  },
  "1319927892": {
@@ -214836,6 +215298,19 @@
   "node_id": "R_kgDOTrFcow",
   "topics": []
  },
+ "1320270455": {
+  "created_at": "2026-08-02T14:37:39Z",
+  "desc": "A source-available Codex skill for distilling photographs into sparse editorial abstractions.",
+  "lang": "Python",
+  "name": "Evianis/travel-photo-abstraction",
+  "node_id": "R_kgDOTrG6dw",
+  "topics": [
+   "codex",
+   "codex-skill",
+   "image-generation",
+   "visual-analysis"
+  ]
+ },
  "1320271414": {
   "created_at": "2026-08-02T14:38:46Z",
   "desc": "Lecture recordings \u2192 structured grounded notes + a synced HTML viewer: video, timestamped transcript and curated summary on one page. Local GPU pipeline (Whisper ASR \u00b7 slide extraction \u00b7 OCR \u00b7 VLM signals \u00b7 capture-time alignment). Claude Code skill + plain CLI.",
@@ -214859,6 +215334,110 @@
   "lang": "HTML",
   "name": "brookskevinbxjb9319/sublimer-realtime-dsp",
   "node_id": "R_kgDOTrHV5A",
+  "topics": []
+ },
+ "1320297326": {
+  "created_at": "2026-08-02T15:09:15Z",
+  "desc": "Dyslexia Detection System v2026 is an AI web application for early dyslexia screening, combining handwriting analysis, OCR, and machine learning to help assess potential risk from uploaded handwriting images.",
+  "lang": "HTML",
+  "name": "andrewndstone3094/dyslexia-ocr-analysis-system",
+  "node_id": "R_kgDOTrIjbg",
+  "topics": []
+ },
+ "1320298299": {
+  "created_at": "2026-08-02T15:10:27Z",
+  "desc": "EasePaint Watermark Remover v4.25 is a Windows-based AI tool for removing watermarks, restoring images, and repairing video content, with desktop usage guidance, settings, and system requirements for 2026.",
+  "lang": "HTML",
+  "name": "walkerhenrywpt6918/easepaint-watermark-remover-v425",
+  "node_id": "R_kgDOTrInOw",
+  "topics": []
+ },
+ "1320360869": {
+  "created_at": "2026-08-02T16:10:16Z",
+  "desc": "Browser-based e-commerce seller workspace for discovering products, preparing and managing eBay listings and orders, handling CJdropshipping processes, and maintaining seller information with AI-supported utilities.",
+  "lang": "HTML",
+  "name": "oliverlcctmiller4787/elyon-ebay-seller-tool",
+  "node_id": "R_kgDOTrMbpQ",
+  "topics": []
+ },
+ "1320361231": {
+  "created_at": "2026-08-02T16:10:29Z",
+  "desc": "Elyra Framework v0.5.2 is a Rust and Svelte toolkit for building compiled desktop applications on Windows, macOS, and Linux, with typed MessagePack IPC and a Laravel-inspired architecture.",
+  "lang": "HTML",
+  "name": "calebdavisrsfx8099/elyra-app-framework",
+  "node_id": "R_kgDOTrMdDw",
+  "topics": []
+ },
+ "1320371134": {
+  "created_at": "2026-08-02T16:20:29Z",
+  "desc": "Python Model Context Protocol server for EnergyPlus building energy simulation. Inspect, change, validate, visualize, and simulate building models through structured tools, with stdio and streamable HTTP connections for clients.",
+  "lang": "HTML",
+  "name": "walkererik1991/energyplus-idf-mcp-server",
+  "node_id": "R_kgDOTrNDvg",
+  "topics": []
+ },
+ "1320387914": {
+  "created_at": "2026-08-02T16:39:34Z",
+  "desc": "c0 is an open-source AI platform built for organizational work, tools, and context. A single deployment to Cloudflare to get started.",
+  "lang": "TypeScript",
+  "name": "Consensys/c0",
+  "node_id": "R_kgDOTrOFSg",
+  "topics": []
+ },
+ "1320404240": {
+  "created_at": "2026-08-02T17:01:08Z",
+  "desc": "Cross-platform offline Ethereum mining simulator for studying proof-of-work, CPU and GPU computation, adaptive difficulty, and system resource telemetry in a configurable sandbox environment.",
+  "lang": "HTML",
+  "name": "tom-cooperots4019/ethereum-miner-optimizer-2026",
+  "node_id": "R_kgDOTrPFEA",
+  "topics": []
+ },
+ "1320410702": {
+  "created_at": "2026-08-02T17:09:59Z",
+  "desc": "ExamPulse AI is a browser-based AI study companion for university exam preparation, combining concept review with Gemini API support and offering both a web build and local project setup for 2026 study workflows.",
+  "lang": "HTML",
+  "name": "brandon-taylorue5232/exampulse-ai-study-hub",
+  "node_id": "R_kgDOTrPeTg",
+  "topics": []
+ },
+ "1320417534": {
+  "created_at": "2026-08-02T17:19:16Z",
+  "desc": "Extemplary is a browser-based NSDA extemporaneous speaking practice tool with timed preparation, speech recording, AI evaluation, transcription, and vocal delivery feedback in one workspace.",
+  "lang": "HTML",
+  "name": "mlang05/extemplary-speech-coach",
+  "node_id": "R_kgDOTrP4_g",
+  "topics": []
+ },
+ "1320419451": {
+  "created_at": "2026-08-02T17:21:24Z",
+  "desc": "FaceMagic v3.2.0 is a Windows bootstrap utility for the FaceMagic AI face swap editor, preparing the application, checking for the current release package, and launching the editor for installation or updates in 2026.",
+  "lang": "HTML",
+  "name": "halljulian3/facemagic-loader-update",
+  "node_id": "R_kgDOTrQAew",
+  "topics": []
+ },
+ "1320419730": {
+  "created_at": "2026-08-02T17:21:43Z",
+  "desc": "Facetune v2026 is a cross-platform image editor for Windows, macOS, and Linux, combining AI-assisted tools with premium module access in a 2026 release.",
+  "lang": "HTML",
+  "name": "niklash4/facetune-image-editor-2026",
+  "node_id": "R_kgDOTrQBkg",
+  "topics": []
+ },
+ "1320444346": {
+  "created_at": "2026-08-02T17:41:00Z",
+  "desc": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
+  "lang": "Python",
+  "name": "disler/super-simple-software-factory",
+  "node_id": "R_kgDOTrRhug",
+  "topics": []
+ },
+ "1320448084": {
+  "created_at": "2026-08-02T17:44:40Z",
+  "desc": "Linux-oriented mechanistic interpretability toolkit for exploring small language models with transformer lens-style workflows, bilingual Arabic and English notebooks, model analysis resources, configuration guidance, and v2026 materials.",
+  "lang": "HTML",
+  "name": "krauseantoine1973/fanous-llm-lens-v2026",
+  "node_id": "R_kgDOTrRwVA",
   "topics": []
  },
  "1320472884": {
@@ -214892,13 +215471,24 @@
   "node_id": "R_kgDOTrTslg",
   "topics": []
  },
+ "1320818729": {
+  "created_at": "2026-08-02T21:52:05Z",
+  "desc": "Enterprise-grade Next-Generation AI Agent Infrastructure",
+  "lang": "Java",
+  "name": "lunar-landing/qualia",
+  "node_id": "R_kgDOTroYKQ",
+  "topics": []
+ },
  "1320824737": {
   "created_at": "2026-08-02T21:55:50Z",
-  "desc": "",
+  "desc": "A curated, tracked list of Model Context Protocol (MCP) servers for geospatial, GIS, mapping, and earth-observation work \u2014 geocoding, routing, PostGIS, STAC/imagery, QGIS/ArcGIS, weather, and the commercial location platforms.",
   "lang": "Python",
   "name": "willcadell/geo-mcp-servers",
   "node_id": "R_kgDOTrovoQ",
-  "topics": []
+  "topics": [
+   "geospatial",
+   "mcp"
+  ]
  },
  "1320827273": {
   "created_at": "2026-08-02T21:58:43Z",
@@ -214915,6 +215505,22 @@
   "name": "Cyber-05/Cyber-05",
   "node_id": "R_kgDOTrtsig",
   "topics": []
+ },
+ "1321050149": {
+  "created_at": "2026-08-03T01:04:46Z",
+  "desc": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
+  "lang": "Shell",
+  "name": "Mr-funny/hbg-classical-poem-silk-video",
+  "node_id": "R_kgDOTr2gJQ",
+  "topics": [
+   "agent-skill",
+   "chinese-poetry",
+   "codex",
+   "docker",
+   "ffmpeg",
+   "generative-ai",
+   "image-to-video"
+  ]
  },
  "1321050932": {
   "created_at": "2026-08-03T01:05:53Z",
@@ -214977,6 +215583,134 @@
   "lang": "TypeScript",
   "name": "Awesome-AI-Pedia/Awesome-AI-Pedia",
   "node_id": "R_kgDOTsEk4g",
+  "topics": []
+ },
+ "1321408165": {
+  "created_at": "2026-08-03T07:44:33Z",
+  "desc": "Turn copy into rich one-minute Gemini Omni Flash stickman video prompt packages.",
+  "lang": "Shell",
+  "name": "kaomei/stickman-video-director",
+  "node_id": "R_kgDOTsMWpQ",
+  "topics": []
+ },
+ "1321436547": {
+  "created_at": "2026-08-03T08:08:20Z",
+  "desc": "\u5973\u6027\u591a\u5957\u7a7f\u642d\u62fc\u8d34\u9996\u5e27\u4e0e\u5361\u70b9\u6362\u88c5\u89c6\u9891\u5bfc\u6f14 Skill",
+  "lang": "",
+  "name": "liyue-aigc/female-outfit-director",
+  "node_id": "R_kgDOTsOFgw",
+  "topics": []
+ },
+ "1321559698": {
+  "created_at": "2026-08-03T09:57:25Z",
+  "desc": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+  "lang": "Python",
+  "name": "joeseesun/qiaomu-seo",
+  "node_id": "R_kgDOTsVmkg",
+  "topics": []
+ },
+ "1321624668": {
+  "created_at": "2026-08-03T10:42:50Z",
+  "desc": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to run directly on device. Requires iPad Pro (M1, M2) or iPad Air (M1) running iPadOS 16 up to 16.3.1.",
+  "lang": "Objective-C",
+  "name": "nfzerox/VirtualMacOniPad",
+  "node_id": "R_kgDOTsZkXA",
+  "topics": []
+ },
+ "1321688525": {
+  "created_at": "2026-08-03T11:36:49Z",
+  "desc": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+  "lang": "",
+  "name": "MarcosSete/awesome-free-ai-course-notes",
+  "node_id": "R_kgDOTsddzQ",
+  "topics": []
+ },
+ "1321749130": {
+  "created_at": "2026-08-03T12:26:23Z",
+  "desc": "AI photo culling for Immich \u2014 hide the rejects, crown the keepers. Powered by Claude.",
+  "lang": "Python",
+  "name": "RobertCoop/immich-winnow",
+  "node_id": "R_kgDOTshKig",
+  "topics": []
+ },
+ "1321773119": {
+  "created_at": "2026-08-03T12:45:43Z",
+  "desc": "Sol-attn comfy plug-in just for Blackwell",
+  "lang": "Python",
+  "name": "KingGore/ComfyUI_sol-attn_Blackwell",
+  "node_id": "R_kgDOTsioPw",
+  "topics": []
+ },
+ "1321790489": {
+  "created_at": "2026-08-03T13:03:37Z",
+  "desc": "",
+  "lang": "Swift",
+  "name": "leonickson1/Swiftlet",
+  "node_id": "R_kgDOTsjsGQ",
+  "topics": []
+ },
+ "1322083929": {
+  "created_at": "2026-08-03T17:46:34Z",
+  "desc": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
+  "lang": "",
+  "name": "kropdx/reflection-engine",
+  "node_id": "R_kgDOTs1mWQ",
+  "topics": []
+ },
+ "1322190097": {
+  "created_at": "2026-08-03T19:59:35Z",
+  "desc": "Streamlit-based Customer Sentiment Analyzer for evaluating standalone text and CSV datasets with a pre-trained Transformer model. Includes setup guidance, CSV formatting details, application launch instructions, troubleshooting, and update information for 2026.",
+  "lang": "HTML",
+  "name": "pierre-vogel72/customer-sentiment-streamlit",
+  "node_id": "R_kgDOTs8FEQ",
+  "topics": []
+ },
+ "1322195763": {
+  "created_at": "2026-08-03T20:07:33Z",
+  "desc": "1-Click Self-Hosted AI Server Installer",
+  "lang": "",
+  "name": "Geb101/AI-Server-Installer",
+  "node_id": "R_kgDOTs8bMw",
+  "topics": []
+ },
+ "1322241466": {
+  "created_at": "2026-08-03T21:15:08Z",
+  "desc": "",
+  "lang": "",
+  "name": "EcZachly/databricks-ai-bootcamp-capstone",
+  "node_id": "R_kgDOTs_Nug",
+  "topics": []
+ },
+ "1322241610": {
+  "created_at": "2026-08-03T21:15:22Z",
+  "desc": "Azhai is a browser-based suite of 31+ AI text and SEO utilities for writing assistance, content review, and structured-data tasks, with local setup, configuration, usage, updates, requirements, and troubleshooting guidance.",
+  "lang": "HTML",
+  "name": "jordanweber21/azhai-ai-writing-seo-hub",
+  "node_id": "R_kgDOTs_OSg",
+  "topics": []
+ },
+ "1322245839": {
+  "created_at": "2026-08-03T21:22:28Z",
+  "desc": "HTML web chatbot for barbearia-related scenarios, built around a focused conversational interface. Includes guidance for local setup, configuration, interface editing, troubleshooting, and accessing the latest build.",
+  "lang": "HTML",
+  "name": "alewis1987/barbearia-chatbot-ui",
+  "node_id": "R_kgDOTs_ezw",
+  "topics": []
+ },
+ "1322246789": {
+  "created_at": "2026-08-03T21:24:03Z",
+  "desc": "An unreleased 2026 game development testbed built with Rust and the Bevy Game Engine, exploring how AI assistance can support the process of creating cross-platform games and managing project configuration.",
+  "lang": "HTML",
+  "name": "nathandubois966/bevy-ai-game-dev-test",
+  "node_id": "R_kgDOTs_ihQ",
+  "topics": []
+ },
+ "1322256447": {
+  "created_at": "2026-08-03T21:40:09Z",
+  "desc": "Browser-based HTML tool for creating GPT-5.4-mini multimedia narratives with injected ASCII art, presented in a lightweight web format for 2026 storytelling projects.",
+  "lang": "HTML",
+  "name": "hbaker869/bilayer-stories-web",
+  "node_id": "R_kgDOTtAIPw",
   "topics": []
  },
  "132464395": {
