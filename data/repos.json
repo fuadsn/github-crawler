@@ -248695,6 +248695,21 @@
    "oauth2"
   ]
  },
+ "1330585128": {
+  "created_at": "2026-08-11T06:40:50Z",
+  "desc": "\u9762\u5411 TikTok 46.3.3 \u7684 libxposed API 102 \u529f\u80fd\u589e\u5f3a\u6a21\u5757",
+  "lang": "Java",
+  "name": "MeiYongAI/Toki",
+  "node_id": "R_kgDOT08eKA",
+  "topics": [
+   "android",
+   "libxposed",
+   "lsposed",
+   "material3",
+   "tiktok",
+   "xposed"
+  ]
+ },
  "1330595379": {
   "created_at": "2026-08-11T06:53:07Z",
   "desc": "Bridgic Agent turns what you want into workflows that actually work \u2014 and keep working. `/build` It. Run It. Evolve It.",
@@ -249089,6 +249104,14 @@
   "node_id": "R_kgDOT1NgPQ",
   "topics": []
  },
+ "1330875586": {
+  "created_at": "2026-08-11T12:04:07Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "GalaxyGeneralRobotics/HumanTracker",
+  "node_id": "R_kgDOT1OMwg",
+  "topics": []
+ },
  "1330901644": {
   "created_at": "2026-08-11T12:30:42Z",
   "desc": "Native macOS agent control for Codex and Claude \u2014 monitor, approve, ask, and jump back from the menu bar.",
@@ -249315,7 +249338,7 @@
  },
  "1331079127": {
   "created_at": "2026-08-11T15:31:45Z",
-  "desc": "Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks.",
+  "desc": "Keep ai from adding unneeded modules, subagents, dependencies, and hashes to small tasks. \u522b\u518d\u9020\u53f2\u4e86\uff0c\u7528\u4e8e\u963b\u6b62ai\u8fc7\u5ea6\u5de5\u7a0b\uff0c\u5982\u5728\u4e0d\u5fc5\u8981\u7684\u65f6\u5019\u8fc7\u5ea6\u54c8\u5e0c\uff0c\u589e\u52a0\u4e0d\u8981\u7684\u5168\u91cf\u6d4b\u8bd5\u7b49\uff0c\u57fa\u4e8ehook\u548cskill\u7ed9ai\u5212\u5b9a\u8fb9\u754c",
   "lang": "JavaScript",
   "name": "lennney/stop-that-shit",
   "node_id": "R_kgDOT1an1w",
@@ -249643,7 +249666,14 @@
   "lang": "Go",
   "name": "pgrundev/pgbot",
   "node_id": "R_kgDOT1wtdg",
-  "topics": []
+  "topics": [
+   "ai",
+   "data-analysis",
+   "database",
+   "postgres",
+   "postgresql",
+   "postgresql-database"
+  ]
  },
  "1331466051": {
   "created_at": "2026-08-12T00:30:42Z",
@@ -249824,6 +249854,14 @@
    "hunk"
   ]
  },
+ "1331649570": {
+  "created_at": "2026-08-12T05:33:48Z",
+  "desc": "Long video in, scored vertical clips out \u2014 the clipper that shows its work. Local-first OpusClip alternative: speaker-tracked camera, styled captions, auditable virality scoring, Instagram outcome calibration.",
+  "lang": "Python",
+  "name": "Blueturboguy07/publikclip",
+  "node_id": "R_kgDOT19cIg",
+  "topics": []
+ },
  "1331651339": {
   "created_at": "2026-08-12T05:36:18Z",
   "desc": "\uc774\uc0c1\ud55c \ud574\uc694\uccb4\ub294 \uc774\uc81c \uadf8\ub9cc...!! \ud55c\uad6d\uc5b4 \uc791\uc131 \ubc0f \uad50\uc815 \uc2a4\ud0ac",
@@ -249901,7 +249939,7 @@
  },
  "1331707935": {
   "created_at": "2026-08-12T06:48:51Z",
-  "desc": "\u5df2\u4e0a\u67b6 Chrome \u5546\u5e97 \ud83d\ude80 \u628a B \u7ad9\u89c6\u9891\u53d8\u6210\u5b66\u4e60\u8d44\u6e90\u7684\u6d4f\u89c8\u5668\u6269\u5c55\uff08Chrome / Edge\uff09\uff1a\u5b57\u5e55\u9605\u8bfb\u3001\u53cc\u8bed\u5bf9\u7167\u3001AI \u7ae0\u8282\u6982\u89c8\u3001\u5212\u8bcd\u89e3\u91ca\u548c\u5e26\u65f6\u95f4\u6233\u7684\u7b14\u8bb0",
+  "desc": "\u5df2\u4e0a\u67b6 Chrome / Edge \u5546\u5e97 \ud83d\ude80 \u628a B \u7ad9\u89c6\u9891\u53d8\u6210\u5b66\u4e60\u8d44\u6e90\u7684\u6d4f\u89c8\u5668\u6269\u5c55\uff1a\u5b57\u5e55\u9605\u8bfb\u3001\u53cc\u8bed\u5bf9\u7167\u3001AI \u7ae0\u8282\u6982\u89c8\u3001\u5212\u8bcd\u89e3\u91ca\u548c\u5e26\u65f6\u95f4\u6233\u7684\u7b14\u8bb0",
   "lang": "JavaScript",
   "name": "biuworks/bilibili-digest",
   "node_id": "R_kgDOT2BAHw",
@@ -250018,6 +250056,14 @@
   "lang": "TypeScript",
   "name": "wgq5200-gif/BeVgeneration",
   "node_id": "R_kgDOT2Df0w",
+  "topics": []
+ },
+ "1331752587": {
+  "created_at": "2026-08-12T07:40:12Z",
+  "desc": "A macOS menu-bar app that outsources workplace-chat emotional labor to Gemini \u2014 select text, pick an action, get a send-ready draft. You still hit send.",
+  "lang": "Swift",
+  "name": "SecondServ/leadership-dandang",
+  "node_id": "R_kgDOT2Duiw",
   "topics": []
  },
  "1331753988": {
@@ -250751,6 +250797,14 @@
   "node_id": "R_kgDOT2uUvA",
   "topics": []
  },
+ "1332481591": {
+  "created_at": "2026-08-12T22:09:12Z",
+  "desc": "",
+  "lang": "JavaScript",
+  "name": "DannyMac180/grok-plugin",
+  "node_id": "R_kgDOT2wONw",
+  "topics": []
+ },
  "1332485851": {
   "created_at": "2026-08-12T22:16:57Z",
   "desc": "DSH Galgame \u6a21\u5f0f\uff1a\u524d\u53f0 flash GM \u5373\u5174\u6f14\u51fa + \u540e\u53f0 pro \u771f\u5b9e\u5e72\u6d3b\u7684\u53cc agent \u89c6\u89c9\u5c0f\u8bf4\u821e\u53f0\uff08\u72ec\u7acb\u63d2\u4ef6\uff09",
@@ -251047,7 +251101,7 @@
  },
  "1332692519": {
   "created_at": "2026-08-13T04:20:37Z",
-  "desc": "dsh-tianshu-tui \u2014 \u662f\u5b98\u65b9 Dsh web\u7aef\u7684\u4ea4\u4e92\u5f0f\u7ec8\u7aef\u6781\u7b80\u98ce\u683c UI \u63d2\u4ef6\u3002\u4ee5\u81ea\u7814ansi\u4e3a\u6e32\u67d3\u6838\u5fc3\uff0c\u6781\u5ea6\u4e1d\u6ed1\u6d41\u7545\uff0c\u5728\u5b98\u65b9\u7684\u57fa\u7840\u4e0a\u589e\u52a0\u4e86TDD\u3001\u8bc1\u636e\u95e8\u3001\u89c6\u89c9\u56fe\u50cf\u6a21\u5757\u7b49\u5de5\u4f5c\u6d41\u3002",
+  "desc": "\u5b98\u65b9 DeepSeek Harness \u7684\u4ea4\u4e92\u5f0f\u7ec8\u7aef UI \u63d2\u4ef6\uff1a\u81ea\u7814 ANSI \u6781\u7b80\u6e32\u67d3\u6838\u5fc3\uff08\u7531\u4f5c\u8005\u81ea\u5df1\u7684\u5f00\u6e90\u9879\u76ee\u5929\u67a2 Tui \u6f14\u8fdb\uff09\u3001\u6d41\u5f0f Markdown/\u5de5\u5177\u5361\u3001\u591a\u4f1a\u8bdd tab\u300116+ \u4e3b\u9898\u3001slash \u547d\u4ee4\u4e0e\u9009\u62e9\u5668\u3001\u8f93\u5165\u5386\u53f2\u4e0e\u672c\u5730\u504f\u597d\u6301\u4e45\u5316\u3001LSP \u8bca\u65ad\u3001\u6210\u672c\u7edf\u8ba1\u3001\u542f\u52a8\u81ea\u66f4\u65b0\u3002\u7eaf\u5c55\u793a\u5c42\u3002",
   "lang": "TypeScript",
   "name": "huiliyi37/dsh-tianshu-tui",
   "node_id": "R_kgDOT29GJw",
@@ -251269,6 +251323,14 @@
    "windows"
   ]
  },
+ "1332893475": {
+  "created_at": "2026-08-13T08:38:58Z",
+  "desc": "AI harness reference implementation for on-demand delivery workflows",
+  "lang": "Java",
+  "name": "diudiu-tech/delivery-harness",
+  "node_id": "R_kgDOT3JXIw",
+  "topics": []
+ },
  "1332903042": {
   "created_at": "2026-08-13T08:49:28Z",
   "desc": "Vertical STEM explainer videos, built from a validated spec instead of generated animation code",
@@ -251430,6 +251492,14 @@
    "dsh-plugin"
   ]
  },
+ "1333076632": {
+  "created_at": "2026-08-13T12:09:43Z",
+  "desc": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
+  "lang": "Python",
+  "name": "AlayaLab/Marionette",
+  "node_id": "R_kgDOT3UimA",
+  "topics": []
+ },
  "1333084323": {
   "created_at": "2026-08-13T12:18:24Z",
   "desc": "",
@@ -251512,7 +251582,7 @@
  },
  "1333103530": {
   "created_at": "2026-08-13T12:40:20Z",
-  "desc": "\u8ba9 AI \u66ff\u4f60\u70b9\u5916\u5356\uff1a\u6dd8\u5b9d\u95ea\u8d2d/\u997f\u4e86\u4e48 H5 \u81ea\u52a8\u5316\u4e0b\u5355\u5b9e\u5f55\u2014\u2014\u56db\u5929\u56db\u5b63\u00b7\u56db\u5341\u4e03\u4e2a\u5751\uff1aCDP \u771f\u7a97\u53e3\u89c6\u53e3\u5931\u6548\u3001\u5b9a\u4f4d\u624d\u662f\u98ce\u63a7\u771f\u75c5\u6839\u3001\u5f71\u5b50\u91cc\u7684\u5e97\u540d\u4e0e\u786e\u8ba4\u6846\u3001\u4e00\u573a\u4e03\u8fde\u8d25\u6559\u4f1a\u5b83\u300c\u522b\u8ba4\u6b7b\u7406\u300d\u3001\u4ee5\u53ca\u87ba\u86f3\u7c89\u4e00\u5f79\uff1a\u72ee\u5b57\u62db\u724c\u3001\u88ab\u6ee4\u955c\u9690\u8eab\u7684\u514d\u8d77\u9001\u5e97\u3001\u538b\u4f4f\u6309\u94ae\u7684\u6ee1\u51cf\u98d8\u5e26",
+  "desc": "\u8ba9 AI \u66ff\u4f60\u70b9\u5916\u5356\uff1a\u6dd8\u5b9d\u95ea\u8d2d/\u997f\u4e86\u4e48 H5 \u81ea\u52a8\u5316\u4e0b\u5355\u5b9e\u5f55\u2014\u2014\u4e94\u591c\u4e94\u5b63\u00b7\u4e94\u5341\u4e09\u4e2a\u5751\uff1aCDP \u771f\u7a97\u53e3\u89c6\u53e3\u5931\u6548\u3001\u5b9a\u4f4d\u624d\u662f\u98ce\u63a7\u771f\u75c5\u6839\u3001\u5f71\u5b50\u4e0e\u5bcc\u6587\u672c\u5c5e\u6027\u91cc\u7684\u5e97\u540d\u3001\u4e00\u573a\u4e03\u8fde\u8d25\u6559\u4f1a\u5b83\u300c\u522b\u8ba4\u6b7b\u7406\u300d\u3001\u87ba\u86f3\u7c89\u4e00\u5f79\u7684\u72ee\u5b57\u62db\u724c\u4e0e\u6ee1\u51cf\u98d8\u5e26\uff0c\u4ee5\u53ca\u7b2c\u4e94\u591c\u90a3\u6247\u957f\u5f97\u50cf\u6b63\u95e8\u7684\u5047\u95e8",
   "lang": "HTML",
   "name": "sanqianzilanyue/ai-order-takeout",
   "node_id": "R_kgDOT3WLqg",
@@ -251636,7 +251706,7 @@
  },
  "1333144072": {
   "created_at": "2026-08-13T13:24:25Z",
-  "desc": "\u7528 30 \u79d2\u4e3a\u4f60\u7684 DeepSeek Harness\uff08DSH\uff09\u627e\u5230\u5408\u9002\u7684\u63d2\u4ef6\u3002 \u8fd9\u4e0d\u662f\u53c8\u4e00\u4e2a\u4ed3\u5e93\u6e05\u5355\uff1aGitHub \u4e0a\u6240\u6709\u6253\u7740 dsh-plugin \u6807\u7b7e\u7684\u4ed3\u5e93\u7531\u811a\u672c\u6bcf\u5929\u81ea\u52a8\u6293\u53d6\uff0c\u518d\u7ecf\u4eba\u5de5\u9010\u4e2a\u6838\u5b9e\u2014\u2014\u771f\u63d2\u4ef6\u8fdb\u76ee\u5f55\uff0c\u8e6d\u70ed\u5ea6\u7684\u8fdb\u9ed1\u540d\u5355\uff0c\u6bcf\u6761\u5254\u9664\u7406\u7531\u516c\u5f00\u53ef\u67e5\u3002\u5e76\u544a\u8bc9\u4f60\u6bcf\u4e2a\u63d2\u4ef6\u9002\u5408\u8c01\u3001\u4ece\u54ea\u91cc\u5f00\u59cb\u3002",
+  "desc": "\u7528 30 \u79d2\u4e3a\u4f60\u7684 DeepSeek Harness\u627e\u5230\u5408\u9002\u7684\u63d2\u4ef6\u3002 \u4ed3\u5e93\u7531\u811a\u672c\u6bcf\u5929\u81ea\u52a8\u6293\u53d6\uff0c\u518d\u7ecf\u4eba\u5de5\u9010\u4e2a\u6838\u5b9e\u2014\u2014\u771f\u63d2\u4ef6\u8fdb\u76ee\u5f55\uff0c\u8e6d\u70ed\u5ea6\u7684\u8fdb\u9ed1\u540d\u5355\uff0c\u6bcf\u6761\u5254\u9664\u7406\u7531\u516c\u5f00\u53ef\u67e5\u3002\u5e76\u544a\u8bc9\u4f60\u6bcf\u4e2a\u63d2\u4ef6\u9002\u5408\u8c01\u3001\u4ece\u54ea\u91cc\u5f00\u59cb\u3002",
   "lang": "JavaScript",
   "name": "bruc3van/awesome-dsh-plugin",
   "node_id": "R_kgDOT3YqCA",
@@ -251685,7 +251755,7 @@
  },
  "1333156486": {
   "created_at": "2026-08-13T13:36:57Z",
-  "desc": "FireRedTTS3 with two variants: Base for multilingual and multi-dialect voice cloning, and Instruct for instruction-guided voice design and speech editing.",
+  "desc": "FireRedTTS3: Multilingual and Multi-Dialect Voice Cloning with Instruction-Guided Voice Design and Speech Editing",
   "lang": "Python",
   "name": "FireRedTeam/FireRedTTS3",
   "node_id": "R_kgDOT3Zahg",
@@ -251701,7 +251771,7 @@
  },
  "1333165619": {
   "created_at": "2026-08-13T13:45:50Z",
-  "desc": "Desktop app for DeepSeek Harness",
+  "desc": "DeepSeek Harness Desktop",
   "lang": "TypeScript",
   "name": "dataelement/dsh-desktop",
   "node_id": "R_kgDOT3Z-Mw",
@@ -251791,6 +251861,14 @@
   "node_id": "R_kgDOT3bDpQ",
   "topics": []
  },
+ "1333185096": {
+  "created_at": "2026-08-13T14:05:58Z",
+  "desc": "\u6570\u5b66\u5efa\u6a21\u7ade\u8d5b\u8bba\u6587\u667a\u80fd\u8bc4\u5ba1 Skill\uff0c\u652f\u6301 Codex \u4e0e Claude Code\uff0c\u4f7f\u7528\u8fd1\u4e94\u5e74\u56fd\u8d5b\u8bc4\u9605\u7ec6\u5219\u3001\u8bc4\u5206\u8981\u70b9\u3001\u8bc4\u5206\u6982\u8ff0\u7b49\u6587\u4ef6\u4ee5\u53ca\u5bf9\u5e94\u8d5b\u9898\u8fdb\u884c\u84b8\u998f\uff0c\u5e76\u5c06\u771f\u6b63\u5728\u4e3b\u89c2\u8bc4\u5ba1\u4e2d\u6d89\u53ca\u5230\u7684\u5404\u79cd\u56e0\u7d20\u8003\u8651\u5728\u5185\uff0c\u8f83\u4e3a\u5b8c\u5907\u7684\u590d\u523b\u5b8c\u6574\u7684\u8bc4\u5ba1\u6d41\u7a0b\uff0c\u4ee5\u4fbf\u5927\u5bb6\u80fd\u591f\u5bf9\u81ea\u5df1\u7684\u8bba\u6587\u6709\u8f83\u597d\u7684\u5b9a\u4f4d\u3002",
+  "lang": "HTML",
+  "name": "BZDmathclub/bzd-math-modeling-skills",
+  "node_id": "R_kgDOT3bKSA",
+  "topics": []
+ },
  "1333211388": {
   "created_at": "2026-08-13T14:33:05Z",
   "desc": "1200+ AI models in your GitHub Copilot Chat \u2014 free & forever free. VS Code extension powered by OmniRoute: 340+ providers (90+ free) \u2014 Kimi, Claude, GPT, Gemini, GLM, DeepSeek, Qwen \u2014 with agent mode, tool calling, vision and quota-aware auto-fallback. MIT.",
@@ -251812,7 +251890,7 @@
  "1333212317": {
   "created_at": "2026-08-13T14:34:04Z",
   "desc": "DeepSeek-Harness-Plugins",
-  "lang": "JavaScript",
+  "lang": "HTML",
   "name": "leenkcool/Blue-Whale-Harness",
   "node_id": "R_kgDOT3c0nQ",
   "topics": [
@@ -251831,6 +251909,14 @@
   "lang": "Python",
   "name": "Minkuuuuuuu/BDSM-Summer-Camp",
   "node_id": "R_kgDOT3drpQ",
+  "topics": []
+ },
+ "1333228186": {
+  "created_at": "2026-08-13T14:50:10Z",
+  "desc": "AI Japanese IME",
+  "lang": "Kotlin",
+  "name": "fa0311/keyNako",
+  "node_id": "R_kgDOT3dymg",
   "topics": []
  },
  "1333234252": {
@@ -251868,7 +251954,7 @@
  },
  "1333235870": {
   "created_at": "2026-08-13T14:57:55Z",
-  "desc": "DeepSeek Harness Session Cost Statistics & OpenCode Go Quota Display, DS Official Balance Display, Codex-like Token Heatmap Plugin: Current Session Cost, Daily Cost, Budget Limit Display, History Records, Synced with Official Pricing    DeepSeek Harness \u4f1a\u8bdd\u8d39\u7528\u7edf\u8ba1\u4e0eopencode go\u989d\u5ea6\u663e\u793a ds\u5b98\u65b9\u4f59\u989d\u663e\u793a\uff0c\u7c7bcodex token\u70ed\u529b\u56fe\u63d2\u4ef6:\u672c\u4f1a\u8bdd\u8d39\u7528\u3001\u5f53\u65e5\u8d39\u7528\u3001\u9884\u7b97\u8d39\u7528\u663e\u793a\uff0c\u5386\u53f2\u8bb0\u5f55\u4e0e\u5b98\u65b9\u4ef7\u683c\u540c\u6b65",
+  "desc": "DeepSeek Harness Session Cost Statistics & OpenCode Go Quota Display, DS Official Balance & Custom Provider Balance Lookup, Codex-like Token Heatmap Plugin: Session/Daily Cost, Budget, History, Peak/off-peak pricing, Price Sync, Multi-vendor pricing (90+ catalog), Coding Plan quota queries (6 vendors), Balance progress bar",
   "lang": "JavaScript",
   "name": "Han-1413141/dsh-cost-meter",
   "node_id": "R_kgDOT3eQng",
@@ -252211,6 +252297,14 @@
   "node_id": "R_kgDOT3lG1A",
   "topics": []
  },
+ "1333350630": {
+  "created_at": "2026-08-13T17:03:23Z",
+  "desc": "FailSafe Swarm on CVE-Bench v2.1.0: paper, graded results, evidence, and evaluation harness",
+  "lang": "HTML",
+  "name": "failsafe-security/failsafe-swarm",
+  "node_id": "R_kgDOT3lQ5g",
+  "topics": []
+ },
  "1333362686": {
   "created_at": "2026-08-13T17:16:42Z",
   "desc": "Privacy-aware trajectory viewer for local Codex task logs",
@@ -252475,6 +252569,25 @@
    "lark"
   ]
  },
+ "1333471394": {
+  "created_at": "2026-08-13T19:29:14Z",
+  "desc": "Bounded, layered, approval-gated, auditable cross-session memory for DeepSeek Harness (capability seam: ctx.memory + SQLite provider + memory tool + frozen snapshot injection)",
+  "lang": "JavaScript",
+  "name": "PerryLink/dsh-memento",
+  "node_id": "R_kgDOT3soog",
+  "topics": [
+   "agent-memory",
+   "approval",
+   "audit",
+   "cordis",
+   "deepseek-harness",
+   "dsh",
+   "dsh-plugin",
+   "llm",
+   "memory",
+   "sqlite"
+  ]
+ },
  "1333472422": {
   "created_at": "2026-08-13T19:30:31Z",
   "desc": "DSH \u63d2\u4ef6:\u56fe\u7247\u4e0e\u6587\u4ef6\u76f4\u8fbe\u7eaf\u6587\u672c\u6a21\u578b\u2014\u2014\u56fe\u7247\u4fdd\u7559\u539f\u751f\u9644\u4ef6\u4f53\u9a8c,PDF/Office/\u538b\u7f29\u5305/\u89c6\u9891/\u97f3\u9891\u663e\u793a\u4e3a\u9644\u4ef6\u680f\u65b9\u5757,\u70b9\u51fb\u53d1\u9001\u65f6\u81ea\u52a8\u8f6c\u4e3a\u5de5\u4f5c\u533a\u8def\u5f84,\u914d\u5408 dsh-vision-toolkit \u7c98\u8d34\u5373\u770b\u56fe\u3002A DSH plugin that delivers images AND files to text-only models as workspace paths: images keep the native attachment UI, other files show as square chips in the rail, paths append on send \u2014 pairs with dsh-vision-toolkit.",
@@ -252517,6 +252630,27 @@
    "playwright",
    "python",
    "workflow-automation"
+  ]
+ },
+ "1333482618": {
+  "created_at": "2026-08-13T19:44:34Z",
+  "desc": "Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default, fully auditable from the session log (approval/asked -> autoReview/verdict -> approval/decided).",
+  "lang": "TypeScript",
+  "name": "PerryLink/dsh-auto-review",
+  "node_id": "R_kgDOT3tUeg",
+  "topics": [
+   "ai-safety",
+   "approval",
+   "auto-review",
+   "cordis",
+   "deepseek",
+   "deepseek-harness",
+   "dsh",
+   "dsh-plugin",
+   "llm",
+   "sandbox",
+   "second-model",
+   "subagent"
   ]
  },
  "1333483404": {
@@ -252823,6 +252957,21 @@
   "node_id": "R_kgDOT347rQ",
   "topics": []
  },
+ "1333673564": {
+  "created_at": "2026-08-14T01:18:04Z",
+  "desc": "DSH Web UI plugin: skill and MCP management\uff08Web\u754c\u9762\u7684skill/MCP\u7ba1\u7406\u5de5\u5177\uff09",
+  "lang": "JavaScript",
+  "name": "Fishquito7/dsh-skill-mcp-panel",
+  "node_id": "R_kgDOT34-XA",
+  "topics": [
+   "deepseek",
+   "dsh",
+   "dsh-plugin",
+   "mcp",
+   "plugin",
+   "skills"
+  ]
+ },
  "1333681306": {
   "created_at": "2026-08-14T01:31:52Z",
   "desc": "",
@@ -252833,7 +252982,7 @@
  },
  "1333685863": {
   "created_at": "2026-08-14T01:40:02Z",
-  "desc": "Token usage heatmap, per-model breakdowns, and DeepSeek account balance for the DeepSeek Harness Web GUI (dsh web).",
+  "desc": "Provider balances, subscription quotas, and token-usage analytics for the DeepSeek Harness Web GUI (dsh web).",
   "lang": "JavaScript",
   "name": "Ychris12138/dsh-usage-stats",
   "node_id": "R_kgDOT35uZw",
@@ -252930,6 +253079,14 @@
    "taiwan",
    "traditional-chinese"
   ]
+ },
+ "1333708088": {
+  "created_at": "2026-08-14T02:18:24Z",
+  "desc": "\u5728 Android/Termux \u4e0a\u539f\u751f\u8fd0\u884c DeepSeek Harness \u7684\u4e00\u952e\u90e8\u7f72\u811a\u672c\uff08\u542b\u5168\u90e8 Android \u517c\u5bb9\u4fee\u590d\uff09",
+  "lang": "Shell",
+  "name": "FunnelCakes/deepseek-harness-android",
+  "node_id": "R_kgDOT37FOA",
+  "topics": []
  },
  "1333711733": {
   "created_at": "2026-08-14T02:24:25Z",
@@ -253169,6 +253326,18 @@
    "dsh-plugin"
   ]
  },
+ "1333807290": {
+  "created_at": "2026-08-14T04:58:15Z",
+  "desc": "The plugin market inside DeepSeek Harness \u2014 browse, search, one-click install \u00b7 DSH \u53ef\u89c6\u5316\u63d2\u4ef6\u5e02\u573a",
+  "lang": "TypeScript",
+  "name": "dsh-market/dsh-market",
+  "node_id": "R_kgDOT4BIug",
+  "topics": [
+   "deepseek-harness",
+   "dsh-plugin",
+   "marketplace"
+  ]
+ },
  "1333814075": {
   "created_at": "2026-08-14T05:09:09Z",
   "desc": "Codex/Claude Code-style live session telemetry for DeepSeek Harness \u2014 model, context, tokens, timing, jobs, and subagents at a glance.",
@@ -253203,6 +253372,14 @@
    "writing"
   ]
  },
+ "1333819496": {
+  "created_at": "2026-08-14T05:17:23Z",
+  "desc": "Machine-agnostic, Explainable-AI driven, auto-scaling fabric for distributed, intelligent applications on a robust adaptive Platform.",
+  "lang": "TypeScript",
+  "name": "laloloco89/ShiftNeural",
+  "node_id": "R_kgDOT4B4aA",
+  "topics": []
+ },
  "1333823235": {
   "created_at": "2026-08-14T05:23:18Z",
   "desc": "\u91cf\u5b50\u8ba1\u7b97\u6700\u4f73\u5b9e\u8df5 Quantum Algorithms Best Practices",
@@ -253219,6 +253396,22 @@
    "quantum-algorithms",
    "quantum-computing"
   ]
+ },
+ "1333826930": {
+  "created_at": "2026-08-14T05:29:05Z",
+  "desc": "Multi-Agent ShiftPort ecosystem implementing Real-Time containerized microservices architecture with enterprise-grade auto-scaling cloud infrastructure capabilities",
+  "lang": "JavaScript",
+  "name": "luisotakubanda/ShiftPort",
+  "node_id": "R_kgDOT4CVcg",
+  "topics": []
+ },
+ "1333833261": {
+  "created_at": "2026-08-14T05:38:12Z",
+  "desc": "DeepSeek Harness \u62c6\u89e3\u6559\u5b66\u8bfe\u7a0b\uff08\u9644\u4e0a\u7b80\u5355\u6559\u5b66\u7248\u5b9e\u73b0\u9879\u76ee\uff09",
+  "lang": "JavaScript",
+  "name": "onychen/learn-dsh",
+  "node_id": "R_kgDOT4CuLQ",
+  "topics": []
  },
  "1333844350": {
   "created_at": "2026-08-14T05:53:36Z",
@@ -253293,6 +253486,14 @@
    "syntax-highlighting"
   ]
  },
+ "1333901551": {
+  "created_at": "2026-08-14T07:08:08Z",
+  "desc": "",
+  "lang": "JavaScript",
+  "name": "hisence999/DSH-vision",
+  "node_id": "R_kgDOT4G47w",
+  "topics": []
+ },
  "1333906002": {
   "created_at": "2026-08-14T07:13:40Z",
   "desc": "discover daily product :\u6bcf\u65e5top10\u4ea7\u54c1,\u63d0\u4f9bGitHub\u8d8b\u52bf,\u6bcf\u5929\u65e9\u4e0a8\u70b9\u66f4\u65b0",
@@ -253347,7 +253548,7 @@
  },
  "1333936445": {
   "created_at": "2026-08-14T07:51:38Z",
-  "desc": " Claude-Code-style TUI bundle for DeepSeek Harness. \u5145\u5206\u7ed3\u5408 DSH \u7684\u6838\u5fc3\u673a\u5236\u4e0eCodex CLI \u3001Claude Code \u7684\u4f18\u79c0\u673a\u5236\uff0c\u6253\u9020\u7684 DSH-Code. \uff08\u6ce8\uff1a\u652f\u6301DSH \u7279\u6b8a\u6a21\u5f0f\uff0c\u63d2\u4ef6\u7cfb\u7edf\uff0c\u6a21\u578b\u7ba1\u7406\uff0cDeepseek \u5b98\u65b9 API \u7279\u6b8a\u52a8\u753b\uff09",
+  "desc": " Claude-Code-style TUI bundle for DeepSeek Harness. \u5145\u5206\u7ed3\u5408 DSH \u7684\u6838\u5fc3\u673a\u5236\u548c\u9ad8\u7ea7\u7279\u6027\u4e0eCodex CLI \u3001Claude Code \u7b49\u4e3b\u6d41\u4ea4\u4e92\u673a\u5236\uff0c\u6253\u9020\u7684 DSH-Code. \uff08\u6ce8\uff1a\u652f\u6301DSH \u7279\u6b8a\u6a21\u5f0f\uff0c\u63d2\u4ef6\u7cfb\u7edf\uff0c\u6a21\u578b\u7ba1\u7406\uff0c\u5b50\u4ee3\u7406\u4f1a\u8bdd\uff0cDeepseek \u5b98\u65b9 API \u7279\u6b8a\u52a8\u753b\uff09",
   "lang": "TypeScript",
   "name": "UNLINEARITY/dsh-code",
   "node_id": "R_kgDOT4JBPQ",
@@ -253398,7 +253599,7 @@
  },
  "1333961389": {
   "created_at": "2026-08-14T08:23:28Z",
-  "desc": "\u4e00\u7ad9\u5f0f DeepSeek Harness \u4e0a\u4e0b\u6587\u53ef\u89c6\u5316\u63d2\u4ef6\uff0cContext \u9762\u677f\u4e0e Context \u547d\u4ee4\uff0c\u900f\u89c6\u4e0a\u4e0b\u6587\u7ec4\u6210\u3001\u6f14\u8fdb\u3001\u538b\u7f29\u3001\u526a\u679d\u7b49\u4e8b\u4ef6\u4e0e\u52a8\u4f5c\u3002",
+  "desc": "Best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. \u4e00\u7ad9\u5f0f DeepSeek Harness \u4e0a\u4e0b\u6587\u53ef\u89c6\u5316\u63d2\u4ef6\uff0cContext \u9762\u677f\u53ca\u6d4f\u89c8\u5668\u4e0e Context \u547d\u4ee4\uff0c\u900f\u89c6\u4e0a\u4e0b\u6587\u7ec4\u6210\u3001\u6f14\u8fdb\u3001\u538b\u7f29\u3001\u526a\u679d\u7b49\u4e8b\u4ef6\u4e0e\u52a8\u4f5c\u3002",
   "lang": "TypeScript",
   "name": "bowenliang123/dsh-context",
   "node_id": "R_kgDOT4KirQ",
@@ -253408,6 +253609,40 @@
    "dsh-external",
    "dsh-plugin",
    "dsh-plugins"
+  ]
+ },
+ "1333964468": {
+  "created_at": "2026-08-14T08:27:11Z",
+  "desc": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers \u2014 OAuth login in the web UI, no API keys",
+  "lang": "TypeScript",
+  "name": "V1ki/dsh-plugin-subscriptions",
+  "node_id": "R_kgDOT4KutA",
+  "topics": [
+   "ai-agent",
+   "chatgpt",
+   "claude",
+   "codex",
+   "deepseek-harness",
+   "dsh-plugin",
+   "grok",
+   "llm",
+   "oauth",
+   "typescript"
+  ]
+ },
+ "1333969047": {
+  "created_at": "2026-08-14T08:32:47Z",
+  "desc": "Relay-site attributed token usage for DeepSeek Harness \u2014 zero config, no credentials",
+  "lang": "JavaScript",
+  "name": "zh667/TokenLedger",
+  "node_id": "R_kgDOT4LAlw",
+  "topics": [
+   "billing",
+   "deepseek-harness",
+   "dsh-plugin",
+   "newapi",
+   "sub2api",
+   "token-usage"
   ]
  },
  "1333978174": {
@@ -253795,6 +254030,21 @@
    "spatiotemporal-graph-neural-network"
   ]
  },
+ "1334214605": {
+  "created_at": "2026-08-14T13:32:19Z",
+  "desc": "Complete reverse-skill (85 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin \u2014 reverse engineering, authorized pentesting and security research skill pack.",
+  "lang": "PowerShell",
+  "name": "dhicoc/dsh-reverse-skill",
+  "node_id": "R_kgDOT4Z_zQ",
+  "topics": [
+   "ctf",
+   "deepseek-harness",
+   "dsh-plugin",
+   "pentest",
+   "reverse-engineering",
+   "security"
+  ]
+ },
  "1334236148": {
   "created_at": "2026-08-14T13:56:04Z",
   "desc": "Light gateway for cursor tools available",
@@ -253870,6 +254120,21 @@
   "node_id": "R_kgDOT4czuQ",
   "topics": []
  },
+ "1334268109": {
+  "created_at": "2026-08-14T14:30:43Z",
+  "desc": "DeepSeek Harness \u7528\u91cf\u4e0e\u6d88\u8017\u63d2\u4ef6\uff08dsh-usage-plugin\uff09\u2014\u2014 \u6bcf\u6b21\u8c03\u7528\u7684 token \u7528\u91cf/\u7f13\u5b58\u547d\u4e2d\u7edf\u8ba1\u3001\u5cf0\u8c37\u8ba1\u8d39\u3001\u4f59\u989d\u67e5\u8be2\u3001CSV/JSON/PNG \u5bfc\u51fa\uff0c\u53ef\u7ecf\u684c\u9762\u7aef\u4e00\u952e\u5b89\u88c5\u6216\u547d\u4ee4\u884c dsh plugin add \u5b89\u88c5\u3002",
+  "lang": "JavaScript",
+  "name": "feiyang-dev/dsh-usage-plugin",
+  "node_id": "R_kgDOT4dQzQ",
+  "topics": [
+   "deepseek",
+   "deepseek-harness",
+   "deepseek-v4",
+   "deepseek-v4-pro",
+   "dsh",
+   "dsh-plugin"
+  ]
+ },
  "1334305951": {
   "created_at": "2026-08-14T15:11:45Z",
   "desc": "Documenting the internals of Fingerprint Pro's commercial agent, not the open-source FingerprintJS library",
@@ -253883,6 +254148,18 @@
    "fingerprintjs-pro",
    "reverse-engineering",
    "webscraping"
+  ]
+ },
+ "1334309081": {
+  "created_at": "2026-08-14T15:15:19Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "CAPTAIN1275/dsh-ui-web",
+  "node_id": "R_kgDOT4fw2Q",
+  "topics": [
+   "dsh-plugin",
+   "dsh-plugin-market",
+   "dsh-plugins"
   ]
  },
  "1334309410": {
@@ -253970,6 +254247,14 @@
    "dsh-plugin"
   ]
  },
+ "1334381943": {
+  "created_at": "2026-08-14T16:39:47Z",
+  "desc": "A beginner-friendly starter for DeepSeek Harness - a minimal Electron desktop client for the official web GUI.",
+  "lang": "TypeScript",
+  "name": "sryimnoob123/dsh-starter",
+  "node_id": "R_kgDOT4kNdw",
+  "topics": []
+ },
  "1334392318": {
   "created_at": "2026-08-14T16:52:02Z",
   "desc": "DeepSeek Harness \u5b89\u5353\u542f\u52a8\u5668\uff1a\u5185\u7f6e proot+Ubuntu\uff0c\u514d ROOT \u514d Termux \u4e00\u952e\u8fd0\u884c deepseek-harness\uff0c\u591a\u6e90\u6d4b\u901f/\u5206\u6b65\u5b89\u88c5/WebUI \u9884\u89c8/\u8bbe\u5907 Shell \u6865\u63a5",
@@ -254035,6 +254320,14 @@
    "cursor",
    "mcp"
   ]
+ },
+ "1334431456": {
+  "created_at": "2026-08-14T17:38:47Z",
+  "desc": "Bivor \u2014 a macOS desktop workbench for the pi coding agent",
+  "lang": "TypeScript",
+  "name": "ryanlab/bivor",
+  "node_id": "R_kgDOT4nO4A",
+  "topics": []
  },
  "133444044": {
   "created_at": "2018-05-15T01:51:35Z",
@@ -254139,6 +254432,14 @@
   "node_id": "R_kgDOT4qGDQ",
   "topics": []
  },
+ "1334490046": {
+  "created_at": "2026-08-14T18:55:37Z",
+  "desc": "An Antigravity skill to design and build Omni video-driven parallax hero landing pages with a single prompt.",
+  "lang": "",
+  "name": "nroadley/Creating-Oneshot-Hero-Landing-Pages",
+  "node_id": "R_kgDOT4qzvg",
+  "topics": []
+ },
  "1334494531": {
   "created_at": "2026-08-14T19:02:01Z",
   "desc": "Your agent swarm as a live DAG: an orchestration graph with attempts, review gates, and evidence, in a herdr split pane.",
@@ -254202,6 +254503,30 @@
    "react"
   ]
  },
+ "1334561781": {
+  "created_at": "2026-08-14T20:40:06Z",
+  "desc": "\u901a\u8fc7\u626b\u7801\u6216\u673a\u5668\u4eba\u51ed\u636e\u628aIM\u673a\u5668\u4eba\u63a5\u5165DeepSeek Harness\uff08\u652f\u6301\u98de\u4e66\u3001\u5fae\u4fe1\u3001\u9489\u9489\u3001\u4f01\u4e1a\u5fae\u4fe1\u3001QQ\u3001Slack\u3001Telegram\u3001Discord\u548cWhatsApp\uff09\u3002 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
+  "lang": "JavaScript",
+  "name": "xmanrui/dsh-im",
+  "node_id": "R_kgDOT4vL9Q",
+  "topics": [
+   "ai-agents",
+   "chatbot",
+   "cordis",
+   "deepseek",
+   "deepseek-harness",
+   "dingtalk-bot",
+   "discord-bot",
+   "dsh",
+   "dsh-plugin",
+   "feishu-bot",
+   "im-bot",
+   "slack-bot",
+   "telegram-bot",
+   "wechat-bot",
+   "whatsapp-bot"
+  ]
+ },
  "1334580563": {
   "created_at": "2026-08-14T21:10:28Z",
   "desc": "",
@@ -254239,6 +254564,22 @@
    "mcp",
    "self-hosted",
    "task-management"
+  ]
+ },
+ "1334614062": {
+  "created_at": "2026-08-14T22:11:03Z",
+  "desc": "Seedance 2.0 API \u2014 text-to-video and image-to-video examples",
+  "lang": "",
+  "name": "apiframe-ai/seedance-2.0-api",
+  "node_id": "R_kgDOT4yYLg",
+  "topics": [
+   "bytedance",
+   "image-to-video",
+   "seedance",
+   "seedance-2",
+   "seedance-api",
+   "text-to-video",
+   "video-generation"
   ]
  },
  "1334617361": {
@@ -254327,7 +254668,7 @@
  "1334685457": {
   "created_at": "2026-08-15T00:45:52Z",
   "desc": "\u8f6f\u4ef6\u5b9e\u4e60\u9879\u76ee\u4f5c\u4e1a",
-  "lang": "",
+  "lang": "Vue",
   "name": "gry67673905/-AI-",
   "node_id": "R_kgDOT42vEQ",
   "topics": []
@@ -254356,6 +254697,21 @@
    "dsh",
    "dsh-plugin",
    "roleplay"
+  ]
+ },
+ "1334714311": {
+  "created_at": "2026-08-15T01:49:38Z",
+  "desc": "\ud83d\udc33 DeepSeek Harness Desktop",
+  "lang": "TypeScript",
+  "name": "lencx/Minke",
+  "node_id": "R_kgDOT44fxw",
+  "topics": [
+   "agent",
+   "deekseek",
+   "desktop",
+   "dsh",
+   "dsh-plugin",
+   "harness"
   ]
  },
  "1334747723": {
@@ -254518,7 +254874,7 @@
  },
  "1334871947": {
   "created_at": "2026-08-15T07:06:40Z",
-  "desc": "Deepseek Harness \u6781\u7b80\u6a21\u5f0f Windows\u9002\u914d\uff0c\u4eab\u7528\u6ee1\u8840Deepseek-V4\u7cfb\u5217\u6a21\u578b",
+  "desc": "Deepseek Harness \u6781\u7b80\u6a21\u5f0f / \u8bb8\u613f\u6a21\u5f0f Windows \u9002\u914d\uff0c\u4eab\u7528\u6ee1\u8840 Deepseek-V4 \u7cfb\u5217\u6a21\u578b\u3002",
   "lang": "HTML",
   "name": "ChangedenCZD/dsh-minimal-turbo",
   "node_id": "R_kgDOT5CHiw",
@@ -254638,11 +254994,37 @@
  },
  "1334946608": {
   "created_at": "2026-08-15T09:10:56Z",
-  "desc": "Qwen3.8-27B on a single RTX 3090: 416 tok/s batched or 25 ms/token single-user, 150k context, vLLM",
+  "desc": "Qwen3.8-27B on a single RTX 3090 with vLLM: ~1,000 tok/s at 64 concurrent (int8 tensor-core GEMMs, fp16 DeltaNet state), 84-90 tok/s single-user (MTP with cheap drafts), 150k context \u2014 262k with the ported KVarN 4/2-bit KV cache; patches, requant scripts, benchmarks",
   "lang": "Python",
   "name": "syv-ai/qwen38-27b-rtx3090",
   "node_id": "R_kgDOT5GrMA",
-  "topics": []
+  "topics": [
+   "kv-cache",
+   "llm-inference",
+   "local-llm",
+   "quantization",
+   "qwen",
+   "qwen3",
+   "rtx-3090",
+   "speculative-decoding",
+   "vllm"
+  ]
+ },
+ "1334954277": {
+  "created_at": "2026-08-15T09:23:10Z",
+  "desc": "Qwen3.8-27B at 34-38 tok/s on DGX Spark (GB10) \u2014 one-command SGLang + NVFP4 + DSpark setup, systemd, Claude Code ready",
+  "lang": "Shell",
+  "name": "hasso5703/dgx-spark-qwen38",
+  "node_id": "R_kgDOT5HJJQ",
+  "topics": [
+   "dgx-spark",
+   "gb10",
+   "local-llm",
+   "nvfp4",
+   "qwen",
+   "sglang",
+   "speculative-decoding"
+  ]
  },
  "1334962266": {
   "created_at": "2026-08-15T09:36:29Z",
@@ -254777,6 +255159,55 @@
   "node_id": "R_kgDOT5Oi1A",
   "topics": []
  },
+ "1335082381": {
+  "created_at": "2026-08-15T12:48:07Z",
+  "desc": "Save-money plugin for DSH (DeepSeek Harness) \u2014 define your own \"pause / resume\" time windows; at pause time running long tasks are paused (not stopped) automatically, and they resume when the window ends. ",
+  "lang": "JavaScript",
+  "name": "zhu168/dsh-save-money",
+  "node_id": "R_kgDOT5O9jQ",
+  "topics": [
+   "dsh",
+   "dsh-plugin",
+   "dsh-plugins"
+  ]
+ },
+ "1335084025": {
+  "created_at": "2026-08-15T12:50:41Z",
+  "desc": "Persistent memory for Claude Code. Bring your own database.",
+  "lang": "TypeScript",
+  "name": "Avijit07x/claude-db",
+  "node_id": "R_kgDOT5PD-Q",
+  "topics": [
+   "claude",
+   "claude-ai",
+   "claude-api",
+   "claude-code",
+   "claude-code-plugin",
+   "claude-code-plugins",
+   "claude-code-skill",
+   "claude-code-skills",
+   "claude-desktop",
+   "claude-plugin",
+   "claude-skills"
+  ]
+ },
+ "1335085754": {
+  "created_at": "2026-08-15T12:53:20Z",
+  "desc": "Deterministic prose checks for clearer coding-agent responses",
+  "lang": "TypeScript",
+  "name": "Vistyy/nopus",
+  "node_id": "R_kgDOT5PKug",
+  "topics": [
+   "agent-skills",
+   "claude-code",
+   "coding-agents",
+   "developer-tools",
+   "llm",
+   "openai-codex",
+   "pi-coding-agent",
+   "readability"
+  ]
+ },
  "1335095892": {
   "created_at": "2026-08-15T13:08:53Z",
   "desc": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
@@ -254791,6 +255222,7 @@
    "design-studio",
    "dsh-plugin",
    "ipollowork",
+   "ipollowork-plugin",
    "plugin",
    "ppt",
    "presentation",
@@ -254898,6 +255330,19 @@
   "node_id": "R_kgDOT5TRAw",
   "topics": []
  },
+ "1335155355": {
+  "created_at": "2026-08-15T14:30:35Z",
+  "desc": "\u9762\u5411 DeepSeek Harness\uff08dsh\uff09\u7684\u6e17\u900f\u6d4b\u8bd5\u6a21\u5f0f  @CloverSecLabs",
+  "lang": "JavaScript",
+  "name": "howmp/dsh-pentest",
+  "node_id": "R_kgDOT5Tamw",
+  "topics": [
+   "deepseek-harness",
+   "dsh-plugin",
+   "dsh-plugins",
+   "pentest"
+  ]
+ },
  "1335189481": {
   "created_at": "2026-08-15T15:16:37Z",
   "desc": "\u8bed\u97f3 AI \u5973\u53cb\uff08Voice AI girlfriend for DeepSeek Harness\uff09\uff1aWhisper \u8bed\u97f3\u8f93\u5165 + Qwen3-TTS \u58f0\u97f3\u514b\u9686 + \u53e5\u5b50\u7ea7\u6d41\u5f0f\u6717\u8bfb + \u6570\u5b57\u4eba\u52a8\u753b\u7a97\u3002\u63d2\u8bdd/\u6392\u961f\u53cc\u6a21\u5f0f\uff0c\u8bf4\u8bdd\u5373\u6253\u65ad\u3002",
@@ -254920,11 +255365,60 @@
  },
  "1335200032": {
   "created_at": "2026-08-15T15:31:18Z",
-  "desc": "",
+  "desc": "Low quality version of what we have at Lynceus jobs",
   "lang": "",
   "name": "trylynceus/jobs",
   "node_id": "R_kgDOT5WJIA",
-  "topics": []
+  "topics": [
+   "hiring",
+   "jobs",
+   "jobsearch",
+   "jobseeker",
+   "open-source",
+   "remote-jobs"
+  ]
+ },
+ "1335212898": {
+  "created_at": "2026-08-15T15:49:26Z",
+  "desc": "Translate AI garbage to human language. A Pi package for plain-language rewrites.",
+  "lang": "TypeScript",
+  "name": "wtfzambo/speak-like-you-eat",
+  "node_id": "R_kgDOT5W7Yg",
+  "topics": [
+   "llm",
+   "pi",
+   "pi-package",
+   "plain-language",
+   "writing"
+  ]
+ },
+ "1335220704": {
+  "created_at": "2026-08-15T16:00:02Z",
+  "desc": "Pi adapter for official DeepSeek Harness minimal mode. V4 Pro thinks We need\u2026 / I need\u2026, not Let me\u2026",
+  "lang": "TypeScript",
+  "name": "Averyyy/pi-dsh-minimal",
+  "node_id": "R_kgDOT5XZ4A",
+  "topics": [
+   "agent-harness",
+   "coding-agent",
+   "deepseek",
+   "deepseek-harness",
+   "deepseek-v4-pro",
+   "llm-agent",
+   "pi",
+   "pi-coding-agent",
+   "typescript"
+  ]
+ },
+ "1335236473": {
+  "created_at": "2026-08-15T16:22:14Z",
+  "desc": "claude anti-watermarking",
+  "lang": "HTML",
+  "name": "aloshdenny/claude-awm",
+  "node_id": "R_kgDOT5YXeQ",
+  "topics": [
+   "illegal"
+  ]
  },
  "1335239016": {
   "created_at": "2026-08-15T16:25:59Z",
@@ -254974,9 +255468,17 @@
    "routing"
   ]
  },
+ "1335297766": {
+  "created_at": "2026-08-15T17:53:46Z",
+  "desc": "JLC GLOBAL\uff5c\u9762\u5411 Codex \u7684 1688 \u2192 Ozon \u81ea\u52a8\u5316\u4e0a\u67b6\u5de5\u4f5c\u53f0\uff08\u975e\u5546\u4e1a\u6e90\u7801\u5f00\u653e\u793e\u533a\u7248\uff09",
+  "lang": "Python",
+  "name": "jlcglobal/jlc-global-ozon-auto-listing",
+  "node_id": "R_kgDOT5cG5g",
+  "topics": []
+ },
  "1335304622": {
   "created_at": "2026-08-15T18:04:39Z",
-  "desc": "All-in-one MiniMax H3 node for ComfyUI - T2V, I2V, R2V, audio drive, keyframes, extend & Motion Context chains in a single node.",
+  "desc": "All-in-one MiniMax H3 node for ComfyUI - T2V, T2I, I2V, R2V, audio drive, keyframes, extend & Motion Context chains in a single node.",
   "lang": "JavaScript",
   "name": "LeonQ8/ComfyUI-ALLinONE-MinimaxH3",
   "node_id": "R_kgDOT5chrg",
@@ -255076,6 +255578,14 @@
   "node_id": "R_kgDOT5qTsQ",
   "topics": []
  },
+ "1335545044": {
+  "created_at": "2026-08-16T01:36:11Z",
+  "desc": "Deepseek HARNESS Quant \u2014 A\u80a1\u4f4e\u9891\u91cf\u5316\u51b3\u7b56\u7cfb\u7edf\uff08Pitch\u51b3\u7b56\u94fe + \u56e0\u5b50\u5f15\u64ce + \u4e94\u6c60\u8fdc\u671f\u9a8c\u8bc1 + HARNESS \u5d4c\u5165\uff09",
+  "lang": "Python",
+  "name": "yuanwang589-dev/deepseek-harness-quant",
+  "node_id": "R_kgDOT5rM1A",
+  "topics": []
+ },
  "1335574883": {
   "created_at": "2026-08-16T02:48:05Z",
   "desc": "\u667a\u89c1 AI \u84dd\u76ae\u4e66\uff1a\u62c6\u89e3 WorkBuddy \u7684\u63d0\u793a\u8bcd\u3001\u8bb0\u5fc6\u3001\u63d2\u4ef6\u3001\u4e13\u5bb6\u3001Skill \u4e0e\u5b89\u5168\u8fb9\u754c\u3002",
@@ -255122,6 +255632,14 @@
   "node_id": "R_kgDOT5uDWw",
   "topics": []
  },
+ "1335595428": {
+  "created_at": "2026-08-16T03:35:03Z",
+  "desc": "",
+  "lang": "",
+  "name": "TanShilongMario/NiuLai-Skill",
+  "node_id": "R_kgDOT5uRpA",
+  "topics": []
+ },
  "1335678174": {
   "created_at": "2026-08-16T06:32:56Z",
   "desc": "DeepSeek Harness Web plugin powered by markstream-react for resilient streaming Markdown, Mermaid diagrams, KaTeX math, and safe renderer fallback.",
@@ -255155,6 +255673,14 @@
   "lang": "",
   "name": "rharir35-netizen/Scientific-Ai",
   "node_id": "R_kgDOT53SMg",
+  "topics": []
+ },
+ "1335753770": {
+  "created_at": "2026-08-16T08:40:47Z",
+  "desc": "A portable Product \u2192 Feature \u2192 Ship workflow for human-AI software development.",
+  "lang": "Python",
+  "name": "m358807551/yaya-loop",
+  "node_id": "R_kgDOT538Kg",
   "topics": []
  },
  "1335759152": {
@@ -255215,6 +255741,20 @@
    "usage-tracking"
   ]
  },
+ "1335823455": {
+  "created_at": "2026-08-16T10:35:30Z",
+  "desc": "\u4fdd\u7559\u89c6\u9891\u5185\u5d4c\u5b57\u5e55\uff0c\u7cbe\u786e\u53d6\u5e27\u5e76\u751f\u6210 3:4 \u793e\u4ea4\u957f\u56fe\u7684 Agent Skill",
+  "lang": "Python",
+  "name": "chengyi-ai/native-subtitle-quote-image",
+  "node_id": "R_kgDOT58MXw",
+  "topics": [
+   "agent-skills",
+   "codex",
+   "social-media",
+   "subtitles",
+   "video-processing"
+  ]
+ },
  "1335830636": {
   "created_at": "2026-08-16T10:46:31Z",
   "desc": "One-to-one AI teaching skills (Alvar method) for Codex, Claude Code, Grok, Pi, and OpenCode",
@@ -255263,6 +255803,14 @@
   "node_id": "R_kgDOT6ECHA",
   "topics": []
  },
+ "1336052866": {
+  "created_at": "2026-08-16T15:01:11Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "hisence999/pi-deepseek-route",
+  "node_id": "R_kgDOT6KMgg",
+  "topics": []
+ },
  "1336068061": {
   "created_at": "2026-08-16T15:19:41Z",
   "desc": "DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex \u2014 native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation.",
@@ -255299,6 +255847,14 @@
    "shizuku"
   ]
  },
+ "1336137027": {
+  "created_at": "2026-08-16T16:31:22Z",
+  "desc": "Open source Forever Model Indicator by CantoLab",
+  "lang": "",
+  "name": "cantolab/forever-model",
+  "node_id": "R_kgDOT6PVQw",
+  "topics": []
+ },
  "1336155185": {
   "created_at": "2026-08-16T16:51:26Z",
   "desc": "Knowledge graph memory for AI assistants: three SQLite tables, one recursive query, one prompt hook.",
@@ -255331,6 +255887,22 @@
   "node_id": "R_kgDOT6W1ZQ",
   "topics": []
  },
+ "1336264556": {
+  "created_at": "2026-08-16T18:55:06Z",
+  "desc": "Lean how ONE system prompt turns Opus 5 from a 'load-bearing' smartass into a precise CRACKED senior engineering partner.",
+  "lang": "Just",
+  "name": "disler/fixing-smartass-opus-5",
+  "node_id": "R_kgDOT6XHbA",
+  "topics": []
+ },
+ "1336301267": {
+  "created_at": "2026-08-16T19:44:28Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark",
+  "node_id": "R_kgDOT6ZW0w",
+  "topics": []
+ },
  "1336343180": {
   "created_at": "2026-08-16T20:39:22Z",
   "desc": "Windows companion panel and docs for ExpressVPN setup, server browsing, and connection workflows aligned with app 14.2.0.",
@@ -255349,6 +255921,52 @@
    "workflow"
   ]
  },
+ "1336416579": {
+  "created_at": "2026-08-16T22:27:54Z",
+  "desc": "",
+  "lang": "",
+  "name": "guithepc/mentor-prompt",
+  "node_id": "R_kgDOT6gZQw",
+  "topics": []
+ },
+ "1336482340": {
+  "created_at": "2026-08-17T00:13:19Z",
+  "desc": "Local-first open-source multi-profile fingerprint browser based on Chromium and Electron",
+  "lang": "TypeScript",
+  "name": "DFarm6/Prism-Browser-Community",
+  "node_id": "R_kgDOT6kaJA",
+  "topics": [
+   "browser-automation",
+   "chromium",
+   "electron",
+   "fingerprint-browser",
+   "privacy"
+  ]
+ },
+ "1336487943": {
+  "created_at": "2026-08-17T00:22:20Z",
+  "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+  "lang": "Python",
+  "name": "browser-use/macos-harness",
+  "node_id": "R_kgDOT6kwBw",
+  "topics": [
+   "accessibility",
+   "agent",
+   "automation",
+   "cdp",
+   "computer-use",
+   "macos",
+   "python"
+  ]
+ },
+ "1336591441": {
+  "created_at": "2026-08-17T02:53:49Z",
+  "desc": "VoiceStudio is a local-first, free text-to-speech studio for multi-languages. Create polished voiceovers with named neural voices, style presets, pitch/rate/volume controls, browser preview, local history, and MP3/WAV/AAC export\u2014no API key required.",
+  "lang": "TypeScript",
+  "name": "CroireF/LocalVoiceStudio",
+  "node_id": "R_kgDOT6rEUQ",
+  "topics": []
+ },
  "1336612582": {
   "created_at": "2026-08-17T03:20:38Z",
   "desc": "Reproducible benchmark and reference pipeline for reranked long-term memory retrieval",
@@ -255365,12 +255983,138 @@
    "voyage-ai"
   ]
  },
+ "1336616320": {
+  "created_at": "2026-08-17T03:26:10Z",
+  "desc": "\u4ece100 \u591a\u7bc7\u7206\u6b3e AI \u516c\u4f17\u53f7\u6587\u7ae0\u4e2d\u84b8\u998f\u51fa\u7684 7 \u4e2a\u7206\u6b3e\u9009\u9898\u516c\u5f0f\u548c Skill\u3002",
+  "lang": "",
+  "name": "BigPengSays/bigpeng-hot-gzh",
+  "node_id": "R_kgDOT6slgA",
+  "topics": []
+ },
+ "1336687701": {
+  "created_at": "2026-08-17T04:56:34Z",
+  "desc": "\u5168\u7f51\u9996\u4e2a\u4e2d\u6587\u5b57\u4f53\u4e13\u4e1a\u77e5\u8bc6\u5305\uff1a\u53ef\u5546\u7528\u4e2d\u6587\u5b57\u4f53\u5e93\uff08\u6388\u6743\u4e09\u7ea7\u5206\u7c7b\uff09\u3001\u573a\u666f\u00d7\u6c14\u8d28\u9009\u5b57\u77e9\u9635\u3001\u4e2d\u82f1\u6df7\u6392\u4e0e\u6392\u7248\u89c4\u5219\u3002\u8ba9 AI \u9009\u4e2d\u6587\u8bbe\u8ba1\u5b57\u4f53\u4e0d\u518d\u7529\u7ed9\u4f60\u4e00\u5806 Inter / Chinese font selection agent skill: license-safe free commercial CJK fonts, scene-based selection matrix, CJK-Latin pairing rules. Works with Claude Code / Cursor / Kimi / Codex.",
+  "lang": "",
+  "name": "Songzhi-lab/chinese-font-selector",
+  "node_id": "R_kgDOT6w8VQ",
+  "topics": [
+   "agent-skills",
+   "ai-agent",
+   "chinese-fonts",
+   "chinese-typography",
+   "cjk-fonts",
+   "claude-skill",
+   "design-system",
+   "font-pairing",
+   "font-selection",
+   "free-commercial-fonts",
+   "skill-md",
+   "typography-tools"
+  ]
+ },
+ "1336707765": {
+  "created_at": "2026-08-17T05:21:29Z",
+  "desc": "Neural latent upscaler for Minimax H3 (24ch). Bypasses costly 5B-param VAE decode/encode. Upscale low-res latents directly, then refine. Accelerates high-res video gen, outperforms naive interp.",
+  "lang": "Python",
+  "name": "LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler",
+  "node_id": "R_kgDOT6yKtQ",
+  "topics": []
+ },
+ "1336750151": {
+  "created_at": "2026-08-17T06:11:42Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "poriaporhashemi/idor-tester-ai",
+  "node_id": "R_kgDOT60wRw",
+  "topics": []
+ },
  "1336769768": {
   "created_at": "2026-08-17T06:32:34Z",
   "desc": "\u672c\u5730\u77ed\u89c6\u9891\u53cd\u63a8 AI \u89c6\u9891\u751f\u6210\u63d0\u793a\u8bcd\uff1a\u62bd\u5e27\u3001\u6e05\u6670\u5ea6\u3001\u8282\u594f\u5361\u70b9\u3001Agent Skill",
   "lang": "Python",
   "name": "CattleZ/dance-video-to-prompt",
   "node_id": "R_kgDOT6186A",
+  "topics": []
+ },
+ "1336793734": {
+  "created_at": "2026-08-17T06:56:42Z",
+  "desc": "Pilot Harness \u2014 a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
+  "lang": "TypeScript",
+  "name": "op7418/pilot-harness",
+  "node_id": "R_kgDOT63ahg",
+  "topics": [
+   "ai-agent",
+   "codepilot",
+   "deepseek",
+   "deepseek-harness",
+   "desktop-app",
+   "dsh",
+   "dsh-plugin",
+   "electron",
+   "linux",
+   "macos",
+   "typescript",
+   "windows"
+  ]
+ },
+ "1336875304": {
+  "created_at": "2026-08-17T08:19:11Z",
+  "desc": "An evidence-first Agent Skill for safely simplifying any codebase.",
+  "lang": "",
+  "name": "Yevanchen/reclaim-code-entropy",
+  "node_id": "R_kgDOT68ZKA",
+  "topics": []
+ },
+ "1336933337": {
+  "created_at": "2026-08-17T09:13:52Z",
+  "desc": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
+  "lang": "TypeScript",
+  "name": "yetone/cumora",
+  "node_id": "R_kgDOT6_72Q",
+  "topics": []
+ },
+ "1336972285": {
+  "created_at": "2026-08-17T09:50:26Z",
+  "desc": "Agentifying the Evaluation of Visual Worlds",
+  "lang": "Python",
+  "name": "MirroS-Lab/HarnessEval-W",
+  "node_id": "R_kgDOT7CT_Q",
+  "topics": [
+   "agent",
+   "benchmark",
+   "evaluation",
+   "harness",
+   "harness-engineering",
+   "kling",
+   "minimax-h3",
+   "seedance",
+   "video-generation",
+   "wan",
+   "world-model"
+  ]
+ },
+ "1337772677": {
+  "created_at": "2026-08-17T23:32:24Z",
+  "desc": "A clear-writing agent skill grounded in the Google Developer Documentation Style Guide.",
+  "lang": "Shell",
+  "name": "daniel-p-green/nbj-write-clearly",
+  "node_id": "R_kgDOT7zKhQ",
+  "topics": []
+ },
+ "1337915408": {
+  "created_at": "2026-08-18T03:05:09Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "air-embodied-brain/Zetta-Embodiment",
+  "node_id": "R_kgDOT774EA",
+  "topics": []
+ },
+ "1337966059": {
+  "created_at": "2026-08-18T04:23:57Z",
+  "desc": "Complete, end-to-end framework and high-performance OpenAI-compatible gateway for the Qoder ecosystem.",
+  "lang": "Python",
+  "name": "d4ncboz/qoder-workflow",
+  "node_id": "R_kgDOT7-96w",
   "topics": []
  },
  "134584107": {
