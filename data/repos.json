@@ -252012,7 +252012,7 @@
  },
  "1333235870": {
   "created_at": "2026-08-13T14:57:55Z",
-  "desc": "DeepSeek Harness Session Cost Statistics & OpenCode Go Quota Display, DS Official Balance & Custom Provider Balance Lookup, Codex-like Token Heatmap Plugin: Session/Daily Cost, Budget, History, Peak/off-peak pricing, Price Sync, Multi-vendor pricing (90+ catalog), Coding Plan quota queries (6 vendors), Balance progress bar",
+  "desc": "DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan quota queries (7 vendors), bilingual zh/en UI",
   "lang": "JavaScript",
   "name": "Han-1413141/dsh-cost-meter",
   "node_id": "R_kgDOT3eQng",
@@ -252334,6 +252334,14 @@
    "tutorial"
   ]
  },
+ "1333307560": {
+  "created_at": "2026-08-13T16:15:27Z",
+  "desc": "Deepseek harness rewritten by rust",
+  "lang": "Rust",
+  "name": "xizheyin/deepseek-harness-rs",
+  "node_id": "R_kgDOT3ioqA",
+  "topics": []
+ },
  "1333320049": {
   "created_at": "2026-08-13T16:29:22Z",
   "desc": "Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering)",
@@ -252428,9 +252436,9 @@
  },
  "1333365124": {
   "created_at": "2026-08-13T17:19:18Z",
-  "desc": "Self-Improvement TUI Plugin of DeepSeek Harness. Everything Here Is Also A Plugin. dsh-tui",
+  "desc": "deepseek-harness-tui before. Self-Improvement TUI Plugin of DeepSeek Harness. Everything Here Is Also A Plugin. dsh-tui",
   "lang": "Rust",
-  "name": "openma-ai/deepseek-harness-tui",
+  "name": "openma-ai/Martty",
   "node_id": "R_kgDOT3mJhA",
   "topics": [
    "agent",
@@ -252594,10 +252602,29 @@
  "1333428970": {
   "created_at": "2026-08-13T18:35:22Z",
   "desc": "",
-  "lang": "JavaScript",
+  "lang": "Python",
   "name": "Phineas1500/sieve-ai-image-detector",
   "node_id": "R_kgDOT3qC6g",
   "topics": []
+ },
+ "1333429325": {
+  "created_at": "2026-08-13T18:35:49Z",
+  "desc": "deepseek-harness for vscode .This is a community project, and we welcome your valuable feedback!",
+  "lang": "TypeScript",
+  "name": "skymecode/deepseek-harness-for-vscode",
+  "node_id": "R_kgDOT3qETQ",
+  "topics": [
+   "deepseek",
+   "deepseek-harness",
+   "deepseek-harness-plugin",
+   "dsh-plugin",
+   "dsh-plugin-market",
+   "dsh-plugins",
+   "vscode",
+   "vscode-extension",
+   "vscode-extensions",
+   "vscode-plugin"
+  ]
  },
  "1333445152": {
   "created_at": "2026-08-13T18:56:04Z",
@@ -252924,6 +252951,23 @@
    "dsh-plugin"
   ]
  },
+ "1333579583": {
+  "created_at": "2026-08-13T22:17:10Z",
+  "desc": "Batched, checkpointed, resumable data operations for Laravel \u2014 backfills, cleanups, and migrations that survive deploys, crashes, and Ctrl+C.",
+  "lang": "PHP",
+  "name": "AmrLotfy/laravel-chores",
+  "node_id": "R_kgDOT3zPPw",
+  "topics": [
+   "artisan",
+   "backfill",
+   "batch-processing",
+   "data-migration",
+   "eloquent",
+   "laravel",
+   "maintenance-tasks",
+   "php"
+  ]
+ },
  "1333594899": {
   "created_at": "2026-08-13T22:46:07Z",
   "desc": "A 45M-parameter LLM: needle 2 running fully offline on an ESP32-S3, turning plain-English requests into guaranteed-valid JSON tool calls.",
@@ -252963,7 +253007,7 @@
  },
  "1333612974": {
   "created_at": "2026-08-13T23:21:41Z",
-  "desc": "DeepSeek Harness DSH \u63d0\u793a\u8bcd\u589e\u5f3a\u63d2\u4ef6\uff1a\u2728 \u4e00\u952e\u4f18\u5316\u8349\u7a3f\uff0c\u589e\u5f3a\u63d0\u793a\u8bcd\u3002",
+  "desc": "DeepSeek Harness (DSH) \u63d2\u4ef6\uff1a\u2728 \u63d0\u793a\u8bcd\u4e00\u952e\u589e\u5f3a + \ud83d\udd01 DSH \u670d\u52a1\u5f02\u5e38\u4e00\u952e\u91cd\u542f",
   "lang": "JavaScript",
   "name": "Fishsb/dsh-prompt-enhancer",
   "node_id": "R_kgDOT31Rrg",
@@ -252994,7 +253038,7 @@
  "1333629201": {
   "created_at": "2026-08-13T23:55:34Z",
   "desc": "dsh \u5b89\u5353\u58f3 APK\u2014\u2014WebView UI + \u5185\u5d4c Termux \u8fd0\u884c\u65f6\u5feb\u7167\uff08\u89e3\u538b\u5373\u8dd1\uff09\u3001SAF \u76ee\u5f55\u6865\u3001\u4fdd\u6d3b\u670d\u52a1\u3001\u770b\u95e8\u72d7\u3001\u8fd0\u884c\u65f6\u5728\u7ebf\u66f4\u65b0\u3002",
-  "lang": "JavaScript",
+  "lang": "Kotlin",
   "name": "kelai141/dsh-mobile-apk",
   "node_id": "R_kgDOT32REQ",
   "topics": [
@@ -253375,12 +253419,12 @@
  },
  "1333738786": {
   "created_at": "2026-08-14T03:08:20Z",
-  "desc": "DSH Web UI plugin: auto-sends \u300c\u7ee7\u7eed\u300d to resume requests interrupted by network errors or other non-human causes \u2014 error classification, adaptive backoff, templated continue text, browser notifications, all configurable from the settings card",
+  "desc": "DSH Web UI plugin: auto-sends \u300c\u7ee7\u7eed\u300d to resume requests interrupted by non-human causes \u2014 error classification, adaptive backoff, pause, idempotency guard, loop guard, templated resume texts, stats, all configurable from the settings card",
   "lang": "JavaScript",
   "name": "HsiangNianian/dsh-auto-continue",
   "node_id": "R_kgDOT389Ig",
   "topics": [
-   "auto-contiune",
+   "auto-continue",
    "automatic",
    "cordis",
    "deepseek-harness",
@@ -253491,6 +253535,14 @@
   "node_id": "R_kgDOT3-PHA",
   "topics": []
  },
+ "1333773567": {
+  "created_at": "2026-08-14T04:02:59Z",
+  "desc": "The Network Engineer SSH Client I wish I had 20 years ago",
+  "lang": "Go",
+  "name": "scottpeterman/pathfinderssh",
+  "node_id": "R_kgDOT3_E_w",
+  "topics": []
+ },
  "1333781342": {
   "created_at": "2026-08-14T04:16:15Z",
   "desc": "DeepSeek CLI (UnOfficial)",
@@ -253531,6 +253583,21 @@
   "topics": [
    "dsh",
    "dsh-plugin"
+  ]
+ },
+ "1333787962": {
+  "created_at": "2026-08-14T04:26:57Z",
+  "desc": "Remote-work assistant for DeepSeek Harness (DSH): connect via SSH (key or password), pick a remote workspace, operate with rw_* tools, and SFTP-mirror it into a real local DSH workspace.",
+  "lang": "JavaScript",
+  "name": "flymysql/dsh-remote",
+  "node_id": "R_kgDOT3_9Og",
+  "topics": [
+   "deepseek-harness",
+   "dsh-plugin",
+   "plugin",
+   "remote",
+   "ssh",
+   "tunnel"
   ]
  },
  "1333802136": {
@@ -253837,7 +253904,7 @@
  },
  "1333959391": {
   "created_at": "2026-08-14T08:21:04Z",
-  "desc": "Run models larger than memory. Weights stream from your SSD through a memory budget you set. Free, local, on Mac and iPhone. ",
+  "desc": "Run Kimi K3 (2.8 T parameters,1.56 TB) on iPhone 16 Pro? Weights stream from your SSD through a memory budget you set. Free, local, on Mac and iPhone. ",
   "lang": "Swift",
   "name": "nanguoyu/minirun-app",
   "node_id": "R_kgDOT4Ka3w",
@@ -253958,6 +254025,14 @@
   "lang": "Rust",
   "name": "dungoutlook1/ai-super-model",
   "node_id": "R_kgDOT4M9iw",
+  "topics": []
+ },
+ "1334012210": {
+  "created_at": "2026-08-14T09:25:12Z",
+  "desc": "Transform ordinary photographs into distinctive, source-aware artworks.",
+  "lang": "",
+  "name": "mingjie914/photo-alchemy",
+  "node_id": "R_kgDOT4NpMg",
   "topics": []
  },
  "1334017055": {
@@ -254416,6 +254491,21 @@
   "node_id": "R_kgDOT4czuQ",
   "topics": []
  },
+ "1334266810": {
+  "created_at": "2026-08-14T14:29:25Z",
+  "desc": "DSH \u4f1a\u8bdd\u7ba1\u7406\u63d2\u4ef6\uff1a\u5220\u9664\uff08\u56de\u6536\u7ad9\u6062\u590d/\u5f7b\u5e95\u6e05\u9664\uff09\u3001\u7edf\u8ba1\u3001\u7ee7\u7eed/\u6682\u505c\u3001\u6253\u5f00\u65e5\u5fd7\u76ee\u5f55\u3001\u5bf9\u8bdd\u9876\u90e8\u62bd\u5c49\u3001\u5de5\u4f5c\u533a\u5206\u7ec4\u4e0e\u6392\u5e8f\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u9608\u503c\u8bbe\u7f6e\u3002DSH session manager: delete with trash/restore/purge, stats, continue/pause, log folder, header drawer, workspace grouping, context compaction threshold.",
+  "lang": "TypeScript",
+  "name": "dream12347/dsh-session-manager",
+  "node_id": "R_kgDOT4dLug",
+  "topics": [
+   "ai-worker",
+   "deeepseek-harness-plugins",
+   "deepseek-harness",
+   "deepseek-harness-plugin",
+   "dsh",
+   "dsh-plugin"
+  ]
+ },
  "1334268109": {
   "created_at": "2026-08-14T14:30:43Z",
   "desc": "DeepSeek Harness \u7528\u91cf\u4e0e\u6d88\u8017\u63d2\u4ef6\uff08dsh-usage-plugin\uff09\u2014\u2014 \u6bcf\u6b21\u8c03\u7528\u7684 token \u7528\u91cf/\u7f13\u5b58\u547d\u4e2d\u7edf\u8ba1\u3001\u5cf0\u8c37\u8ba1\u8d39\u3001\u4f59\u989d\u67e5\u8be2\u3001CSV/JSON/PNG \u5bfc\u51fa\uff0c\u53ef\u7ecf\u684c\u9762\u7aef\u4e00\u952e\u5b89\u88c5\u6216\u547d\u4ee4\u884c dsh plugin add \u5b89\u88c5\u3002",
@@ -254431,6 +254521,19 @@
    "dsh-plugin"
   ]
  },
+ "1334296085": {
+  "created_at": "2026-08-14T15:00:28Z",
+  "desc": "DSH for Hanako",
+  "lang": "JavaScript",
+  "name": "Nyasers/dsh-hanako",
+  "node_id": "R_kgDOT4e-FQ",
+  "topics": [
+   "dsh",
+   "dsh-plugin",
+   "oh-plugin",
+   "openhanako-plugin"
+  ]
+ },
  "1334301205": {
   "created_at": "2026-08-14T15:06:18Z",
   "desc": "Local-first offline document redaction and restoration for office documents, legal case files, images, audio and video.",
@@ -254438,6 +254541,29 @@
   "name": "caipeijia833/doc-redaction",
   "node_id": "R_kgDOT4fSFQ",
   "topics": []
+ },
+ "1334305310": {
+  "created_at": "2026-08-14T15:11:01Z",
+  "desc": "Compact DeepSeek Harness desktop host. macOS downloads under 90 MB with Tauri; Windows uses Electron.",
+  "lang": "JavaScript",
+  "name": "chokwinlee/deepseek-harness-desktop",
+  "node_id": "R_kgDOT4fiHg",
+  "topics": [
+   "ai-agents",
+   "coding-agent",
+   "cross-platform",
+   "deepseek",
+   "deepseek-harness",
+   "desktop",
+   "desktop-app",
+   "dsh",
+   "dsh-plugin",
+   "electron",
+   "lightweight",
+   "macos",
+   "tauri",
+   "windows"
+  ]
  },
  "1334305951": {
   "created_at": "2026-08-14T15:11:45Z",
@@ -254531,6 +254657,23 @@
   "node_id": "R_kgDOT4jGTw",
   "topics": []
  },
+ "1334369459": {
+  "created_at": "2026-08-14T16:25:09Z",
+  "desc": "\u4e00\u4e2a\u57fa\u4e8eDSH-better-sidebar\u7684\u4fa7\u8fb9\u680f\u63d0\u95eetab\uff0c\u5b9e\u73b0\u7c7bcodex\u7684\u4fa7\u8fb9\u63d0\u95ee\u6216claude code\u7684/btw\u529f\u80fd",
+  "lang": "TypeScript",
+  "name": "ChenRuoT/dsh-sidebar-qa",
+  "node_id": "R_kgDOT4jcsw",
+  "topics": [
+   "deepseek",
+   "deepseek-harness",
+   "dsh",
+   "dsh-better-sidebar",
+   "dsh-plugin",
+   "dsh-plugin-market",
+   "dsh-plugins",
+   "sidebar"
+  ]
+ },
  "1334373503": {
   "created_at": "2026-08-14T16:29:54Z",
   "desc": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation \u63fd\u5c3d\u4e07\u8c61",
@@ -254566,6 +254709,21 @@
   "name": "sryimnoob123/dsh-starter",
   "node_id": "R_kgDOT4kNdw",
   "topics": []
+ },
+ "1334384058": {
+  "created_at": "2026-08-14T16:42:17Z",
+  "desc": "Free web search provider for DeepSeek Harness - DuckDuckGo backend, no API key needed",
+  "lang": "JavaScript",
+  "name": "DDDMUC/dsh-free-search",
+  "node_id": "R_kgDOT4kVug",
+  "topics": [
+   "bing",
+   "deepseek-harness",
+   "dsh",
+   "dsh-plugin",
+   "duckduckgo",
+   "web-search"
+  ]
  },
  "1334392318": {
   "created_at": "2026-08-14T16:52:02Z",
@@ -254686,6 +254844,14 @@
    "reasoning-effort"
   ]
  },
+ "1334454708": {
+  "created_at": "2026-08-14T18:08:20Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "libnyx/LT2MD",
+  "node_id": "R_kgDOT4optA",
+  "topics": []
+ },
  "1334459444": {
   "created_at": "2026-08-14T18:14:16Z",
   "desc": "Task-aware reasoning-mode router for DeepSeek Harness: three measured behavior bands (spec/mixed/react) with phase-transition evidence, persona + first-turn tool injection, agent-visible tuning. Dual-attractor policy paper included.",
@@ -254804,7 +254970,7 @@
  },
  "1334554248": {
   "created_at": "2026-08-14T20:28:02Z",
-  "desc": "Code-first generative UI for DeepSeek Harness",
+  "desc": "Task-specific React apps for DeepSeek Harness with state carried into the next Agent turn",
   "lang": "TypeScript",
   "name": "pengyue-polaron/deepseek-harness-genui",
   "node_id": "R_kgDOT4uuiA",
@@ -254905,6 +255071,20 @@
   "node_id": "R_kgDOT4ylEQ",
   "topics": []
  },
+ "1334630805": {
+  "created_at": "2026-08-14T22:45:01Z",
+  "desc": "Screenshots of live websites. Minimal interface, powerful engine.",
+  "lang": "Rust",
+  "name": "brijr/iris",
+  "node_id": "R_kgDOT4zZlQ",
+  "topics": [
+   "chrome",
+   "cli",
+   "devtools-protocol",
+   "rust",
+   "screenshots"
+  ]
+ },
  "1334657231": {
   "created_at": "2026-08-14T23:41:31Z",
   "desc": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
@@ -254928,6 +255108,25 @@
   "node_id": "R_kgDOT41BcA",
   "topics": [
    "dsh-plugin"
+  ]
+ },
+ "1334664261": {
+  "created_at": "2026-08-14T23:57:37Z",
+  "desc": "Rearrange your Nintendo 3DS HOME menu from your PC: drag and drop icons, folders and system apps, with a live preview of the console screen and a backup before every write.",
+  "lang": "Python",
+  "name": "SalustLab/3DSort",
+  "node_id": "R_kgDOT41cRQ",
+  "topics": [
+   "3ds",
+   "desktop-app",
+   "godmode9",
+   "home-menu",
+   "homebrew",
+   "luma3ds",
+   "nintendo-3ds",
+   "python",
+   "pywebview",
+   "save-editor"
   ]
  },
  "1334664494": {
@@ -255359,8 +255558,8 @@
  },
  "1334954277": {
   "created_at": "2026-08-15T09:23:10Z",
-  "desc": "Qwen3.8-27B at 34-38 tok/s on DGX Spark (GB10) \u2014 one-command SGLang + NVFP4 + DSpark setup, systemd, Claude Code ready",
-  "lang": "Shell",
+  "desc": "Fastest measured Qwen3.8-27B config for DGX Spark (GB10): SGLang + NVFP4 + DFlash2, deterministic boots, 50 tok/s greedy median, 148 tok/s at 8 streams, 258 at 32. One command, everything pinned, lossless.",
+  "lang": "Python",
   "name": "hasso5703/dgx-spark-qwen38",
   "node_id": "R_kgDOT5HJJQ",
   "topics": [
@@ -255420,7 +255619,7 @@
  "1335005265": {
   "created_at": "2026-08-15T10:47:02Z",
   "desc": "Qwen3.8 27B on SGLang for DGX Spark",
-  "lang": "Shell",
+  "lang": "Python",
   "name": "MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark",
   "node_id": "R_kgDOT5KQUQ",
   "topics": []
@@ -255555,6 +255754,22 @@
    "readability"
   ]
  },
+ "1335086034": {
+  "created_at": "2026-08-15T12:53:48Z",
+  "desc": "Open-source quantum Agent workspace built on DeepSeek Harness",
+  "lang": "JavaScript",
+  "name": "xi-zhao/openQuantum",
+  "node_id": "R_kgDOT5PL0g",
+  "topics": []
+ },
+ "1335090338": {
+  "created_at": "2026-08-15T13:00:24Z",
+  "desc": "AI \u89c6\u9891\u5236\u4f5c\u52a9\u624b\uff1a\u4ece\u60f3\u6cd5\u3001\u6587\u7ae0\u6216\u97f3\u9891\u5230\u811a\u672c\u3001\u58f0\u97f3\u3001\u753b\u9762\u548c\u4eba\u5de5\u5ba1\u6838\u7684\u4e2d\u6587 Skill + Workflow",
+  "lang": "JavaScript",
+  "name": "wanghui2323/ai-video-maker",
+  "node_id": "R_kgDOT5Pcog",
+  "topics": []
+ },
  "1335095892": {
   "created_at": "2026-08-15T13:08:53Z",
   "desc": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
@@ -255576,6 +255791,14 @@
    "prototyping",
    "visual-editor"
   ]
+ },
+ "1335101620": {
+  "created_at": "2026-08-15T13:17:11Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "wbsjkya/CrediFusion",
+  "node_id": "R_kgDOT5QItA",
+  "topics": []
  },
  "1335104760": {
   "created_at": "2026-08-15T13:21:23Z",
@@ -255868,6 +256091,14 @@
   "node_id": "R_kgDOT5chrg",
   "topics": []
  },
+ "1335324856": {
+  "created_at": "2026-08-15T18:36:19Z",
+  "desc": "Removing AI watermarks from text, images, and audio/video files.",
+  "lang": "Go",
+  "name": "n0bele/AntiAIMark",
+  "node_id": "R_kgDOT5dwuA",
+  "topics": []
+ },
  "1335334308": {
   "created_at": "2026-08-15T18:51:26Z",
   "desc": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
@@ -255906,6 +256137,14 @@
   "lang": "Python",
   "name": "justxor/Aiagentsfullcourse",
   "node_id": "R_kgDOT5jjeg",
+  "topics": []
+ },
+ "1335435191": {
+  "created_at": "2026-08-15T21:36:46Z",
+  "desc": "Qwen3.8-27B-NVFP4 on a Single RTX 5090 (vLLM)",
+  "lang": "Shell",
+  "name": "MiaAI-Lab/Qwen3.8-27B-NVFP4-RTX-5090",
+  "node_id": "R_kgDOT5kftw",
   "topics": []
  },
  "1335438980": {
@@ -256036,6 +256275,23 @@
    "dsh-plugins"
   ]
  },
+ "1335630981": {
+  "created_at": "2026-08-16T04:57:52Z",
+  "desc": "The model is the engine; the harness is the car. Curated knowledge on harness engineering \u2014 context management, tool design, agent loops, memory, sandboxing, evals. EN/\u4e2d\u6587",
+  "lang": "",
+  "name": "Vendredi218/awesome-ai-harness",
+  "node_id": "R_kgDOT5wchQ",
+  "topics": [
+   "agent-harness",
+   "agentic-ai",
+   "ai-agents",
+   "awesome-list",
+   "context-engineering",
+   "llm",
+   "mcp",
+   "prompt-engineering"
+  ]
+ },
  "1335654115": {
   "created_at": "2026-08-16T05:46:58Z",
   "desc": "DSH Desktop Hub \u2014 DeepSeek Harness \u684c\u9762\u7ba1\u7406\u63a7\u5236\u53f0\uff08Electron + TypeScript\uff09\u3002\u591a Tab \u7ba1\u7406 Harness / Plugin / MCP / Skills\uff0c\u53cc\u51fb\u5373\u7528\u3002",
@@ -256050,6 +256306,21 @@
    "dsh-plugins",
    "electron",
    "typescript"
+  ]
+ },
+ "1335660277": {
+  "created_at": "2026-08-16T05:59:16Z",
+  "desc": "DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.",
+  "lang": "JavaScript",
+  "name": "jing-hy/picturereader",
+  "node_id": "R_kgDOT5yO9Q",
+  "topics": [
+   "deepseek-harness",
+   "dsh-plugin",
+   "image-reading",
+   "ocr",
+   "pixel-art",
+   "vision"
   ]
  },
  "1335678174": {
@@ -256077,6 +256348,14 @@
   "lang": "",
   "name": "xintu1314/lead-gen-video-script",
   "node_id": "R_kgDOT5zXOg",
+  "topics": []
+ },
+ "1335711818": {
+  "created_at": "2026-08-16T07:29:36Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "LoonyReina/MADP-for-OP",
+  "node_id": "R_kgDOT51YSg",
   "topics": []
  },
  "1335743026": {
@@ -256126,6 +256405,18 @@
   "name": "b-nnett/codex-subscription-router",
   "node_id": "R_kgDOT55_RQ",
   "topics": []
+ },
+ "1335788701": {
+  "created_at": "2026-08-16T09:37:35Z",
+  "desc": "Subtasks are forks of your conversation that work in the background and report back to the main agent (/subtask for pi)",
+  "lang": "TypeScript",
+  "name": "gary149/pi-subtask",
+  "node_id": "R_kgDOT56EnQ",
+  "topics": [
+   "pi-coding-agent",
+   "pi-extension",
+   "pi-package"
+  ]
  },
  "1335799735": {
   "created_at": "2026-08-16T09:55:20Z",
@@ -256178,6 +256469,24 @@
    "video-processing"
   ]
  },
+ "1335829557": {
+  "created_at": "2026-08-16T10:45:03Z",
+  "desc": "Self-hosted research intelligence for collecting, deduplicating, ranking, searching, and browsing the researchers, topics, and sources you care about.",
+  "lang": "Python",
+  "name": "researchradar/research-radar",
+  "node_id": "R_kgDOT58kNQ",
+  "topics": [
+   "artificial-intelligence",
+   "arxiv",
+   "knowledge-management",
+   "python",
+   "research",
+   "research-tools",
+   "robotics",
+   "rss",
+   "self-hosted"
+  ]
+ },
  "1335830636": {
   "created_at": "2026-08-16T10:46:31Z",
   "desc": "One-to-one AI teaching skills (Alvar method) for Codex, Claude Code, Grok, Pi, and OpenCode",
@@ -256202,12 +256511,37 @@
    "dsh-plugin"
   ]
  },
+ "1335877752": {
+  "created_at": "2026-08-16T11:49:17Z",
+  "desc": "\u8ba9 Agent \u7684\u5de5\u4f5c\u65b9\u5f0f\u53ef\u7ec4\u5408\u3001\u53ef\u5ba1\u67e5\u3001\u53ef\u6301\u7eed\u6539\u8fdb\uff0c\u6700\u7ec8\u5b9e\u73b0 Agent Self Evoling\u3002 DeepSeek Harness Web plugin with composable task controls and isolated, human-reviewed self-evolution.",
+  "lang": "TypeScript",
+  "name": "GraySilver/dsh-evolve-modes",
+  "node_id": "R_kgDOT5_geA",
+  "topics": [
+   "acceptance-review",
+   "agent-review",
+   "ai-agents",
+   "deepseek-harness",
+   "dsh",
+   "dsh-plugin",
+   "plan-mode",
+   "prompt-engineering"
+  ]
+ },
  "1335885703": {
   "created_at": "2026-08-16T11:57:31Z",
   "desc": "",
   "lang": "HTML",
   "name": "gaoweiblue-source/industry-analyzer",
   "node_id": "R_kgDOT5__hw",
+  "topics": []
+ },
+ "1335895658": {
+  "created_at": "2026-08-16T12:08:16Z",
+  "desc": "\u6e90\u7801\u516c\u5f00\u3001\u4ec5\u9650\u975e\u5546\u4e1a\u4f7f\u7528\u7684\u4e2d\u6587\u5c0f\u8bf4\u521b\u4f5c\u4e0e\u72ec\u7acb\u51b7\u8bfb Codex Skill",
+  "lang": "",
+  "name": "asass-11/lengdu",
+  "node_id": "R_kgDOT6Amag",
   "topics": []
  },
  "1335907828": {
@@ -256228,7 +256562,7 @@
  },
  "1335912966": {
   "created_at": "2026-08-16T12:31:32Z",
-  "desc": "",
+  "desc": "DeepSeek Harness skin market \u76ae\u80a4\u5e02\u573a \u5df2\u6536\u5f55100+DSH \u76ae\u80a4 \u5b8c\u5584\u8bc4\u5206\u7cfb\u7edf\u52a0\u4eba\u5de5\u5ba1\u6838\uff0c\u6709\u4fbf\u6377\u7684\u793e\u533a\u6536\u5f55\u5165\u53e3\uff1b\u6709\u5728\u7ebf\u9875\u9762\u65b9\u4fbf\u5728\u7ebf\u6d4f\u89c8\uff0c\u4e5f\u6709\u63d2\u4ef6\u65b9\u4fbf\u7ba1\u7406\u672c\u5730\u76ae\u80a4",
   "lang": "TypeScript",
   "name": "kingOfSoySauce/dsh-skin-market",
   "node_id": "R_kgDOT6BqBg",
@@ -256267,6 +256601,14 @@
   "node_id": "R_kgDOT6ECHA",
   "topics": []
  },
+ "1336037828": {
+  "created_at": "2026-08-16T14:45:15Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "wcanfly/JobHunter--",
+  "node_id": "R_kgDOT6JRxA",
+  "topics": []
+ },
  "1336052866": {
   "created_at": "2026-08-16T15:01:11Z",
   "desc": "",
@@ -256297,9 +256639,17 @@
    "typescript"
   ]
  },
+ "1336076986": {
+  "created_at": "2026-08-16T15:29:11Z",
+  "desc": "Convert complex business slides and scientific flowcharts into high-fidelity editable PowerPoint.",
+  "lang": "Python",
+  "name": "Paul-Jeo/Image2PPT",
+  "node_id": "R_kgDOT6Lqug",
+  "topics": []
+ },
  "1336085426": {
   "created_at": "2026-08-16T15:37:12Z",
-  "desc": "\u628a DeepSeek Harness \u6253\u5305\u6210\u53ef\u76f4\u63a5\u5b89\u88c5\u7684 Android APK\uff1a\u539f\u751f\u58f3 + \u79fb\u52a8\u7aef\u9002\u914d + Shizuku \u7279\u6743\u63d2\u4ef6 + \u7cfb\u7edf\u80fd\u529b\u63d2\u4ef6",
+  "desc": "DeepSeek Harness \u624b\u673a\u7248\uff1a\u53ef\u76f4\u63a5\u5b89\u88c5\u7684 Android APK\uff0cAI \u514d Root \u64cd\u4f5c\u624b\u673a\uff08Shizuku/root \u53ef\u9009\uff09\uff0c\u6587\u4ef6\u7f16\u8f91\u53ea\u9700\u6240\u6709\u6587\u4ef6\u8bbf\u95ee\u6743\u9650\uff0c\u524d\u53f0\u4fdd\u6d3b + AI \u901a\u77e5",
   "lang": "Java",
   "name": "woaiys3/deepseek-harness-android-app",
   "node_id": "R_kgDOT6MLsg",
@@ -256377,6 +256727,14 @@
   "node_id": "R_kgDOT6XHbA",
   "topics": []
  },
+ "1336300986": {
+  "created_at": "2026-08-16T19:44:04Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "0xBakeer/Qwen3.8-27B-4-bit-on-a-single-DGX-Spark",
+  "node_id": "R_kgDOT6ZVug",
+  "topics": []
+ },
  "1336301267": {
   "created_at": "2026-08-16T19:44:28Z",
   "desc": "",
@@ -256401,6 +256759,25 @@
    "utility",
    "windows",
    "workflow"
+  ]
+ },
+ "1336370355": {
+  "created_at": "2026-08-16T21:17:24Z",
+  "desc": "Your private, searchable work timeline for macOS and local AI agents.",
+  "lang": "TypeScript",
+  "name": "ztratar/openhistory",
+  "node_id": "R_kgDOT6dksw",
+  "topics": [
+   "activity-tracking",
+   "ai-agents",
+   "electron",
+   "local-first",
+   "macos",
+   "mcp",
+   "open-source",
+   "privacy",
+   "productivity",
+   "swift"
   ]
  },
  "1336416579": {
@@ -256448,6 +256825,30 @@
    "macos",
    "python"
   ]
+ },
+ "1336502227": {
+  "created_at": "2026-08-17T00:44:59Z",
+  "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+  "lang": "TypeScript",
+  "name": "CopilotKit/openbot",
+  "node_id": "R_kgDOT6ln0w",
+  "topics": [
+   "ag-ui",
+   "agent-governance",
+   "ai-agents",
+   "browser-automation",
+   "copilotkit",
+   "generative-ui",
+   "mcp"
+  ]
+ },
+ "1336568049": {
+  "created_at": "2026-08-17T02:21:54Z",
+  "desc": "DeepSeek Harness \u8f6f\u4ef6\u516c\u53f8\u6a21\u5f0f preset\uff1a\u6a21\u62df\u771f\u5b9e\u8f6f\u4ef6\u516c\u53f8\u5206\u90e8\u95e8\u5f00\u53d1\uff08\u9700\u6c42\u51bb\u7ed3\u4e3a Sprint \u5408\u540c\u3001\u7f16\u7801/\u9a8c\u6536\u72ec\u7acb\u3001\u5931\u8d25\u786c\u8def\u7531\uff09\uff0c\u7528\u6237\u4f5c\u4e3a\u516c\u53f8\u603b\u76d1\u5728\u53ef\u89c6\u5316\u5927\u753b\u5e03\u5b9e\u65f6\u7ba1\u7406\u8fdb\u5ea6\u3001\u5b50\u4ee3\u7406\u8c03\u7528\u4e0e Token\uff0c\u7528\u7ec4\u7ec7\u7ed3\u6784\u5bf9\u6297\u957f\u671f\u4e0a\u4e0b\u6587\u566a\u70b9\u5bfc\u81f4\u7684\u5f00\u53d1\u76ee\u6807\u8dd1\u504f\u3002",
+  "lang": "JavaScript",
+  "name": "chenshijun900730-bit/deepseek-harness-software-OPC",
+  "node_id": "R_kgDOT6po8Q",
+  "topics": []
  },
  "1336591441": {
   "created_at": "2026-08-17T02:53:49Z",
@@ -256550,6 +256951,33 @@
   "node_id": "R_kgDOT6186A",
   "topics": []
  },
+ "1336783814": {
+  "created_at": "2026-08-17T06:46:51Z",
+  "desc": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.",
+  "lang": "Python",
+  "name": "flaqai/backlink_skills",
+  "node_id": "R_kgDOT62zxg",
+  "topics": [
+   "backlinks",
+   "codex",
+   "codex-skill",
+   "free-backlinks",
+   "freebacklinks",
+   "seo",
+   "seo-optimization",
+   "seo-skills",
+   "seo-skills-for-ai-agents",
+   "seo-tools"
+  ]
+ },
+ "1336787958": {
+  "created_at": "2026-08-17T06:51:00Z",
+  "desc": "\u7528\u4e8e\u53ef\u590d\u73b0 AI Agent \u8bc4\u6d4b\u7684\u786e\u5b9a\u6027\u3001\u53ef\u5206\u53c9\u3001\u6709\u72b6\u6001 MCP \u6d4b\u8bd5\u4e16\u754c\u2014\u2014\u4e0d\u5bf9\u751f\u4ea7\u73af\u5883\u4ea7\u751f\u526f\u4f5c\u7528\u3002Deterministic, forkable, stateful MCP test worlds for reproducible AI agent evaluation\u2014without production side effects.",
+  "lang": "Go",
+  "name": "augety121/MCP-State-Twin",
+  "node_id": "R_kgDOT63D9g",
+  "topics": []
+ },
  "1336793734": {
   "created_at": "2026-08-17T06:56:42Z",
   "desc": "Pilot Harness \u2014 a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
@@ -256570,6 +256998,30 @@
    "typescript",
    "windows"
   ]
+ },
+ "1336849011": {
+  "created_at": "2026-08-17T07:52:45Z",
+  "desc": "Cross-preset session migration for DeepSeek Harness: fixed-schema handoff summaries instead of bypassing the preset lock. 26-run benchmark + A/B evidence. \u8de8 preset \u4f1a\u8bdd\u8fc1\u79fb\u63d2\u4ef6\uff08\u56fa\u5b9a schema \u4ea4\u63a5\u6458\u8981\uff09\uff0c\u542b\u5b9e\u6d4b benchmark \u4e0e A/B \u5bf9\u7167\u3002",
+  "lang": "JavaScript",
+  "name": "Totoro-qaq/dsh-plugin-bridge",
+  "node_id": "R_kgDOT66ycw",
+  "topics": [
+   "context-migration",
+   "cordis",
+   "deepseek-harness",
+   "dsh",
+   "dsh-plugin",
+   "preset-migration",
+   "session-migration"
+  ]
+ },
+ "1336870197": {
+  "created_at": "2026-08-17T08:14:03Z",
+  "desc": "PertMind: perturbation-derived reinforcement learning for emergent biological reasoning",
+  "lang": "",
+  "name": "shapsider/PertMind",
+  "node_id": "R_kgDOT68FNQ",
+  "topics": []
  },
  "1336875304": {
   "created_at": "2026-08-17T08:19:11Z",
@@ -256634,6 +257086,14 @@
    "seedream"
   ]
  },
+ "1337044566": {
+  "created_at": "2026-08-17T11:00:29Z",
+  "desc": "Benjamin-Plus: a measured token-efficiency skill for coding agents (\u221217.9% cost median, quality unchanged). Inject it, don't install it.",
+  "lang": "Shell",
+  "name": "JetBrains/benjamin-plus-skill",
+  "node_id": "R_kgDOT7GuVg",
+  "topics": []
+ },
  "1337089243": {
   "created_at": "2026-08-17T11:42:31Z",
   "desc": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
@@ -256690,12 +257150,52 @@
    "seo"
   ]
  },
+ "1337317752": {
+  "created_at": "2026-08-17T15:21:48Z",
+  "desc": "\u516c\u4f17\u53f7\u6392\u7248",
+  "lang": "HTML",
+  "name": "xiaoou-waou/xiaoou-gzh-layout",
+  "node_id": "R_kgDOT7XZeA",
+  "topics": []
+ },
  "1337369002": {
   "created_at": "2026-08-17T16:15:06Z",
   "desc": "Grafana dashboard for NVIDIA DGX Spark clusters running vLLM: throughput, contention, and GB10 GPU hardware telemetry (NVIDIA-themed, 55 panels)",
   "lang": "Python",
   "name": "RodriMora/dgx-spark-grafana-dashboard",
   "node_id": "R_kgDOT7ahqg",
+  "topics": []
+ },
+ "1337386123": {
+  "created_at": "2026-08-17T16:30:00Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "suncityldp/zx-bench",
+  "node_id": "R_kgDOT7bkiw",
+  "topics": []
+ },
+ "1337403931": {
+  "created_at": "2026-08-17T16:45:32Z",
+  "desc": "A local desktop control center for organizing Codex projects, engineering tasks, sessions, Git changes, Skills, and MCP configuration.",
+  "lang": "TypeScript",
+  "name": "sevensir888/codex-command-center",
+  "node_id": "R_kgDOT7cqGw",
+  "topics": []
+ },
+ "1337439833": {
+  "created_at": "2026-08-17T17:17:37Z",
+  "desc": "",
+  "lang": "C",
+  "name": "BareiroJorge/esp32-llm-commands",
+  "node_id": "R_kgDOT7e2WQ",
+  "topics": []
+ },
+ "1337486663": {
+  "created_at": "2026-08-17T18:03:38Z",
+  "desc": "Apeireth \u2014 An AGI Operating System / LLM Base (Rust). 85 crates: companion organ, world model, curiosity, hypothesis testing, double-onion security.",
+  "lang": "Rust",
+  "name": "YintaTriss/apeireth-rust",
+  "node_id": "R_kgDOT7htRw",
   "topics": []
  },
  "1337506732": {
@@ -256727,6 +257227,20 @@
   "node_id": "R_kgDOT7kueA",
   "topics": []
  },
+ "1337546913": {
+  "created_at": "2026-08-17T19:04:41Z",
+  "desc": "Argus is a local, open-source visual UI testing app.",
+  "lang": "Python",
+  "name": "argus-testing/argus",
+  "node_id": "R_kgDOT7lYoQ",
+  "topics": [
+   "agentic-ai",
+   "gemini",
+   "qa",
+   "testing",
+   "vision-api"
+  ]
+ },
  "1337572127": {
   "created_at": "2026-08-17T19:29:39Z",
   "desc": "Agent Skill: turn AI-generated video into 2D game sprite sheets (the Mortal Kombat method, with MiniMax H3 as the actor)",
@@ -256757,6 +257271,14 @@
    "prompt-engineering",
    "security-research"
   ]
+ },
+ "1337596700": {
+  "created_at": "2026-08-17T19:56:01Z",
+  "desc": "Where the internet thinks you are, and how directly you reach it.",
+  "lang": "Go",
+  "name": "remnawave/geocheck",
+  "node_id": "R_kgDOT7obHA",
+  "topics": []
  },
  "1337621009": {
   "created_at": "2026-08-17T20:23:37Z",
@@ -256809,6 +257331,14 @@
   "node_id": "R_kgDOT7zKhQ",
   "topics": []
  },
+ "1337788143": {
+  "created_at": "2026-08-17T23:53:59Z",
+  "desc": "Free, keyless coding models routed to every coding harness through one local endpoint. No accounts, no keys, no cost.",
+  "lang": "TypeScript",
+  "name": "ihsan-ramadhan/bansos-router",
+  "node_id": "R_kgDOT70G7w",
+  "topics": []
+ },
  "1337824285": {
   "created_at": "2026-08-18T00:41:05Z",
   "desc": "Best-of-N coding agents with LLM-as-a-Verifier selection for Oh My Pi: isolated git worktrees, verifier-ranked trajectories, winner-only patch application",
@@ -256829,6 +257359,25 @@
    "omp-parallel",
    "omp-plugin",
    "test-time-scaling"
+  ]
+ },
+ "1337857692": {
+  "created_at": "2026-08-18T01:30:30Z",
+  "desc": "Agent-friendly Markdown-to-video automation pipeline with reproducible rendering and pluggable media providers.",
+  "lang": "Python",
+  "name": "wangxin6x/AutoVideo-Agent",
+  "node_id": "R_kgDOT74WnA",
+  "topics": [
+   "agent-skills",
+   "ai-agent",
+   "ai-video",
+   "codex",
+   "codex-cli",
+   "codex-skill",
+   "ffmpeg",
+   "python",
+   "video-automation",
+   "video-generation"
   ]
  },
  "1337858576": {
@@ -256920,6 +257469,14 @@
    "task-scheduling"
   ]
  },
+ "1337957143": {
+  "created_at": "2026-08-18T04:11:06Z",
+  "desc": "\u4fee\u6539\u7248\u7684Rikkahub\uff0c\u589e\u52a0\u548c\u4f18\u5316\u4e86\u90e8\u5206\u529f\u80fd\uff0c\u5c06\u4f1a\u6301\u7eed\u66f4\u65b0",
+  "lang": "Kotlin",
+  "name": "YaeNovin/Rikkahub-Revised",
+  "node_id": "R_kgDOT7-bFw",
+  "topics": []
+ },
  "1337964424": {
   "created_at": "2026-08-18T04:21:19Z",
   "desc": "Prompt for generating 3D models in mechanical deployable style.",
@@ -256936,12 +257493,28 @@
   "node_id": "R_kgDOT7-96w",
   "topics": []
  },
+ "1337984443": {
+  "created_at": "2026-08-18T04:52:29Z",
+  "desc": "494-source cross-disciplinary research index, OPML feeds, and a reusable Matrix/Neo research Skill.",
+  "lang": "",
+  "name": "1229119561Weike/source-library-research-kit",
+  "node_id": "R_kgDOT8AFuw",
+  "topics": []
+ },
  "1337985430": {
   "created_at": "2026-08-18T04:54:02Z",
-  "desc": "Agent skill that builds a verifiable architecture wiki \u2014 isometric city map, health report, drift check wired into lint/CI",
+  "desc": "Turn any codebase into a visual architecture wiki that stays in sync with your code\uff5c\u628a\u4efb\u4f55\u4ee3\u7801\u5e93\u53d8\u6210\u4e00\u4efd\u6e05\u6670\u53ef\u89c6\u5316\u3001\u968f\u4ee3\u7801\u81ea\u52a8\u4fdd\u6301\u540c\u6b65\u7684\u67b6\u6784\u56fe",
   "lang": "HTML",
   "name": "Suge8/architecture-wiki",
   "node_id": "R_kgDOT8AJlg",
+  "topics": []
+ },
+ "1338050462": {
+  "created_at": "2026-08-18T06:21:41Z",
+  "desc": "Motrix download manager rewritten in Rust + GPUI, powered by aria2",
+  "lang": "Rust",
+  "name": "missuo/motrix-gpui",
+  "node_id": "R_kgDOT8EHng",
   "topics": []
  },
  "1338060611": {
@@ -256992,6 +257565,25 @@
    "vite"
   ]
  },
+ "1338176891": {
+  "created_at": "2026-08-18T08:44:24Z",
+  "desc": "\u7ed9 DeepSeek Harness \u7528\u7684\u7f8e\u5973\u7cfb\u5217\u76ae\u80a4\uff1a\u8bbe\u7f6e\u91cc\u4ece \u54f2\u98ce\u58c1\u7eb8 \u62c9\u9884\u89c8\u7f51\u683c\uff0c\u70b9\u4e00\u5f20\u5373\u5e94\u7528\uff0c\u914d\u8272\u4ece\u58c1\u7eb8\u63d0\u53d6\u3002\u652f\u6301\u52a8\u6001\u58c1\u7eb8\uff0c\u4e5f\u4fdd\u7559\u81ea\u5b9a\u4e49\u9009\u56fe\u3002",
+  "lang": "TypeScript",
+  "name": "XieRW/dsh-beauty-skins",
+  "node_id": "R_kgDOT8L1ew",
+  "topics": [
+   "beauty",
+   "cordis",
+   "cordis-plugin",
+   "deepseek",
+   "deepseek-harness",
+   "deepseek-harness-plugin",
+   "dsh",
+   "dsh-plugin",
+   "dsh-plugin-theme",
+   "skin"
+  ]
+ },
  "1338188635": {
   "created_at": "2026-08-18T08:55:59Z",
   "desc": "OMP-native pstack and orchestration skills for multi-agent coding workflows",
@@ -257005,12 +257597,77 @@
    "pstack"
   ]
  },
+ "1338220660": {
+  "created_at": "2026-08-18T09:28:02Z",
+  "desc": "Emotion Ball \u662f\u4e00\u5957\u9762\u5411 AI \u52a9\u624b\u7684\u8868\u60c5\u5f15\u64ce:32 \u79cd\u72b6\u6001\u8868\u60c5\u5168\u90e8\u7531\u7eaf SVG \u4e0e\u539f\u751f JavaScript \u5b9e\u65f6\u9a71\u52a8,\u96f6\u6846\u67b6\u3001\u96f6\u56fe\u7247\u8d44\u6e90\u3002AI \u4fa7\u53ea\u9700\u8f93\u51fa\u4e00\u4e2a emotionId,\u5c0f\u7403\u5373\u53ef\u5207\u6362\u5230\u5bf9\u5e94\u8868\u60c5,\u53ef\u76f4\u63a5\u7528\u4f5c\u804a\u5929\u673a\u5668\u4eba\u3001\u684c\u9762\u5ba0\u7269\u3001\u60ac\u6d6e\u52a9\u624b\u7684\u60c5\u7eea\u8868\u8fbe\u5c42\u3002",
+  "lang": "JavaScript",
+  "name": "sam70361/emotion-ball",
+  "node_id": "R_kgDOT8OgdA",
+  "topics": [
+   "ai",
+   "ai-agent",
+   "animation",
+   "bot",
+   "chatbot",
+   "desktop-pet",
+   "emotion",
+   "grok",
+   "grok-bot",
+   "javascript",
+   "svg",
+   "svg-animation",
+   "vanilla-javascript"
+  ]
+ },
+ "1338237504": {
+  "created_at": "2026-08-18T09:46:23Z",
+  "desc": "Every coding-agent session on your Mac in one place \u2014 browse, search, resume. Rust + GPUI.",
+  "lang": "Rust",
+  "name": "iAmCorey/Wake",
+  "node_id": "R_kgDOT8PiQA",
+  "topics": []
+ },
+ "1338256280": {
+  "created_at": "2026-08-18T10:08:24Z",
+  "desc": "Let the scripts your coding agent writes call your connected MCP servers (no extra auth)",
+  "lang": "TypeScript",
+  "name": "janwilmake/agent-codemode",
+  "node_id": "R_kgDOT8QrmA",
+  "topics": [
+   "agents",
+   "ai-agents",
+   "claude-code",
+   "cli",
+   "codegen",
+   "codemode",
+   "mcp",
+   "model-context-protocol",
+   "oauth",
+   "typescript"
+  ]
+ },
  "1338291563": {
   "created_at": "2026-08-18T10:50:17Z",
   "desc": "A multi-agent campus social simulation built with LangGraph, featuring memory, RAG, personality evolution, and durable execution.",
   "lang": "Python",
   "name": "JouJouoo/agent-campus",
   "node_id": "R_kgDOT8S1aw",
+  "topics": []
+ },
+ "1338333908": {
+  "created_at": "2026-08-18T11:38:29Z",
+  "desc": "Self-hosted ChatGPT desktops behind one gateway",
+  "lang": "JavaScript",
+  "name": "JingxuanKang/GPT-Pro-Cloud",
+  "node_id": "R_kgDOT8Va1A",
+  "topics": []
+ },
+ "1338341195": {
+  "created_at": "2026-08-18T11:46:22Z",
+  "desc": "Ludwig Claude Lelis's Calculus 1 Course Notes",
+  "lang": "TeX",
+  "name": "PerfectPianoHD/Calculus1",
+  "node_id": "R_kgDOT8V3Sw",
   "topics": []
  },
  "1338390527": {
@@ -257026,6 +257683,77 @@
    "leonardo-api",
    "leonardo-proxy",
    "leonardo2api"
+  ]
+ },
+ "1338399339": {
+  "created_at": "2026-08-18T12:49:42Z",
+  "desc": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c\uff0c\u5171\u4eab\u667a\u80fd\u4f53\u548c\u9879\u76ee\u8bb0\u5fc6",
+  "lang": "Python",
+  "name": "agents-universe/agents-universe",
+  "node_id": "R_kgDOT8Zaaw",
+  "topics": [
+   "agent",
+   "agent-framework",
+   "agent-orchestration",
+   "agentic",
+   "agentic-workflow",
+   "ai-agents",
+   "ai-governance",
+   "ai-tools",
+   "context-engineering",
+   "llm",
+   "model-context-protocol",
+   "python",
+   "vue3",
+   "webapp"
+  ]
+ },
+ "1338409520": {
+  "created_at": "2026-08-18T13:00:30Z",
+  "desc": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+  "lang": "JavaScript",
+  "name": "only-cli/oc",
+  "node_id": "R_kgDOT8aCMA",
+  "topics": [
+   "ai-agents",
+   "browser-automation",
+   "claude-code",
+   "cli",
+   "cli-app",
+   "cli-tool",
+   "llm",
+   "markdown",
+   "web-scraping"
+  ]
+ },
+ "1338449813": {
+  "created_at": "2026-08-18T13:39:26Z",
+  "desc": "Turn bug reports into verified, executable reproductions",
+  "lang": "Python",
+  "name": "Ab-123-c/reproflow",
+  "node_id": "R_kgDOT8cflQ",
+  "topics": []
+ },
+ "1338457188": {
+  "created_at": "2026-08-18T13:46:41Z",
+  "desc": "11 installable editorial systems for AI agents, based on leading public style guides.",
+  "lang": "Python",
+  "name": "Neeeophytee/agent-stylebooks",
+  "node_id": "R_kgDOT8c8ZA",
+  "topics": [
+   "agent-skills",
+   "claude-code",
+   "claude-skills",
+   "content-design",
+   "cursor",
+   "documentation",
+   "gemini-cli",
+   "hermes-agent",
+   "kimi-k3",
+   "openai-codex",
+   "skills",
+   "style-guide",
+   "writing"
   ]
  },
  "1338470635": {
@@ -257053,10 +257781,119 @@
  "1338525632": {
   "created_at": "2026-08-18T14:52:46Z",
   "desc": "DevSpace + elastic ChatGPT Classic multi-agent workers. Local-first MCP workspace and dynamic subagent runtime orchestration.",
-  "lang": "PowerShell",
+  "lang": "JavaScript",
   "name": "enwong93-sketch/devspace-ultra",
   "node_id": "R_kgDOT8hHwA",
   "topics": []
+ },
+ "1338527485": {
+  "created_at": "2026-08-18T14:54:36Z",
+  "desc": "Trace Compare & Live Maze for DeepSeek Harness: visualize agent exploration (main path, detours, backtracks) from session logs or live sessions",
+  "lang": "HTML",
+  "name": "lamost423/dsh-trace-compare",
+  "node_id": "R_kgDOT8hO_Q",
+  "topics": [
+   "deepseek-harness",
+   "dsh",
+   "dsh-plugin",
+   "trace",
+   "visualization"
+  ]
+ },
+ "1338568803": {
+  "created_at": "2026-08-18T15:35:57Z",
+  "desc": "\u0130kinci el ara\u00e7 ilanlar\u0131n\u0131 al\u0131c\u0131 g\u00f6z\u00fcnden de\u011ferlendiren taray\u0131c\u0131 uzant\u0131s\u0131: fiyat konumu, kilometre yorumu ve pazarl\u0131k hedefi. Analiz sizin taray\u0131c\u0131n\u0131zda, kendi yapay zek\u00e2 anahtar\u0131n\u0131zla \u00fcretilir.",
+  "lang": "TypeScript",
+  "name": "berke009/ilan-analiz",
+  "node_id": "R_kgDOT8jwYw",
+  "topics": [
+   "browser-extension",
+   "byok",
+   "car-listings",
+   "chrome-extension",
+   "firefox-extension",
+   "gemini-api",
+   "local-first",
+   "manifest-v3",
+   "preact",
+   "price-analysis",
+   "privacy-first",
+   "turkish",
+   "typescript",
+   "used-cars"
+  ]
+ },
+ "1338600053": {
+  "created_at": "2026-08-18T16:08:19Z",
+  "desc": "A knowledge-linked local AI harness with macOS support and a Windows Beta launcher.",
+  "lang": "JavaScript",
+  "name": "asen-goat-mine/boujoy-harness",
+  "node_id": "R_kgDOT8lqdQ",
+  "topics": []
+ },
+ "1338631832": {
+  "created_at": "2026-08-18T16:43:56Z",
+  "desc": "AI travel planning engine with deterministic route scheduling, verified POIs, and fact-grounded LLM generation.",
+  "lang": "Python",
+  "name": "Trunks820/Yuntu",
+  "node_id": "R_kgDOT8nmmA",
+  "topics": [
+   "ai-travel",
+   "fastapi",
+   "llm",
+   "llms",
+   "postgresql",
+   "python",
+   "react",
+   "route-planning",
+   "travel-planner"
+  ]
+ },
+ "1338653847": {
+  "created_at": "2026-08-18T17:09:25Z",
+  "desc": "Case-study journal of MiniMax H3 prompt engineering experiments",
+  "lang": "",
+  "name": "LoveRain1997/h3-prompt-journal",
+  "node_id": "R_kgDOT8o8lw",
+  "topics": []
+ },
+ "1338666754": {
+  "created_at": "2026-08-18T17:24:06Z",
+  "desc": "Attribute an image to the model that generated it \u2014 from raw pixels, with a ~6M-parameter CNN (RPA).",
+  "lang": "Python",
+  "name": "Asaf-Livne/raw-patch-attribution",
+  "node_id": "R_kgDOT8pvAg",
+  "topics": [
+   "computer-vision",
+   "deep-learning",
+   "image-forensics",
+   "model-attribution",
+   "pytorch"
+  ]
+ },
+ "1338681838": {
+  "created_at": "2026-08-18T17:41:42Z",
+  "desc": "Open source SDK for building data-quality, processing, enrichment, and curation pipelines for robotics and Physical AI.",
+  "lang": "Python",
+  "name": "Hebbian-Robotics/hflow",
+  "node_id": "R_kgDOT8qp7g",
+  "topics": [
+   "airflow",
+   "data-engineering",
+   "data-pipeline",
+   "data-quality",
+   "dataset-curation",
+   "duckdb",
+   "foxglove",
+   "mcap",
+   "parquet",
+   "physical-ai",
+   "python",
+   "robot-learning",
+   "robotics",
+   "robotics-data",
+   "ros2"
+  ]
  },
  "1338806190": {
   "created_at": "2026-08-18T20:19:17Z",
@@ -257064,6 +257901,38 @@
   "lang": "Python",
   "name": "letsinferlabs/letsinfer",
   "node_id": "R_kgDOT8yPrg",
+  "topics": []
+ },
+ "1338889223": {
+  "created_at": "2026-08-18T22:32:58Z",
+  "desc": "Suno-style web UI for a self-hosted MiniMax-Music3 inference server",
+  "lang": "TypeScript",
+  "name": "adambenhassen/minimax-music-ui",
+  "node_id": "R_kgDOT83UBw",
+  "topics": [
+   "ai-music",
+   "diffusers",
+   "docker",
+   "express",
+   "minimax",
+   "minimax-music",
+   "music-generation",
+   "react",
+   "self-hosted",
+   "sgl-omni",
+   "suno",
+   "tailwindcss",
+   "text-to-music",
+   "typescript",
+   "vite"
+  ]
+ },
+ "1338985108": {
+  "created_at": "2026-08-19T01:35:24Z",
+  "desc": "\u6559\u80b2\u7814\u7a76\u8005\u7684 Claude \u5b78\u8853\u5de5\u4f5c\u6d41",
+  "lang": "",
+  "name": "clayzhang-TW/claude-academic-workflow-zh",
+  "node_id": "R_kgDOT89KlA",
   "topics": []
  },
  "1339040637": {
@@ -257081,6 +257950,347 @@
    "reac",
    "vulnerability-verification"
   ]
+ },
+ "1339044753": {
+  "created_at": "2026-08-19T03:15:15Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "Xeron2000/fx-gateway-proxy",
+  "node_id": "R_kgDOT9AzkQ",
+  "topics": []
+ },
+ "1339063751": {
+  "created_at": "2026-08-19T03:45:47Z",
+  "desc": "Code for Paper \"RoboECC: Multi-Factor-Aware Edge-Cloud Collaborative Deployment for VLA Models\" accepted by IJCNN 2026.",
+  "lang": "Python",
+  "name": "zhengzihaoPKU/RoboECC",
+  "node_id": "R_kgDOT9B9xw",
+  "topics": [
+   "embodied-ai",
+   "mlsys"
+  ]
+ },
+ "1339110580": {
+  "created_at": "2026-08-19T05:02:00Z",
+  "desc": "AI-assisted local creator workbench for DeepSeek Harness",
+  "lang": "TypeScript",
+  "name": "oil-oil/dsh-oil-creator",
+  "node_id": "R_kgDOT9E0tA",
+  "topics": [
+   "creator",
+   "deepseek-harness",
+   "dsh-plugin"
+  ]
+ },
+ "1339127722": {
+  "created_at": "2026-08-19T05:29:16Z",
+  "desc": "code of paper \"KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models\" accepted by DAC 2026.",
+  "lang": "Python",
+  "name": "zhengzihaoPKU/KERV",
+  "node_id": "R_kgDOT9F3qg",
+  "topics": [
+   "dac-2026",
+   "embodied-ai",
+   "mlsys",
+   "robotics"
+  ]
+ },
+ "1339208118": {
+  "created_at": "2026-08-19T06:55:39Z",
+  "desc": "Native macOS console for herdr \u2014 all your coding agents and their live terminals, across devices",
+  "lang": "Swift",
+  "name": "missuo/herdrm",
+  "node_id": "R_kgDOT9Kxtg",
+  "topics": []
+ },
+ "1339221311": {
+  "created_at": "2026-08-19T07:10:07Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "Hi1talib1World/langgraph-mcp-coding-assistant-project",
+  "node_id": "R_kgDOT9LlPw",
+  "topics": []
+ },
+ "1339256252": {
+  "created_at": "2026-08-19T07:41:12Z",
+  "desc": "no more refusals, do everything.",
+  "lang": "JavaScript",
+  "name": "YuJunZhiXue/dsh-purge",
+  "node_id": "R_kgDOT9NtvA",
+  "topics": []
+ },
+ "1339328962": {
+  "created_at": "2026-08-19T08:50:49Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "AinxietyLab/VidScribe",
+  "node_id": "R_kgDOT9SJwg",
+  "topics": []
+ },
+ "1339368171": {
+  "created_at": "2026-08-19T09:26:03Z",
+  "desc": "Compile real-world Claude Code and Codex trajectories into verified, tradable post-training assets.",
+  "lang": "Python",
+  "name": "jinzijian/EvoTrace",
+  "node_id": "R_kgDOT9Ui6w",
+  "topics": [
+   "agents",
+   "benchmark",
+   "claude-code",
+   "codex-cli",
+   "coding-agents",
+   "developer-tools",
+   "evaluation",
+   "llm-evaluation",
+   "reinforcement-learning",
+   "training-data",
+   "verifiers"
+  ]
+ },
+ "1339437882": {
+  "created_at": "2026-08-19T10:32:05Z",
+  "desc": "Hand-picked ESP32 projects worth building, copying, or watching run",
+  "lang": "",
+  "name": "s0lness/awesome-esp32",
+  "node_id": "R_kgDOT9YzOg",
+  "topics": [
+   "awesome",
+   "awesome-list",
+   "embedded",
+   "esp32",
+   "esp32-s3",
+   "iot"
+  ]
+ },
+ "1339728060": {
+  "created_at": "2026-08-19T15:18:26Z",
+  "desc": "\u6ce8\u518c\u673a\u5168\u65b0\u5168\u81ea\u7814\uff0c\u975e\u7eaf\u534f\u8bae\uff0c\u81ea\u5e26\u68c0\u6d4bplus\u548c\u5f00plus",
+  "lang": "",
+  "name": "tpsnblwg/Grok-GPT",
+  "node_id": "R_kgDOT9qgvA",
+  "topics": []
+ },
+ "1339734075": {
+  "created_at": "2026-08-19T15:23:55Z",
+  "desc": "Rank boosting script for Valorant. Uses optimised agent lineups and smokes to win rounds systematically. Designed for unrated boost to Plat+.",
+  "lang": "",
+  "name": "afraidastrol/valorant-rank-booster-2026",
+  "node_id": "R_kgDOT9q4Ow",
+  "topics": [
+   "2026",
+   "boost",
+   "cheat",
+   "elo",
+   "free",
+   "lineups",
+   "rank",
+   "script",
+   "valorant"
+  ]
+ },
+ "1339735735": {
+  "created_at": "2026-08-19T15:25:20Z",
+  "desc": "Puts a live AI-powered animated pet on your Windows desktop. Your pet walks on windows, reacts to your mouse and typing, chases the cursor, and talks back when clicked.",
+  "lang": "",
+  "name": "prestigioush/ai-desktop-pet-2026",
+  "node_id": "R_kgDOT9q-tw",
+  "topics": [
+   "2026",
+   "ai",
+   "animated",
+   "cat",
+   "chat",
+   "companion",
+   "desktop",
+   "dog",
+   "live",
+   "llm",
+   "pet"
+  ]
+ },
+ "1339735736": {
+  "created_at": "2026-08-19T15:25:20Z",
+  "desc": "A cute AI-powered cat that lives on your Windows desktop. Walks on windows, naps, plays with a virtual yarn ball, and meows responses to your messages.",
+  "lang": "",
+  "name": "punctualadvan/ai-cat-desktop-companion-2026",
+  "node_id": "R_kgDOT9q-uA",
+  "topics": [
+   "2026",
+   "ai",
+   "animated",
+   "cat",
+   "chat",
+   "companion",
+   "desktop",
+   "pet",
+   "sprite",
+   "windows"
+  ]
+ },
+ "1339735743": {
+  "created_at": "2026-08-19T15:25:20Z",
+  "desc": "An animated AI dog companion that lives on your Windows desktop. Fetch animations, tail wagging, barking responses, and a mini-game where you throw a ball.",
+  "lang": "",
+  "name": "querulouscarb/ai-dog-desktop-pet-2026",
+  "node_id": "R_kgDOT9q-vw",
+  "topics": [
+   "2026",
+   "ai",
+   "animated",
+   "breed",
+   "companion",
+   "desktop",
+   "dog",
+   "fetch",
+   "pet",
+   "windows"
+  ]
+ },
+ "1339735834": {
+  "created_at": "2026-08-19T15:25:26Z",
+  "desc": "Live2D animated anime mascot for your desktop. Responds to your voice and text via a local AI. Fully customizable with model import. Popular with streamers.",
+  "lang": "",
+  "name": "readygravel/desktop-mascot-ai-live2d-2026",
+  "node_id": "R_kgDOT9q_Gg",
+  "topics": [
+   "2026",
+   "ai",
+   "anime",
+   "chat",
+   "companion",
+   "desktop",
+   "live2d",
+   "mascot",
+   "voice",
+   "vtuber"
+  ]
+ },
+ "1339736623": {
+  "created_at": "2026-08-19T15:26:07Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents",
+  "node_id": "R_kgDOT9rCLw",
+  "topics": []
+ },
+ "1339736629": {
+  "created_at": "2026-08-19T15:26:07Z",
+  "desc": "Bypasses GitHub Copilot subscription check in VS Code and JetBrains. Full code completion, chat, and multi-file edits without a GitHub Pro account.",
+  "lang": "",
+  "name": "subduedflum/github-copilot-bypass-2026",
+  "node_id": "R_kgDOT9rCNQ",
+  "topics": [
+   "2026",
+   "ai",
+   "bypass",
+   "code",
+   "completion",
+   "copilot",
+   "free",
+   "github",
+   "jetbrains",
+   "vscode"
+  ]
+ },
+ "1339736691": {
+  "created_at": "2026-08-19T15:26:10Z",
+  "desc": "Activates CapCut Pro for Windows \u2014 removes watermarks, unlocks all effects, auto-captions, background removal, and AI video enhancement.",
+  "lang": "",
+  "name": "suburbanhamb/capcut-pro-desktop-crack-2026",
+  "node_id": "R_kgDOT9rCcw",
+  "topics": [
+   "2026",
+   "4k",
+   "ai",
+   "capcut",
+   "caption",
+   "crack",
+   "free",
+   "pro",
+   "remove",
+   "watermark"
+  ]
+ },
+ "1339736982": {
+  "created_at": "2026-08-19T15:26:24Z",
+  "desc": "Activates DaVinci Resolve Studio \u2014 the paid version. Unlocks HDR grading tools, noise reduction, Neural Engine AI effects, Collaboration mode, and 4K+ export.",
+  "lang": "",
+  "name": "surprisedgrou/davinci-resolve-studio-crack-2026",
+  "node_id": "R_kgDOT9rDlg",
+  "topics": [
+   "2026",
+   "4k",
+   "crack",
+   "davinci",
+   "free",
+   "hdr",
+   "neural",
+   "noise",
+   "resolve",
+   "studio"
+  ]
+ },
+ "1339737123": {
+  "created_at": "2026-08-19T15:26:32Z",
+  "desc": "Activates Topaz Video AI for video upscaling, deinterlacing, motion interpolation (60fps+), and stabilisation. Processes on your GPU without cloud.",
+  "lang": "",
+  "name": "tartceramics/topaz-video-ai-crack-2026",
+  "node_id": "R_kgDOT9rEIw",
+  "topics": [
+   "2026",
+   "4k",
+   "ai",
+   "crack",
+   "fps",
+   "free",
+   "interpolation",
+   "topaz",
+   "upscaling",
+   "video"
+  ]
+ },
+ "1339737703": {
+  "created_at": "2026-08-19T15:27:01Z",
+  "desc": "Patches Wondershare Filmora 14 to remove the watermark, unlock AI tools, all effects, and the full export suite without a subscription.",
+  "lang": "",
+  "name": "vaguewrap/filmora-14-crack-2026",
+  "node_id": "R_kgDOT9rGZw",
+  "topics": [
+   "2026",
+   "ai",
+   "crack",
+   "editor",
+   "filmora",
+   "free",
+   "video",
+   "watermark"
+  ]
+ },
+ "1339737709": {
+  "created_at": "2026-08-19T15:27:01Z",
+  "desc": "Mega plugin pack for OBS Studio including paid stream overlays, scene filters, AI background removal, and all StreamFX effects unlocked.",
+  "lang": "",
+  "name": "vastturtle/obs-studio-plugins-pack-2026",
+  "node_id": "R_kgDOT9rGbQ",
+  "topics": [
+   "2026",
+   "ai",
+   "background",
+   "free",
+   "obs",
+   "overlay",
+   "pack",
+   "plugins",
+   "streamfx"
+  ]
+ },
+ "1340243403": {
+  "created_at": "2026-08-20T03:30:55Z",
+  "desc": "Production-grade, AI-Agent-friendly multi-platform OAuth harvesting and session management framework for AI Gateways.",
+  "lang": "Python",
+  "name": "d4ncboz/github-farm",
+  "node_id": "R_kgDOT-J9yw",
+  "topics": []
  },
  "134584107": {
   "created_at": "2018-05-23T14:46:19Z",
