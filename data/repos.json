@@ -255383,7 +255383,7 @@
  "1334685457": {
   "created_at": "2026-08-15T00:45:52Z",
   "desc": "\u8f6f\u4ef6\u5b9e\u4e60\u9879\u76ee\u4f5c\u4e1a",
-  "lang": "Vue",
+  "lang": "Python",
   "name": "gry67673905/-AI-",
   "node_id": "R_kgDOT42vEQ",
   "topics": []
@@ -255514,6 +255514,14 @@
    "multi-agent",
    "orchestration"
   ]
+ },
+ "1334785968": {
+  "created_at": "2026-08-15T04:23:19Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "Misaka10862/WhiteNight",
+  "node_id": "R_kgDOT483sA",
+  "topics": []
  },
  "1334788662": {
   "created_at": "2026-08-15T04:29:11Z",
@@ -255850,6 +255858,14 @@
   "node_id": "R_kgDOT5HvyQ",
   "topics": []
  },
+ "1334981593": {
+  "created_at": "2026-08-15T10:08:03Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "yuyidong/gridllm-load-forecasting",
+  "node_id": "R_kgDOT5Iz2Q",
+  "topics": []
+ },
  "1334984194": {
   "created_at": "2026-08-15T10:12:13Z",
   "desc": "Agent skill that builds scroll-scrubbed \"fly through the world\" landing pages, AI-generated scenes + camera flights chained into one seamless continuous shot, driven by scroll. Claude Code / Codex / SKILL.md-compatible. ",
@@ -256042,7 +256058,7 @@
   "created_at": "2026-08-15T12:53:48Z",
   "desc": "Open-source quantum Agent workspace built on DeepSeek Harness",
   "lang": "JavaScript",
-  "name": "xi-zhao/openQuantum",
+  "name": "xi-zhao/OpenQuantum",
   "node_id": "R_kgDOT5PL0g",
   "topics": []
  },
@@ -256377,7 +256393,7 @@
  },
  "1335304622": {
   "created_at": "2026-08-15T18:04:39Z",
-  "desc": "All-in-one MiniMax H3 node for ComfyUI - T2V, T2I, I2V, R2V, audio drive, keyframes, extend & Motion Context chains in a single node.",
+  "desc": "All-in-one MiniMax H3 node for ComfyUI - T2V, T2I, I2V, R2V, Masking, audio drive, keyframes, extend & Motion Context chains in a single node.",
   "lang": "JavaScript",
   "name": "LeonQ8/ComfyUI-ALLinONE-MinimaxH3",
   "node_id": "R_kgDOT5chrg",
@@ -256766,6 +256782,14 @@
   "node_id": "R_kgDOT54RMA",
   "topics": []
  },
+ "1335772029": {
+  "created_at": "2026-08-16T09:09:34Z",
+  "desc": "Qwen3.8-27B on SGLang for NVIDIA RTX PRO 6000 (96GB, SM120): DSpark speculative decoding, full 256K context, 8 concurrent requests",
+  "lang": "Python",
+  "name": "MiaAI-Lab/Qwen3.8-27B-RTX-6000-PRO-SGLang-DSpark",
+  "node_id": "R_kgDOT55DfQ",
+  "topics": []
+ },
  "1335784003": {
   "created_at": "2026-08-16T09:29:44Z",
   "desc": "Claude Code skill: turn confirmed vulnerabilities into submission-ready DOCX reports | \u6f0f\u6d1e\u62a5\u544a\u6210\u7a3f skill\uff08SRC/0day \u63d0\u4ea4\u7a3f\u3001\u5206\u5c42\u9a8c\u8bc1\u95e8\u3001Step \u5f0f PoC\u3001\u622a\u56fe\u94c1\u5f8b\uff09",
@@ -256801,6 +256825,14 @@
    "pi-extension",
    "pi-package"
   ]
+ },
+ "1335795491": {
+  "created_at": "2026-08-16T09:48:37Z",
+  "desc": "\u7528 Python \u4ece\u96f6\u7406\u89e3 DeepSeek Harness \u7684 Headless \u67b6\u6784",
+  "lang": "Python",
+  "name": "warmsum/mini-harness",
+  "node_id": "R_kgDOT56fIw",
+  "topics": []
  },
  "1335799735": {
   "created_at": "2026-08-16T09:55:20Z",
@@ -256905,6 +256937,14 @@
    "dsh",
    "dsh-plugin"
   ]
+ },
+ "1335874180": {
+  "created_at": "2026-08-16T11:45:34Z",
+  "desc": " \u0645\u062c\u0645\u0648\u0639\u0647\u200c\u0627\u06cc \u0627\u0632 \u0631\u0628\u0627\u062a\u200c\u0647\u0627\u06cc \u0622\u0645\u0627\u062f\u0647 \u0648 \u062d\u0631\u0641\u0647\u200c\u0627\u06cc \u062a\u0644\u06af\u0631\u0627\u0645 | Collection of ready-to-use Telegram bots",
+  "lang": "Python",
+  "name": "Abolfazlrwm/awesome-telegram-bots",
+  "node_id": "R_kgDOT5_ShA",
+  "topics": []
  },
  "1335877752": {
   "created_at": "2026-08-16T11:49:17Z",
@@ -257027,6 +257067,20 @@
   "node_id": "R_kgDOT6KMgg",
   "topics": []
  },
+ "1336054308": {
+  "created_at": "2026-08-16T15:02:56Z",
+  "desc": "An Omni-Modal, Omni-Discipline AI Scientist",
+  "lang": "TypeScript",
+  "name": "Omni-Scientist/OmniScientist",
+  "node_id": "R_kgDOT6KSJA",
+  "topics": [
+   "agent",
+   "ai-scientist",
+   "llm",
+   "research",
+   "skill"
+  ]
+ },
  "1336068061": {
   "created_at": "2026-08-16T15:19:41Z",
   "desc": "DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex \u2014 native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation.",
@@ -257117,6 +257171,14 @@
   "lang": "JavaScript",
   "name": "sunruize93-cmyk/dsh-benign-exit",
   "node_id": "R_kgDOT6TSQQ",
+  "topics": []
+ },
+ "1336204120": {
+  "created_at": "2026-08-16T17:44:54Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "memcode-in/memcode",
+  "node_id": "R_kgDOT6TbWA",
   "topics": []
  },
  "1336215028": {
@@ -257455,9 +257517,29 @@
    "windows"
   ]
  },
+ "1336795852": {
+  "created_at": "2026-08-17T06:59:01Z",
+  "desc": "Turn any child's birthday into a magical 30-second stop-motion origami video with popular animation heroes and Gemini Omni Flash.",
+  "lang": "",
+  "name": "kaomei/kid-papercraft",
+  "node_id": "R_kgDOT63izA",
+  "topics": []
+ },
+ "1336836593": {
+  "created_at": "2026-08-17T07:41:14Z",
+  "desc": "DeepSeek Harness (DSH) \u63d2\u4ef6\uff1a\u5728\u6a21\u578b\u8bfb\u53d6\u524d\u64a4\u56de\u5df2\u53d1\u9001\u7684\u6587\u5b57\u6d88\u606f\uff0c\u652f\u6301\u5355\u6761\u4e0e\u5168\u90e8\u64a4\u56de\u3002A DeepSeek Harness plugin that recalls sent-but-unread text messages before the model reads them \u2014 one-by-one or all at once.",
+  "lang": "JavaScript",
+  "name": "hg1048596-pixel/dsh-recall-unread",
+  "node_id": "R_kgDOT66B8Q",
+  "topics": [
+   "dsh-plugin",
+   "dsh-plugin-market",
+   "dsh-plugins"
+  ]
+ },
  "1336849011": {
   "created_at": "2026-08-17T07:52:45Z",
-  "desc": "Cross-preset session migration for DeepSeek Harness: fixed-schema handoff summaries instead of bypassing the preset lock. 26-run benchmark + A/B evidence. \u8de8 preset \u4f1a\u8bdd\u8fc1\u79fb\u63d2\u4ef6\uff08\u56fa\u5b9a schema \u4ea4\u63a5\u6458\u8981\uff09\uff0c\u542b\u5b9e\u6d4b benchmark \u4e0e A/B \u5bf9\u7167\u3002",
+  "desc": "DeepSeek Harness plugin for previewable cross-preset session migration. Fixed-schema handoffs preserve state, source-model intent, and unresolved images; the original session stays untouched.",
   "lang": "JavaScript",
   "name": "Totoro-qaq/dsh-plugin-bridge",
   "node_id": "R_kgDOT66ycw",
@@ -257473,7 +257555,7 @@
  },
  "1336849558": {
   "created_at": "2026-08-17T07:53:16Z",
-  "desc": "A portable Codex skill for traceable Markdown project documentation, local observability, and safe migration.",
+  "desc": "A portable skill for traceable Markdown project documentation, local observability, and safe migration.",
   "lang": "Python",
   "name": "yw9299-stack/project-orrery",
   "node_id": "R_kgDOT660lg",
@@ -257570,6 +257652,28 @@
    "self-evolving-systems"
   ]
  },
+ "1336998102": {
+  "created_at": "2026-08-17T10:15:58Z",
+  "desc": "\u624b\u673a\u5e73\u677f\u8fdc\u7a0b DeepSeek Harness\uff1a\u626b\u7801\u5373\u53ef\u7ee7\u7eed\u4f7f\u7528\u7535\u8111\u4e0a\u7684 DSH\uff0c\u65e0\u9700\u8fdc\u7a0b\u684c\u9762 / SSH / \u516c\u7f51 IP\uff0c\u652f\u6301\u4e00\u6b21\u6027\u914d\u5bf9\u3001Github\u6388\u6743\u52a0\u5bc6\u767b\u5f55\uff0c\u72ec\u7acb\u8bbe\u5907\u6388\u6743\u4e0e\u968f\u65f6\u64a4\u9500\uff0c\u5b9e\u73b0\u8fdc\u7a0b\u8fde\u63a5\u5f88\u7b80\u5355\uff0c\u4f46\u5b89\u5168\u624d\u662f\u6211\u4eec\u6240\u60f3\u8981\u7684\u3002",
+  "lang": "TypeScript",
+  "name": "summer1238/dsh-remote-web-gateway",
+  "node_id": "R_kgDOT7D41g",
+  "topics": [
+   "cloudflare-tunnel",
+   "deepseek",
+   "deepseek-harness",
+   "developer-tools",
+   "dsh",
+   "dsh-mobile-app",
+   "dsh-model-switch",
+   "dsh-plugin",
+   "mobile",
+   "qr-code",
+   "quick-tunnel",
+   "remote-access",
+   "remote-control"
+  ]
+ },
  "1336998801": {
   "created_at": "2026-08-17T10:16:37Z",
   "desc": "Generate images directly in DeepSeek Harness chats",
@@ -257652,12 +257756,37 @@
   "node_id": "R_kgDOT7OuPw",
   "topics": []
  },
+ "1337208333": {
+  "created_at": "2026-08-17T13:28:38Z",
+  "desc": "From vibe coding to knowing what you actually wanted. Point it at a project you already built with an AI agent: it reads the conversation back and derives the real requirement from your own corrections, layers the mistakes, and turns repeated work into a Skill. Counting is mechanical. Claude Code + Codex, EN/\u4e2d\u6587.",
+  "lang": "Python",
+  "name": "adand-91/requirement-ledger",
+  "node_id": "R_kgDOT7QuDQ",
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "claude-code",
+   "codex",
+   "developer-tools",
+   "llm",
+   "prompt-engineering",
+   "requirements-engineering"
+  ]
+ },
  "1337219316": {
   "created_at": "2026-08-17T13:40:03Z",
   "desc": "",
   "lang": "JavaScript",
   "name": "Ariescar/anyCreature",
   "node_id": "R_kgDOT7RY9A",
+  "topics": []
+ },
+ "1337220896": {
+  "created_at": "2026-08-17T13:41:39Z",
+  "desc": "https://github.com/ifixai-ai/iFixAi",
+  "lang": "",
+  "name": "abirmusa92-code/https-github.com-ifixai-ai-iFixAi",
+  "node_id": "R_kgDOT7RfIA",
   "topics": []
  },
  "1337303060": {
@@ -257688,6 +257817,19 @@
   "name": "xiaoou-waou/xiaoou-gzh-layout",
   "node_id": "R_kgDOT7XZeA",
   "topics": []
+ },
+ "1337335939": {
+  "created_at": "2026-08-17T15:40:59Z",
+  "desc": "Delete one complete turn from a DeepSeek Harness session without deleting the session",
+  "lang": "TypeScript",
+  "name": "hanshenmesen/dsh-turn-delete",
+  "node_id": "R_kgDOT7Yggw",
+  "topics": [
+   "deepseek",
+   "deepseek-harness",
+   "dsh",
+   "dsh-plugin"
+  ]
  },
  "1337369002": {
   "created_at": "2026-08-17T16:15:06Z",
@@ -257733,8 +257875,16 @@
   "created_at": "2026-08-17T18:03:38Z",
   "desc": "Apeireth \u2014 An AGI Operating System / LLM Base (Rust). 85 crates: companion organ, world model, curiosity, hypothesis testing, double-onion security.",
   "lang": "Rust",
-  "name": "YintaTriss/apeireth-rust",
+  "name": "Apeireth/apeireth-rust",
   "node_id": "R_kgDOT7htRw",
+  "topics": []
+ },
+ "1337500215": {
+  "created_at": "2026-08-17T18:17:08Z",
+  "desc": "Local-first, auditable MCP coordination for equal AI coding peers and their human operator.",
+  "lang": "Python",
+  "name": "Hoylon/peerbridge-mcp",
+  "node_id": "R_kgDOT7iiNw",
   "topics": []
  },
  "1337506732": {
@@ -257761,7 +257911,7 @@
  "1337536120": {
   "created_at": "2026-08-17T18:53:24Z",
   "desc": "AI pothole reporter for Bengaluru: on-device Android app that detects potholes, finds the responsible corporation officer and road contractor from public records, and drafts complaint emails you review and send.",
-  "lang": "HTML",
+  "lang": "Python",
   "name": "coding-parrot/pothole-reporter",
   "node_id": "R_kgDOT7kueA",
   "topics": []
@@ -257775,10 +257925,19 @@
   "topics": [
    "agentic-ai",
    "gemini",
+   "playwright",
    "qa",
    "testing",
    "vision-api"
   ]
+ },
+ "1337571992": {
+  "created_at": "2026-08-17T19:29:31Z",
+  "desc": "Monta un segundo cerebro que tus agentes mantienen solos. Patr\u00f3n LLM Wiki (Karpathy) + cu\u00e1ndo necesitas un grafo de conocimiento \u2014 y c\u00f3mo medirlo. Con 3 proyectos demo listos para correr.",
+  "lang": "Shell",
+  "name": "Carlos-Dominguez-faber/segundo-cerebro-kit",
+  "node_id": "R_kgDOT7m6mA",
+  "topics": []
  },
  "1337572127": {
   "created_at": "2026-08-17T19:29:39Z",
@@ -258112,6 +258271,24 @@
   "node_id": "R_kgDOT8GFYw",
   "topics": []
  },
+ "1338086501": {
+  "created_at": "2026-08-18T07:04:01Z",
+  "desc": "\u8ba9AI Agent \u505a\u771f\u6b63\u4f1a\u601d\u8003\uff0c\u6709\u5224\u65ad\u7684\u6df1\u5ea6\u8c03\u7814\uff0c\u800c\u4e0d\u662f\u4f1a\u6446\u4fe1\u606f\u7684\u6c47\u603b\u62a5\u544a\u3002\u4e00\u4e2a\u5373\u63d2\u5373\u7528\u7684 skill \u6587\u4ef6\u3002",
+  "lang": "",
+  "name": "SeanEllyJames/deep-research-skill",
+  "node_id": "R_kgDOT8GUZQ",
+  "topics": [
+   "ai",
+   "ai-agent",
+   "claude",
+   "claude-code",
+   "deep-research",
+   "llm",
+   "prompt-engineering",
+   "research",
+   "skill"
+  ]
+ },
  "1338095980": {
   "created_at": "2026-08-18T07:15:17Z",
   "desc": "The spreadsheet framework built for agents \u2014 write the model as React, export a live .xlsx. The third medium, after open-slide and open-doc.",
@@ -258231,10 +258408,23 @@
  "1338268130": {
   "created_at": "2026-08-18T10:22:19Z",
   "desc": "\u5b89\u5168\u7814\u7a76\u9886\u57df\u7684 agent harness",
-  "lang": "Rust",
+  "lang": "TypeScript",
   "name": "LielingAi/ZhiShi",
   "node_id": "R_kgDOT8RZ4g",
   "topics": []
+ },
+ "1338290116": {
+  "created_at": "2026-08-18T10:48:39Z",
+  "desc": "Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
+  "lang": "Rust",
+  "name": "furkankly/zoetrope",
+  "node_id": "R_kgDOT8SvxA",
+  "topics": [
+   "agent",
+   "agent-visualization",
+   "claude-code",
+   "flow"
+  ]
  },
  "1338291563": {
   "created_at": "2026-08-18T10:50:17Z",
@@ -258251,6 +258441,24 @@
   "name": "JingxuanKang/GPT-Pro-Cloud",
   "node_id": "R_kgDOT8Va1A",
   "topics": []
+ },
+ "1338338357": {
+  "created_at": "2026-08-18T11:43:25Z",
+  "desc": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native terminal UI.",
+  "lang": "TypeScript",
+  "name": "joe960913/Jixu",
+  "node_id": "R_kgDOT8VsNQ",
+  "topics": [
+   "agent-framework",
+   "agent-runtime",
+   "agent-skills",
+   "durable-execution",
+   "event-sourcing",
+   "mcp",
+   "single-agent",
+   "terminal-ui",
+   "typescript"
+  ]
  },
  "1338341195": {
   "created_at": "2026-08-18T11:46:22Z",
@@ -258328,6 +258536,14 @@
    "markdown",
    "web-scraping"
   ]
+ },
+ "1338449348": {
+  "created_at": "2026-08-18T13:38:59Z",
+  "desc": "\u77e5\u6f9c \u2014 \u77e5\u8bc6\u6c47\u805a\u6210\u6f9c\uff1aRAG\u3001Agent \u63a8\u7406\u4e0e\u81ea\u52a8Wiki\u4e00\u4f53\u5316\u7684\u667a\u80fd\u77e5\u8bc6\u4e2d\u67a2",
+  "lang": "Go",
+  "name": "lxcshine/zilan",
+  "node_id": "R_kgDOT8cdxA",
+  "topics": []
  },
  "1338449813": {
   "created_at": "2026-08-18T13:39:26Z",
@@ -258408,6 +258624,14 @@
    "tracing",
    "visualization"
   ]
+ },
+ "1338528444": {
+  "created_at": "2026-08-18T14:55:30Z",
+  "desc": "Evidence-grounded, lightweight guardrails for strong coding agents\u2014Fact, Plan, Execute, Review, and Handoff.",
+  "lang": "",
+  "name": "PeterLeeXX/GroundRail",
+  "node_id": "R_kgDOT8hSvA",
+  "topics": []
  },
  "1338568803": {
   "created_at": "2026-08-18T15:35:57Z",
@@ -258624,6 +258848,14 @@
    "embodied-ai",
    "mlsys"
   ]
+ },
+ "1339069883": {
+  "created_at": "2026-08-19T03:55:54Z",
+  "desc": "",
+  "lang": "Shell",
+  "name": "bigskysoftware/be-terse",
+  "node_id": "R_kgDOT9CVuw",
+  "topics": []
  },
  "1339110580": {
   "created_at": "2026-08-19T05:02:00Z",
@@ -259077,6 +259309,14 @@
    "wayland"
   ]
  },
+ "1339785537": {
+  "created_at": "2026-08-19T16:17:01Z",
+  "desc": "\u8ba9agent\u505a\u597dagent\u80fd\u505a\u7684\u4e8b, \u4ece\u800c\u8ba9\u4eba\u4e13\u6ce8\u4e8e\u81ea\u5df1\u60f3\u505a\u7684\u4e8b. \u4e3a\u66f4\u987a\u7545\u7684 coding \u534f\u4f5c\u800c\u751f\u7684\u5de5\u4f5c\u6d41\u548c\u5de5\u5177\u7bb1. ",
+  "lang": "PowerShell",
+  "name": "kirisawa-subaru/Raymond-agentic-workflow",
+  "node_id": "R_kgDOT9uBQQ",
+  "topics": []
+ },
  "1339813167": {
   "created_at": "2026-08-19T16:46:48Z",
   "desc": "Curated bilingual list of Grok Bot resources \u2014 always-on AI teammates with their own cloud computer.",
@@ -259139,6 +259379,38 @@
   "node_id": "R_kgDOT-V0-g",
   "topics": []
  },
+ "1340465600": {
+  "created_at": "2026-08-20T08:29:32Z",
+  "desc": "This repository contains the lecture materials, notebooks, code, datasets, assignments, demonstrations, and resources used during the Industry-Oriented AI Foundamentals Training Program conducted in August 2026.",
+  "lang": "Jupyter Notebook",
+  "name": "AnantVerma-2022/KPMG_2_GLB",
+  "node_id": "R_kgDOT-XhwA",
+  "topics": []
+ },
+ "1340501779": {
+  "created_at": "2026-08-20T09:07:59Z",
+  "desc": "\u4e00\u4e2a\u57fa\u4e8e 283 \u4e07\u5b57\u8bed\u6599\u7edf\u8ba1\u7684\u53bb AI \u5473 skill \u00b7 An AI-tone removal skill grounded in a 2.83-million-character corpus study",
+  "lang": "Python",
+  "name": "larashero3-dotcom/lieflat-less-ai-tone",
+  "node_id": "R_kgDOT-ZvEw",
+  "topics": []
+ },
+ "1340508826": {
+  "created_at": "2026-08-20T09:16:02Z",
+  "desc": "A GUI for your coding agents",
+  "lang": "TypeScript",
+  "name": "hardbeat920/monocode",
+  "node_id": "R_kgDOT-aKmg",
+  "topics": []
+ },
+ "1340525869": {
+  "created_at": "2026-08-20T09:34:42Z",
+  "desc": "The official implementation of \"AdaPT: Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking.\"",
+  "lang": "Python",
+  "name": "noitom-robotics/AdaPT",
+  "node_id": "R_kgDOT-bNLQ",
+  "topics": []
+ },
  "1340539355": {
   "created_at": "2026-08-20T09:49:53Z",
   "desc": "Experimental deterministic rendering toolkit for HyperFrames video delivery",
@@ -259171,11 +259443,39 @@
  },
  "1340896547": {
   "created_at": "2026-08-20T16:16:58Z",
-  "desc": "\u5f00\u6e90\u957f\u7bc7AI\u5199\u4f5c\u5de5\u5177\uff1aAI \u8d1f\u8d23\u63d0\u5019\u9009\uff0c\u4f60\u8d1f\u8d23\u7b7e\u5b57\u3002\u672c\u5730\u4f18\u5148\uff0c\u5728\u7ebf\u4f53\u9a8c\u5373\u5f00\u5373\u7528\u3002",
+  "desc": "Open-source AI-assisted writing studio for long-form fiction. \u6545\u4e8b\u8bbe\u5b9a\u3001\u6b63\u6587\u7248\u672c\u3001AI \u534f\u4f5c\u3001\u5ba1\u7a3f\u4e0e\u4ea4\u4ed8\u4e00\u4f53\u5316\u7684\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u5de5\u5177\u3002",
   "lang": "TypeScript",
   "name": "abligail/narralume",
   "node_id": "R_kgDOT-x1Iw",
-  "topics": []
+  "topics": [
+   "ai-writing",
+   "creative-writing",
+   "llm",
+   "long-form-writing",
+   "novel-writing",
+   "novel-writing-assistant",
+   "self-hosted",
+   "storytelling",
+   "writing-tool"
+  ]
+ },
+ "1340906871": {
+  "created_at": "2026-08-20T16:28:08Z",
+  "desc": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.",
+  "lang": "JavaScript",
+  "name": "Akimiya-z/codex-guard",
+  "node_id": "R_kgDOT-yddw",
+  "topics": [
+   "ai",
+   "claude-code",
+   "code-review",
+   "codex",
+   "coding-agent",
+   "copilot",
+   "github-action",
+   "openai-codex",
+   "quality-gate"
+  ]
  },
  "1341029172": {
   "created_at": "2026-08-20T18:28:10Z",
@@ -259194,6 +259494,22 @@
    "tailwindcss",
    "ui"
   ]
+ },
+ "1341050308": {
+  "created_at": "2026-08-20T18:53:51Z",
+  "desc": "A seed agent: the smallest starting point from which an agent can grow",
+  "lang": "Python",
+  "name": "vivekhaldar/seed",
+  "node_id": "R_kgDOT-7NxA",
+  "topics": []
+ },
+ "1341122474": {
+  "created_at": "2026-08-20T20:31:52Z",
+  "desc": "Push-to-talk dictation, on-device. Native macOS (Swift) and Windows (C#/Avalonia), sharing one behavioural contract for the correction dictionary.",
+  "lang": "Swift",
+  "name": "per-simmons/murmur-youtube",
+  "node_id": "R_kgDOT-_nqg",
+  "topics": []
  },
  "1341129518": {
   "created_at": "2026-08-20T20:42:28Z",
@@ -259217,6 +259533,140 @@
    "mouse-control",
    "neural-network"
   ]
+ },
+ "1341149365": {
+  "created_at": "2026-08-20T21:13:53Z",
+  "desc": "DeepSeek v4 Flash EXL3 on one DGX Spark",
+  "lang": "Python",
+  "name": "MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark",
+  "node_id": "R_kgDOT_BQtQ",
+  "topics": []
+ },
+ "1341153524": {
+  "created_at": "2026-08-20T21:21:02Z",
+  "desc": "Minecraft-hypixel-skyblock-helper",
+  "lang": "",
+  "name": "fangfogcutter/minecraft-hypixel-skyblock-helper",
+  "node_id": "R_kgDOT_Bg9A",
+  "topics": [
+   "addon-skyblock-minecraft",
+   "hypixel",
+   "hypixel-skyblock",
+   "minecraft-skyblock-addon",
+   "minecraft-skyblock-bedrock",
+   "minecraft-skyblock-mod"
+  ]
+ },
+ "1341155391": {
+  "created_at": "2026-08-20T21:24:13Z",
+  "desc": "An index of free playbooks for marketing, CRM, team-building, and leadership tasks. Each links to its full page on andrewluxem.com.",
+  "lang": "",
+  "name": "andrewluxem/playbooks",
+  "node_id": "R_kgDOT_BoPw",
+  "topics": [
+   "agent-skills",
+   "crm",
+   "frameworks",
+   "leadership",
+   "management",
+   "marketing",
+   "playbooks",
+   "team-building",
+   "templates"
+  ]
+ },
+ "1341245181": {
+  "created_at": "2026-08-21T00:15:11Z",
+  "desc": "Minecraft inside your terminal.",
+  "lang": "JavaScript",
+  "name": "dcouple/terminal-minceraft",
+  "node_id": "R_kgDOT_HG_Q",
+  "topics": []
+ },
+ "1341264609": {
+  "created_at": "2026-08-21T00:50:30Z",
+  "desc": "\u5c06\u53c2\u8003\u58f0\u97f3\u548c\u4e2d\u6587\u6587\u6848\u81ea\u52a8\u751f\u6210\u767d\u677f\u52a8\u753b\u89c6\u9891\u7684\u672c\u5730 AI \u5de5\u5177\u3002",
+  "lang": "Python",
+  "name": "ChenShuo2004/cs-board",
+  "node_id": "R_kgDOT_IS4Q",
+  "topics": [
+   "ai-video",
+   "chinese",
+   "fastapi",
+   "index-tts",
+   "react",
+   "tts",
+   "whiteboard-animation"
+  ]
+ },
+ "1341340606": {
+  "created_at": "2026-08-21T02:57:42Z",
+  "desc": "An open-source game coding agent environment and benchmark for Godot.",
+  "lang": "JavaScript",
+  "name": "GamePhanes/GamePhanes",
+  "node_id": "R_kgDOT_M7vg",
+  "topics": []
+ },
+ "1341641447": {
+  "created_at": "2026-08-21T09:41:41Z",
+  "desc": "A skill that helps AI agents write better docs, with support of Comark components.",
+  "lang": "",
+  "name": "atinux/docster",
+  "node_id": "R_kgDOT_fS5w",
+  "topics": []
+ },
+ "1341669331": {
+  "created_at": "2026-08-21T10:12:54Z",
+  "desc": "\u8ba9 Codex \u6839\u636e\u6700\u7ec8\u7ed3\u679c\u751f\u6210\u6807\u9898\u3001\u6ce8\u91ca\u3001commit \u548c PR\uff0c\u51cf\u5c11\u88ab\u5426\u51b3\u65b9\u6848\u5728\u4ea4\u4ed8\u4e2d\u7684\u6b8b\u7559\u3002",
+  "lang": "Python",
+  "name": "LB623/no-negative-echo",
+  "node_id": "R_kgDOT_g_0w",
+  "topics": [
+   "agent-skills",
+   "chinese",
+   "codex",
+   "codex-skill",
+   "prompt-engineering"
+  ]
+ },
+ "1341777694": {
+  "created_at": "2026-08-21T12:16:56Z",
+  "desc": "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
+  "lang": "JavaScript",
+  "name": "unclecode/modelprint",
+  "node_id": "R_kgDOT_nnHg",
+  "topics": [
+   "ai-tools",
+   "fingerprinting",
+   "llm",
+   "openrouter"
+  ]
+ },
+ "1341805689": {
+  "created_at": "2026-08-21T12:48:38Z",
+  "desc": "DeepSeek Harness plugin for Android \u2014 build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb.",
+  "lang": "TypeScript",
+  "name": "ZSeven-W/dsh-android",
+  "node_id": "R_kgDOT_pUeQ",
+  "topics": [
+   "dsh-plugin"
+  ]
+ },
+ "1341889261": {
+  "created_at": "2026-08-21T14:18:58Z",
+  "desc": "A Claude Code skill (/debuzz) that pipes Claude's answers through Gemini to remove the BuzzFeed voice",
+  "lang": "",
+  "name": "adnanakil/nobuzz",
+  "node_id": "R_kgDOT_ua7Q",
+  "topics": []
+ },
+ "1342192526": {
+  "created_at": "2026-08-21T20:20:04Z",
+  "desc": "Claude Code plugin that rewrites each assistant message into plain language on screen only. Local ollama by default; also codex CLI, Anthropic, or any OpenAI-compatible API. Fail-open. Optional Markdown rewrite.",
+  "lang": "Shell",
+  "name": "Leutenegger/claudish-to-english",
+  "node_id": "R_kgDOUAA7jg",
+  "topics": []
  },
  "134584107": {
   "created_at": "2018-05-23T14:46:19Z",
