@@ -1,133 +1,133 @@
-# AI repos - 2026-08-23
+# AI repos - 2026-08-24
 
 ## Brand new
 
 - **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.  
-  3,821 stars - +271 today - codex, codex-skill, image-generation, logo-design, mascot-design
+  3,993 stars - +172 today - codex, codex-skill, image-generation, logo-design, mascot-design
 
 - **[yetone/cumora](https://github.com/yetone/cumora)** - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.  
-  2,907 stars - +25 today - TypeScript
-
-- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** - Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.  
-  2,368 stars - +181 today - TypeScript - ag-ui, agent-governance, ai-agents, browser-automation, copilotkit, generative-ui, mcp
+  2,998 stars - +91 today - TypeScript
 
 - **[wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)** - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.  
-  1,243 stars - +98 today - Python - a2a, agent-orchestration, agent-routing, ai-agents, multi-agent-systems, python, sprix-ai, task-scheduling
+  1,658 stars - +415 today - Python - a2a, agent-orchestration, agent-routing, ai-agents, multi-agent-systems, python, sprix-ai, task-scheduling
 
 - **[cinderline/northcinder](https://github.com/cinderline/northcinder)** - Open-source MCP server for comparing products and asking the buyer before purchase.  
-  1,206 stars - +3 today - JavaScript - agentic-commerce, human-in-the-loop, local-first, mcp, mcp-server, model-context-protocol, privacy, self-hosted, shopping-agent, typescript
+  1,207 stars - +1 today - JavaScript - agentic-commerce, human-in-the-loop, local-first, mcp, mcp-server, model-context-protocol, privacy, self-hosted, shopping-agent, typescript
 
-- **[Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report)** - DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).  
-  1,039 stars - +2 today - agent-skills, ai-agent, benchmark, deepseek, deepseek-harness, dsh, dsh-plugin
-
-- **[browser-use/macos-harness](https://github.com/browser-use/macos-harness)** - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.  
-  710 stars - +14 today - Python - accessibility, agent, automation, cdp, computer-use, macos, python
-
-- **[SigmanticAI/apex-inference-chip](https://github.com/SigmanticAI/apex-inference-chip)** - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.  
-  680 stars - +6 today - Python
-
-- **[missuo/herdrm](https://github.com/missuo/herdrm)** - Native macOS console for herdr — all your coding agents and their live terminals, across devices  
-  607 stars - +11 today - Swift
+- **[duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)** - x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros  
+  1,043 stars - +889 today - Zig
 
 - **[MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)** - DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装  
-  603 stars - +197 today - JavaScript - cordis, deepseek, deepseek-harness, developer-tools, dsh, dsh-plugin, dsh-plugins, floating-widget, plugin
+  780 stars - +177 today - JavaScript - cordis, deepseek, deepseek-harness, developer-tools, dsh, dsh-plugin, dsh-plugins, floating-widget, plugin
+
+- **[ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover)** - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.  
+  761 stars - new - Python - claude-ai, claude-code, claude-code-plugin, claude-skills, codex, codex-cli, codex-skill, codex-skills, watermark
+
+- **[cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video)** - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.  
+  732 stars - +393 today - Python - ai-video, codex, codex-skill, digital-human, video-generation
+
+- **[missuo/herdrm](https://github.com/missuo/herdrm)** - Native macOS console for herdr — all your coding agents and their live terminals, across devices  
+  616 stars - +9 today - Swift
+
+- **[iAmCorey/Wake](https://github.com/iAmCorey/Wake)** - Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.  
+  570 stars - +68 today - Rust
 
 
 ## Last 24 hours
 
 - **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** - DeepSeek Harness: Everything is a Plugin.  
-  185,936 stars - +3,461 today - TypeScript - ai-agents, cordis, dsh, dsh-plugin
+  189,846 stars - +3,910 today - TypeScript - ai-agents, cordis, dsh, dsh-plugin
 
-- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。  
-  18,554 stars - +741 today - TypeScript - cordis, cordis-plugin, deepseek, deepseek-harness, desktop, dsh, dsh-plugin, dsh-plugin-desktop
+- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中  
+  14,222 stars - +1,897 today - JavaScript - agents, ai-image-generation, chatgpt, dsh-plugin, gpt-image-2, image-prompts, prompt-as-code, prompt-engineering, skills, workflow-automation
 
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.  
-  108,380 stars - +692 today - JavaScript - agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
-
-- **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.  
-  114,838 stars - +683 today - Python - ai-video-generator, content-creation, ffmpeg, instagram-reels, llm, python, short-video, subtitles, text-to-speech, tiktok, video-automation, video-workflow, workflow-automation, youtube-shorts
-
-- **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework & software development methodology that works.  
-  276,329 stars - +560 today - Shell - ai, brainstorming, coding, obra, sdlc, skills, subagent-driven-development, superpowers
-
-- **[agentrhq/webcmd](https://github.com/agentrhq/webcmd)** - The Browser Infra that learns and cuts token spend by upto 90%  
-  1,405 stars - +469 today - JavaScript - ai-agents, browser-automation, browser-use, cli, developer-tools, playwright, self-learning-ai
-
-- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中  
-  12,325 stars - +448 today - JavaScript - agents, ai-image-generation, chatgpt, dsh-plugin, gpt-image-2, image-prompts, prompt-as-code, prompt-engineering, skills, workflow-automation
+- **[duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)** - x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros  
+  1,043 stars - +889 today - Zig
 
 - **[Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy)** - Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.  
-  1,126 stars - +426 today - JavaScript - ai-agents, claude, claude-code, llm, productivity, prompt-engineering, skill
+  1,971 stars - +845 today - JavaScript - ai-agents, claude, claude-code, llm, productivity, prompt-engineering, skill
 
-- **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD  
-  17,153 stars - +423 today - Python - agent-skill, ai, c2pa, claude, provenance, synthid, watermark
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** - The agent that grows with you  
+  235,285 stars - +804 today - Python - ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai
 
-- **[truefoundry/trueforge](https://github.com/truefoundry/trueforge)** - The open-source agent harness - the runtime layer that turns an LLM into a working agent.  
-  3,558 stars - +412 today - TypeScript - agent, agentic-ai, agents, harness, harness-engineering
+- **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。  
+  19,331 stars - +777 today - TypeScript - cordis, cordis-plugin, deepseek, deepseek-harness, desktop, dsh, dsh-plugin, dsh-plugin-desktop
+
+- **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端  
+  28,239 stars - +774 today - PowerShell
+
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.  
+  109,137 stars - +757 today - JavaScript - agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
+
+- **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.  
+  115,574 stars - +736 today - Python - ai-video-generator, content-creation, ffmpeg, instagram-reels, llm, python, short-video, subtitles, text-to-speech, tiktok, video-automation, video-workflow, workflow-automation, youtube-shorts
+
+- **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.  
+  129,608 stars - +553 today - Python - ai, comfy, comfyui, python, pytorch, stable-diffusion
 
 
 ## This week
 
 - **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** - DeepSeek Harness: Everything is a Plugin.  
-  185,936 stars - +65,184 in 7d - TypeScript - ai-agents, cordis, dsh, dsh-plugin
+  189,846 stars - +47,889 in 7d - TypeScript - ai-agents, cordis, dsh, dsh-plugin
 
 - **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.  
-  114,838 stars - +10,809 in 7d - Python - ai-video-generator, content-creation, ffmpeg, instagram-reels, llm, python, short-video, subtitles, text-to-speech, tiktok, video-automation, video-workflow, workflow-automation, youtube-shorts
+  115,574 stars - +10,594 in 7d - Python - ai-video-generator, content-creation, ffmpeg, instagram-reels, llm, python, short-video, subtitles, text-to-speech, tiktok, video-automation, video-workflow, workflow-automation, youtube-shorts
 
 - **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。  
-  18,554 stars - +11,475 in 7d - TypeScript - cordis, cordis-plugin, deepseek, deepseek-harness, desktop, dsh, dsh-plugin, dsh-plugin-desktop
+  19,331 stars - +8,788 in 7d - TypeScript - cordis, cordis-plugin, deepseek, deepseek-harness, desktop, dsh, dsh-plugin, dsh-plugin-desktop
 
-- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表  
-  11,630 stars - +8,131 in 7d - Python - awesome, awesome-list, deepseek-harness, dsh, dsh-plugin
+- **[duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)** - x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros  
+  1,043 stars - +889 in 7d - Zig
 
 - **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD  
-  17,153 stars - +7,081 in 7d - Python - agent-skill, ai, c2pa, claude, provenance, synthid, watermark
+  17,621 stars - +5,261 in 7d - Python - agent-skill, ai, anthropic, c2pa, chatgpt, claude, gemini, openai, provenance, synthid, watermark, watermark-detection, watermark-tools, watermarking, watermarks
 
 - **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.  
-  108,380 stars - +4,844 in 7d - JavaScript - agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
+  109,137 stars - +4,825 in 7d - JavaScript - agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
+
+- **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表  
+  12,043 stars - +5,381 in 7d - Python - awesome, awesome-list, deepseek-harness, dsh, dsh-plugin
 
 - **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework & software development methodology that works.  
-  276,329 stars - +3,754 in 7d - Shell - ai, brainstorming, coding, obra, sdlc, skills, subagent-driven-development, superpowers
+  276,811 stars - +3,874 in 7d - Shell - ai, brainstorming, coding, obra, sdlc, skills, subagent-driven-development, superpowers
 
 - **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码  
-  41,008 stars - +3,325 in 7d - Python - agent, agent-memory, ai-agent, book, coding-agent, context-engineering, large-language-models, llm, mcp, multi-agent, multimodal, rag, reinforcement-learning
+  41,490 stars - +3,316 in 7d - Python - agent, agent-memory, ai-agent, book, coding-agent, context-engineering, large-language-models, llm, mcp, multi-agent, multimodal, rag, reinforcement-learning
 
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.  
-  3,821 stars - +2,514 in 7d - codex, codex-skill, image-generation, logo-design, mascot-design
-
-- **[Tiger3807861189/J-Space-Cognition-Suite-V3.5Turbo](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.5Turbo)** - J-Space Cognition Suite V3.5Turbo - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research.  
-  3,019 stars - +3,003 in 7d - Python
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** - The agent that grows with you  
+  235,285 stars - +3,598 in 7d - Python - ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai
 
 
 ## This month
 
 - **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** - DeepSeek Harness: Everything is a Plugin.  
-  185,936 stars - +83,372 in 30d - TypeScript - ai-agents, cordis, dsh, dsh-plugin
+  189,846 stars - +87,282 in 30d - TypeScript - ai-agents, cordis, dsh, dsh-plugin
 
 - **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。  
-  18,554 stars - +15,358 in 30d - TypeScript - cordis, cordis-plugin, deepseek, deepseek-harness, desktop, dsh, dsh-plugin, dsh-plugin-desktop
+  19,331 stars - +16,135 in 30d - TypeScript - cordis, cordis-plugin, deepseek, deepseek-harness, desktop, dsh, dsh-plugin, dsh-plugin-desktop
+
+- **[duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)** - x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros  
+  1,043 stars - +889 in 30d - Zig
 
 - **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表  
-  11,630 stars - +9,873 in 30d - Python - awesome, awesome-list, deepseek-harness, dsh, dsh-plugin
+  12,043 stars - +10,286 in 30d - Python - awesome, awesome-list, deepseek-harness, dsh, dsh-plugin
 
 - **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD  
-  17,153 stars - +11,691 in 30d - Python - agent-skill, ai, c2pa, claude, provenance, synthid, watermark
+  17,621 stars - +12,159 in 30d - Python - agent-skill, ai, anthropic, c2pa, chatgpt, claude, gemini, openai, provenance, synthid, watermark, watermark-detection, watermark-tools, watermarking, watermarks
 
 - **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.  
-  108,380 stars - +18,590 in 30d - JavaScript - agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
+  109,137 stars - +18,884 in 30d - JavaScript - agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
 
 - **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码  
-  41,008 stars - +21,682 in 30d - Python - agent, agent-memory, ai-agent, book, coding-agent, context-engineering, large-language-models, llm, mcp, multi-agent, multimodal, rag, reinforcement-learning
+  41,490 stars - +21,441 in 30d - Python - agent, agent-memory, ai-agent, book, coding-agent, context-engineering, large-language-models, llm, mcp, multi-agent, multimodal, rag, reinforcement-learning
 
 - **[obra/superpowers](https://github.com/obra/superpowers)** - An agentic skills framework & software development methodology that works.  
-  276,329 stars - +15,209 in 30d - Shell - ai, brainstorming, coding, obra, sdlc, skills, subagent-driven-development, superpowers
-
-- **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.  
-  3,821 stars - +2,514 in 30d - codex, codex-skill, image-generation, logo-design, mascot-design
+  276,811 stars - +15,254 in 30d - Shell - ai, brainstorming, coding, obra, sdlc, skills, subagent-driven-development, superpowers
 
 - **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** - The agent that grows with you  
-  234,481 stars - +2,794 in 30d - Python - ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai
+  235,285 stars - +3,598 in 30d - Python - ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai
 
-- **[truefoundry/trueforge](https://github.com/truefoundry/trueforge)** - The open-source agent harness - the runtime layer that turns an LLM into a working agent.  
-  3,558 stars - +2,993 in 30d - TypeScript - agent, agentic-ai, agents, harness, harness-engineering
+- **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端  
+  28,239 stars - +18,679 in 30d - PowerShell
 
