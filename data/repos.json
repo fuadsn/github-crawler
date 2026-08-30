@@ -278751,6 +278751,14 @@
   "node_id": "R_kgDOUBEs-w",
   "topics": []
  },
+ "1343307023": {
+  "created_at": "2026-08-23T02:23:14Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "jokeru8/qwen_annotate",
+  "node_id": "R_kgDOUBE9Dw",
+  "topics": []
+ },
  "1343317564": {
   "created_at": "2026-08-23T02:46:29Z",
   "desc": "Codebase-Memory-MCP Manager CLI TUI to interactively manage cbm projects, artifacts, server.",
@@ -279000,7 +279008,7 @@
   "created_at": "2026-08-23T08:40:30Z",
   "desc": "Privacy-conscious Chrome translation extension for webpages, video subtitles, and local OCR.",
   "lang": "TypeScript",
-  "name": "Norixor/nTrans",
+  "name": "Norixor/NoriTrans",
   "node_id": "R_kgDOUBT_wg",
   "topics": [
    "chrome-extension",
@@ -279142,6 +279150,27 @@
    "wpf"
   ]
  },
+ "1343773044": {
+  "created_at": "2026-08-23T13:00:17Z",
+  "desc": "Time-shifting task delegation for DeepSeek Harness (dsh): plan tasks at leisure, they run unattended off-peak, come back to a report. Human-adjudicated, desktop + web.",
+  "lang": "TypeScript",
+  "name": "KelaoHu/dsh-lowtide",
+  "node_id": "R_kgDOUBhZdA",
+  "topics": [
+   "ai-agent",
+   "automation",
+   "batch-processing",
+   "cordis",
+   "deepseek",
+   "deepseek-harness",
+   "dsh-plugin",
+   "llm",
+   "plugin",
+   "scheduler",
+   "task-queue",
+   "typescript"
+  ]
+ },
  "1343813780": {
   "created_at": "2026-08-23T13:43:05Z",
   "desc": "Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion",
@@ -279174,6 +279203,30 @@
    "weixin",
    "writing"
   ]
+ },
+ "1343854589": {
+  "created_at": "2026-08-23T14:26:07Z",
+  "desc": "Maybe the headless Ghidra MCP you are looking for.",
+  "lang": "Python",
+  "name": "elliottophellia/Ryuumonbuchi",
+  "node_id": "R_kgDOUBmX_Q",
+  "topics": [
+   "binary-analysis",
+   "decompiler",
+   "ghidra",
+   "ghidra-mcp",
+   "mcp",
+   "model-context-protocol",
+   "reverse-engineering"
+  ]
+ },
+ "1343859373": {
+  "created_at": "2026-08-23T14:30:53Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "GeekatplayStudio/ComfyUI-Asset-Vault",
+  "node_id": "R_kgDOUBmqrQ",
+  "topics": []
  },
  "1343880269": {
   "created_at": "2026-08-23T14:51:22Z",
@@ -279343,6 +279396,14 @@
   "node_id": "R_kgDOUB6nDg",
   "topics": []
  },
+ "1344193284": {
+  "created_at": "2026-08-23T20:31:57Z",
+  "desc": "Standalone, native server launcher for Jellyfin on Android ARM64 with Material 3 UI.",
+  "lang": "Java",
+  "name": "Suz41/Fishbowl",
+  "node_id": "R_kgDOUB7DBA",
+  "topics": []
+ },
  "1344208527": {
   "created_at": "2026-08-23T20:53:01Z",
   "desc": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
@@ -279429,6 +279490,25 @@
    "svg-to-pptx"
   ]
  },
+ "1344382113": {
+  "created_at": "2026-08-24T01:14:50Z",
+  "desc": "Deletion-first Agent Skill for removing test bloat, verification theater, and speculative fallbacks while preserving behavior.",
+  "lang": "Python",
+  "name": "MrZoyo/deslop-GPT",
+  "node_id": "R_kgDOUCGkoQ",
+  "topics": [
+   "agent-skills",
+   "claude",
+   "claude-ai",
+   "claude-code",
+   "claude-skills",
+   "code-cleanup",
+   "codex",
+   "coding-agents",
+   "developer-tools",
+   "llm-evaluation"
+  ]
+ },
  "1344421774": {
   "created_at": "2026-08-24T02:09:23Z",
   "desc": "Fetch.ai LinkedIn poster agent for Agentverse using uAgents and ASI:One",
@@ -279488,6 +279568,23 @@
   "node_id": "R_kgDOUCLydg",
   "topics": []
  },
+ "1344551841": {
+  "created_at": "2026-08-24T04:53:20Z",
+  "desc": "Re-anchor long conversations that drift through repeated local corrections.",
+  "lang": "JavaScript",
+  "name": "jinhanbuilds/hoist-the-elephant",
+  "node_id": "R_kgDOUCQ7oQ",
+  "topics": [
+   "agent-skills",
+   "agent-workflows",
+   "ai-agents",
+   "codex",
+   "context-management",
+   "conversation-design",
+   "human-in-the-loop",
+   "long-context"
+  ]
+ },
  "1344564813": {
   "created_at": "2026-08-24T05:13:36Z",
   "desc": "Code-quality skills by Max Kanat-Alexander.",
@@ -279530,6 +279627,31 @@
   "node_id": "R_kgDOUCTTaw",
   "topics": []
  },
+ "1344607188": {
+  "created_at": "2026-08-24T06:15:30Z",
+  "desc": "\u8bfe\u5802\u5b9e\u65f6\u8f6c\u5199\u3001\u70b9\u540d\u63d0\u9192\u4e0e AI \u56de\u7b54\u52a9\u624b",
+  "lang": "Kotlin",
+  "name": "lu0973-cb02d/ClassCue",
+  "node_id": "R_kgDOUCUT1A",
+  "topics": [
+   "android",
+   "classroom",
+   "jetpack-compose",
+   "kotlin",
+   "offline-first",
+   "speech-recognition"
+  ]
+ },
+ "1344612469": {
+  "created_at": "2026-08-24T06:22:33Z",
+  "desc": "DeepSeek V4-Flash Vision RAG \u8ba9 AI \u771f\u6b63\"\u770b\u61c2\" \u4e00\u4efd PDF\uff0c\u7136\u540e\u4f60\u5bf9\u5b83\u63d0\u95ee\uff1a\u5b83\u544a\u8bc9\u4f60\u7b54\u6848\u3001\u7b54\u6848\u5728\u7b2c\u51e0\u9875\uff0c \u5e76\u628a\u90a3\u4e00\u9875\u7684\u539f\u56fe\u5c55\u793a\u51fa\u6765\u7ed9\u4f60\u6838\u5bf9\u3002  \u57fa\u4e8e DeepSeek \u89c6\u89c9\u5927\u6a21\u578b deepseek-v4-flash-vision-exp \u7684 PDF \u6df1\u5ea6\u95ee\u7b54\u4e0e\u68c0\u7d22 \uff08vision RAG\uff09agent skill\u3002\u652f\u6301\u6587\u5b57\u7248 PDF\uff0c\u4e5f\u652f\u6301\u626b\u63cf\u7248\uff1b\u80fd\u770b\u61c2 \u56fe\u8868\u3001\u8868\u683c\u3001\u4ee3\u7801\u5757\u3001\u516c\u5f0f\uff0c\u800c\u4e0d\u53ea\u662f\u8ba4\u5b57\u3002",
+  "lang": "Python",
+  "name": "liangdabiao/deepseek-v4-flash-vision-rag",
+  "node_id": "R_kgDOUCUodQ",
+  "topics": [
+   "skills"
+  ]
+ },
  "1344620985": {
   "created_at": "2026-08-24T06:32:55Z",
   "desc": "\ud83c\udfac OraRL \u2014 Annotations as Rollouts for efficient, scalable reinforcement learning of unified video MLLMs.",
@@ -279560,6 +279682,22 @@
    "pyside6",
    "wechat",
    "windows"
+  ]
+ },
+ "1344676556": {
+  "created_at": "2026-08-24T07:40:18Z",
+  "desc": "AICSS React components and CLI. Website: aicss.dev",
+  "lang": "TypeScript",
+  "name": "kvnkld/aicss",
+  "node_id": "R_kgDOUCYizA",
+  "topics": [
+   "ai-agents",
+   "css",
+   "react",
+   "shadcn-registry",
+   "svelte",
+   "ui",
+   "vue"
   ]
  },
  "1344686779": {
@@ -279611,11 +279749,22 @@
  },
  "1344766430": {
   "created_at": "2026-08-24T09:20:10Z",
-  "desc": "Open-source quality and security evaluation platform for RAG applications and AI assistants.",
+  "desc": "Evaluator-neutral AI evaluation evidence, baseline regression gates, and JSON, JUnit, and SARIF reports for CI.",
   "lang": "Python",
   "name": "jsdhwfmax/EvalForge",
   "node_id": "R_kgDOUCeB3g",
-  "topics": []
+  "topics": [
+   "ai-evaluation",
+   "github-actions",
+   "junit",
+   "llm-evaluation",
+   "mlops",
+   "python",
+   "quality-gates",
+   "rag",
+   "sarif",
+   "testing"
+  ]
  },
  "1344780270": {
   "created_at": "2026-08-24T09:35:11Z",
@@ -279642,6 +279791,14 @@
   "lang": "TypeScript",
   "name": "vincanger/webmcp-espresso-store",
   "node_id": "R_kgDOUCg1nw",
+  "topics": []
+ },
+ "1344881927": {
+  "created_at": "2026-08-24T11:32:32Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "HHU-JialeChen/CogniJet-Lume",
+  "node_id": "R_kgDOUClFBw",
   "topics": []
  },
  "1344908058": {
@@ -279792,6 +279949,21 @@
   "node_id": "R_kgDOUC0HQg",
   "topics": []
  },
+ "1345167055": {
+  "created_at": "2026-08-24T16:24:30Z",
+  "desc": "Source-aware China inbound travel data, CLI, HTTP API, and MCP server",
+  "lang": "Python",
+  "name": "tczyliu/china-travel-kit",
+  "node_id": "R_kgDOUC2ezw",
+  "topics": [
+   "china-travel",
+   "inbound-travel",
+   "mcp-server",
+   "open-data",
+   "python",
+   "travel"
+  ]
+ },
  "1345177309": {
   "created_at": "2026-08-24T16:35:49Z",
   "desc": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.",
@@ -279807,6 +279979,16 @@
   "name": "amosblomqvist/learn",
   "node_id": "R_kgDOUC3omw",
   "topics": []
+ },
+ "1345232342": {
+  "created_at": "2026-08-24T17:34:38Z",
+  "desc": "Tab titles that follow the work in each tab. A Herdr plugin.",
+  "lang": "Go",
+  "name": "kryptamine/herdr-auto-title",
+  "node_id": "R_kgDOUC6d1g",
+  "topics": [
+   "herdr-plugin"
+  ]
  },
  "1345289911": {
   "created_at": "2026-08-24T18:38:19Z",
@@ -279898,6 +280080,22 @@
    "text-transformer",
    "wechat"
   ]
+ },
+ "1345479725": {
+  "created_at": "2026-08-24T23:03:33Z",
+  "desc": "AI roleplaying application, but better",
+  "lang": "TypeScript",
+  "name": "kwaroran/Risuai-Next",
+  "node_id": "R_kgDOUDJkLQ",
+  "topics": []
+ },
+ "1345516815": {
+  "created_at": "2026-08-25T00:13:31Z",
+  "desc": "Personal Optimized SGLang runtime for Qwen3.8-27B/DFlash2 and Qwen3.8 Flash-Next on one RTX PRO 6000 Blackwell (SM120).",
+  "lang": "Python",
+  "name": "jpezzulli/sglang-rtxpro6000",
+  "node_id": "R_kgDOUDL1Dw",
+  "topics": []
  },
  "1345527478": {
   "created_at": "2026-08-25T00:33:03Z",
@@ -280055,6 +280253,14 @@
    "rsi"
   ]
  },
+ "1345726006": {
+  "created_at": "2026-08-25T05:37:43Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "Hss-Dr/MooCow-Agent",
+  "node_id": "R_kgDOUDYmNg",
+  "topics": []
+ },
  "1345744178": {
   "created_at": "2026-08-25T06:00:29Z",
   "desc": "A minimal handwritten runtime following DSH concepts",
@@ -280211,6 +280417,78 @@
   "node_id": "R_kgDOUDiebQ",
   "topics": []
  },
+ "1345901466": {
+  "created_at": "2026-08-25T08:57:21Z",
+  "desc": "AI Studio Trainer Hub 2026: Open Source Installer & Auto-Updater Suite",
+  "lang": "HTML",
+  "name": "Harshitdewangann/Model-Vault-Forge",
+  "node_id": "R_kgDOUDjTmg",
+  "topics": [
+   "ai",
+   "ai-models",
+   "deep-learning",
+   "deep-neural-networks",
+   "installer",
+   "lithicsoft",
+   "machine-learning",
+   "trainer",
+   "trainer-studio",
+   "training",
+   "transfer-learning",
+   "updater"
+  ]
+ },
+ "1345901547": {
+  "created_at": "2026-08-25T08:57:27Z",
+  "desc": "Ultimate Plant vs Zombies Trainer Overhaul 2026: Advanced Mods & AI Cheats Guide",
+  "lang": "HTML",
+  "name": "hazemxx7/botanical-override",
+  "node_id": "R_kgDOUDjT6w",
+  "topics": [
+   "cheat",
+   "cpp",
+   "plant-vs-zombie",
+   "pvsz",
+   "trainer"
+  ]
+ },
+ "1345901563": {
+  "created_at": "2026-08-25T08:57:28Z",
+  "desc": "AI Virtual Gym Trainer 2026: OpenCV & MediaPipe Rep Counter with Real-Time Form Feedback",
+  "lang": "HTML",
+  "name": "gulingguinxling-del/Motion-Form-Feedback",
+  "node_id": "R_kgDOUDjT-w",
+  "topics": [
+   "ai",
+   "finger-counter",
+   "fingercount",
+   "gym",
+   "mediapipe",
+   "opencv",
+   "opencv-python",
+   "python",
+   "trainer",
+   "webcam"
+  ]
+ },
+ "1345902637": {
+  "created_at": "2026-08-25T08:58:40Z",
+  "desc": "Aim Genetics Lab: CRISPR Gene Editing & Bioinformatics Tools 2026",
+  "lang": "HTML",
+  "name": "hasnaaatef/aim-lab-orchestrator",
+  "node_id": "R_kgDOUDjYLQ",
+  "topics": [
+   "aim",
+   "benchmark",
+   "biometrics",
+   "esports",
+   "fps",
+   "genetics",
+   "neuroscience",
+   "reaction-time",
+   "trainer"
+  ]
+ },
  "1345907683": {
   "created_at": "2026-08-25T09:04:22Z",
   "desc": "AI skill for fixing Arabic RTL, BiDi, and mixed Arabic-English content in documents, Word (DOCX), PowerPoint (PPTX), and other formatted files.",
@@ -280218,6 +280496,431 @@
   "name": "ibadwi/arabic-rtl-fixer-ai-skill",
   "node_id": "R_kgDOUDjr4w",
   "topics": []
+ },
+ "1345915661": {
+  "created_at": "2026-08-25T09:13:15Z",
+  "desc": "AI Anti-Fraud Trainer 2026: Interactive Scam Defense Simulation",
+  "lang": "HTML",
+  "name": "jogonono2-bot/scam-shield-arena",
+  "node_id": "R_kgDOUDkLDQ",
+  "topics": [
+   "antifraud",
+   "go",
+   "jwt",
+   "postgresql",
+   "react",
+   "tailwindcss",
+   "trainer",
+   "typescript"
+  ]
+ },
+ "1345915734": {
+  "created_at": "2026-08-25T09:13:19Z",
+  "desc": "Armored Core VI Ultimate Combat Tuner 2026 Edition",
+  "lang": "HTML",
+  "name": "khaledbandary572-cyber/AC6-Overclock-Console",
+  "node_id": "R_kgDOUDkLVg",
+  "topics": [
+   "armored",
+   "armored-2026",
+   "armored-core",
+   "armored-core-vi-cheat-engine-table-windows-11",
+   "armored-core-vi-trainer",
+   "armored-core-vi-trainer-download-pc",
+   "armored-core-vi-trainer-fling-armored-core-2026",
+   "complete-version",
+   "download",
+   "engine",
+   "full-installer",
+   "mech",
+   "pc-game",
+   "software",
+   "trainer"
+  ]
+ },
+ "1345915851": {
+  "created_at": "2026-08-25T09:13:26Z",
+  "desc": "Real-Time Powerlifting Form Check 2026: AI Pose Correction with YOLOv5 and MediaPipe",
+  "lang": "HTML",
+  "name": "ibrarhussainbaloch840-spec/lift-lab-form-coach",
+  "node_id": "R_kgDOUDkLyw",
+  "topics": [
+   "fitness",
+   "fitness-tracker",
+   "pose-estimation",
+   "posture",
+   "posture-correcter",
+   "trainer"
+  ]
+ },
+ "1345920783": {
+  "created_at": "2026-08-25T09:18:48Z",
+  "desc": "Fine-Tune BERT for Domain Adaptation with Hugging Face in 2026: The Complete Guide",
+  "lang": "HTML",
+  "name": "narvaezluz111-debug/bert-domain-adaptation-playbook",
+  "node_id": "R_kgDOUDkfDw",
+  "topics": [
+   "bert",
+   "domain-adaptation",
+   "huggingface",
+   "nlp",
+   "trainer"
+  ]
+ },
+ "1345921307": {
+  "created_at": "2026-08-25T09:19:24Z",
+  "desc": "Bfree Trainer AI Coach 2026: Smart Fitness App for Adaptive Workouts",
+  "lang": "HTML",
+  "name": "omnieditor1000-prog/bfree-adaptive-workouts",
+  "node_id": "R_kgDOUDkhGw",
+  "topics": [
+   "cycling",
+   "heartrate-monitor",
+   "nextjs",
+   "trainer",
+   "web-ble",
+   "web-bluetooth"
+  ]
+ },
+ "1345922155": {
+  "created_at": "2026-08-25T09:20:20Z",
+  "desc": "Big Walk Island Explorer Mastery Suite 2026 \u2013 Advanced Tools & Mods Guide",
+  "lang": "HTML",
+  "name": "pcramos841-ai/Big-Walk-Island-Atlas",
+  "node_id": "R_kgDOUDkkaw",
+  "topics": [
+   "adventure",
+   "big-walk",
+   "big-walk-cheats",
+   "big-walk-exploit",
+   "big-walk-hack",
+   "big-walk-mod",
+   "big-walk-trainer",
+   "co-op",
+   "exploration",
+   "mod-framework",
+   "modding",
+   "steam",
+   "trainer",
+   "windows"
+  ]
+ },
+ "1345923370": {
+  "created_at": "2026-08-25T09:21:33Z",
+  "desc": "2026 Mind Flex Pro: Brain Training & Cognitive Enhancement Suite",
+  "lang": "HTML",
+  "name": "rq0066622-lang/Neuro-Sprint",
+  "node_id": "R_kgDOUDkpKg",
+  "topics": [
+   "ai",
+   "brain",
+   "css",
+   "html",
+   "javascript",
+   "styling",
+   "trainer",
+   "ui-design",
+   "ux-design"
+  ]
+ },
+ "1345923623": {
+  "created_at": "2026-08-25T09:21:46Z",
+  "desc": "Deep Neural Network Training Automation Tools for AI Researchers 2026",
+  "lang": "HTML",
+  "name": "safiullah123student-byte/deep-model-forge",
+  "node_id": "R_kgDOUDkqJw",
+  "topics": [
+   "builder",
+   "classification",
+   "dnn",
+   "experiments",
+   "gui",
+   "pytorch",
+   "sacred",
+   "tensorboard",
+   "torchvision",
+   "trainer",
+   "wandb"
+  ]
+ },
+ "1345924622": {
+  "created_at": "2026-08-25T09:22:55Z",
+  "desc": "Train Like a Grandmaster: AI-Powered Chess Blunder Analysis for 2026",
+  "lang": "HTML",
+  "name": "serabanboy1/chess-blunder-autopsy",
+  "node_id": "R_kgDOUDkuDg",
+  "topics": [
+   "blunders",
+   "chess",
+   "chess-engine",
+   "chess-tracker",
+   "chess-training",
+   "chesscom",
+   "lichess",
+   "self-hosted",
+   "tactics",
+   "trainer"
+  ]
+ },
+ "1345925503": {
+  "created_at": "2026-08-25T09:23:55Z",
+  "desc": "Master Guitar Chords Effortlessly: AI-Powered Chord Trainer with Real-Time DSP Recognition 2026",
+  "lang": "HTML",
+  "name": "tryingpixai-commits/string-savant-arcade",
+  "node_id": "R_kgDOUDkxfw",
+  "topics": [
+   "ascii",
+   "dsp",
+   "guita",
+   "guitar",
+   "trainer",
+   "training"
+  ]
+ },
+ "1345927045": {
+  "created_at": "2026-08-25T09:25:39Z",
+  "desc": "CoRT 2.0: Revolutionary Contextual Reasoning Toolkit for AI Agents 2026",
+  "lang": "HTML",
+  "name": "ujangkarim653-creator/CoRT-Reforged",
+  "node_id": "R_kgDOUDk3hQ",
+  "topics": [
+   "championsofregnum",
+   "regnumonline",
+   "trainer"
+  ]
+ },
+ "1345928720": {
+  "created_at": "2026-08-25T09:27:36Z",
+  "desc": "Morse Code Trainer APK 2026: Koch Method for R36S Handheld Gamers",
+  "lang": "HTML",
+  "name": "williamhuang92/koch-wave-dojo",
+  "node_id": "R_kgDOUDk-EA",
+  "topics": [
+   "amateur-radio",
+   "cw",
+   "ham-radio",
+   "handheld-gaming",
+   "koch-method",
+   "morse-code",
+   "portmaster",
+   "pygame",
+   "r36s",
+   "retro-handheld",
+   "rocknix",
+   "trainer"
+  ]
+ },
+ "1345929327": {
+  "created_at": "2026-08-25T09:28:17Z",
+  "desc": "Dead Space 2 Trainer 2026: Godmode, Infinite Ammo & Credits Tool",
+  "lang": "HTML",
+  "name": "warissadioura/deadspace-titan-schema",
+  "node_id": "R_kgDOUDlAbw",
+  "topics": [
+   "cheat",
+   "deadspace2",
+   "external",
+   "python",
+   "trainer",
+   "windows"
+  ]
+ },
+ "1345931063": {
+  "created_at": "2026-08-25T09:30:13Z",
+  "desc": "Efficient Stable Diffusion Fine-Tuning Framework 2026: Lightweight Config-Driven Pipeline",
+  "lang": "HTML",
+  "name": "njgymb/diffusers-sculptor",
+  "node_id": "R_kgDOUDlHNw",
+  "topics": [
+   "adapter",
+   "diffusers",
+   "diffusion-models",
+   "fine-tuning",
+   "flow-matching",
+   "lora",
+   "machine-learning",
+   "stable-diffusion",
+   "trainer",
+   "tuner"
+  ]
+ },
+ "1345932899": {
+  "created_at": "2026-08-25T09:32:25Z",
+  "desc": "AI Ecosystem Platform 2026: Train Models & Generate Images Seamlessly",
+  "lang": "HTML",
+  "name": "godtiza/nebula-forge-studio",
+  "node_id": "R_kgDOUDlOYw",
+  "topics": [
+   "civitai-integration",
+   "huggingface-hub",
+   "machine-learning",
+   "nextjs",
+   "nodejs",
+   "sd-scripts",
+   "shadcn-ui",
+   "stable-diffusion-webui",
+   "trainer",
+   "training"
+  ]
+ },
+ "1345934120": {
+  "created_at": "2026-08-25T09:33:56Z",
+  "desc": "Electra Domain Adaptation Framework 2026: Next-Gen Pre-Trained Transfer Learning",
+  "lang": "HTML",
+  "name": "KaifKhurramm/Electra-Domain-Shift-Adaptor",
+  "node_id": "R_kgDOUDlTKA",
+  "topics": [
+   "domain-adaptation",
+   "electra",
+   "trainer"
+  ]
+ },
+ "1345935498": {
+  "created_at": "2026-08-25T09:35:28Z",
+  "desc": "Olympiad Problem Generator 2026: Create Infinite Spanish Math Olympiad-Style Challenges",
+  "lang": "HTML",
+  "name": "princechhimpachhimpasaab-lang/omega-epsilon-problem-forge",
+  "node_id": "R_kgDOUDlYig",
+  "topics": [
+   "ai",
+   "desktop-application",
+   "education",
+   "epsilon",
+   "epsilon-ome-trainer",
+   "llama-cpp-python",
+   "math",
+   "mathematical-olympiads",
+   "ome",
+   "plotly-express",
+   "pyqt5",
+   "python",
+   "sqlite3",
+   "trainer"
+  ]
+ },
+ "1345937297": {
+  "created_at": "2026-08-25T09:37:24Z",
+  "desc": "Evolve AI Trainer 2026: Smartest Next-Gen Auto Leveling Hack",
+  "lang": "HTML",
+  "name": "Ahmed-Rajputt/evolve-morphosis",
+  "node_id": "R_kgDOUDlfkQ",
+  "topics": [
+   "trainer"
+  ]
+ },
+ "1345938638": {
+  "created_at": "2026-08-25T09:38:47Z",
+  "desc": "Math Riddle Generation 2026: Fine-Tuned GPT-2 for Automated Puzzle Solving",
+  "lang": "HTML",
+  "name": "StudioFoysal/RiddleGen-FineTuned-GPT2",
+  "node_id": "R_kgDOUDlkzg",
+  "topics": [
+   "fine-tuning",
+   "finetuning-llms",
+   "gpt",
+   "gpt-2",
+   "trainer",
+   "training"
+  ]
+ },
+ "1345939889": {
+  "created_at": "2026-08-25T09:40:06Z",
+  "desc": "AI Form Checker 2026: Perfect Your Squat, Deadlift & Bench Press Form",
+  "lang": "HTML",
+  "name": "wijayamakro19-sketch/FormAI-Coach-Elevate",
+  "node_id": "R_kgDOUDlpsQ",
+  "topics": [
+   "ai",
+   "computer-vision",
+   "expressjs",
+   "figma",
+   "gym",
+   "mediapipe",
+   "mediapipe-pose",
+   "nextjs",
+   "python3",
+   "trainer"
+  ]
+ },
+ "1345940090": {
+  "created_at": "2026-08-25T09:40:19Z",
+  "desc": "Master Swift Coding with Interactive AI Challenges 2026",
+  "lang": "HTML",
+  "name": "intrwk8/swift-forge-arena",
+  "node_id": "R_kgDOUDlqeg",
+  "topics": [
+   "swift",
+   "terminal-based",
+   "trainer"
+  ]
+ },
+ "1345941924": {
+  "created_at": "2026-08-25T09:42:21Z",
+  "desc": "ML Grade Predictor 2026: AI Exam Score Forecaster & Student Success Analyzer",
+  "lang": "HTML",
+  "name": "sngubeni287/grade-oracle-forecast",
+  "node_id": "R_kgDOUDlxpA",
+  "topics": [
+   "ci-cd",
+   "data",
+   "data-science",
+   "eda",
+   "end-to-end-project",
+   "flask",
+   "github-actions",
+   "machine-learning-algorithms",
+   "modular",
+   "python3",
+   "student-exam-scores",
+   "student-performance-prediction",
+   "trainer",
+   "web-application"
+  ]
+ },
+ "1345944477": {
+  "created_at": "2026-08-25T09:45:07Z",
+  "desc": "Best GTO Poker Trainer Open Source AI Engine 2026",
+  "lang": "HTML",
+  "name": "Jotaeme961/gto-poker-solver-arena",
+  "node_id": "R_kgDOUDl7nQ",
+  "topics": [
+   "gto",
+   "poker",
+   "preflop",
+   "react",
+   "texas-holdem",
+   "trainer",
+   "vite"
+  ]
+ },
+ "1345944739": {
+  "created_at": "2026-08-25T09:45:26Z",
+  "desc": "Top AI Gym Coach 2026 \u2013 Smart Personalized Training & Workout Tracker",
+  "lang": "HTML",
+  "name": "yuhi113/iron-pump-log",
+  "node_id": "R_kgDOUDl8ow",
+  "topics": [
+   "cardio",
+   "excercises",
+   "fitness",
+   "gym",
+   "gymnasium",
+   "personalized-gym",
+   "trainer"
+  ]
+ },
+ "1345945433": {
+  "created_at": "2026-08-25T09:46:12Z",
+  "desc": "Smart Workout Split Generator 2026: PPL, Upper Lower & More",
+  "lang": "HTML",
+  "name": "tusharcarpenter501-droid/gym-splits-curator",
+  "node_id": "R_kgDOUDl_WQ",
+  "topics": [
+   "gym",
+   "trainer",
+   "training",
+   "training-materials"
+  ]
  },
  "1345947087": {
   "created_at": "2026-08-25T09:47:54Z",
@@ -280230,6 +280933,587 @@
    "world-models"
   ]
  },
+ "1345947195": {
+  "created_at": "2026-08-25T09:48:02Z",
+  "desc": "A lightweight, zero-configuration Python library for unsupervised semantic text clustering and partitioning at scale.",
+  "lang": "Python",
+  "name": "Baishnab1708/semantic_clusterer",
+  "node_id": "R_kgDOUDmGOw",
+  "topics": []
+ },
+ "1345947757": {
+  "created_at": "2026-08-25T09:48:39Z",
+  "desc": "Advanced Transformer Summarization Suite: Abstract & Extractive AI Models 2026",
+  "lang": "HTML",
+  "name": "tosinonye7-ui/SummaraMind-Transformer-Suite",
+  "node_id": "R_kgDOUDmIbQ",
+  "topics": [
+   "automatic-summarization",
+   "bart",
+   "datasets",
+   "deep-learning",
+   "kmeans-clustering",
+   "nlp",
+   "pytorch",
+   "tf-idf",
+   "trainer",
+   "transformer"
+  ]
+ },
+ "1345949485": {
+  "created_at": "2026-08-25T09:50:29Z",
+  "desc": "Interactive Jazz Piano Trainer with MIDI & AI Practice Coach 2026",
+  "lang": "HTML",
+  "name": "rallytakis8-cloud/jazz-hands-practice",
+  "node_id": "R_kgDOUDmPLQ",
+  "topics": [
+   "jazz",
+   "midi",
+   "mido",
+   "music",
+   "musictheory",
+   "piano",
+   "pygame",
+   "python",
+   "python-rtmidi",
+   "sampler",
+   "trainer"
+  ]
+ },
+ "1345949709": {
+  "created_at": "2026-08-25T09:50:41Z",
+  "desc": "Kengine Fasm AI Trainer: 2026 Neural Assembly Engine",
+  "lang": "HTML",
+  "name": "sahandyousefi39-hash/kengine-fasm-core",
+  "node_id": "R_kgDOUDmQDQ",
+  "topics": [
+   "asm",
+   "cheat",
+   "engine",
+   "fasm",
+   "hack",
+   "trainer"
+  ]
+ },
+ "1345951166": {
+  "created_at": "2026-08-25T09:52:16Z",
+  "desc": "KINETIC Coach AI: Smart Workout Automation & Client Insights for Fitness Trainers 2026",
+  "lang": "HTML",
+  "name": "faizal8800/kinetic-coach-console",
+  "node_id": "R_kgDOUDmVvg",
+  "topics": [
+   "android",
+   "firebase",
+   "fitness",
+   "jetpack-compose",
+   "kotlin",
+   "mvvm",
+   "trainer"
+  ]
+ },
+ "1345952077": {
+  "created_at": "2026-08-25T09:53:19Z",
+  "desc": "LadyBhie 2026 Digital Identity Hub: Personal Branding, AI Portfolios, and Smart GitHub Storytelling",
+  "lang": "HTML",
+  "name": "berthub0/meet-lady-bhie-profile",
+  "node_id": "R_kgDOUDmZTQ",
+  "topics": [
+   "coach",
+   "mentor",
+   "trainer"
+  ]
+ },
+ "1345952317": {
+  "created_at": "2026-08-25T09:53:35Z",
+  "desc": "Kubeflow Trainer Operator 2026: ML Orchestration & AI Model Lifecycle Management Guide",
+  "lang": "HTML",
+  "name": "hilarygarcia-uv/trainer-orchestrator-suite",
+  "node_id": "R_kgDOUDmaPQ",
+  "topics": [
+   "charm",
+   "charmed-kubeflow",
+   "kubeflow",
+   "single-charm",
+   "trainer"
+  ]
+ },
+ "1345952840": {
+  "created_at": "2026-08-25T09:54:10Z",
+  "desc": "LGS-Helper 2026: Smart Localization Toolkit & Regional Content Unlocker for Gamers",
+  "lang": "HTML",
+  "name": "ridwanfaizrojabi-ai/LGS-Locale-Bridge",
+  "node_id": "R_kgDOUDmcSA",
+  "topics": [
+   "dlc",
+   "flingtrainer",
+   "game",
+   "linux",
+   "proton",
+   "starcitizen",
+   "steam",
+   "steamdeck",
+   "the-sims-4",
+   "trainer",
+   "ubuntu",
+   "wine"
+  ]
+ },
+ "1345954486": {
+  "created_at": "2026-08-25T09:55:55Z",
+  "desc": "Professional Trainer Studio Generator Suite 2026 \u2013 Open Source AI Coaching Toolkit",
+  "lang": "HTML",
+  "name": "s88cj-stack/Lithicsoft-Trainer-Forge",
+  "node_id": "R_kgDOUDmitg",
+  "topics": [
+   "ai",
+   "ai-models",
+   "automl",
+   "deep-learning",
+   "deep-nueral-networks",
+   "lithicsoft",
+   "machine-learning",
+   "trainer",
+   "trainer-studio",
+   "training",
+   "transfer-learning"
+  ]
+ },
+ "1345955128": {
+  "created_at": "2026-08-25T09:56:38Z",
+  "desc": "Logfire ML Training Insights: 2026 AI Observability & Transformers Callback Monitoring",
+  "lang": "HTML",
+  "name": "neminov4030034/logfire-trainer-trace",
+  "node_id": "R_kgDOUDmlOA",
+  "topics": [
+   "callback",
+   "huggingface",
+   "huggingface-transformers",
+   "logfire",
+   "logfire-callback",
+   "logging",
+   "pydantic",
+   "trainer",
+   "training",
+   "transformers"
+  ]
+ },
+ "1345955178": {
+  "created_at": "2026-08-25T09:56:41Z",
+  "desc": "Ultimate LLM Gym Trainer Guide 2026: Reinforcement Learning Fine-Tuning Framework",
+  "lang": "HTML",
+  "name": "raamonp/rl-gym-orchestrator",
+  "node_id": "R_kgDOUDmlag",
+  "topics": [
+   "ai",
+   "framework",
+   "gym",
+   "llm",
+   "trainer"
+  ]
+ },
+ "1345955453": {
+  "created_at": "2026-08-25T09:57:00Z",
+  "desc": "Interactive Critical Thinking Trainer: Master Logical Fallacies 2026",
+  "lang": "HTML",
+  "name": "hugoricardo4/fallacy-forge-arena",
+  "node_id": "R_kgDOUDmmfQ",
+  "topics": [
+   "fallacy",
+   "logic",
+   "trainer"
+  ]
+ },
+ "1345955547": {
+  "created_at": "2026-08-25T09:57:07Z",
+  "desc": "Automated LoRA Training Docker Builds for Alibaba Cloud 2026",
+  "lang": "HTML",
+  "name": "nrodriguez1997/lora-docker-aliyun-pipeline",
+  "node_id": "R_kgDOUDmm2w",
+  "topics": [
+   "comfyui",
+   "comfyui-api",
+   "comfyui-manager",
+   "comfyui-nodes",
+   "comfyui-workflow",
+   "lora",
+   "lora-scripts",
+   "stable-diffusion",
+   "stable-diffusion-webui",
+   "stable-diffusion-webui-plugin",
+   "stablediffusion",
+   "trainer"
+  ]
+ },
+ "1345955636": {
+  "created_at": "2026-08-25T09:57:13Z",
+  "desc": "Lightning-Fast PyTorch Training Toolkit 2026: Extend, Scale, Streamline",
+  "lang": "HTML",
+  "name": "BAJWA127/torch-forge-trainer",
+  "node_id": "R_kgDOUDmnNA",
+  "topics": [
+   "callbacks",
+   "decay",
+   "dense",
+   "earlystopping",
+   "extensions",
+   "metrics",
+   "modelcheckpoint",
+   "monitor",
+   "pytorch",
+   "tensorboard",
+   "trainer"
+  ]
+ },
+ "1345958659": {
+  "created_at": "2026-08-25T10:00:35Z",
+  "desc": "Megabonk Max Trainer 2026: Ultimate AI-Powered DPS Optimizer",
+  "lang": "HTML",
+  "name": "egalaksonoputra-commits/MegaBonk-Sparring",
+  "node_id": "R_kgDOUDmzAw",
+  "topics": [
+   "game",
+   "il2cpp",
+   "internal",
+   "melonloader",
+   "trainer",
+   "unity3d"
+  ]
+ },
+ "1345958969": {
+  "created_at": "2026-08-25T10:00:53Z",
+  "desc": "Advanced Blindfolded Cube Memory Trainer: 2026 Speedcubing System",
+  "lang": "HTML",
+  "name": "jsurett1-sketch/cube-vision-recall-trainer",
+  "node_id": "R_kgDOUDm0OQ",
+  "topics": [
+   "cubing",
+   "trainer"
+  ]
+ },
+ "1345958996": {
+  "created_at": "2026-08-25T10:00:55Z",
+  "desc": "Best Memory Training Apps 2026: Learn Faster & Retain More",
+  "lang": "HTML",
+  "name": "ilhamnaya574-wq/lexicon-forge",
+  "node_id": "R_kgDOUDm0VA",
+  "topics": [
+   "trainer",
+   "word"
+  ]
+ },
+ "1345959082": {
+  "created_at": "2026-08-25T10:00:59Z",
+  "desc": "Master Chess Intuition 2026: AI-Powered Tactics Trainer for Rapid Pattern Recognition",
+  "lang": "HTML",
+  "name": "555beatbox/melissa-chess-zen",
+  "node_id": "R_kgDOUDm0qg",
+  "topics": [
+   "chess",
+   "memory",
+   "trainer"
+  ]
+ },
+ "1345960042": {
+  "created_at": "2026-08-25T10:01:56Z",
+  "desc": "MGR RedTrainer Revengeance Mastery Suite 2026 Advanced Combat Mods",
+  "lang": "HTML",
+  "name": "siddharthmanebusiness-ops/MGR-Blade-Symphony",
+  "node_id": "R_kgDOUDm4ag",
+  "topics": [
+   "c",
+   "cpp",
+   "metal-gear-rising",
+   "mgr",
+   "mgrr",
+   "trainer"
+  ]
+ },
+ "1345960735": {
+  "created_at": "2026-08-25T10:02:35Z",
+  "desc": "Microsoft AI Trainer 2026 LiveStream Slides & Presentation Deck Guide",
+  "lang": "HTML",
+  "name": "ventas319/microsoft-ai-livestream-slidevault",
+  "node_id": "R_kgDOUDm7Hw",
+  "topics": [
+   "ai",
+   "app",
+   "azure",
+   "chatbot",
+   "fox",
+   "live",
+   "pamela",
+   "series",
+   "tools",
+   "trainer"
+  ]
+ },
+ "1345962292": {
+  "created_at": "2026-08-25T10:04:13Z",
+  "desc": "ModeAtlas 2026: AI-Powered Repository Intelligence for Developers",
+  "lang": "HTML",
+  "name": "matiaspirovano-carejourney/mode-atlas-constellations",
+  "node_id": "R_kgDOUDnBNA",
+  "topics": [
+   "educational",
+   "language",
+   "trainer"
+  ]
+ },
+ "1345962589": {
+  "created_at": "2026-08-25T10:04:35Z",
+  "desc": "Ultimate Monsters Are Coming Trainer Guide 2026 \u2013 Top AI Cheats & Hacks",
+  "lang": "HTML",
+  "name": "aryanrajug23nsut/MonsterTide-Tactician",
+  "node_id": "R_kgDOUDnCXQ",
+  "topics": [
+   "game",
+   "il2cpp",
+   "internal",
+   "melonloader",
+   "trainer",
+   "unity3d"
+  ]
+ },
+ "1345962781": {
+  "created_at": "2026-08-25T10:04:49Z",
+  "desc": "Master Morse Code in 2026: The Ultimate Interactive Training App",
+  "lang": "HTML",
+  "name": "raulgonzalez2002/morse-flow-echo",
+  "node_id": "R_kgDOUDnDHQ",
+  "topics": [
+   "koch",
+   "morsecode",
+   "trainer"
+  ]
+ },
+ "1345963628": {
+  "created_at": "2026-08-25T10:05:47Z",
+  "desc": "MrD Deep Learning Studio: AI Training & Model Optimization Tools 2026",
+  "lang": "HTML",
+  "name": "alrisqi/MrD-Optimizer-Lab",
+  "node_id": "R_kgDOUDnGbA",
+  "topics": [
+   "classification",
+   "deep-learning",
+   "deep-neural-networks",
+   "label",
+   "labeling-tool",
+   "labels",
+   "objectdetection",
+   "objectdetector",
+   "opencv4",
+   "segmentation",
+   "tensorflow2",
+   "torch",
+   "trainer",
+   "training",
+   "training-dataset"
+  ]
+ },
+ "1345963887": {
+  "created_at": "2026-08-25T10:06:05Z",
+  "desc": "MusicGen Pro Trainer 2026: The Ultimate AI Music Studio Guide",
+  "lang": "HTML",
+  "name": "abdelkhalk93-star/audiocraft-finetune-lab",
+  "node_id": "R_kgDOUDnHbw",
+  "topics": [
+   "audiocraft",
+   "generative-music",
+   "music",
+   "musicgen",
+   "trainer"
+  ]
+ },
+ "1345964862": {
+  "created_at": "2026-08-25T10:07:08Z",
+  "desc": "The 2026 Edge Vision Toolkit: Train, Compress, and Deploy ViT Models on Any Device",
+  "lang": "HTML",
+  "name": "MuhammadAhsan7866/edge-vision-forge",
+  "node_id": "R_kgDOUDnLPg",
+  "topics": [
+   "computer-vision",
+   "fx",
+   "netspresso",
+   "onnx",
+   "pytorch",
+   "tensorrt",
+   "trainer"
+  ]
+ },
+ "1345966415": {
+  "created_at": "2026-08-25T10:08:49Z",
+  "desc": "Master LLM Fine-Tuning Trainer 2026: Advanced NLP Optimization Toolkit",
+  "lang": "HTML",
+  "name": "TTheuPP/NLP-LLM-Orchestrator-FineTuner",
+  "node_id": "R_kgDOUDnRTw",
+  "topics": [
+   "fine-tuning",
+   "llm",
+   "nlp",
+   "trainer"
+  ]
+ },
+ "1345967478": {
+  "created_at": "2026-08-25T10:09:52Z",
+  "desc": "NourishAI 2026 Fitness Coach: Healthy Meal Planner, Tasty Recipes & Community Hub",
+  "lang": "HTML",
+  "name": "mustafaeeeuu-cell/NutriVerse-Coach",
+  "node_id": "R_kgDOUDnVdg",
+  "topics": [
+   "ai",
+   "chatbot",
+   "community",
+   "food",
+   "meal-planner",
+   "nutrition",
+   "social-media",
+   "trainer"
+  ]
+ },
+ "1345967957": {
+  "created_at": "2026-08-25T10:10:21Z",
+  "desc": "2026 AI Self-Improvement Trainer: Neverness to Everness Mastery",
+  "lang": "HTML",
+  "name": "0mxcl/NTE-Everness-Arc-Orchestrator",
+  "node_id": "R_kgDOUDnXVQ",
+  "topics": [
+   "free",
+   "neverness-to-everness",
+   "neverness-to-everness-software",
+   "neverness-to-everness-trainer",
+   "nevernesstoeverness",
+   "nte",
+   "trainer"
+  ]
+ },
+ "1345971280": {
+  "created_at": "2026-08-25T10:13:35Z",
+  "desc": "Pax Autocratica Mod Menu 2026: 50+ Trainer Cheats, God Mode & Unlimited Cores",
+  "lang": "HTML",
+  "name": "azmoussasidibe480-spec/Pax-Autocratica-Overlord-Console",
+  "node_id": "R_kgDOUDnkUA",
+  "topics": [
+   "game-trainer",
+   "game-trainer-pc",
+   "game-trainers",
+   "mod",
+   "pax-autocratica",
+   "pax-autocratica-cheats",
+   "pax-autocratica-mod",
+   "pax-autocratica-trainer",
+   "pc",
+   "steam",
+   "trainer",
+   "trainer-mod",
+   "trainer-tool",
+   "trainers",
+   "windows"
+  ]
+ },
+ "1345972429": {
+  "created_at": "2026-08-25T10:14:53Z",
+  "desc": "Pluggable AI Skill Framework for Embedded Linux: 2026 Agentic Automation Guide",
+  "lang": "HTML",
+  "name": "reghilkentpilaspilas-stack/plumb-core",
+  "node_id": "R_kgDOUDnozQ",
+  "topics": [
+   "agent",
+   "ai",
+   "embedded",
+   "horse",
+   "linux",
+   "mcu",
+   "ritual-implement",
+   "rtos",
+   "rules",
+   "skills",
+   "trainer"
+  ]
+ },
+ "1345972544": {
+  "created_at": "2026-08-25T10:15:00Z",
+  "desc": "Mastering LLM Fine-Tuning in 2026: A Practical Guide from Hugging Face Basics to Production",
+  "lang": "HTML",
+  "name": "RNetworks2019/fine-tuning-playground",
+  "node_id": "R_kgDOUDnpQA",
+  "topics": [
+   "accelerate",
+   "ai",
+   "datasets",
+   "evaluate",
+   "fine-tuning",
+   "huggingface",
+   "jupyter-notebook",
+   "nlp",
+   "python",
+   "tqdm",
+   "trainer",
+   "transformers"
+  ]
+ },
+ "1345973240": {
+  "created_at": "2026-08-25T10:15:52Z",
+  "desc": "Smart Fitness Club Management System 2026 with AI Workout & Diet Plans",
+  "lang": "HTML",
+  "name": "01helfy/fit-forge-ops",
+  "node_id": "R_kgDOUDnr-A",
+  "topics": [
+   "diet",
+   "gym",
+   "gym-management-system",
+   "gym-website",
+   "mongodb",
+   "reactjs",
+   "role-based-access-control",
+   "tailwindcss",
+   "trainer"
+  ]
+ },
+ "1345973650": {
+  "created_at": "2026-08-25T10:16:20Z",
+  "desc": "Pune Elite Fitness Coach 2026: Indian Macro Diet & AI Booking System",
+  "lang": "HTML",
+  "name": "psuvraneel-cyber/proelite-fit-macro-studio",
+  "node_id": "R_kgDOUDntkg",
+  "topics": [
+   "consulting",
+   "fitness-goals",
+   "gym",
+   "personal",
+   "trainer"
+  ]
+ },
+ "1345974836": {
+  "created_at": "2026-08-25T10:17:38Z",
+  "desc": "PyNetsPresso AI Model Optimization Toolkit 2026: Accelerate Edge Deployment",
+  "lang": "HTML",
+  "name": "Ma5ter78/NetsPresso-Orchestrator",
+  "node_id": "R_kgDOUDnyNA",
+  "topics": [
+   "benchmarker",
+   "compressor",
+   "converter",
+   "netspresso",
+   "trainer"
+  ]
+ },
+ "1345975126": {
+  "created_at": "2026-08-25T10:17:59Z",
+  "desc": "PyTorch AI Template 2026: Hydra-Powered Deep Learning Boilerplate Starter Kit",
+  "lang": "HTML",
+  "name": "Sanane001/torch-hydra-starter",
+  "node_id": "R_kgDOUDnzVg",
+  "topics": [
+   "boilerplate",
+   "boilerplate-template",
+   "deep-learning",
+   "hydra",
+   "machine-learning",
+   "pytorch",
+   "trainer",
+   "yaml"
+  ]
+ },
  "1345979074": {
   "created_at": "2026-08-25T10:22:00Z",
   "desc": "Codex Skill for batching, scheduling, and verifying Douyin image posts.",
@@ -280237,6 +281521,23 @@
   "name": "chengyi-ai/douyin-image-post-scheduler",
   "node_id": "R_kgDOUDoCwg",
   "topics": []
+ },
+ "1345979504": {
+  "created_at": "2026-08-25T10:22:26Z",
+  "desc": "Rockford 1988 Hidden Level Explorer: Restore Lost Game Content in 2026",
+  "lang": "HTML",
+  "name": "GevatterTODD/Rockford-Outskirts",
+  "node_id": "R_kgDOUDoEcA",
+  "topics": [
+   "boulderdash",
+   "dos",
+   "dosbox",
+   "dosgame",
+   "game",
+   "retrogaming",
+   "rockford",
+   "trainer"
+  ]
  },
  "1345980708": {
   "created_at": "2026-08-25T10:23:47Z",
@@ -280250,6 +281551,162 @@
    "effect",
    "effect-ts",
    "typescript"
+  ]
+ },
+ "1345980982": {
+  "created_at": "2026-08-25T10:24:05Z",
+  "desc": "Russian Accent Trainer EGE 2026: Master Word Stress with AI Drills for Exam Prep",
+  "lang": "HTML",
+  "name": "supereme-1/accent-oracle-rus",
+  "node_id": "R_kgDOUDoKNg",
+  "topics": [
+   "nextjs",
+   "trainer"
+  ]
+ },
+ "1345981854": {
+  "created_at": "2026-08-25T10:25:01Z",
+  "desc": "Best Rust ESP & No-Recoil Aim Assist 2026 \u2013 Advanced Optics Suite",
+  "lang": "HTML",
+  "name": "gpsandii/rust-optics-vector-control",
+  "node_id": "R_kgDOUDoNng",
+  "topics": [
+   "arm32",
+   "dll-injection",
+   "dll-injector",
+   "hack-tools",
+   "hacking",
+   "ida",
+   "rust-cheat",
+   "rust-examples",
+   "rust-hack",
+   "rust-plugins",
+   "rust-treasures",
+   "rust-tutorial",
+   "rustgame",
+   "trainer"
+  ]
+ },
+ "1345982245": {
+  "created_at": "2026-08-25T10:25:28Z",
+  "desc": "Multilingual Sentiment Analysis with Transformers: 2026 Amazon Review Classification Guide",
+  "lang": "HTML",
+  "name": "lawmanalfred9/multilingual-review-sentiment-sleuth",
+  "node_id": "R_kgDOUDoPJQ",
+  "topics": [
+   "amazon-reviews",
+   "huggingface",
+   "huggingface-datasets",
+   "huggingface-transformers",
+   "keras",
+   "keras-tensorflow",
+   "sentiment-analysis",
+   "tensorflow2",
+   "text-classification",
+   "trainer"
+  ]
+ },
+ "1345983249": {
+  "created_at": "2026-08-25T10:26:30Z",
+  "desc": "Interactive Linux Command-Line Mastery Trainer 2026: Shell Gym Pro",
+  "lang": "HTML",
+  "name": "coadwoad/terminal-dojo",
+  "node_id": "R_kgDOUDoTEQ",
+  "topics": [
+   "learning-by-doing",
+   "linux",
+   "shell",
+   "trainer"
+  ]
+ },
+ "1345983343": {
+  "created_at": "2026-08-25T10:26:36Z",
+  "desc": "Elite Shadow of Mordor Trainer Suite 2026: Stealth AI & Nemesis Overhaul",
+  "lang": "HTML",
+  "name": "M8GMADHAV/shadow-of-mordor-wraith-arsenal",
+  "node_id": "R_kgDOUDoTbw",
+  "topics": [
+   "beta",
+   "cpp",
+   "dear-imgui",
+   "reverse-engineering",
+   "shadow-of-mordor",
+   "trainer",
+   "windows"
+  ]
+ },
+ "1345983348": {
+  "created_at": "2026-08-25T10:26:37Z",
+  "desc": "Master Sight Reading in 2026: The Ultimate Piano Practice App",
+  "lang": "HTML",
+  "name": "ALog041926/sonata-sightflow",
+  "node_id": "R_kgDOUDoTdA",
+  "topics": [
+   "music",
+   "sight-reading",
+   "trainer"
+  ]
+ },
+ "1345984328": {
+  "created_at": "2026-08-25T10:27:43Z",
+  "desc": "Master DAS Timing with Neural Coach: AI-Assisted Tetris Training Hub 2026",
+  "lang": "HTML",
+  "name": "khenidev787-cmyk/das-zen-tetris-coach",
+  "node_id": "R_kgDOUDoXSA",
+  "topics": [
+   "das",
+   "game",
+   "mod",
+   "modification",
+   "nes",
+   "patch",
+   "tetris",
+   "trainer"
+  ]
+ },
+ "1345985604": {
+  "created_at": "2026-08-25T10:29:13Z",
+  "desc": "SmartLabel AI 2026: Auto-Annotate Any Object via LLM-Powered Prompt Parsing",
+  "lang": "HTML",
+  "name": "SaketDronamraju/AutoLabel-Forge",
+  "node_id": "R_kgDOUDocRA",
+  "topics": [
+   "labling",
+   "llm-tools",
+   "trainer",
+   "training-data",
+   "yolo26-segmentation",
+   "yolox"
+  ]
+ },
+ "1345986939": {
+  "created_at": "2026-08-25T10:30:44Z",
+  "desc": "Spark Trainer 2026: AI-Powered Warzone2100 Strategy & Unit Control Guide",
+  "lang": "HTML",
+  "name": "AhmadFauzan55/Warzone-Tactics-Trainer",
+  "node_id": "R_kgDOUDohew",
+  "topics": [
+   "hack",
+   "jogo",
+   "memory-hacking",
+   "trainer",
+   "warzone2100"
+  ]
+ },
+ "1345988143": {
+  "created_at": "2026-08-25T10:32:14Z",
+  "desc": "Ultimate Flux1-LoRA Training Toolkit 2026: Smart Simplicity for AI Creators",
+  "lang": "HTML",
+  "name": "R0650N/spirit-flux-refiner",
+  "node_id": "R_kgDOUDomLw",
+  "topics": [
+   "flux1",
+   "lora",
+   "sd-scripts",
+   "stable-diffusion",
+   "trainer",
+   "ui",
+   "wan-lora"
   ]
  },
  "1346039712": {
@@ -280266,6 +281723,14 @@
   "lang": "",
   "name": "yeswehack/claude-kit",
   "node_id": "R_kgDOUDvFew",
+  "topics": []
+ },
+ "1346190193": {
+  "created_at": "2026-08-25T13:47:56Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "Chsier/ADReader",
+  "node_id": "R_kgDOUD07cQ",
   "topics": []
  },
  "1346219541": {
@@ -280455,11 +281920,20 @@
  },
  "1346838955": {
   "created_at": "2026-08-26T02:55:18Z",
-  "desc": "Audit and safely retire stale generic AI agent instructions.",
+  "desc": "Local, read-only audit for stale AGENTS.md, CLAUDE.md, and generic SKILL.md instructions.",
   "lang": "JavaScript",
   "name": "ooocooc/open-skill-sunset",
   "node_id": "R_kgDOUEchqw",
-  "topics": []
+  "topics": [
+   "agent-skills",
+   "agents-md",
+   "claude-code",
+   "codex",
+   "context-management",
+   "developer-tools",
+   "prompt-engineering",
+   "static-analysis"
+  ]
  },
  "1346842621": {
   "created_at": "2026-08-26T03:00:41Z",
@@ -280588,6 +282062,14 @@
   "lang": "TypeScript",
   "name": "wide-trace/open-higgsfield",
   "node_id": "R_kgDOUEkiRQ",
+  "topics": []
+ },
+ "1347007379": {
+  "created_at": "2026-08-26T06:49:34Z",
+  "desc": "Talk to Mira, a late-night radio DJ you can interrupt. A live voice agent built on the Gemini Live API with the raw google-genai SDK \u2014 no framework.",
+  "lang": "Python",
+  "name": "cuppibla/live-dj",
+  "node_id": "R_kgDOUEmzkw",
   "topics": []
  },
  "1347015929": {
@@ -280748,6 +282230,19 @@
    "zero-shot"
   ]
  },
+ "1347280103": {
+  "created_at": "2026-08-26T11:56:56Z",
+  "desc": "\u6559 AI \u5199 NovelAI Diffusion V5 \u63d0\u793a\u8bcd\u7684\u65b9\u6cd5 skill\uff1a\u6784\u601d\uff0b\u5199\u6cd5\u4e24\u4ef6\u5957\uff0c\u57fa\u4e8e 2226 \u5f20\u5b9e\u6d4b\u56fe\u5e93 / 962 \u6761\u771f\u5b9e\u63d0\u793a\u8bcd\u3002Agent Skills \u6807\u51c6\u5c01\u88c5\u3002",
+  "lang": "",
+  "name": "Miint-Sunny/nai5-prompting",
+  "node_id": "R_kgDOUE3c5w",
+  "topics": [
+   "agent-skills",
+   "novelai",
+   "prompt-engineering",
+   "stable-diffusion-prompts"
+  ]
+ },
  "1347288327": {
   "created_at": "2026-08-26T12:06:14Z",
   "desc": "Retro DOS / Turbo Pascal 7.0 TUI frontend for the Pi coding agent",
@@ -280791,6 +282286,28 @@
    "stickers"
   ]
  },
+ "1347362588": {
+  "created_at": "2026-08-26T13:22:27Z",
+  "desc": "Cordis meta-framework documentation workspace: spatiotemporal composability paper, visual explainers, subsystem docs and tutorials.",
+  "lang": "TypeScript",
+  "name": "acryldev/cordis-meta-framework-spatiotemporal-composability",
+  "node_id": "R_kgDOUE8fHA",
+  "topics": [
+   "acryl",
+   "ai-agents",
+   "cordis",
+   "documentation",
+   "spatiotemporal-composability"
+  ]
+ },
+ "1347362960": {
+  "created_at": "2026-08-26T13:22:42Z",
+  "desc": "Claude Code skill for MiniMax H3 shot breakdown and character performance. Facial expression only renders when the shot has a <d> dialogue tag \u2014 measured, 42 dB vs 18 dB.",
+  "lang": "",
+  "name": "phileiny/h3-storyboard-skill",
+  "node_id": "R_kgDOUE8gkA",
+  "topics": []
+ },
  "1347406690": {
   "created_at": "2026-08-26T14:01:25Z",
   "desc": "",
@@ -280818,7 +282335,7 @@
  "1347467348": {
   "created_at": "2026-08-26T14:57:43Z",
   "desc": "Day-0 deployment of Qwen3.8-Flash-Next (NVFP4) on 2x DGX Spark TP2 via SGLang. Includes the SM121 QSA kernel-guard fix, launcher, benchmarks, and full report.",
-  "lang": "Shell",
+  "lang": "Python",
   "name": "tonyd2wild/Qwen3.8-Flash-Next-NVFP4-DGX-Spark",
   "node_id": "R_kgDOUFC4VA",
   "topics": []
@@ -280944,6 +282461,14 @@
   "node_id": "R_kgDOUFWOpw",
   "topics": []
  },
+ "1347829965": {
+  "created_at": "2026-08-26T21:58:54Z",
+  "desc": "\u4e00\u4e2a\u8fd0\u884c\u5728 Cloudflare Workers \u4e0a\u517c\u5bb9CFnew \u4e0eedgetunnel\u7684\u4ee3\u7406\u8ba2\u9605\u7ba1\u7406\u9762\u677f\u2014\u2014\u65e2\u80fd\u5728 /UUID \u8def\u5f84\u4e0a\u8f93\u51fa VLESS/Trojan/xhttp \u591a\u534f\u8bae\u8ba2\u9605\uff0c\u53c8\u63d0\u4f9b\u56fe\u5f62\u5316\u914d\u7f6e\u754c\u9762\uff08KV \u5b58\u50a8\u3001\u6539\u5b8c\u5373\u751f\u6548\uff09\uff0c\u5e76\u5185\u7f6e\u5ef6\u8fdf\u6d4b\u8bd5\u3001\u6d41\u5a92\u4f53/AI \u8fde\u901a\u6027\u68c0\u6d4b\u3001\u591a\u5ba2\u6237\u7aef\u8ba2\u9605\u751f\u6210\u3001\u591a\u8bed\u8a00\u7b49\u80fd\u529b\u3002",
+  "lang": "JavaScript",
+  "name": "PAICNI/CFBox",
+  "node_id": "R_kgDOUFZAzQ",
+  "topics": []
+ },
  "1347840838": {
   "created_at": "2026-08-26T22:17:04Z",
   "desc": "",
@@ -280994,12 +282519,28 @@
    "seo"
   ]
  },
+ "1347904567": {
+  "created_at": "2026-08-27T00:12:30Z",
+  "desc": "GLM-5.3-Flash (320B MoE) at TP4 across four DGX Sparks, same day as the model drop: 36 tok/s, 1.26M-token FP8 KV pool, 262K context, MTP spec decode. First TP4 glm5_next outside B200 hardware. Full patched-image recipe + the GB10 memory study.",
+  "lang": "Python",
+  "name": "tonyd2wild/GLM-5.3-Flash-NVFP4-1M-KV-4x-DGX-Spark",
+  "node_id": "R_kgDOUFdkNw",
+  "topics": []
+ },
  "1347918703": {
   "created_at": "2026-08-27T00:38:41Z",
   "desc": "A multimodal video memory for humans and AI agents",
   "lang": "TypeScript",
   "name": "xiaotianfotos/indexed",
   "node_id": "R_kgDOUFebbw",
+  "topics": []
+ },
+ "1347934719": {
+  "created_at": "2026-08-27T01:06:45Z",
+  "desc": "Compile natural-language software intent into an implementation-ready design contract before coding.",
+  "lang": "Python",
+  "name": "grapefruit0205/click",
+  "node_id": "R_kgDOUFfZ_w",
   "topics": []
  },
  "1347986038": {
@@ -281061,6 +282602,14 @@
   "node_id": "R_kgDOUFnVLA",
   "topics": []
  },
+ "1348106550": {
+  "created_at": "2026-08-27T05:29:59Z",
+  "desc": "Survey and Taxonomy of Embodied-Trustworthy-Execution",
+  "lang": "",
+  "name": "zhengzihaoPKU/Awesome-Embodied-Trustworthy-Execution",
+  "node_id": "R_kgDOUFp5Ng",
+  "topics": []
+ },
  "1348116977": {
   "created_at": "2026-08-27T05:46:10Z",
   "desc": "Reference-first Codex workflow for edit planning, keyframe approval, and MiniMax H3 prompts.",
@@ -281076,6 +282625,14 @@
    "prompt-engineering",
    "video-editing"
   ]
+ },
+ "1348143952": {
+  "created_at": "2026-08-27T06:22:41Z",
+  "desc": "",
+  "lang": "",
+  "name": "X-Square-Robot/wall-ss",
+  "node_id": "R_kgDOUFsLUA",
+  "topics": []
  },
  "1348156683": {
   "created_at": "2026-08-27T06:38:56Z",
@@ -281111,11 +282668,15 @@
  },
  "1348253680": {
   "created_at": "2026-08-27T08:32:09Z",
-  "desc": "Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction",
+  "desc": "Streaming 3D reconstruction from only video input: Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction",
   "lang": "Python",
   "name": "amap-cvlab/ABot-Recon",
   "node_id": "R_kgDOUFy38A",
-  "topics": []
+  "topics": [
+   "3d-reconstruction",
+   "abot-recon",
+   "slam"
+  ]
  },
  "1348273348": {
   "created_at": "2026-08-27T08:53:49Z",
@@ -281124,6 +282685,43 @@
   "name": "haraldalder-vibemogger/vibe-audit",
   "node_id": "R_kgDOUF0ExA",
   "topics": []
+ },
+ "1348274054": {
+  "created_at": "2026-08-27T08:54:33Z",
+  "desc": "TTPO: Test-Time Policy Optimization",
+  "lang": "Python",
+  "name": "ZJU-REAL/TTPO",
+  "node_id": "R_kgDOUF0Hhg",
+  "topics": [
+   "llm",
+   "opsd",
+   "post-training",
+   "reasoning",
+   "rl",
+   "test-time-training"
+  ]
+ },
+ "1348284661": {
+  "created_at": "2026-08-27T09:06:52Z",
+  "desc": "Local-first desktop control center for OpenAI Codex \u2014 sessions, models, tokens, accounts, providers, and AGENTS.md.",
+  "lang": "Rust",
+  "name": "ewsun22/codex-manager",
+  "node_id": "R_kgDOUF0w9Q",
+  "topics": [
+   "agents-md",
+   "ai-coding",
+   "codex",
+   "codex-cli",
+   "codex-desktop",
+   "developer-tools",
+   "llm-observability",
+   "local-first",
+   "macos",
+   "openai-codex",
+   "rust",
+   "tauri",
+   "token-usage"
+  ]
  },
  "1348302752": {
   "created_at": "2026-08-27T09:27:34Z",
@@ -281137,7 +282735,7 @@
   "created_at": "2026-08-27T11:07:30Z",
   "desc": "AI-powered WeChat mini app for knowledge-base learning, quiz generation, and intelligent study reports. / \u57fa\u4e8e\u77e5\u8bc6\u5e93\u5b66\u4e60\u3001\u667a\u80fd\u51fa\u9898\u4e0e\u5b66\u4e60\u590d\u76d8\u7684 AI \u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u3002",
   "lang": "Python",
-  "name": "LuxUmbra697/luxumbra-ai-learn",
+  "name": "LuxUmbra697/ai-knowledge-learning-miniapp",
   "node_id": "R_kgDOUF7XLA",
   "topics": []
  },
@@ -281347,8 +282945,8 @@
  },
  "1349017398": {
   "created_at": "2026-08-27T23:04:51Z",
-  "desc": "",
-  "lang": "TypeScript",
+  "desc": "A bridge to help connect a brand new iCloud account to Facetime audio for voice to voice agent action",
+  "lang": "Swift",
   "name": "kingbootoshi/facetime-bridge",
   "node_id": "R_kgDOUGhfNg",
   "topics": []
@@ -281393,6 +282991,14 @@
   "node_id": "R_kgDOUGq_yQ",
   "topics": []
  },
+ "1349183040": {
+  "created_at": "2026-08-28T04:04:16Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "sethGu/AutoLOGIC",
+  "node_id": "R_kgDOUGrmQA",
+  "topics": []
+ },
  "1349241969": {
   "created_at": "2026-08-28T05:38:24Z",
   "desc": "BOZAGENTIC \u2014 Sovereign Alignment Research, Jailbreak Taxonomies, CoT Pre-Emption, and Universal Prompt Inversion Framework by D4NNBOZ.",
@@ -281404,7 +283010,7 @@
  "1349253750": {
   "created_at": "2026-08-28T05:56:49Z",
   "desc": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity \u2014 narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-  "lang": "Shell",
+  "lang": "",
   "name": "Nanako0129/sepia",
   "node_id": "R_kgDOUGv6dg",
   "topics": [
@@ -281451,16 +283057,28 @@
   "name": "camilleroux/genart-skill",
   "node_id": "R_kgDOUG5SuA",
   "topics": [
+   "algorithmic-art",
    "art-blocks",
    "claude-code",
+   "claude-code-plugin",
    "claude-plugin",
+   "claude-skills",
    "creative-coding",
    "generative-art",
    "nft",
+   "onchain-art",
    "p5js",
    "pen-plotter",
    "threejs"
   ]
+ },
+ "1349514211": {
+  "created_at": "2026-08-28T11:05:25Z",
+  "desc": "A lightweight multi-agent system",
+  "lang": "Python",
+  "name": "Iwtbs27/collab-agent",
+  "node_id": "R_kgDOUG_z4w",
+  "topics": []
  },
  "1349577647": {
   "created_at": "2026-08-28T12:27:09Z",
@@ -281485,6 +283103,14 @@
    "oauth"
   ]
  },
+ "1349653154": {
+  "created_at": "2026-08-28T13:46:48Z",
+  "desc": "An infinite canvas product that allows any number of codex, claude, opencode, pi, and other agents to communicate simultaneously on the canvas",
+  "lang": "TypeScript",
+  "name": "bushm2092-del/agent-weave",
+  "node_id": "R_kgDOUHISog",
+  "topics": []
+ },
  "1349665307": {
   "created_at": "2026-08-28T14:00:16Z",
   "desc": "Open-source agent execution-recovery controller for coding and tool-using AI agents.",
@@ -281502,12 +283128,58 @@
    "recovery-controller"
   ]
  },
+ "1349699284": {
+  "created_at": "2026-08-28T14:32:15Z",
+  "desc": "A restrained research-workstation theme for Omarchy with optional Hermes agent status",
+  "lang": "Python",
+  "name": "archer-clawbot/omarchy-hermarchy-theme",
+  "node_id": "R_kgDOUHLG1A",
+  "topics": [
+   "hermes-agent",
+   "hyprland",
+   "linux-theme",
+   "nous-research",
+   "omarchy",
+   "omarchy-theme"
+  ]
+ },
  "1349765459": {
   "created_at": "2026-08-28T15:38:33Z",
   "desc": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
   "lang": "Go",
   "name": "chrisgreg/boop",
   "node_id": "R_kgDOUHPJUw",
+  "topics": []
+ },
+ "1349898907": {
+  "created_at": "2026-08-28T18:03:04Z",
+  "desc": "An agent organization for Claude Code, structured as a company \u2014 15+ departments, 125+ skills, each independently installable.",
+  "lang": "Markdown",
+  "name": "cbrock84/headcount",
+  "node_id": "R_kgDOUHXSmw",
+  "topics": [
+   "agent-marketplace",
+   "claude-code",
+   "claude-code-plugin",
+   "claude-plugin",
+   "claude-skills",
+   "mcp"
+  ]
+ },
+ "1349965719": {
+  "created_at": "2026-08-28T19:27:12Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "QihanZhao/cc-prune",
+  "node_id": "R_kgDOUHbXlw",
+  "topics": []
+ },
+ "1349966872": {
+  "created_at": "2026-08-28T19:28:45Z",
+  "desc": "Graphic editor supporting agentic workflows with deep learning modules.",
+  "lang": "Rust",
+  "name": "stubbb/c-shop",
+  "node_id": "R_kgDOUHbcGA",
   "topics": []
  },
  "1349990522": {
@@ -281517,6 +283189,269 @@
   "name": "aleksandr-alhoff/seo-landing",
   "node_id": "R_kgDOUHc4eg",
   "topics": []
+ },
+ "1350010414": {
+  "created_at": "2026-08-28T20:31:05Z",
+  "desc": "Responsive AI presence orbs for SwiftUI. Metal glass shaders with states, voice and typing signals.",
+  "lang": "Metal",
+  "name": "krispuckett/murmur",
+  "node_id": "R_kgDOUHeGLg",
+  "topics": []
+ },
+ "1350016674": {
+  "created_at": "2026-08-28T20:40:09Z",
+  "desc": "'buzz transcriber download' \u2014 A guide to Buzz-class local transcribers plus a companion concept repo. Free, open community project for Windows.",
+  "lang": "",
+  "name": "nooour2/buzz-transcriber-alt",
+  "node_id": "R_kgDOUHeeog",
+  "topics": [
+   "ai-tools",
+   "buzz",
+   "buzz-transcriber",
+   "download",
+   "free-download",
+   "github-project",
+   "local-ai",
+   "offline-ai",
+   "open-source",
+   "open-source-ai",
+   "transcriber",
+   "transcriber-download",
+   "windows"
+  ]
+ },
+ "1350022089": {
+  "created_at": "2026-08-28T20:47:32Z",
+  "desc": "'whisper gui windows' \u2014 A local transcription front-end: audio in, subtitles out, nothing leaves the PC. Free, open community project for Windows.",
+  "lang": "",
+  "name": "claudiosequeida81-maker/whisper-gui-windows",
+  "node_id": "R_kgDOUHezyQ",
+  "topics": [
+   "ai-tools",
+   "free-download",
+   "github-project",
+   "gui",
+   "gui-windows",
+   "local-ai",
+   "offline-ai",
+   "open-source",
+   "open-source-ai",
+   "whisper",
+   "whisper-gui",
+   "windows"
+  ]
+ },
+ "1350029357": {
+  "created_at": "2026-08-28T20:57:59Z",
+  "desc": "Open-source fling trainer download project for PC \u2014 single-player convenience tools with readable source. Free, no ads, no time limits.",
+  "lang": "",
+  "name": "ckakorlies-ai/fling-trainer-index",
+  "node_id": "R_kgDOUHfQLQ",
+  "topics": [
+   "download",
+   "fling",
+   "fling-trainer",
+   "free-download",
+   "game-trainer",
+   "gaming-utilities",
+   "github-project",
+   "open-source",
+   "pc-gaming",
+   "single-player",
+   "trainer",
+   "trainer-download",
+   "trainer-tool",
+   "windows"
+  ]
+ },
+ "1350030944": {
+  "created_at": "2026-08-28T21:00:15Z",
+  "desc": "'rembg gui' \u2014 A desktop GUI for the popular background-removal library: drag, drop, done. Free, open community project for Windows.",
+  "lang": "",
+  "name": "24vojo-coder/rembg-gui-batch",
+  "node_id": "R_kgDOUHfWYA",
+  "topics": [
+   "ai-tools",
+   "free-download",
+   "github-project",
+   "gui",
+   "local-ai",
+   "offline-ai",
+   "open-source",
+   "open-source-ai",
+   "rembg",
+   "rembg-gui",
+   "windows"
+  ]
+ },
+ "1350034230": {
+  "created_at": "2026-08-28T21:05:11Z",
+  "desc": "'driver updater free windows 11' \u2014 A driver tool that updates only what needs it and shows its reasoning on screen. Free, open community project for Windows.",
+  "lang": "",
+  "name": "nitishkumar2303/driver-updater-honest",
+  "node_id": "R_kgDOUHfjNg",
+  "topics": [
+   "11",
+   "driver",
+   "driver-tools",
+   "driver-updater",
+   "free",
+   "free-download",
+   "free-windows",
+   "github-project",
+   "gpu-tools",
+   "open-source",
+   "system-utilities",
+   "updater",
+   "updater-free",
+   "windows",
+   "windows-11"
+  ]
+ },
+ "1350040660": {
+  "created_at": "2026-08-28T21:14:53Z",
+  "desc": "'remove windows ai script' \u2014 A GUI front-end concept for the viral remove-windows-ai approach: strip Copilot, Recall and AI bloat from Windows 11 with toggles and a revert net. Free, open community project for Windows.",
+  "lang": "",
+  "name": "meharabPigeon/remove-windows-ai",
+  "node_id": "R_kgDOUHf8VA",
+  "topics": [
+   "ai",
+   "ai-script",
+   "copilot-remover",
+   "debloat",
+   "free-download",
+   "github-project",
+   "open-source",
+   "privacy-tools",
+   "remove",
+   "remove-windows",
+   "script",
+   "windows",
+   "windows-11",
+   "windows-ai",
+   "windows-optimizer"
+  ]
+ },
+ "1350041050": {
+  "created_at": "2026-08-28T21:15:30Z",
+  "desc": "'ollama gui windows' \u2014 A minimal local-LLM chat front-end: pick model, chat, switch \u2014 nothing else. Free, open community project for Windows.",
+  "lang": "",
+  "name": "DDGTESTDEV-IONICS/ollama-gui-simple",
+  "node_id": "R_kgDOUHf92g",
+  "topics": [
+   "ai-tools",
+   "free-download",
+   "github-project",
+   "gui",
+   "gui-windows",
+   "local-ai",
+   "offline-ai",
+   "ollama",
+   "ollama-gui",
+   "open-source",
+   "open-source-ai",
+   "windows"
+  ]
+ },
+ "1350045759": {
+  "created_at": "2026-08-28T21:22:42Z",
+  "desc": "'disable windows ai features' \u2014 A privacy-first companion that inventories AI features on your PC and turns off the ones you name. Free, open community project for Windows.",
+  "lang": "",
+  "name": "wimar393/windows-ai-privacy-toolkit",
+  "node_id": "R_kgDOUHgQPw",
+  "topics": [
+   "ai",
+   "ai-features",
+   "disable",
+   "disable-windows",
+   "features",
+   "free-download",
+   "github-project",
+   "open-source",
+   "privacy",
+   "recall-disabler",
+   "security-tools",
+   "windows",
+   "windows-11",
+   "windows-ai"
+  ]
+ },
+ "1350113091": {
+  "created_at": "2026-08-28T23:23:56Z",
+  "desc": "Lets D3D12-only DLSS 5 Neural Rendering add-ons run in DirectX 11 games",
+  "lang": "C++",
+  "name": "NIGos/dlss5-dx11-bridge",
+  "node_id": "R_kgDOUHkXQw",
+  "topics": [
+   "d3d11",
+   "directx11",
+   "directx12",
+   "dlss",
+   "dlss-neural-rendering",
+   "game-modding",
+   "ngx",
+   "nvidia",
+   "reshade",
+   "upscaling"
+  ]
+ },
+ "1350140196": {
+  "created_at": "2026-08-29T00:17:23Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "rpmalouin/AI-Research-Assistant",
+  "node_id": "R_kgDOUHmBJA",
+  "topics": []
+ },
+ "1350226382": {
+  "created_at": "2026-08-29T03:04:26Z",
+  "desc": "Fast singing-voice acoustic model: harmonic + noise excitation refined into a mel by a 1-step rectified flow (bundled NHVSing vocoder). Multi-speaker + style control; ONNX/OpenUTAU export.",
+  "lang": "Python",
+  "name": "wavtechyukky/LeapSinger",
+  "node_id": "R_kgDOUHrRzg",
+  "topics": [
+   "speech-synthesis",
+   "text-to-speech",
+   "tts",
+   "vocal-synthesis"
+  ]
+ },
+ "1350326290": {
+  "created_at": "2026-08-29T06:09:59Z",
+  "desc": "\u8282\u5236\u5de5\u7a0b\u6280\u80fd\uff1a\u4ec0\u4e48\u65f6\u5019\u8be5\u5199\u9632\u5fa1\u6027\u4ee3\u7801\u3001\u4ec0\u4e48\u65f6\u5019\u4e0d\u8be5\uff0c\u4ee5\u53ca\u600e\u4e48\u628a\u4e00\u8f6e\u7684\u6784\u5efa\u6d4b\u8bd5\u8017\u65f6\u4ece\u51e0\u5341\u5206\u949f\u538b\u5230\u51e0\u5341\u79d2\u3002SKILL.md\uff0c\u53ef\u72ec\u7acb\u4f7f\u7528\u3002",
+  "lang": "",
+  "name": "Timefiles404/lean-mode-skill",
+  "node_id": "R_kgDOUHxYEg",
+  "topics": []
+ },
+ "1350442575": {
+  "created_at": "2026-08-29T09:16:50Z",
+  "desc": "XXD Panel 100 \u2014 na\u00efve folk-inspired narrative illustration Soldier Skill",
+  "lang": "Python",
+  "name": "nevertoday/xxd-panel-100",
+  "node_id": "R_kgDOUH4eTw",
+  "topics": []
+ },
+ "1350443870": {
+  "created_at": "2026-08-29T09:18:33Z",
+  "desc": "Know when you're on the brink \u2014 Claude Code, Codex & Cursor usage limits on the edge of your Mac or Windows screen",
+  "lang": "C#",
+  "name": "semihtalii/brink",
+  "node_id": "R_kgDOUH4jXg",
+  "topics": [
+   "claude-code",
+   "codex",
+   "cursor",
+   "dotnet",
+   "liquid-glass",
+   "macos",
+   "menubar",
+   "swift",
+   "swiftui",
+   "usage",
+   "windows",
+   "wpf"
+  ]
  },
  "1350446435": {
   "created_at": "2026-08-29T09:22:17Z",
@@ -281532,6 +283467,38 @@
   "lang": "Python",
   "name": "FlagOpen/InsertAny3D",
   "node_id": "R_kgDOUH-ByQ",
+  "topics": []
+ },
+ "1350634258": {
+  "created_at": "2026-08-29T14:06:30Z",
+  "desc": "CLI tool to bulk-add Google Workspace accounts to 9Router Antigravity provider via automated OAuth login, and clean up quota-exhausted connections.",
+  "lang": "Python",
+  "name": "mhiqrambg/gsuite2router",
+  "node_id": "R_kgDOUIELEg",
+  "topics": [
+   "9router",
+   "automation",
+   "browser-automation",
+   "cli",
+   "google-workspace",
+   "gsuite",
+   "python"
+  ]
+ },
+ "1350863925": {
+  "created_at": "2026-08-29T19:39:11Z",
+  "desc": "Index of all my repositories: grouped by category, with what each one is, who it's for, and what you need to use it.",
+  "lang": "",
+  "name": "h9-tec/repo-catalog",
+  "node_id": "R_kgDOUISMNQ",
+  "topics": []
+ },
+ "1350871465": {
+  "created_at": "2026-08-29T19:52:37Z",
+  "desc": "DLSS 5 neural rendering in D3D11 games that ship without any DLSS \u2014 feeds a synthetic DLAA contract (ReShade depth + LaunchPad motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
+  "lang": "C++",
+  "name": "jlrouzies-fr/DLSS5-Feeder",
+  "node_id": "R_kgDOUISpqQ",
   "topics": []
  },
  "136799312": {
