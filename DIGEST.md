@@ -1,133 +1,133 @@
-# AI repos - 2026-09-21
+# AI repos - 2026-09-22
 
 ## Brand new
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** - i. am. speed.  
-  14,473 stars - +4,066 today - Python
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** - Fastest and cheapest web agent  
+  17,384 stars - +2,911 today - Python
 
 - **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** -   
-  7,872 stars - +5,630 today - Python
+  13,953 stars - +6,081 today - Python
 
 - **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.  
-  5,808 stars - +1,186 today - TypeScript
+  6,180 stars - +372 today - TypeScript
 
 - **[zai-org/ZCode](https://github.com/zai-org/ZCode)** - Z.ai's coding agent harness. Powerful, intelligent, extensible.  
-  5,101 stars - new - TypeScript
-
-- **[TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)** - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.  
-  2,863 stars - +688 today - Python
+  6,140 stars - +1,039 today - TypeScript
 
 - **[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)** - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.  
-  2,752 stars - +2,223 today - Python - apple-silicon, decision-model, inference, laya, local-ai, machine-learning, mlx, modernbert, system-one, typed-decisions
+  4,853 stars - +2,101 today - Python - apple-silicon, decision-model, inference, laya, local-ai, machine-learning, mlx, modernbert, system-one, typed-decisions
 
-- **[mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless)** - Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.  
-  2,282 stars - +603 today - Python
+- **[TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)** - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.  
+  3,569 stars - +706 today - Python
 
 - **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** - tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own  
-  1,795 stars - +1,067 today - Python - decision-model, jev, qwen3
+  3,068 stars - +1,273 today - Python - decision-model, jev, qwen3
+
+- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** - 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。  
+  2,920 stars - +2,792 today - Kotlin - accessibility-service, android, chat-assistant, llm, qq, wechat
+
+- **[Mak5er/AirCard](https://github.com/Mak5er/AirCard)** - Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)  
+  2,483 stars - +1,408 today - Swift
 
 - **[jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader)** - One AI trade decision every Monad block. Jev on Kuru MON-USDC.  
-  1,713 stars - +295 today - TypeScript
-
-- **[TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev)** - A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.  
-  1,711 stars - +495 today - Python
+  1,962 stars - +249 today - TypeScript
 
 
 ## Last 24 hours
 
 - **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** -   
-  7,872 stars - +5,630 today - Python
+  13,953 stars - +6,081 today - Python
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** - i. am. speed.  
-  14,473 stars - +4,066 today - Python
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** - Fastest and cheapest web agent  
+  17,384 stars - +2,911 today - Python
+
+- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** - 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。  
+  2,920 stars - +2,792 today - Kotlin - accessibility-service, android, chat-assistant, llm, qq, wechat
 
 - **[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)** - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.  
-  2,752 stars - +2,223 today - Python - apple-silicon, decision-model, inference, laya, local-ai, machine-learning, mlx, modernbert, system-one, typed-decisions
+  4,853 stars - +2,101 today - Python - apple-silicon, decision-model, inference, laya, local-ai, machine-learning, mlx, modernbert, system-one, typed-decisions
 
-- **[Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo)** - Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing  
-  4,288 stars - +1,758 today - TypeScript
-
-- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings  
-  18,654 stars - +1,266 today - JavaScript
-
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** - DeepSeek Harness: Everything is a Plugin.  
-  232,046 stars - +1,254 today - TypeScript - ai-agents, cordis, dsh, dsh-plugin
-
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.  
-  5,808 stars - +1,186 today - TypeScript
-
-- **[affaan-m/ECC](https://github.com/affaan-m/ECC)** - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  
-  264,375 stars - +1,137 today - JavaScript - ai-agents, anthropic, claude, claude-code, developer-tools, llm, mcp, productivity
+- **[Mak5er/AirCard](https://github.com/Mak5er/AirCard)** - Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)  
+  2,483 stars - +1,408 today - Swift
 
 - **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** - tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own  
-  1,795 stars - +1,067 today - Python - decision-model, jev, qwen3
+  3,068 stars - +1,273 today - Python - decision-model, jev, qwen3
 
-- **[tt-a1i/archify](https://github.com/tt-a1i/archify)** - Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export  
-  68,831 stars - +937 today - JavaScript - anthropic, architecture-diagram, claude-skill, dark-mode, developer-tools, diagram-as-code, html-diagram, mermaid-alternative, svg, system-design
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** - Z.ai's coding agent harness. Powerful, intelligent, extensible.  
+  6,140 stars - +1,039 today - TypeScript
+
+- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings  
+  19,638 stars - +984 today - JavaScript
+
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** - DeepSeek Harness: Everything is a Plugin.  
+  233,023 stars - +977 today - TypeScript - ai-agents, cordis, dsh, dsh-plugin
+
+- **[pacifio/atlas](https://github.com/pacifio/atlas)** - Source control for agents. Use multiple coding agents, track their changes and query them in one place  
+  5,962 stars - +899 today - TypeScript - ai, ai-coding-assistant, claude-code, codex, coding-agents, git, gitops, kilo-code, mcp, mcp-client, opencode, opencode-ai, opencode-skills, self-hosted, skills
 
 
 ## This week
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** - i. am. speed.  
-  14,473 stars - +13,704 in 7d - Python
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** -   
+  13,953 stars - +13,910 in 7d - Python
+
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** - Fastest and cheapest web agent  
+  17,384 stars - +16,615 in 7d - Python
+
+- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** - 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。  
+  2,920 stars - +2,792 in 7d - Kotlin - accessibility-service, android, chat-assistant, llm, qq, wechat
 
 - **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings  
-  18,654 stars - +15,364 in 7d - JavaScript
-
-- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.  
-  38,928 stars - +14,285 in 7d - Go - agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context
+  19,638 stars - +15,073 in 7d - JavaScript
 
 - **[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)** - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.  
-  2,752 stars - +2,223 in 7d - Python - apple-silicon, decision-model, inference, laya, local-ai, machine-learning, mlx, modernbert, system-one, typed-decisions
+  4,853 stars - +4,324 in 7d - Python - apple-silicon, decision-model, inference, laya, local-ai, machine-learning, mlx, modernbert, system-one, typed-decisions
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** -   
-  7,872 stars - +7,829 in 7d - Python
+- **[Mak5er/AirCard](https://github.com/Mak5er/AirCard)** - Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)  
+  2,483 stars - +1,408 in 7d - Swift
 
 - **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** - DeepSeek Harness: Everything is a Plugin.  
-  232,046 stars - +8,522 in 7d - TypeScript - ai-agents, cordis, dsh, dsh-plugin
+  233,023 stars - +8,144 in 7d - TypeScript - ai-agents, cordis, dsh, dsh-plugin
+
+- **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** - tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own  
+  3,068 stars - +2,785 in 7d - Python - decision-model, jev, qwen3
 
 - **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.  
-  5,808 stars - +3,665 in 7d - TypeScript
+  6,180 stars - +4,037 in 7d - TypeScript
 
-- **[affaan-m/ECC](https://github.com/affaan-m/ECC)** - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  
-  264,375 stars - +6,274 in 7d - JavaScript - ai-agents, anthropic, claude, claude-code, developer-tools, llm, mcp, productivity
-
-- **[tt-a1i/archify](https://github.com/tt-a1i/archify)** - Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export  
-  68,831 stars - +7,119 in 7d - JavaScript - anthropic, architecture-diagram, claude-skill, dark-mode, developer-tools, diagram-as-code, html-diagram, mermaid-alternative, svg, system-design
-
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.  
-  143,503 stars - +5,514 in 7d - JavaScript - agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
+- **[zai-org/ZCode](https://github.com/zai-org/ZCode)** - Z.ai's coding agent harness. Powerful, intelligent, extensible.  
+  6,140 stars - +1,039 in 7d - TypeScript
 
 
 ## This month
 
-- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** - i. am. speed.  
-  14,473 stars - +13,704 in 30d - Python
+- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** -   
+  13,953 stars - +13,910 in 30d - Python
+
+- **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** - Fastest and cheapest web agent  
+  17,384 stars - +16,615 in 30d - Python
+
+- **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** - 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。  
+  2,920 stars - +2,792 in 30d - Kotlin - accessibility-service, android, chat-assistant, llm, qq, wechat
 
 - **[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)** - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.  
-  2,752 stars - +2,223 in 30d - Python - apple-silicon, decision-model, inference, laya, local-ai, machine-learning, mlx, modernbert, system-one, typed-decisions
+  4,853 stars - +4,324 in 30d - Python - apple-silicon, decision-model, inference, laya, local-ai, machine-learning, mlx, modernbert, system-one, typed-decisions
 
-- **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** -   
-  7,872 stars - +7,829 in 30d - Python
+- **[Mak5er/AirCard](https://github.com/Mak5er/AirCard)** - Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)  
+  2,483 stars - +1,408 in 30d - Swift
 
 - **[tt-a1i/archify](https://github.com/tt-a1i/archify)** - Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export  
-  68,831 stars - +53,845 in 30d - JavaScript - anthropic, architecture-diagram, claude-skill, dark-mode, developer-tools, diagram-as-code, html-diagram, mermaid-alternative, svg, system-design
+  69,548 stars - +54,464 in 30d - JavaScript - anthropic, architecture-diagram, claude-skill, dark-mode, developer-tools, diagram-as-code, html-diagram, mermaid-alternative, svg, system-design
 
 - **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** - DeepSeek Harness: Everything is a Plugin.  
-  232,046 stars - +49,571 in 30d - TypeScript - ai-agents, cordis, dsh, dsh-plugin
-
-- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.  
-  5,808 stars - +3,665 in 30d - TypeScript
+  233,023 stars - +47,087 in 30d - TypeScript - ai-agents, cordis, dsh, dsh-plugin
 
 - **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.  
-  143,503 stars - +35,815 in 30d - JavaScript - agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
+  144,070 stars - +35,690 in 30d - JavaScript - agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
 
 - **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** - tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own  
-  1,795 stars - +1,512 in 30d - Python - decision-model, jev, qwen3
+  3,068 stars - +2,785 in 30d - Python - decision-model, jev, qwen3
 
-- **[affaan-m/ECC](https://github.com/affaan-m/ECC)** - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  
-  264,375 stars - +22,497 in 30d - JavaScript - ai-agents, anthropic, claude, claude-code, developer-tools, llm, mcp, productivity
-
-- **[bespokelabsai/nimble](https://github.com/bespokelabsai/nimble)** - Local typed decisions, contrastive data curation, and model evaluation.  
-  1,412 stars - +1,273 in 30d - Python
+- **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.  
+  6,180 stars - +4,037 in 30d - TypeScript
 
