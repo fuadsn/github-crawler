@@ -354668,6 +354668,14 @@
   "node_id": "R_kgDOUdIHvg",
   "topics": []
  },
+ "1372733975": {
+  "created_at": "2026-09-16T08:19:09Z",
+  "desc": "Antigravity\u591a\u5408\u4e00\u589e\u5f3a\uff0c\u81ea\u52a8\u5ba1\u6279\uff0c\u9ad8\u5371\u62e6\u622a\uff0c\u514dTUN\u767b\u5f55\uff0c\u6c49\u5316\u754c\u9762\uff0c\u5f00\u7bb1\u5373\u7528",
+  "lang": "JavaScript",
+  "name": "DSDS-CMHL/EasyAntigravity",
+  "node_id": "R_kgDOUdJCFw",
+  "topics": []
+ },
  "1372741237": {
   "created_at": "2026-09-16T08:26:07Z",
   "desc": "\u8c01\u8bf4AI\u4e0d\u80fd\u751f\u6210GIF? \u672cskill\u5229\u7528GPT-Image 2.5 \u4e00\u6b21\u6027\u751f\u6210\u591a\u683c\u5e27\u56fe - \u5408\u6210\u4e3a\u52a8\u753bgif - \u4e00\u6b21\u8c03\u7528\u5c31\u751f\u6210\u52a8\u6001\u56fe\u3002\u4ea7\u54c1\u52a8\u56fe\u751f\u6210\u5668  > \u4f60\u7ed9\u6211\u4ea7\u54c1\u7167\u7247\uff0c\u6211\u8fd8\u4f60\u4e00\u6bb5\u4f1a\u81ea\u52a8\u5faa\u73af\u64ad\u653e\u7684\u4ea7\u54c1\u52a8\u56fe\u3002  \u8fd9\u4e2a\u6280\u80fd\u662f\u7ed9\"\u4e0d\u4f1a\u7528\u8bbe\u8ba1\u8f6f\u4ef6\u3001\u4f46\u9700\u8981\u52a8\u56fe\u7d20\u6750\"\u7684\u4eba\u7528\u7684\u3002 \u4f60\u4e0d\u9700\u8981\u61c2\u4efb\u4f55\u6280\u672f\uff0c\u53ea\u8981\u4f1a\u53d1\u56fe\u7247\u3001\u4f1a\u8bf4\u8bdd\u5c31\u591f\u4e86\u3002",
@@ -354928,6 +354936,31 @@
    "webgl"
   ]
  },
+ "1373184607": {
+  "created_at": "2026-09-16T14:45:51Z",
+  "desc": "JEV-inspired parallel decisions for CUDA LLMs. One context, many decisions. vLLM API, game-agent examples, and reproducible benchmarks.",
+  "lang": "JavaScript",
+  "name": "kikoncuo/jevfire",
+  "node_id": "R_kgDOUdkiXw",
+  "topics": [
+   "cuda",
+   "game-ai",
+   "inference",
+   "jev",
+   "llm",
+   "parallel-decoding",
+   "structured-output",
+   "vllm"
+  ]
+ },
+ "1373195975": {
+  "created_at": "2026-09-16T14:52:54Z",
+  "desc": "Tesseract by Mirage \u2014 CLI releases and agent skills for creating and editing videos.",
+  "lang": "Python",
+  "name": "mirage-hq/Tesseract",
+  "node_id": "R_kgDOUdlOxw",
+  "topics": []
+ },
  "1373227372": {
   "created_at": "2026-09-16T15:13:23Z",
   "desc": "Browser automation where an LLM plans and Jev (Typesafe System One) decides. Library, CLI and MCP server.",
@@ -355183,6 +355216,14 @@
    "sqlite"
   ]
  },
+ "1373598679": {
+  "created_at": "2026-09-16T20:18:25Z",
+  "desc": "Typed JSON inference with DiffusionGemma, with Every and Jev benchmark results",
+  "lang": "Python",
+  "name": "JoshuaSP/open-jev",
+  "node_id": "R_kgDOUd9z1w",
+  "topics": []
+ },
  "1373617155": {
   "created_at": "2026-09-16T20:39:22Z",
   "desc": "Route to the cheapest model in claude code for your task using jev-router",
@@ -355433,6 +355474,14 @@
   "node_id": "R_kgDOUeM3NA",
   "topics": []
  },
+ "1373845360": {
+  "created_at": "2026-09-17T02:37:12Z",
+  "desc": "Autonomous software development supervisor that plans, delegates, reviews, verifies, and lands engineering work across projects",
+  "lang": "Python",
+  "name": "nTony46/DevSupervisor",
+  "node_id": "R_kgDOUeM3cA",
+  "topics": []
+ },
  "1373857275": {
   "created_at": "2026-09-17T02:54:20Z",
   "desc": "\u7528\u4e2a\u4eba Telegram \u8d26\u53f7\uff0c\u901a\u8fc7\u5df2\u6709\u4e66\u7c4d Bot \u641c\u7d22\u5e76\u4e0b\u8f7d\u7535\u5b50\u4e66\u7684 Agent Skill",
@@ -355609,7 +355658,7 @@
  },
  "1373977947": {
   "created_at": "2026-09-17T05:23:34Z",
-  "desc": "mcp connector to give your AI agent direct access to typesafe ai's jev model",
+  "desc": "An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model. ",
   "lang": "Go",
   "name": "itsmostafa/typesafe-mcp",
   "node_id": "R_kgDOUeU9Ww",
@@ -355806,7 +355855,7 @@
   "created_at": "2026-09-17T07:22:44Z",
   "desc": "A pure, lightweight, and secure server monitoring probe.",
   "lang": "Go",
-  "name": "komari-probe/komari-probe",
+  "name": "sonar-probe/sonar",
   "node_id": "R_kgDOUebZUw",
   "topics": []
  },
@@ -355849,6 +355898,20 @@
   "name": "Video-Rebirth/hyperflow",
   "node_id": "R_kgDOUeesPw",
   "topics": []
+ },
+ "1374170220": {
+  "created_at": "2026-09-17T08:50:25Z",
+  "desc": "A chatbot built on a model that cannot generate text (TypeSafe AI's Jev, driven autoregressively)",
+  "lang": "TypeScript",
+  "name": "Bewinxed/jevgpt",
+  "node_id": "R_kgDOUegsbA",
+  "topics": [
+   "autoregressive",
+   "joke",
+   "llm",
+   "remotion",
+   "typesafe"
+  ]
  },
  "1374187000": {
   "created_at": "2026-09-17T09:06:49Z",
@@ -356168,6 +356231,14 @@
   "node_id": "R_kgDOUepDsw",
   "topics": []
  },
+ "1374317124": {
+  "created_at": "2026-09-17T11:17:49Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "inclusionAI/Ming-Image",
+  "node_id": "R_kgDOUepqRA",
+  "topics": []
+ },
  "1374323444": {
   "created_at": "2026-09-17T11:23:29Z",
   "desc": "Free, open-source TradingView strategy optimizer for Chrome. Grid search, walk-forward, heatmaps. By Roboquant.",
@@ -356320,6 +356391,14 @@
   "node_id": "R_kgDOUe1Cwg",
   "topics": []
  },
+ "1374510971": {
+  "created_at": "2026-09-17T13:48:13Z",
+  "desc": "Anabasis: automatically solve hard-to-verify, domain-specific problems from one prompt.",
+  "lang": "TypeScript",
+  "name": "s-smits/anabasis",
+  "node_id": "R_kgDOUe1few",
+  "topics": []
+ },
  "1374514646": {
   "created_at": "2026-09-17T13:50:47Z",
   "desc": "Object File (BOF) that demonstrates privilege escalation through a misconfigured AlwaysInstallElevated policy.",
@@ -356375,6 +356454,23 @@
    "typesafe-ai",
    "typescript",
    "web-automation"
+  ]
+ },
+ "1374578272": {
+  "created_at": "2026-09-17T14:35:21Z",
+  "desc": "El objetivo de Polaris es tener el mejor sistema ag\u00e9ntico para trabajar con mi diagn\u00f3stico.",
+  "lang": "Python",
+  "name": "BeyondTheProtocol/polaris",
+  "node_id": "R_kgDOUe5mYA",
+  "topics": [
+   "agentic-systems",
+   "ai-agents",
+   "cancer-research",
+   "claude-code",
+   "llm-orchestration",
+   "open-science",
+   "patient-led-research",
+   "python"
   ]
  },
  "1374583864": {
@@ -356588,6 +356684,14 @@
   "node_id": "R_kgDOUfIp2A",
   "topics": []
  },
+ "1374825890": {
+  "created_at": "2026-09-17T17:43:36Z",
+  "desc": "Terminal PowerShell dentro do RAD Studio, via ConPTY. Roda Claude Code, vim e qualquer TUI.",
+  "lang": "Pascal",
+  "name": "AnaLauraCorrea/ShellDelphi",
+  "node_id": "R_kgDOUfItog",
+  "topics": []
+ },
  "1374827115": {
   "created_at": "2026-09-17T17:44:32Z",
   "desc": "A library of experiments using frontier LLMs/VLMs for robotics tasks, currently focusing on GPT-6 Astra.",
@@ -356715,14 +356819,14 @@
  "1374967555": {
   "created_at": "2026-09-17T19:22:28Z",
   "desc": "Browser use using Typesafe's Jev model",
-  "lang": "TypeScript",
+  "lang": "JavaScript",
   "name": "jkudish/jev-browser",
   "node_id": "R_kgDOUfRXAw",
   "topics": []
  },
  "1374986657": {
   "created_at": "2026-09-17T19:36:05Z",
-  "desc": "\u4f60\u7684AI\u5b66\u4e60\u642d\u6863\uff1a\u5b9a\u8ba1\u5212\u3001\u8bb2\u77e5\u8bc6\u3001\u505a\u9879\u76ee\uff0c\u5b66\u900f\u4e00\u95e8\u79d1\u76ee",
+  "desc": "\u4f60\u7684AI\u5b66\u4e60\u642d\u6863\uff1a\u5b9a\u8def\u7ebf\u3001\u8bb2\u77e5\u8bc6\u3001\u505a\u9879\u76ee\uff0c\u8fb9\u5b66\u8fb9\u505a\uff0c\u5b66\u900f\u4e00\u95e8\u79d1\u76ee",
   "lang": "Python",
   "name": "Miaotofu01/Study-Mate",
   "node_id": "R_kgDOUfShoQ",
@@ -356831,6 +356935,30 @@
   "name": "anpicasso/hermes-jev-approvals",
   "node_id": "R_kgDOUfWvcg",
   "topics": []
+ },
+ "1375059982": {
+  "created_at": "2026-09-17T20:37:50Z",
+  "desc": "\ud83d\ude80\ud83d\ude80 A 0.8B JEV-like multimodal model playing GUI games directly from raw pixels.",
+  "lang": "JavaScript",
+  "name": "OmniJev/PlayJev",
+  "node_id": "R_kgDOUfXADg",
+  "topics": [
+   "browser-games",
+   "game-ai",
+   "game-playing-agent",
+   "html5-games",
+   "imitation-learning",
+   "jev",
+   "jev-game",
+   "multimodal",
+   "openjev",
+   "playjev",
+   "qwen",
+   "real-time",
+   "small-models",
+   "system-one",
+   "vision-language-model"
+  ]
  },
  "1375069018": {
   "created_at": "2026-09-17T20:48:37Z",
@@ -356993,7 +357121,7 @@
   "created_at": "2026-09-18T00:02:34Z",
   "desc": "DSH \u6280\u80fd\u8c03\u7528\u5ba1\u8ba1 + \u5e94\u7528\u5185 skill \u7ba1\u7406\u5668",
   "lang": "JavaScript",
-  "name": "VDERR/echocat-skill-panel",
+  "name": "VDERR/dsh-echocat-skill-panel",
   "node_id": "R_kgDOUfetcA",
   "topics": [
    "cordis",
@@ -357008,6 +357136,20 @@
   "name": "kbhuw/jev-sift",
   "node_id": "R_kgDOUffEHQ",
   "topics": []
+ },
+ "1375264772": {
+  "created_at": "2026-09-18T02:14:13Z",
+  "desc": "MCP server for Divar \u2014 search, compare and analyze classified ads. Read-only, no API key.",
+  "lang": "JavaScript",
+  "name": "mmdju/divar-mcp",
+  "node_id": "R_kgDOUfjgBA",
+  "topics": [
+   "cloudflare-workers",
+   "divar",
+   "mcp",
+   "model-context-protocol",
+   "persian"
+  ]
  },
  "1375277773": {
   "created_at": "2026-09-18T02:33:10Z",
@@ -357270,7 +357412,7 @@
  },
  "1375362516": {
   "created_at": "2026-09-18T04:23:07Z",
-  "desc": "",
+  "desc": "RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents",
   "lang": "Python",
   "name": "QwenLM/RecreationWorld",
   "node_id": "R_kgDOUfpd1A",
@@ -357286,11 +357428,25 @@
  },
  "1375382253": {
   "created_at": "2026-09-18T04:46:33Z",
-  "desc": "",
+  "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
   "lang": "Python",
   "name": "NandhaKishorM/laya",
   "node_id": "R_kgDOUfqq7Q",
-  "topics": []
+  "topics": [
+   "calibration",
+   "classification",
+   "decision-model",
+   "huggingface",
+   "jev",
+   "modernbert",
+   "multilingual",
+   "nlp",
+   "python",
+   "pytorch",
+   "routing",
+   "typed-decisions",
+   "zero-shot"
+  ]
  },
  "1375397100": {
   "created_at": "2026-09-18T05:03:47Z",
@@ -357761,6 +357917,19 @@
    "typesafe"
   ]
  },
+ "1375815381": {
+  "created_at": "2026-09-18T12:09:59Z",
+  "desc": "Jev demos, projects, SDKs and skills, with source links and a curated X gallery.",
+  "lang": "Python",
+  "name": "Amal-David/awesome-jev",
+  "node_id": "R_kgDOUgFG1Q",
+  "topics": [
+   "ai-tools",
+   "awesome",
+   "jev",
+   "typed-decisions"
+  ]
+ },
  "1375881854": {
   "created_at": "2026-09-18T13:05:08Z",
   "desc": "HINT: Human-Intent Inception for Long-Horizon Robot Manipulation",
@@ -358058,6 +358227,14 @@
    "system-one",
    "typesafe-ai"
   ]
+ },
+ "1376246046": {
+  "created_at": "2026-09-18T17:58:39Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "ackyer/job-search-agent-template",
+  "node_id": "R_kgDOUgfZHg",
+  "topics": []
  },
  "1376252893": {
   "created_at": "2026-09-18T18:04:19Z",
@@ -358415,7 +358592,7 @@
  },
  "1376650725": {
   "created_at": "2026-09-19T02:47:37Z",
-  "desc": "Capability-aware Claude Code dispatcher with 27 specialist roles, composable skills, MCP/tool routing, verification workflows, and direct role commands",
+  "desc": "Repository retrieval and context engine for Claude Code and Codex: finds relevant code, reuses project knowledge, and pairs each task with specialist skills and verification.",
   "lang": "Python",
   "name": "nahid-sparktales/agent-dispatcher",
   "node_id": "R_kgDOUg4F5Q",
@@ -358459,6 +358636,14 @@
   "lang": "JavaScript",
   "name": "uehaj/jev-semgrep",
   "node_id": "R_kgDOUg5XSw",
+  "topics": []
+ },
+ "1376679491": {
+  "created_at": "2026-09-19T03:29:37Z",
+  "desc": "Trace your home's floor plans and place your real devices on them \u2014 physical/spatial context for Home Assistant. Work in progress \u2014 issues and ideas welcome.",
+  "lang": "TypeScript",
+  "name": "Greminn/ha-spatial-context",
+  "node_id": "R_kgDOUg52Qw",
   "topics": []
  },
  "1376688549": {
@@ -358528,11 +358713,18 @@
  },
  "1376757283": {
   "created_at": "2026-09-19T05:14:36Z",
-  "desc": "A verified, community-maintained catalog of 640 open-source projects built with Jev.",
-  "lang": "TypeScript",
+  "desc": "A verified, community-maintained catalog of 832 open-source projects built with Jev.",
+  "lang": "Astro",
   "name": "heyjunpenn/awesome-jev",
   "node_id": "R_kgDOUg-mIw",
-  "topics": []
+  "topics": [
+   "astro",
+   "awesome",
+   "awesome-jev",
+   "awesome-list",
+   "jev",
+   "typesafe"
+  ]
  },
  "1376764853": {
   "created_at": "2026-09-19T05:24:27Z",
@@ -358864,6 +359056,14 @@
   "node_id": "R_kgDOUhO-qg",
   "topics": []
  },
+ "1377028653": {
+  "created_at": "2026-09-19T10:34:47Z",
+  "desc": "",
+  "lang": "HTML",
+  "name": "guminghao-avi/FDE-case-library",
+  "node_id": "R_kgDOUhPKLQ",
+  "topics": []
+ },
  "1377047791": {
   "created_at": "2026-09-19T10:59:33Z",
   "desc": "Adapt local language models into Jev-compatible structured decision engines with Choice, Score, and Noul outputs   powered by prefill-only binary inference.",
@@ -358894,6 +359094,14 @@
   "lang": "Go",
   "name": "little-greenbean/sub2api-state-reuse",
   "node_id": "R_kgDOUhSxZA",
+  "topics": []
+ },
+ "1377088881": {
+  "created_at": "2026-09-19T11:46:20Z",
+  "desc": "Jev Explained",
+  "lang": "TypeScript",
+  "name": "davila7/jev-explained",
+  "node_id": "R_kgDOUhS1cQ",
   "topics": []
  },
  "1377095706": {
@@ -359037,6 +359245,14 @@
   "node_id": "R_kgDOUhcqdw",
   "topics": []
  },
+ "1377266080": {
+  "created_at": "2026-09-19T14:42:47Z",
+  "desc": "Your planet. The release notes. An unofficial changelog for Earth, built from real reporting.",
+  "lang": "JavaScript",
+  "name": "byalex33/changelog.earth",
+  "node_id": "R_kgDOUhdpoA",
+  "topics": []
+ },
  "1377281798": {
   "created_at": "2026-09-19T14:54:34Z",
   "desc": "Self-hosted AI email classifier for Gmail powered by Jev. Create custom labels, organize your inbox, and filter spam with confidence and cost controls.",
@@ -359060,6 +359276,14 @@
   "lang": "Jupyter Notebook",
   "name": "ahirtonlopes/devfest-natal-2026",
   "node_id": "R_kgDOUhenmA",
+  "topics": []
+ },
+ "1377300089": {
+  "created_at": "2026-09-19T15:12:19Z",
+  "desc": "Image inputs for Laya: calibrated, non-generative typed decisions over images + text (SmolVLM-256M backbone)",
+  "lang": "Python",
+  "name": "r33drichards/laya-vision",
+  "node_id": "R_kgDOUhfueQ",
   "topics": []
  },
  "1377318357": {
@@ -359341,6 +359565,19 @@
    "typesafe-ai"
   ]
  },
+ "1377548062": {
+  "created_at": "2026-09-19T19:36:25Z",
+  "desc": "Full-weight Qwen decision model with calibrated probabilities, training code, REST API, and playground.",
+  "lang": "Python",
+  "name": "denis-pplx/autojev",
+  "node_id": "R_kgDOUhu3Hg",
+  "topics": [
+   "calibration",
+   "classification",
+   "pytorch",
+   "qwen"
+  ]
+ },
  "1377573287": {
   "created_at": "2026-09-19T20:08:14Z",
   "desc": "Retrieve by relevance, not resemblance: filter an AI assistant's memories with TypeSafe's Jev",
@@ -359392,11 +359629,17 @@
  },
  "1377674687": {
   "created_at": "2026-09-19T22:41:26Z",
-  "desc": "",
+  "desc": "A small extension that demos the combination of Jev x WebMCP",
   "lang": "JavaScript",
   "name": "sdras/jev-webmcp-extension",
   "node_id": "R_kgDOUh2lvw",
-  "topics": []
+  "topics": [
+   "chrome",
+   "extension",
+   "extension-chrome",
+   "jev",
+   "webmcp"
+  ]
  },
  "1377680623": {
   "created_at": "2026-09-19T22:51:07Z",
@@ -359639,6 +359882,23 @@
    "terminal"
   ]
  },
+ "1377956199": {
+  "created_at": "2026-09-20T05:27:53Z",
+  "desc": "Jev-Mem: System-One Controlled Agentic Memory",
+  "lang": "Python",
+  "name": "libingzheren/Jev-Mem",
+  "node_id": "R_kgDOUiHxZw",
+  "topics": [
+   "agent",
+   "agent-memory",
+   "agentic-ai",
+   "agentic-memory",
+   "agents",
+   "jev",
+   "jev-ai",
+   "llm"
+  ]
+ },
  "1377960577": {
   "created_at": "2026-09-20T05:33:22Z",
   "desc": "\u4e0d\u9732\u8138\u5546\u4e1a/\u6d88\u8d39\u8c03\u67e5\u957f\u7247\u7684\u5b8c\u6574\u751f\u4ea7\u6d41\u7a0b\uff1a\u4e00\u53e5\u8bdd\u51fa 10 \u5206\u949f\u6210\u7247\uff0c\u4ee5 Claude Code skill \u5f62\u5f0f\u5f00\u6e90\uff08TTS \u9010\u5b57\u65f6\u95f4\u6233\u3001\u7d20\u6750\u8986\u76d6\u3001Remotion \u62fc\u8d34\u3001\u95ea\u907f\u6df7\u97f3\u3001\u5c01\u9762\u4e0e\u516b\u5e73\u53f0\u6587\u6848\uff09",
@@ -359646,6 +359906,31 @@
   "name": "trustfuture/investigation-video-skill",
   "node_id": "R_kgDOUiICgQ",
   "topics": []
+ },
+ "1377966204": {
+  "created_at": "2026-09-20T05:39:47Z",
+  "desc": "Local Cursor gateway, Responses first, reusable SDK sessions, native steer, readable traces, and optional context overflow fallback.",
+  "lang": "TypeScript",
+  "name": "iFwu/cursor2response",
+  "node_id": "R_kgDOUiIYfA",
+  "topics": []
+ },
+ "1377994507": {
+  "created_at": "2026-09-20T06:09:40Z",
+  "desc": "A lightweight local mock LLM provider \u2014 deterministic OpenAI and Anthropic responses, with no API calls, no tokens, and no code changes.",
+  "lang": "Python",
+  "name": "lewismosciski/LMMOCK",
+  "node_id": "R_kgDOUiKHCw",
+  "topics": [
+   "agent-testing",
+   "ai-testing",
+   "anthropic",
+   "fastapi",
+   "llm",
+   "mock-server",
+   "openai",
+   "python"
+  ]
  },
  "1378003578": {
   "created_at": "2026-09-20T06:21:21Z",
@@ -359689,6 +359974,21 @@
   "name": "WellArtDev/hermes-soul-pack",
   "node_id": "R_kgDOUiPihA",
   "topics": []
+ },
+ "1378084143": {
+  "created_at": "2026-09-20T07:54:30Z",
+  "desc": "Specialised AI models for logo design \u2014 a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
+  "lang": "TypeScript",
+  "name": "Inkloom-art/inkloom",
+  "node_id": "R_kgDOUiPlLw",
+  "topics": [
+   "brand-identity",
+   "cloudflare-workers",
+   "design-systems",
+   "generative-ai",
+   "logo-design",
+   "typography"
+  ]
  },
  "1378085611": {
   "created_at": "2026-09-20T07:56:21Z",
@@ -359748,7 +360048,7 @@
  },
  "1378157667": {
   "created_at": "2026-09-20T09:18:04Z",
-  "desc": "C++ inference for Laya typed decisions, optimized for RTX, supports Vulkan, CPU",
+  "desc": "C++ inference for Laya typed decisions - supports CUDA, Vulkan, Core ML, CPU",
   "lang": "C++",
   "name": "lkarlslund/laya.cpp",
   "node_id": "R_kgDOUiUEYw",
@@ -359760,6 +360060,14 @@
   "lang": "Python",
   "name": "lykycy123/RoboJEV",
   "node_id": "R_kgDOUiVAYQ",
+  "topics": []
+ },
+ "1378178382": {
+  "created_at": "2026-09-20T09:43:11Z",
+  "desc": "Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene Reconstruction",
+  "lang": "Python",
+  "name": "VAST-AI-Research/Mira-Scene",
+  "node_id": "R_kgDOUiVVTg",
   "topics": []
  },
  "1378198970": {
@@ -359792,6 +360100,14 @@
   "node_id": "R_kgDOUiYtOw",
   "topics": []
  },
+ "1378243117": {
+  "created_at": "2026-09-20T11:04:48Z",
+  "desc": "Sub2API v0.2.7 OpenAI OAuth STATE transport plugin with account metadata, model presets and proxy chaining",
+  "lang": "Go",
+  "name": "zhang2580384/sub2api-state-kit",
+  "node_id": "R_kgDOUiZSLQ",
+  "topics": []
+ },
  "1378287407": {
   "created_at": "2026-09-20T11:59:48Z",
   "desc": "",
@@ -359810,16 +360126,25 @@
  },
  "1378292414": {
   "created_at": "2026-09-20T12:05:48Z",
-  "desc": "Hemmingway-1 \u2014 a 27B model that writes the way a person writes. Apache-2.0 weights.",
+  "desc": "Hemmingway-1: a 27B model that writes the way a person writes. Open weights, free for non-commercial use (CC BY-NC 4.0); commercial use by agreement.",
   "lang": "",
   "name": "lukeckprobierts/Hemmingway-1",
   "node_id": "R_kgDOUicSvg",
   "topics": [
+   "ai-writing",
+   "cc-by-nc",
    "creative-writing",
+   "gguf",
+   "humanlike-ai",
    "language-model",
    "llm",
+   "local-llm",
    "open-weights",
-   "qwen"
+   "qwen",
+   "roleplay",
+   "storytelling",
+   "vllm",
+   "writing-assistant"
   ]
  },
  "1378304920": {
@@ -359828,6 +360153,22 @@
   "lang": "TypeScript",
   "name": "wjl8636/Financial-Report-RAG",
   "node_id": "R_kgDOUidDmA",
+  "topics": []
+ },
+ "1378312690": {
+  "created_at": "2026-09-20T12:29:26Z",
+  "desc": "open-jev is a browser-focused TypeScript library for typed decisions: one piece of text (the state) plus any number of typed questions go in, and one forward pass returns a calibrated probability distribution per question. Nothing is generated, so an answer is always one of the options you provided.",
+  "lang": "TypeScript",
+  "name": "nico-martin/open-jev",
+  "node_id": "R_kgDOUidh8g",
+  "topics": []
+ },
+ "1378334724": {
+  "created_at": "2026-09-20T12:53:27Z",
+  "desc": "A Java SDK for the TypeSafe AI JEV API, & Spring AI TypeSafe integrations.",
+  "lang": "Java",
+  "name": "spring-ai-community/spring-ai-typesafe",
+  "node_id": "R_kgDOUie4BA",
   "topics": []
  },
  "1378336518": {
@@ -359995,6 +360336,26 @@
   "node_id": "R_kgDOUioXGw",
   "topics": []
  },
+ "1378518207": {
+  "created_at": "2026-09-20T16:01:49Z",
+  "desc": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+  "lang": "Python",
+  "name": "2022hpsk/SpeakerMemR1",
+  "node_id": "R_kgDOUiqEvw",
+  "topics": [
+   "conversational-memory",
+   "llm",
+   "multi-party-dialogues"
+  ]
+ },
+ "1378523869": {
+  "created_at": "2026-09-20T16:07:29Z",
+  "desc": "Open source AI safety experiments. Exact inputs, transparent methods, and reproducible results.",
+  "lang": "JavaScript",
+  "name": "nftechie/misalignment",
+  "node_id": "R_kgDOUiqa3Q",
+  "topics": []
+ },
  "1378548877": {
   "created_at": "2026-09-20T16:30:59Z",
   "desc": "Local image generation and editing for NVIDIA DGX Spark, powered by Qwen-Image-2.1 and Gradio.",
@@ -360075,6 +360436,14 @@
    "playground"
   ]
  },
+ "1378704001": {
+  "created_at": "2026-09-20T19:26:20Z",
+  "desc": "Hermes Agent model-provider plugin: Claude Pro/Max subscription through the official Claude Code CLI (experimental)",
+  "lang": "Python",
+  "name": "NousResearch/hermes-plugin-claude-subscription-directsdk",
+  "node_id": "R_kgDOUi1agQ",
+  "topics": []
+ },
  "1378713168": {
   "created_at": "2026-09-20T19:38:26Z",
   "desc": "CLI no oficial de Renfe, pensada tambi\u00e9n para agentes \u2014 horarios y tarifas reales de tren desde la terminal",
@@ -360128,6 +360497,14 @@
    "typesafe"
   ]
  },
+ "1378733532": {
+  "created_at": "2026-09-20T20:05:39Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "byteab/operation-ink",
+  "node_id": "R_kgDOUi3N3A",
+  "topics": []
+ },
  "1378736813": {
   "created_at": "2026-09-20T20:10:16Z",
   "desc": "A Pi coding-agent extension that lets a long-running agent watch its own context and compact itself",
@@ -360150,6 +360527,14 @@
   "lang": "HTML",
   "name": "ZeroGold/call-coach-ai",
   "node_id": "R_kgDOUi5Hjw",
+  "topics": []
+ },
+ "1378786878": {
+  "created_at": "2026-09-20T21:21:13Z",
+  "desc": "Cross-harness session hub for Pi: browse, search and continue sessions from Claude Code, Codex, OpenCode, Crush and JCode without leaving your chat.",
+  "lang": "TypeScript",
+  "name": "Gateton/pi-session-hub",
+  "node_id": "R_kgDOUi6ePg",
   "topics": []
  },
  "1378813039": {
@@ -360197,6 +360582,14 @@
   "node_id": "R_kgDOUjAMxQ",
   "topics": []
  },
+ "1378884933": {
+  "created_at": "2026-09-21T00:07:22Z",
+  "desc": "Dev (dev-0.4b): a 0.4B bidirectional decision model on ModernBERT-large for routing, yes/no verification, and 1-5 rating. Non-generative single forward pass with calibrated confidence.",
+  "lang": "Python",
+  "name": "mpnikhil/dev-0.4b",
+  "node_id": "R_kgDOUjAdRQ",
+  "topics": []
+ },
  "1378909326": {
   "created_at": "2026-09-21T00:47:25Z",
   "desc": "Local computer use on Apple silicon: on-device typed decisions with laya and form filling with CUA-S1-FORMS, driven through the macOS Accessibility API",
@@ -360231,6 +360624,18 @@
   "node_id": "R_kgDOUjECyw",
   "topics": []
  },
+ "1378958030": {
+  "created_at": "2026-09-21T01:53:13Z",
+  "desc": "An LLM + Jev workflow. Boost your vertebrate brain with a spine inside. ",
+  "lang": "TypeScript",
+  "name": "Alex314618-create/JevRev",
+  "node_id": "R_kgDOUjE6zg",
+  "topics": [
+   "jev",
+   "llm",
+   "workflow"
+  ]
+ },
  "1378971656": {
   "created_at": "2026-09-21T02:12:24Z",
   "desc": "\u975e\u81ea\u56de\u5f52System 1\u51b3\u7b56\u5f15\u64ce\uff0c\u4e13\u4e3a\u7ed3\u6784\u5316\u7c7b\u578b\u51b3\u7b56\u573a\u666f\u8bbe\u8ba1  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
@@ -360245,6 +360650,14 @@
   "lang": "Python",
   "name": "RenaGao/jev-dataops",
   "node_id": "R_kgDOUjF42Q",
+  "topics": []
+ },
+ "1378989597": {
+  "created_at": "2026-09-21T02:36:46Z",
+  "desc": "A Clash Royale bot with no trained policy: Jev (TypeSafe System One) makes every decision from the live game state",
+  "lang": "Python",
+  "name": "bytelabs-oss/clash-jev",
+  "node_id": "R_kgDOUjG2HQ",
   "topics": []
  },
  "1379003933": {
@@ -360313,12 +360726,69 @@
   "node_id": "R_kgDOUjPFng",
   "topics": []
  },
+ "1379166549": {
+  "created_at": "2026-09-21T05:55:40Z",
+  "desc": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
+  "lang": "Python",
+  "name": "nokia-applied-research/AnyJev",
+  "node_id": "R_kgDOUjRpVQ",
+  "topics": [
+   "calibration",
+   "decision-model",
+   "jev",
+   "jev-model",
+   "llm",
+   "system-one",
+   "transformers",
+   "vllm"
+  ]
+ },
+ "1379182923": {
+  "created_at": "2026-09-21T06:11:56Z",
+  "desc": "Laya (open source, local) vs TypeSafe Jev (API): two AI models race in Snake and fight in a Mortal-Kombat-style arena. Every move is a real model decision.",
+  "lang": "JavaScript",
+  "name": "PromptEngineer48/laya-vs-jev-arena",
+  "node_id": "R_kgDOUjSpSw",
+  "topics": [
+   "ai",
+   "ai-agents",
+   "benchmark",
+   "game",
+   "laya",
+   "open-source",
+   "typesafe"
+  ]
+ },
  "1379189057": {
   "created_at": "2026-09-21T06:17:12Z",
   "desc": "Local VS Code search across Claude Code, Codex, and OpenCode chats with Laya reranking",
   "lang": "JavaScript",
   "name": "fstandhartinger/chat-seek-vscode",
   "node_id": "R_kgDOUjTBQQ",
+  "topics": []
+ },
+ "1379207505": {
+  "created_at": "2026-09-21T06:31:38Z",
+  "desc": "C-HD: Lean 4 proof package for a directed single-source shortest-path bound (snapshot 2026-09-20)",
+  "lang": "Lean",
+  "name": "spicylemonade/c-hd-proof",
+  "node_id": "R_kgDOUjUJUQ",
+  "topics": []
+ },
+ "1379242271": {
+  "created_at": "2026-09-21T07:00:35Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "alibaba/AgenticBigBang",
+  "node_id": "R_kgDOUjWRHw",
+  "topics": []
+ },
+ "1379271414": {
+  "created_at": "2026-09-21T07:24:07Z",
+  "desc": "\u4e9a\u5fae\u79d2\u7ea7 System-1 \u6a21\u578b\uff0c\u51c6\u786e\u7387\u670d\u4ece\u9ad8\u65af\u5206\u5e03",
+  "lang": "Rust",
+  "name": "karminski/Jev-Quantum",
+  "node_id": "R_kgDOUjYC9g",
   "topics": []
  },
  "1379298275": {
@@ -360353,6 +360823,93 @@
   "node_id": "R_kgDOUjf_Nw",
   "topics": []
  },
+ "1379510327": {
+  "created_at": "2026-09-21T10:25:00Z",
+  "desc": "\ud83c\udfa8 Agentic skill for Qwen-Image-2.1: Rewrites and optimizes text-to-image and multi-image editing prompts using official Alibaba specifications. Compatible with skills.sh and all AI agents.",
+  "lang": "Python",
+  "name": "iamyoki/qwen-image-2.1-skill",
+  "node_id": "R_kgDOUjmoNw",
+  "topics": [
+   "image-generation",
+   "qwen",
+   "qwen-image",
+   "qwen-image-2-1",
+   "skills",
+   "text-to-image"
+  ]
+ },
+ "1379550498": {
+  "created_at": "2026-09-21T10:55:30Z",
+  "desc": "Seedance 2.0 Mini API \u4e2d\u6587\u6587\u6863\uff1a\u6a21\u578b ID\u3001\u6bcf\u79d2 $0.0106\uff08480P\uff09 \u8ba1\u8d39\u3001\u89c6\u9891\u53c2\u6570\u4e0e\u8c03\u7528\u793a\u4f8b\uff0c\u542b curl / Python \u4ee3\u7801\u4e0e OpenAI \u517c\u5bb9\u63a5\u53e3\u8bf4\u660e\u3002",
+  "lang": "",
+  "name": "apimart-ww/seedance-2.0-mini-api-cn",
+  "node_id": "R_kgDOUjpFIg",
+  "topics": [
+   "ai-video-api",
+   "api-docs",
+   "apimart",
+   "chinese",
+   "doubao-seedance-2-0",
+   "image-to-video",
+   "openai-compatible",
+   "per-second-pricing",
+   "pricing",
+   "seedance-2-0-mini",
+   "text-to-video",
+   "video-generation-api",
+   "zh-cn"
+  ]
+ },
+ "1379553159": {
+  "created_at": "2026-09-21T10:57:31Z",
+  "desc": "Track live or prerecorded humanoid movements to produce a 3D skeleton. C++/GGML conversion of NVIDIA's GEM-X",
+  "lang": "C++",
+  "name": "localai-org/gem-x.cpp",
+  "node_id": "R_kgDOUjpPhw",
+  "topics": []
+ },
+ "1379569039": {
+  "created_at": "2026-09-21T11:08:48Z",
+  "desc": "Wan 3.0 API \u4e2d\u6587\u6587\u6863\uff1a\u6a21\u578b ID\u3001\u6bcf\u79d2 $0.0329\uff08480P\uff09 \u8ba1\u8d39\u3001\u89c6\u9891\u53c2\u6570\u4e0e\u8c03\u7528\u793a\u4f8b\uff0c\u542b curl / Python \u4ee3\u7801\u4e0e OpenAI \u517c\u5bb9\u63a5\u53e3\u8bf4\u660e\u3002",
+  "lang": "",
+  "name": "apimart-w1/wan-3.0-video-api-cn",
+  "node_id": "R_kgDOUjqNjw",
+  "topics": [
+   "ai-video-api",
+   "api-docs",
+   "apimart",
+   "chinese",
+   "image-to-video",
+   "openai-compatible",
+   "per-second-pricing",
+   "pricing",
+   "text-to-video",
+   "video-generation-api",
+   "wan-3-0",
+   "wan3-0-video",
+   "zh-cn"
+  ]
+ },
+ "1379572963": {
+  "created_at": "2026-09-21T11:11:37Z",
+  "desc": "ncnn implementation of Qwen-Image-2.1, with text-to-image, image editing, multi-reference image input and transparent RGBA output",
+  "lang": "C++",
+  "name": "nihui/qwenimage-ncnn-vulkan",
+  "node_id": "R_kgDOUjqc4w",
+  "topics": [
+   "amd",
+   "apple",
+   "intel",
+   "linux",
+   "macos",
+   "ncnn",
+   "nvidia",
+   "qwen-image",
+   "qwen-image-2-1",
+   "vulkan",
+   "windows"
+  ]
+ },
  "1379574728": {
   "created_at": "2026-09-21T11:12:53Z",
   "desc": "\u88c5\u5728\u624b\u673a\u4e0a\u7684\u5bf9\u8bdd\u526f\u9a7e\uff1a\u5728\u5fae\u4fe1 / QQ / X / \u98de\u4e66\u91cc\u8bfb\u61c2\u5bf9\u65b9\u3001\u7ed9\u51fa\u5019\u9009\u56de\u590d\u3001\u4e00\u952e\u586b\u5165\u8f93\u5165\u6846\uff0c\u53d1\u4e0d\u53d1\u7531\u4f60\u3002\u975e\u4fb5\u5165\uff0c\u53ea\u8bfb\u5c4f\u5e55\uff0c\u4e0d hook \u4e0d\u6539\u5305\u3002",
@@ -360366,6 +360923,28 @@
    "llm",
    "qq",
    "wechat"
+  ]
+ },
+ "1379582941": {
+  "created_at": "2026-09-21T11:18:09Z",
+  "desc": "Kling v3 API \u4e2d\u6587\u6587\u6863\uff1a\u6a21\u578b ID\u3001\u6bcf\u79d2 $0.0672 \u8ba1\u8d39\u3001\u89c6\u9891\u53c2\u6570\u4e0e\u8c03\u7528\u793a\u4f8b\uff0c\u542b curl / Python \u4ee3\u7801\u4e0e OpenAI \u517c\u5bb9\u63a5\u53e3\u8bf4\u660e\u3002",
+  "lang": "",
+  "name": "apimart-sc/kling-3-api-cn",
+  "node_id": "R_kgDOUjrD3Q",
+  "topics": [
+   "ai-video-api",
+   "api-docs",
+   "apimart",
+   "chinese",
+   "image-to-video",
+   "kling-3-0-turbo",
+   "kling-v3",
+   "openai-compatible",
+   "per-second-pricing",
+   "pricing",
+   "text-to-video",
+   "video-generation-api",
+   "zh-cn"
   ]
  },
  "1379594548": {
@@ -360382,6 +360961,26 @@
    "music-generation",
    "pytorch",
    "vllm"
+  ]
+ },
+ "1379601713": {
+  "created_at": "2026-09-21T11:29:47Z",
+  "desc": "Innovative externally-scored agentic ML benchmark for next evolution of AI \u2014 real competition ground truth, two-submission feedback, attacked rewards",
+  "lang": "Python",
+  "name": "wangchen0802/Simreal-MLBench",
+  "node_id": "R_kgDOUjsNMQ",
+  "topics": [
+   "agentic",
+   "benchmark",
+   "benchmarking",
+   "calibration",
+   "llm",
+   "llm-agents",
+   "llms",
+   "mechine-learing",
+   "metacognition-in-llms",
+   "rl-environment",
+   "rsi"
   ]
  },
  "1379612416": {
@@ -360403,6 +361002,26 @@
    "typescript"
   ]
  },
+ "1379612450": {
+  "created_at": "2026-09-21T11:36:41Z",
+  "desc": "Qwen-Image 3.0 API \u4e2d\u6587\u6587\u6863\uff1a\u6a21\u578b ID\u3001\u6bcf\u5f20 $0.0206 \u8ba1\u8d39\u3001\u56fe\u50cf\u53c2\u6570\u4e0e\u8c03\u7528\u793a\u4f8b\uff0c\u542b curl / Python \u4ee3\u7801\u4e0e OpenAI \u517c\u5bb9\u63a5\u53e3\u8bf4\u660e\u3002",
+  "lang": "",
+  "name": "apimart-1sww/qwen-image-3-api-cn",
+  "node_id": "R_kgDOUjs3Ig",
+  "topics": [
+   "ai-image-api",
+   "api-docs",
+   "apimart",
+   "chinese",
+   "image-generation",
+   "image-prompts",
+   "openai-compatible",
+   "pricing",
+   "qwen-image-3-0",
+   "text-to-image",
+   "zh-cn"
+  ]
+ },
  "1379617146": {
   "created_at": "2026-09-21T11:39:32Z",
   "desc": "\u5fae\u4fe1\u6d88\u606f\u610f\u56fe\u8bc6\u522b\u60ac\u6d6e\u7a97\uff08macOS\uff09\uff1a\u770b\u5c4f + \u672c\u5730\u5c0f\u6a21\u578b\u5224\u65ad\u610f\u56fe\u548c\u98ce\u9669\uff0c\u518d\u6309\u8bdd\u672f\u751f\u6210\u56de\u590d\u5019\u9009\u3002\u7eaf\u53ea\u8bfb\u3001\u4e0d\u6ce8\u5165\u5fae\u4fe1\u3002",
@@ -360420,6 +361039,35 @@
    "wechat"
   ]
  },
+ "1379622568": {
+  "created_at": "2026-09-21T11:42:59Z",
+  "desc": "FDE \u73b0\u573a\u5de5\u7a0b\u624b\u518c",
+  "lang": "",
+  "name": "JayceHuang/fde-handbook",
+  "node_id": "R_kgDOUjteqA",
+  "topics": []
+ },
+ "1379627160": {
+  "created_at": "2026-09-21T11:46:01Z",
+  "desc": "Grok Imagine 2.0 API \u4e2d\u6587\u6587\u6863\uff1a\u6a21\u578b ID\u3001\u6bcf\u5f20 $0.015 \u8ba1\u8d39\u3001\u56fe\u50cf\u53c2\u6570\u4e0e\u8c03\u7528\u793a\u4f8b\uff0c\u542b curl / Python \u4ee3\u7801\u4e0e OpenAI \u517c\u5bb9\u63a5\u53e3\u8bf4\u660e\u3002",
+  "lang": "",
+  "name": "apimart00-12/grok-imagine-2-api-cn",
+  "node_id": "R_kgDOUjtwmA",
+  "topics": [
+   "ai-image-api",
+   "api-docs",
+   "apimart",
+   "chinese",
+   "grok-imagine-2-0",
+   "grok-imagine-2-0-ext",
+   "image-generation",
+   "image-prompts",
+   "openai-compatible",
+   "pricing",
+   "text-to-image",
+   "zh-cn"
+  ]
+ },
  "1379664293": {
   "created_at": "2026-09-21T12:09:30Z",
   "desc": "BOSS\u76f4\u8058 / \u524d\u7a0b\u65e0\u5fe7\u901a\u7528\u7684\u5c97\u4f4d\u7b5b\u9009\u52a9\u624b Chrome \u6269\u5c55\uff08MV3\uff09\uff1a\u88ab\u52a8\u6293\u53d6\u5c97\u4f4d\u3001AI \u753b\u50cf\u4e0e\u9010\u5c97\u4f4d\u5339\u914d\u5206\u6790\u3001\u591a\u534f\u8bae AI \u63a5\u5165\u3001\u6279\u91cf\u5206\u6790\u5bfc\u51fa\u3002\u6570\u636e\u4ec5\u5b58\u672c\u673a\u3002",
@@ -360427,6 +361075,49 @@
   "name": "qghjw1216-netizen/job-filter-assistant",
   "node_id": "R_kgDOUjwBpQ",
   "topics": []
+ },
+ "1379672461": {
+  "created_at": "2026-09-21T12:14:26Z",
+  "desc": "FLUX.2 API \u306e\u65e5\u672c\u8a9e\u30ac\u30a4\u30c9\uff1a\u30e2\u30c7\u30eb ID\u30011\u679a\u3042\u305f\u308a $0.024 (1MP) \u306e\u6599\u91d1\u3001\u30d1\u30e9\u30e1\u30fc\u30bf\u4e00\u89a7\u3001curl\u30fbPython \u306e\u5b9f\u884c\u4f8b\u3068 OpenAI \u4e92\u63db\u30a8\u30f3\u30c9\u30dd\u30a4\u30f3\u30c8\u306e\u89e3\u8aac\u3002",
+  "lang": "",
+  "name": "apimart-223/flux-2-api-ja",
+  "node_id": "R_kgDOUjwhjQ",
+  "topics": [
+   "ai-image-api",
+   "api-docs",
+   "apimart",
+   "flux-2",
+   "flux-2-pro",
+   "image-generation",
+   "image-prompts",
+   "ja",
+   "japanese",
+   "openai-compatible",
+   "pricing",
+   "text-to-image"
+  ]
+ },
+ "1379703717": {
+  "created_at": "2026-09-21T12:34:03Z",
+  "desc": "Hailuo 2.3 API \u306e\u65e5\u672c\u8a9e\u30ac\u30a4\u30c9\uff1a\u30e2\u30c7\u30eb ID\u3001\u79d2\u3042\u305f\u308a $0.0248 \u306e\u6599\u91d1\u3001\u30d1\u30e9\u30e1\u30fc\u30bf\u4e00\u89a7\u3001curl\u30fbPython \u306e\u5b9f\u884c\u4f8b\u3068 OpenAI \u4e92\u63db\u30a8\u30f3\u30c9\u30dd\u30a4\u30f3\u30c8\u306e\u89e3\u8aac\u3002",
+  "lang": "",
+  "name": "apimart-2wsd2/hailuo-2.3-api-ja",
+  "node_id": "R_kgDOUjybpQ",
+  "topics": [
+   "ai-video-api",
+   "api-docs",
+   "apimart",
+   "hailuo-2-3",
+   "image-to-video",
+   "japanese",
+   "minimax-hailuo-2-3",
+   "minimax-hailuo-2-3-fast",
+   "openai-compatible",
+   "per-second-pricing",
+   "pricing",
+   "text-to-video",
+   "video-generation-api"
+  ]
  },
  "1379707048": {
   "created_at": "2026-09-21T12:36:13Z",
@@ -360440,6 +361131,191 @@
    "comparison",
    "review"
   ]
+ },
+ "1379720747": {
+  "created_at": "2026-09-21T12:44:47Z",
+  "desc": "Seedream 5.0 Pro API \ud55c\uad6d\uc5b4 \uac00\uc774\ub4dc: \ubaa8\ub378 ID, \uc7a5\ub2f9 $0.0146 (1K-layer) \uc694\uae08, \ud30c\ub77c\ubbf8\ud130, cURL\u00b7Python \uc608\uc81c\uc640 OpenAI \ud638\ud658 \uc5d4\ub4dc\ud3ec\uc778\ud2b8 \uc124\uba85.",
+  "lang": "",
+  "name": "apimart-ss223w/seedream-5-api-ko",
+  "node_id": "R_kgDOUjzeKw",
+  "topics": [
+   "ai-image-api",
+   "api-docs",
+   "apimart",
+   "image-generation",
+   "image-prompts",
+   "ko",
+   "korean",
+   "openai-compatible",
+   "pricing",
+   "seedream-5-0-pro",
+   "text-to-image"
+  ]
+ },
+ "1379754455": {
+  "created_at": "2026-09-21T13:04:36Z",
+  "desc": "Kling v3 API \ud55c\uad6d\uc5b4 \uac00\uc774\ub4dc: \ubaa8\ub378 ID, \ucd08\ub2f9 $0.0672 \uc694\uae08, \ud30c\ub77c\ubbf8\ud130, cURL\u00b7Python \uc608\uc81c\uc640 OpenAI \ud638\ud658 \uc5d4\ub4dc\ud3ec\uc778\ud2b8 \uc124\uba85.",
+  "lang": "",
+  "name": "APImart-23ww/kling-3-api-ko",
+  "node_id": "R_kgDOUj1h1w",
+  "topics": [
+   "ai-video-api",
+   "api-docs",
+   "apimart",
+   "image-to-video",
+   "kling-3-0-turbo",
+   "kling-v3",
+   "ko",
+   "korean",
+   "openai-compatible",
+   "per-second-pricing",
+   "pricing",
+   "text-to-video",
+   "video-generation-api"
+  ]
+ },
+ "1379771393": {
+  "created_at": "2026-09-21T13:14:31Z",
+  "desc": "API FLUX.2 : identifiant de mod\u00e8le, tarif 0.024 $ par image (1MP), param\u00e8tres, exemples cURL et Python, endpoint compatible OpenAI.",
+  "lang": "",
+  "name": "apimart-2dwad/flux-2-api-fr",
+  "node_id": "R_kgDOUj2kAQ",
+  "topics": [
+   "ai-image-api",
+   "api-docs",
+   "apimart",
+   "flux-2",
+   "flux-2-pro",
+   "fr",
+   "french",
+   "image-generation",
+   "image-prompts",
+   "openai-compatible",
+   "pricing",
+   "text-to-image"
+  ]
+ },
+ "1379788588": {
+  "created_at": "2026-09-21T13:24:53Z",
+  "desc": "API Wan 3.0 : identifiant de mod\u00e8le, tarif 0.0329 $ par seconde (480P), param\u00e8tres, exemples cURL et Python, endpoint compatible OpenAI.",
+  "lang": "",
+  "name": "apimart-232ww/wan-3.0-video-api-fr",
+  "node_id": "R_kgDOUj3nLA",
+  "topics": [
+   "ai-video-api",
+   "api-docs",
+   "apimart",
+   "fr",
+   "french",
+   "image-to-video",
+   "openai-compatible",
+   "per-second-pricing",
+   "pricing",
+   "text-to-video",
+   "video-generation-api",
+   "wan-3-0",
+   "wan3-0-video"
+  ]
+ },
+ "1379816438": {
+  "created_at": "2026-09-21T13:40:49Z",
+  "desc": "Seedream 5.0 Pro API \u4e2d\u6587\u6587\u6863\uff1a\u6a21\u578b ID\u3001\u6bcf\u5f20 $0.0146\uff081K-layer\uff09 \u8ba1\u8d39\u3001\u56fe\u50cf\u53c2\u6570\u4e0e\u8c03\u7528\u793a\u4f8b\uff0c\u542b curl / Python \u4ee3\u7801\u4e0e OpenAI \u517c\u5bb9\u63a5\u53e3\u8bf4\u660e\u3002",
+  "lang": "",
+  "name": "apimart-ww1/seedream-5-api-cn",
+  "node_id": "R_kgDOUj5T9g",
+  "topics": [
+   "ai-image-api",
+   "api-docs",
+   "apimart",
+   "chinese",
+   "image-generation",
+   "image-prompts",
+   "openai-compatible",
+   "pricing",
+   "seedream-5-0-pro",
+   "text-to-image",
+   "zh-cn"
+  ]
+ },
+ "1379816520": {
+  "created_at": "2026-09-21T13:40:51Z",
+  "desc": "\u968f\u4fbf\u7ed9\u5b83\u4e00\u4e2a\u89c6\u9891\uff0c\u8ba9\u5b83\u590d\u523b\u6210\u81ea\u5df1\u60f3\u8981\u7684\u5546\u54c1\u548c\u6548\u679c\uff0c\u5b83\u81ea\u5df1\u641e\u5b9a\u4e00\u5207\u3002 hypit\u8981\u4f60\u5b89\u88c510g \u5404\u79cd\u5404\u6837\u5947\u602a\u4e1c\u897f\uff0c\u6548\u679c\u4e00\u822c\u3002\u800c\u4f60\u770b\u770b\u6211\u7684\uff0c\u4f60\u731c\u6211\u5728\u5e72\u561b\uff0c\u90a3\u4e2ahypit\u6839\u672c\u4e0d\u884c\uff0c\u6211\u81ea\u5df1\u5f00\u53d1\u4e00\u4e2ahypit\uff0c  \u4ea7\u51fa\u540c\u6b3e/\u540c\u7ed3\u6784\u7684\u65b0\u89c6\u9891\u7528\u4e8e\u81ea\u5df1\u7684\u5185\u5bb9\uff0c\u5e76\u4e14\u8fc7\u7a0b\u53ef\u63a7\u3001\u53ef\u6539\u3002",
+  "lang": "Python",
+  "name": "liangdabiao/video-clone-lite",
+  "node_id": "R_kgDOUj5USA",
+  "topics": []
+ },
+ "1379825889": {
+  "created_at": "2026-09-21T13:45:58Z",
+  "desc": "Nano Banana 2 API \u306e\u65e5\u672c\u8a9e\u30ac\u30a4\u30c9\uff1a\u30e2\u30c7\u30eb ID\u30011\u679a\u3042\u305f\u308a $0.015 \u306e\u6599\u91d1\u3001\u30d1\u30e9\u30e1\u30fc\u30bf\u4e00\u89a7\u3001curl\u30fbPython \u306e\u5b9f\u884c\u4f8b\u3068 OpenAI \u4e92\u63db\u30a8\u30f3\u30c9\u30dd\u30a4\u30f3\u30c8\u306e\u89e3\u8aac\u3002",
+  "lang": "",
+  "name": "apimart-988/nano-banana-2-api-ja",
+  "node_id": "R_kgDOUj544Q",
+  "topics": [
+   "ai-image-api",
+   "api-docs",
+   "apimart",
+   "gemini-3-1-flash-image-preview",
+   "image-generation",
+   "image-prompts",
+   "ja",
+   "japanese",
+   "nano-banana-2",
+   "nano-banana-3-api",
+   "openai-compatible",
+   "pricing",
+   "text-to-image"
+  ]
+ },
+ "1379828654": {
+  "created_at": "2026-09-21T13:47:27Z",
+  "desc": "Veo 3.1 API \u306e\u65e5\u672c\u8a9e\u30ac\u30a4\u30c9\uff1a\u30e2\u30c7\u30eb ID\u30011\u56de\u3042\u305f\u308a $0.07 (lite) \u306e\u6599\u91d1\u3001\u30d1\u30e9\u30e1\u30fc\u30bf\u4e00\u89a7\u3001curl\u30fbPython \u306e\u5b9f\u884c\u4f8b\u3068 OpenAI \u4e92\u63db\u30a8\u30f3\u30c9\u30dd\u30a4\u30f3\u30c8\u306e\u89e3\u8aac\u3002",
+  "lang": "",
+  "name": "apimart-13e42/veo-3.1-api-ja",
+  "node_id": "R_kgDOUj6Drg",
+  "topics": [
+   "ai-video-api",
+   "api-docs",
+   "apimart",
+   "image-to-video",
+   "ja",
+   "japanese",
+   "openai-compatible",
+   "per-second-pricing",
+   "pricing",
+   "text-to-video",
+   "veo-3-1",
+   "veo3-1-lite",
+   "video-generation-api"
+  ]
+ },
+ "1379830980": {
+  "created_at": "2026-09-21T13:48:41Z",
+  "desc": "Z-Image Turbo API \ud55c\uad6d\uc5b4 \uac00\uc774\ub4dc: \ubaa8\ub378 ID, \uc7a5\ub2f9 $0.01 \uc694\uae08, \ud30c\ub77c\ubbf8\ud130, cURL\u00b7Python \uc608\uc81c\uc640 OpenAI \ud638\ud658 \uc5d4\ub4dc\ud3ec\uc778\ud2b8 \uc124\uba85.",
+  "lang": "",
+  "name": "apimart-1123/z-image-api-ko",
+  "node_id": "R_kgDOUj6MxA",
+  "topics": [
+   "ai-image-api",
+   "api-docs",
+   "apimart",
+   "image-generation",
+   "image-prompts",
+   "ko",
+   "korean",
+   "openai-compatible",
+   "pricing",
+   "text-to-image",
+   "z-image-turbo"
+  ]
+ },
+ "1379858932": {
+  "created_at": "2026-09-21T14:02:43Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "hunkim/solar-mini4-jev",
+  "node_id": "R_kgDOUj759A",
+  "topics": []
  },
  "1379861765": {
   "created_at": "2026-09-21T14:04:11Z",
@@ -360479,7 +361355,18 @@
   "lang": "Python",
   "name": "jev-chat/jev-chat-windows",
   "node_id": "R_kgDOUkANWQ",
-  "topics": []
+  "topics": [
+   "chat-assistant",
+   "jev",
+   "llm",
+   "local-first",
+   "ocr",
+   "privacy",
+   "pyqt",
+   "python",
+   "wechat",
+   "windows"
+  ]
  },
  "1379986944": {
   "created_at": "2026-09-21T15:07:55Z",
@@ -360513,6 +361400,14 @@
    "xai"
   ]
  },
+ "1380219642": {
+  "created_at": "2026-09-21T17:25:54Z",
+  "desc": "A lightweight, native Swift 6 bridge integrating TypeSafe AI's Jev System One decision model into Apple's Foundation Models framework.",
+  "lang": "Swift",
+  "name": "peterfriese/jev-foundation-models",
+  "node_id": "R_kgDOUkR6-g",
+  "topics": []
+ },
  "1380270430": {
   "created_at": "2026-09-21T17:56:59Z",
   "desc": "Firecrawl API examples in Python: scrape one URL, map then batch scrape, start a crawl and poll its status.",
@@ -360526,6 +361421,18 @@
    "firecrawl-api",
    "firecrawl-api-github",
    "web-scraping"
+  ]
+ },
+ "1380286908": {
+  "created_at": "2026-09-21T18:07:22Z",
+  "desc": "Turn token activity into compute. A compute-access protocol designed for Robinhood Chain: protocol fees fund GPU capacity for token holders.",
+  "lang": "JavaScript",
+  "name": "hazelpe/ComptyAI",
+  "node_id": "R_kgDOUkWBvA",
+  "topics": [
+   "ai",
+   "ai-agent",
+   "ai-coding"
   ]
  },
  "1380291359": {
@@ -360570,6 +361477,22 @@
    "scientific-writing"
   ]
  },
+ "1380635125": {
+  "created_at": "2026-09-21T23:14:02Z",
+  "desc": "Async-first agent harness",
+  "lang": "Go",
+  "name": "unreallabsai/unreal-agent",
+  "node_id": "R_kgDOUkrR9Q",
+  "topics": []
+ },
+ "1380647931": {
+  "created_at": "2026-09-21T23:34:47Z",
+  "desc": "One-menu RTX 5090 setup for non-Swift Huihui Qwen3.8-27B NVFP4 with Cinference, MTP-10 and K8V4.",
+  "lang": "Shell",
+  "name": "satellitedown/fast-long-context-cinference",
+  "node_id": "R_kgDOUksD-w",
+  "topics": []
+ },
  "1380653730": {
   "created_at": "2026-09-21T23:44:19Z",
   "desc": "Jev-style structured decisions on DiffusionGemma: the example server from vLLM PR 57250",
@@ -360578,13 +361501,71 @@
   "node_id": "R_kgDOUksaog",
   "topics": []
  },
+ "1380683591": {
+  "created_at": "2026-09-22T00:33:54Z",
+  "desc": "Live SEO audit for any website from one homepage URL, judged by Jev. PDF, XLSX and Markdown reports.",
+  "lang": "Python",
+  "name": "AgriciDaniel/jev-seo",
+  "node_id": "R_kgDOUkuPRw",
+  "topics": []
+ },
+ "1380712325": {
+  "created_at": "2026-09-22T01:17:53Z",
+  "desc": "MiMo-V2.6-Flash-RL on 2x NVIDIA DGX Spark (GB10): vLLM TP2 + DFlash + vision/audio, fp8 KV 300K, four fixes for the stock image, measured baselines",
+  "lang": "Python",
+  "name": "tonyd2wild/MiMo-V2.6-Flash-DGX-Spark-Recipe",
+  "node_id": "R_kgDOUkv_hQ",
+  "topics": []
+ },
+ "1380739864": {
+  "created_at": "2026-09-22T01:53:56Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "JunMa11/MedJev",
+  "node_id": "R_kgDOUkxrGA",
+  "topics": []
+ },
+ "1380762959": {
+  "created_at": "2026-09-22T02:22:54Z",
+  "desc": "805 verified examples of Jev \u2014 TypeSafe AI's System One decision model \u2014 indexed by the decision each one makes, not the blog that mentioned it. Every cited call site is re-read by CI each week. Bilingual EN/\u4e2d\u6587, JSON schema, and a cross-platform compatibility table.",
+  "lang": "Python",
+  "name": "kydlikebtc/awesome-jev",
+  "node_id": "R_kgDOUkzFTw",
+  "topics": [
+   "agent-tools",
+   "ai-agents",
+   "awesome",
+   "awesome-list",
+   "calibration",
+   "catalog",
+   "classification",
+   "context-compaction",
+   "decision-model",
+   "intent-routing",
+   "jev",
+   "llm",
+   "system-one",
+   "tool-selection",
+   "typesafe-ai"
+  ]
+ },
  "1380797051": {
   "created_at": "2026-09-22T03:01:05Z",
-  "desc": "",
+  "desc": "An Agent Skill for building interactive, self-assembling 3D architecture with Three.js.  \u4e00\u4e2a\u7528 Three.js \u751f\u6210\u53ef\u4ea4\u4e92\u3001\u53ef\u52a8\u6001\u5efa\u9020 3D \u5efa\u7b51\u7684 Agent Skill\u3002",
   "lang": "TypeScript",
   "name": "lhlGitHub/threejs-architecture-effects",
   "node_id": "R_kgDOUk1Kew",
   "topics": []
+ },
+ "1380866691": {
+  "created_at": "2026-09-22T04:20:28Z",
+  "desc": "A local AI gateway for AI agents, unifying your subscriptions and API providers with smart routing and on-device privacy protection.",
+  "lang": "Go",
+  "name": "Calcium-Ion/AstrLink",
+  "node_id": "R_kgDOUk5agw",
+  "topics": [
+   "ai-gateway"
+  ]
  },
  "1380873040": {
   "created_at": "2026-09-22T04:28:47Z",
@@ -360593,6 +361574,98 @@
   "name": "yibie/jev-engineering-zh",
   "node_id": "R_kgDOUk5zUA",
   "topics": []
+ },
+ "1380873237": {
+  "created_at": "2026-09-22T04:28:59Z",
+  "desc": "Personal or team knowledge base, supports MCP API calls.",
+  "lang": "Python",
+  "name": "rgem227/knoweldge-base",
+  "node_id": "R_kgDOUk50FQ",
+  "topics": []
+ },
+ "1380920195": {
+  "created_at": "2026-09-22T05:26:11Z",
+  "desc": "\u8de8\u5e73\u53f0 AI \u7f16\u7a0b\u52a9\u624b\u7528\u91cf\u76d1\u63a7\u684c\u9762\u5e94\u7528\uff0c\u7edf\u4e00\u67e5\u770b Claude\u3001Codex \u7b49\u5e73\u53f0\u7684\u989d\u5ea6\u3001Token\u3001\u8d39\u7528\u4e0e\u8bf7\u6c42\u8bb0\u5f55\u3002",
+  "lang": "Rust",
+  "name": "haishishushu/cc-usage",
+  "node_id": "R_kgDOUk8rgw",
+  "topics": []
+ },
+ "1381222319": {
+  "created_at": "2026-09-22T09:45:55Z",
+  "desc": "Permutation Invariant Jev",
+  "lang": "Python",
+  "name": "TypeLLM/pijev",
+  "node_id": "R_kgDOUlPHrw",
+  "topics": [
+   "jev",
+   "llm"
+  ]
+ },
+ "1381229689": {
+  "created_at": "2026-09-22T09:51:33Z",
+  "desc": "Native, non-invasive parallel multi-account & sandbox manager for Google Antigravity",
+  "lang": "Python",
+  "name": "edison-land/paragravity",
+  "node_id": "R_kgDOUlPkeQ",
+  "topics": []
+ },
+ "1381267308": {
+  "created_at": "2026-09-22T10:20:21Z",
+  "desc": "Provider-neutral System One runtime for TypeScript and Pi",
+  "lang": "TypeScript",
+  "name": "iamaamir/system-one",
+  "node_id": "R_kgDOUlR3bA",
+  "topics": [
+   "calibrated-classification",
+   "choice-noul-score",
+   "decision-models",
+   "jev",
+   "model-routing",
+   "pi-coding-agent",
+   "provider-neutral",
+   "reflex",
+   "system-one",
+   "typesafe",
+   "typescript"
+  ]
+ },
+ "1381311478": {
+  "created_at": "2026-09-22T10:51:09Z",
+  "desc": "MiMo-V2.6-Flash for 2x DGX Sparks",
+  "lang": "Python",
+  "name": "MiaAI-Lab/MiMo-V2.6-Flash-2x-DGX-Sparks",
+  "node_id": "R_kgDOUlUj9g",
+  "topics": []
+ },
+ "1381319800": {
+  "created_at": "2026-09-22T10:56:47Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "hqman/jev-browser-skill",
+  "node_id": "R_kgDOUlVEeA",
+  "topics": []
+ },
+ "1381356320": {
+  "created_at": "2026-09-22T11:20:47Z",
+  "desc": "Hand-drawn art and animation, written as code. Illustrations, loops, stickers and scored films in nine styles, identical on every render.",
+  "lang": "TypeScript",
+  "name": "alexgreensh/anidoodle",
+  "node_id": "R_kgDOUlXTIA",
+  "topics": [
+   "agent-skills",
+   "animation",
+   "canvas",
+   "claude-code",
+   "claude-skills",
+   "creative-coding",
+   "deterministic",
+   "generative-art",
+   "hand-drawn",
+   "illustration",
+   "procedural-generation",
+   "skill"
+  ]
  },
  "138141023": {
   "created_at": "2018-06-21T08:20:41Z",
@@ -360609,6 +361682,86 @@
    "machine-learning",
    "neural-networks"
   ]
+ },
+ "1381412852": {
+  "created_at": "2026-09-22T11:56:05Z",
+  "desc": "mu (\u03bc): a coding agent that thinks before it acts. A small, fast judge makes the routine calls, the big model does the work. Built on pi and AionUi.",
+  "lang": "TypeScript",
+  "name": "qybaihe/mu",
+  "node_id": "R_kgDOUlav9A",
+  "topics": []
+ },
+ "1381675602": {
+  "created_at": "2026-09-22T14:10:07Z",
+  "desc": "Adaptive reasoning effort for GPT-6 Astra during Codex tasks, powered by Jev to reduce token usage.",
+  "lang": "JavaScript",
+  "name": "miuuyy/Astra-Ares",
+  "node_id": "R_kgDOUlqyUg",
+  "topics": []
+ },
+ "1381916762": {
+  "created_at": "2026-09-22T16:19:25Z",
+  "desc": "A chain for agents, on BNB Smart Chain. Genesis carries three system contracts and three neutral tools \u2014 Multicall3, a CREATE2 deployer and Wrapped BAC. Every token, pool and market beyond that is deployed by an agent. Agents never sleep, so they find each other's contracts in seconds. Pre-launch: nothing is deployed.",
+  "lang": "JavaScript",
+  "name": "BnbAgentChainL2/bnb-agent-chain",
+  "node_id": "R_kgDOUl5gWg",
+  "topics": [
+   "a2a",
+   "ai-agents",
+   "besu",
+   "blockchain",
+   "bnb-chain",
+   "erc-8004",
+   "ethereum",
+   "foundry",
+   "qbft",
+   "solidity"
+  ]
+ },
+ "1382304020": {
+  "created_at": "2026-09-22T20:14:59Z",
+  "desc": "Procedural risograph films in single HTML files (Window Seat, Roost and more), with the Claude Code skills, docs and tools to make your own.",
+  "lang": "HTML",
+  "name": "sevenevesai/riso-windowseat",
+  "node_id": "R_kgDOUmRJFA",
+  "topics": [
+   "canvas",
+   "claude-code",
+   "generative-art",
+   "procedural-animation",
+   "risograph"
+  ]
+ },
+ "1382467199": {
+  "created_at": "2026-09-22T23:32:19Z",
+  "desc": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+  "lang": "JavaScript",
+  "name": "JohnHeibel/PDoomVideo",
+  "node_id": "R_kgDOUmbGfw",
+  "topics": []
+ },
+ "1382790500": {
+  "created_at": "2026-09-23T05:08:49Z",
+  "desc": "A self-hosted API and web interface for Laya\u2019s structured decision models, compatible with the TypeSafe Jev API format.",
+  "lang": "TypeScript",
+  "name": "1Panel-dev/laya-server",
+  "node_id": "R_kgDOUmu1ZA",
+  "topics": [
+   "decision-model",
+   "jev",
+   "jev-ai",
+   "jev-api",
+   "laya",
+   "typesafe"
+  ]
+ },
+ "1382888848": {
+  "created_at": "2026-09-23T06:31:00Z",
+  "desc": "claude-opus-5-5-demo",
+  "lang": "JavaScript",
+  "name": "riba2534/claude-opus-5-5-demo",
+  "node_id": "R_kgDOUm01kA",
+  "topics": []
  },
  "138552196": {
   "created_at": "2018-06-25T06:26:16Z",
