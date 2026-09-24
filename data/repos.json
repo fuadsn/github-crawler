@@ -355658,7 +355658,7 @@
  },
  "1373977947": {
   "created_at": "2026-09-17T05:23:34Z",
-  "desc": "An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model. ",
+  "desc": "An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model and open weight models like laya ",
   "lang": "Go",
   "name": "itsmostafa/typesafe-mcp",
   "node_id": "R_kgDOUeU9Ww",
@@ -356593,6 +356593,14 @@
   "node_id": "R_kgDOUe_qNQ",
   "topics": []
  },
+ "1374678037": {
+  "created_at": "2026-09-17T15:49:13Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "mizchi/jev-playground",
+  "node_id": "R_kgDOUe_sFQ",
+  "topics": []
+ },
  "1374683168": {
   "created_at": "2026-09-17T15:53:17Z",
   "desc": "",
@@ -356832,7 +356840,7 @@
   "node_id": "R_kgDOUfShoQ",
   "topics": [
    "ai-tutor",
-   "deepseek",
+   "dsh-plugin",
    "education",
    "learning-agents",
    "self-directed-learning",
@@ -357047,6 +357055,14 @@
    "system-one-models",
    "typesafe"
   ]
+ },
+ "1375123435": {
+  "created_at": "2026-09-17T22:08:39Z",
+  "desc": "",
+  "lang": "JavaScript",
+  "name": "tubban1/fly-eye",
+  "node_id": "R_kgDOUfa36w",
+  "topics": []
  },
  "1375133671": {
   "created_at": "2026-09-17T22:25:59Z",
@@ -357550,6 +357566,20 @@
   "node_id": "R_kgDOUfwHfA",
   "topics": []
  },
+ "1375472981": {
+  "created_at": "2026-09-18T06:32:00Z",
+  "desc": "Source-linked collection of published AI model benchmark scores.",
+  "lang": "JavaScript",
+  "name": "SYuan03/benchboard",
+  "node_id": "R_kgDOUfwNVQ",
+  "topics": [
+   "agents",
+   "ai-benchmarks",
+   "leaderboard",
+   "llm",
+   "multimodal"
+  ]
+ },
  "1375473949": {
   "created_at": "2026-09-18T06:33:02Z",
   "desc": "Jev / TypeSafe System One \u4e2d\u6587\u7cbe\u9009\u5217\u8868\uff1a\u5b98\u65b9\u8d44\u6599\u3001SDK\u3001\u7206\u6b3e\u5e94\u7528\u3001Agent \u5de5\u5177\u3001\u5f00\u6e90\u590d\u73b0\u4e0e\u72ec\u7acb\u8bc4\u6d4b\uff0c\u9644\u4e2d\u6587\u4e0a\u624b\u6307\u5357\uff0c\u6bcf\u65e5\u81ea\u52a8\u6536\u5f55 GitHub \u70ed\u95e8\u9879\u76ee\u3002",
@@ -357601,6 +357631,14 @@
   "lang": "Python",
   "name": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
   "node_id": "R_kgDOUfxEpQ",
+  "topics": []
+ },
+ "1375491403": {
+  "created_at": "2026-09-18T06:50:08Z",
+  "desc": "Real-time webcam understanding with Nebius Token Factory vision models. Streaming, no dependencies, no build step.",
+  "lang": "JavaScript",
+  "name": "Arindam200/nebius-realtime-webcam",
+  "node_id": "R_kgDOUfxVSw",
   "topics": []
  },
  "1375500090": {
@@ -357698,6 +357736,14 @@
    "writing-templates"
   ]
  },
+ "1375624904": {
+  "created_at": "2026-09-18T09:01:04Z",
+  "desc": "",
+  "lang": "Rust",
+  "name": "DouDOU-start/codex-state-kit",
+  "node_id": "R_kgDOUf5eyA",
+  "topics": []
+ },
  "1375626577": {
   "created_at": "2026-09-18T09:02:44Z",
   "desc": "\u5c1d\u8bd5\u6539\u5584 Codex \u964d\u667a\u3001\u9650\u6d41\u4e0e\u8fde\u63a5\u4f53\u9a8c\u3002\u672c\u5730\u4e00\u952e\u542f\u52a8\u3001\u7f51\u9875\u914d\u7f6e\u4fee\u590d\uff0c\u652f\u6301 Astra / Sol / Terra\u3001\u8ba2\u9605\u548c\u4ee3\u7406\uff1b\u4e0d\u4fdd\u8bc1\u53d6\u5f97\u6307\u5b9a state \u6216\u63d0\u5347\u6a21\u578b\u8d28\u91cf\u3002",
@@ -357765,6 +357811,17 @@
   "name": "EliaAlberti/jev-rules",
   "node_id": "R_kgDOUf6ijw",
   "topics": []
+ },
+ "1375645197": {
+  "created_at": "2026-09-18T09:21:33Z",
+  "desc": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
+  "lang": "HTML",
+  "name": "Tongyi-MAI/Qwen-Planner-Agent",
+  "node_id": "R_kgDOUf6uDQ",
+  "topics": [
+   "agents",
+   "llm"
+  ]
  },
  "1375646723": {
   "created_at": "2026-09-18T09:23:11Z",
@@ -357902,6 +357959,21 @@
    "web-design"
   ]
  },
+ "1375750028": {
+  "created_at": "2026-09-18T11:11:25Z",
+  "desc": "grep, but the pattern is a description. Filters lines by meaning with TypeSafe's Jev decision model: ~200 ms and a thousandth of a cent per line.",
+  "lang": "Python",
+  "name": "keltokhy/jgrep",
+  "node_id": "R_kgDOUgBHjA",
+  "topics": [
+   "cli",
+   "grep",
+   "jev",
+   "openrouter",
+   "semantic-search",
+   "typesafe"
+  ]
+ },
  "1375761817": {
   "created_at": "2026-09-18T11:22:25Z",
   "desc": "A decision cache for TypeSafe Jev-class models \u2014 memoize decisions so repeats are free, deterministic, and shareable. One 2 MB binary.",
@@ -357915,6 +357987,27 @@
    "memoization",
    "rust",
    "typesafe"
+  ]
+ },
+ "1375795989": {
+  "created_at": "2026-09-18T11:53:09Z",
+  "desc": "Detect breaking changes between OpenAPI 3.0/3.1 specs. Explainable Web UI, CLI and CI gate; local-first and deterministic, with optional AI summaries.",
+  "lang": "TypeScript",
+  "name": "mingxian233/ContractGuard",
+  "node_id": "R_kgDOUgD7FQ",
+  "topics": [
+   "api-diff",
+   "api-governance",
+   "backward-compatibility",
+   "breaking-changes",
+   "ci-cd",
+   "contract-testing",
+   "developer-tools",
+   "openapi",
+   "openapi3",
+   "openapi31",
+   "typescript",
+   "vue"
   ]
  },
  "1375815381": {
@@ -358065,6 +358158,19 @@
   "name": "mmastrac/djev-spark",
   "node_id": "R_kgDOUgUr_w",
   "topics": []
+ },
+ "1376088894": {
+  "created_at": "2026-09-18T15:48:48Z",
+  "desc": "Harness/code for DrivingBench v1, which allows frontier LLMs to control cars via Comma/openpilot + MCP tools.",
+  "lang": "Python",
+  "name": "aditya-ramabadran/drivingbench_harness_v1",
+  "node_id": "R_kgDOUgVzPg",
+  "topics": [
+   "ai",
+   "cars",
+   "comma",
+   "llm"
+  ]
  },
  "1376120645": {
   "created_at": "2026-09-18T16:14:19Z",
@@ -358231,7 +358337,7 @@
  "1376246046": {
   "created_at": "2026-09-18T17:58:39Z",
   "desc": "",
-  "lang": "Python",
+  "lang": "",
   "name": "ackyer/job-search-agent-template",
   "node_id": "R_kgDOUgfZHg",
   "topics": []
@@ -358638,6 +358744,22 @@
   "node_id": "R_kgDOUg5XSw",
   "topics": []
  },
+ "1376677047": {
+  "created_at": "2026-09-19T03:26:02Z",
+  "desc": "Source-linked examples of AI models used for 3D modeling, industrial design and CAD, and robot control, with archived media and the model named for every case",
+  "lang": "",
+  "name": "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+  "node_id": "R_kgDOUg5stw",
+  "topics": [
+   "3d-modeling",
+   "ai-for-design",
+   "awesome-list",
+   "cad",
+   "computational-design",
+   "llm",
+   "robotics"
+  ]
+ },
  "1376679491": {
   "created_at": "2026-09-19T03:29:37Z",
   "desc": "Trace your home's floor plans and place your real devices on them \u2014 physical/spatial context for Home Assistant. Work in progress \u2014 issues and ideas welcome.",
@@ -358703,6 +358825,14 @@
    "questions-and-answers"
   ]
  },
+ "1376721952": {
+  "created_at": "2026-09-19T04:24:17Z",
+  "desc": "grep for what code does, not what it's called. Semantic code search powered by TypeSafe Jev.",
+  "lang": "TypeScript",
+  "name": "kyu1204/jgrep",
+  "node_id": "R_kgDOUg8cIA",
+  "topics": []
+ },
  "1376724026": {
   "created_at": "2026-09-19T04:26:59Z",
   "desc": "The invalidation layer for AI memory. Every fact gets a lease; new evidence ends it. Built on TypeSafe Jev.",
@@ -358713,7 +358843,7 @@
  },
  "1376757283": {
   "created_at": "2026-09-19T05:14:36Z",
-  "desc": "A verified, community-maintained catalog of 832 open-source projects built with Jev.",
+  "desc": "A verified, community-maintained catalog of 896 open-source projects built with Jev.",
   "lang": "Astro",
   "name": "heyjunpenn/awesome-jev",
   "node_id": "R_kgDOUg-mIw",
@@ -358758,6 +358888,14 @@
    "pillow",
    "python"
   ]
+ },
+ "1376779168": {
+  "created_at": "2026-09-19T05:44:41Z",
+  "desc": "An open training and inference stack for Jev-style decision models.  Train models to score dynamic candidate branches from a shared prefix, with support for high-cardinality choice, calibration, and fast batched inference.",
+  "lang": "Python",
+  "name": "zwliJay/jev-forge",
+  "node_id": "R_kgDOUg_7oA",
+  "topics": []
  },
  "1376790274": {
   "created_at": "2026-09-19T05:58:34Z",
@@ -359066,7 +359204,7 @@
  },
  "1377047791": {
   "created_at": "2026-09-19T10:59:33Z",
-  "desc": "Adapt local language models into Jev-compatible structured decision engines with Choice, Score, and Noul outputs   powered by prefill-only binary inference.",
+  "desc": "Turn local language models into Jev-style structured decision models. Get results from text and images with prefill alone\u2014no token-by-token decoding required.",
   "lang": "Python",
   "name": "Yinsongxu/LLM2Jev",
   "node_id": "R_kgDOUhQU7w",
@@ -359284,6 +359422,14 @@
   "lang": "Python",
   "name": "r33drichards/laya-vision",
   "node_id": "R_kgDOUhfueQ",
+  "topics": []
+ },
+ "1377318049": {
+  "created_at": "2026-09-19T15:30:33Z",
+  "desc": "Everything you need to run TypeSafe's Jev with Claude Code: a tool-call guard, tier guard, file search, browser agent, review, belay, compaction and installers.",
+  "lang": "Python",
+  "name": "jonathanavis96/jev-kit",
+  "node_id": "R_kgDOUhg0oQ",
   "topics": []
  },
  "1377318357": {
@@ -359667,6 +359813,14 @@
    "typed-decisions"
   ]
  },
+ "1377725938": {
+  "created_at": "2026-09-20T00:08:23Z",
+  "desc": "OpenJev: Open-source alternative to TypeSafe Jev. Typed probabilistic decision API (Choice, Noul, Score) powered by open LLMs & constrained logprob calibration.",
+  "lang": "HTML",
+  "name": "zhangcy122/OpenJev",
+  "node_id": "R_kgDOUh5t8g",
+  "topics": []
+ },
  "1377737136": {
   "created_at": "2026-09-20T00:27:29Z",
   "desc": "Jev-powered semantic code search for coding agents \u2014 find behavior across repositories via CLI or MCP, with exact source excerpts and line numbers.",
@@ -359688,6 +359842,14 @@
    "typesafeai",
    "typescript"
   ]
+ },
+ "1377750369": {
+  "created_at": "2026-09-20T00:50:12Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "FLock-io/this-that-model",
+  "node_id": "R_kgDOUh7NYQ",
+  "topics": []
  },
  "1377753108": {
   "created_at": "2026-09-20T00:54:00Z",
@@ -359793,6 +359955,22 @@
   "lang": "Python",
   "name": "FBddcz/embodied-jev",
   "node_id": "R_kgDOUiCbKw",
+  "topics": []
+ },
+ "1377874334": {
+  "created_at": "2026-09-20T03:45:35Z",
+  "desc": "Capability extraction from Time Travel Debugging Traces with C++ Implementation of CAPA that supports code scanning",
+  "lang": "C++",
+  "name": "HullaBrian/ttd-capa-cpp",
+  "node_id": "R_kgDOUiCxng",
+  "topics": []
+ },
+ "1377884826": {
+  "created_at": "2026-09-20T03:59:03Z",
+  "desc": "",
+  "lang": "HTML",
+  "name": "taeold/djev-run",
+  "node_id": "R_kgDOUiDamg",
   "topics": []
  },
  "137789266": {
@@ -359901,11 +360079,18 @@
  },
  "1377960577": {
   "created_at": "2026-09-20T05:33:22Z",
-  "desc": "\u4e0d\u9732\u8138\u5546\u4e1a/\u6d88\u8d39\u8c03\u67e5\u957f\u7247\u7684\u5b8c\u6574\u751f\u4ea7\u6d41\u7a0b\uff1a\u4e00\u53e5\u8bdd\u51fa 10 \u5206\u949f\u6210\u7247\uff0c\u4ee5 Claude Code skill \u5f62\u5f0f\u5f00\u6e90\uff08TTS \u9010\u5b57\u65f6\u95f4\u6233\u3001\u7d20\u6750\u8986\u76d6\u3001Remotion \u62fc\u8d34\u3001\u95ea\u907f\u6df7\u97f3\u3001\u5c01\u9762\u4e0e\u516b\u5e73\u53f0\u6587\u6848\uff09",
+  "desc": "\u4e0d\u9732\u8138\u505a\u89c6\u9891\u8d26\u53f7\u7684 AI skill \u5408\u96c6\uff1a\u8c03\u67e5\u957f\u7247 + \u624b\u7ed8\u767d\u677f\u8bb2\u89e3\u89c6\u9891\uff0c\u4e00\u53e5\u9009\u9898\u51fa\u7247\u3001\u914d\u97f3\u5b57\u5e55\u3001\u5c01\u9762\u4e0e\u5404\u5e73\u53f0\u6587\u6848",
   "lang": "JavaScript",
-  "name": "trustfuture/investigation-video-skill",
+  "name": "trustfuture/simon-skills",
   "node_id": "R_kgDOUiICgQ",
-  "topics": []
+  "topics": [
+   "claude-code",
+   "codex",
+   "excalidraw",
+   "remotion",
+   "skills",
+   "video-generation"
+  ]
  },
  "1377966204": {
   "created_at": "2026-09-20T05:39:47Z",
@@ -359957,7 +360142,11 @@
   "lang": "TypeScript",
   "name": "SiliconLabAI/OpenJev",
   "node_id": "R_kgDOUiNzDA",
-  "topics": []
+  "topics": [
+   "jev",
+   "jev-ai",
+   "open-source"
+  ]
  },
  "1378060456": {
   "created_at": "2026-09-20T07:27:00Z",
@@ -360444,6 +360633,14 @@
   "node_id": "R_kgDOUi1agQ",
   "topics": []
  },
+ "1378705615": {
+  "created_at": "2026-09-20T19:28:30Z",
+  "desc": "A lightweight, Windows-native AI desktop assistant. Focus any app, press Ctrl+Win, and let it click, type, and automate with human-in-the-loop safety.",
+  "lang": "C#",
+  "name": "dushyantzz/Ghosthand",
+  "node_id": "R_kgDOUi1gzw",
+  "topics": []
+ },
  "1378713168": {
   "created_at": "2026-09-20T19:38:26Z",
   "desc": "CLI no oficial de Renfe, pensada tambi\u00e9n para agentes \u2014 horarios y tarifas reales de tren desde la terminal",
@@ -360545,6 +360742,25 @@
   "node_id": "R_kgDOUi8Ebw",
   "topics": []
  },
+ "1378822793": {
+  "created_at": "2026-09-20T22:18:37Z",
+  "desc": "Voice and text control for macOS. One floating bar, live UI action selection with Jev, and a continuous observe\u2013act\u2013verify loop.",
+  "lang": "Swift",
+  "name": "ronadin2002/jev-cua",
+  "node_id": "R_kgDOUi8qiQ",
+  "topics": [
+   "accessibility",
+   "ai-agents",
+   "computer-use",
+   "desktop-automation",
+   "jev",
+   "macos",
+   "openrouter",
+   "speech-recognition",
+   "swift",
+   "voice-control"
+  ]
+ },
  "1378832559": {
   "created_at": "2026-09-20T22:35:35Z",
   "desc": "A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.",
@@ -360552,6 +360768,23 @@
   "name": "maanHimself/OpenDLSS-NR",
   "node_id": "R_kgDOUi9Qrw",
   "topics": []
+ },
+ "1378840073": {
+  "created_at": "2026-09-20T22:48:35Z",
+  "desc": "Every coding agent in one desktop workspace. Run Claude Code, OpenAI Codex, Cursor Agent and Grok side by side. Bring your own CLI. Free during beta. Open source as of 21 September 2026 (MIT).",
+  "lang": "TypeScript",
+  "name": "kerim0x1/bettercode",
+  "node_id": "R_kgDOUi9uCQ",
+  "topics": [
+   "ai-coding-agent",
+   "claude-code",
+   "codex",
+   "cursor",
+   "desktop-app",
+   "developer-tools",
+   "electron",
+   "grok"
+  ]
  },
  "1378861656": {
   "created_at": "2026-09-20T23:26:32Z",
@@ -360726,6 +360959,23 @@
   "node_id": "R_kgDOUjPFng",
   "topics": []
  },
+ "1379133800": {
+  "created_at": "2026-09-21T05:23:34Z",
+  "desc": "Dohnuts builds small multimodal models for direct decisions. -> System One model",
+  "lang": "Python",
+  "name": "PsiACE/dohnuts",
+  "node_id": "R_kgDOUjPpaA",
+  "topics": [
+   "decision-model",
+   "jev",
+   "laya",
+   "llm",
+   "lora",
+   "rlcd",
+   "system-one",
+   "typesafe"
+  ]
+ },
  "1379166549": {
   "created_at": "2026-09-21T05:55:40Z",
   "desc": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
@@ -360801,7 +361051,7 @@
  },
  "1379343596": {
   "created_at": "2026-09-21T08:16:33Z",
-  "desc": "",
+  "desc": "A model for high-frequency mathematical intelligence.",
   "lang": "Python",
   "name": "paradigma-inc/limite-violetto",
   "node_id": "R_kgDOUjcc7A",
@@ -360821,6 +361071,14 @@
   "lang": "Python",
   "name": "TianyuCodings/JevHarness",
   "node_id": "R_kgDOUjf_Nw",
+  "topics": []
+ },
+ "1379508715": {
+  "created_at": "2026-09-21T10:23:52Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "T8mars/Comfyui-Qwen-Image-Prompt-Rewrite-T8",
+  "node_id": "R_kgDOUjmh6w",
   "topics": []
  },
  "1379510327": {
@@ -360867,6 +361125,20 @@
   "name": "localai-org/gem-x.cpp",
   "node_id": "R_kgDOUjpPhw",
   "topics": []
+ },
+ "1379555830": {
+  "created_at": "2026-09-21T10:59:28Z",
+  "desc": "Structural overview of a repository: every non-ignored file as a read-only panel on a zoomable canvas",
+  "lang": "TypeScript",
+  "name": "milanofthe/sanity",
+  "node_id": "R_kgDOUjpZ9g",
+  "topics": [
+   "canvas",
+   "code-review",
+   "editor",
+   "ui",
+   "viewer"
+  ]
  },
  "1379569039": {
   "created_at": "2026-09-21T11:08:48Z",
@@ -360967,7 +361239,7 @@
   "created_at": "2026-09-21T11:29:47Z",
   "desc": "Innovative externally-scored agentic ML benchmark for next evolution of AI \u2014 real competition ground truth, two-submission feedback, attacked rewards",
   "lang": "Python",
-  "name": "wangchen0802/Simreal-MLBench",
+  "name": "Simreal-AI/Simreal-MLBench",
   "node_id": "R_kgDOUjsNMQ",
   "topics": [
    "agentic",
@@ -361195,6 +361467,14 @@
    "text-to-image"
   ]
  },
+ "1379771641": {
+  "created_at": "2026-09-21T13:14:40Z",
+  "desc": "Agent Skill: turn raw app screenshots into App Store and Google Play marketing images, UI pixel-exact",
+  "lang": "HTML",
+  "name": "zaferayan/app-store-screenshot-skill",
+  "node_id": "R_kgDOUj2k-Q",
+  "topics": []
+ },
  "1379788588": {
   "created_at": "2026-09-21T13:24:53Z",
   "desc": "API Wan 3.0 : identifiant de mod\u00e8le, tarif 0.0329 $ par seconde (480P), param\u00e8tres, exemples cURL et Python, endpoint compatible OpenAI.",
@@ -361267,6 +361547,25 @@
    "text-to-image"
   ]
  },
+ "1379826060": {
+  "created_at": "2026-09-21T13:46:04Z",
+  "desc": "Typed-judgment admission control at the traffic edge: three-layer prompt-injection and abuse filter for nginx/OpenResty, powered by TypeSafe Jev. Fail-open, cached, hot-reloadable.",
+  "lang": "Lua",
+  "name": "kiwi0719/jev-edge",
+  "node_id": "R_kgDOUj55jA",
+  "topics": [
+   "api-gateway",
+   "ext-authz",
+   "jev",
+   "llm-security",
+   "lua",
+   "nginx",
+   "openresty",
+   "prompt-injection",
+   "typesafe",
+   "waf"
+  ]
+ },
  "1379828654": {
   "created_at": "2026-09-21T13:47:27Z",
   "desc": "Veo 3.1 API \u306e\u65e5\u672c\u8a9e\u30ac\u30a4\u30c9\uff1a\u30e2\u30c7\u30eb ID\u30011\u56de\u3042\u305f\u308a $0.07 (lite) \u306e\u6599\u91d1\u3001\u30d1\u30e9\u30e1\u30fc\u30bf\u4e00\u89a7\u3001curl\u30fbPython \u306e\u5b9f\u884c\u4f8b\u3068 OpenAI \u4e92\u63db\u30a8\u30f3\u30c9\u30dd\u30a4\u30f3\u30c8\u306e\u89e3\u8aac\u3002",
@@ -361308,6 +361607,14 @@
    "text-to-image",
    "z-image-turbo"
   ]
+ },
+ "1379846945": {
+  "created_at": "2026-09-21T13:56:52Z",
+  "desc": "The first public quant trading benchmark scored against what professional traders actually made on the same asset at the same time. Held-out episodes, deterministic P&L, test your agent against our Xitadel quants.",
+  "lang": "Python",
+  "name": "Simreal-AI/Xitadel-QuantBench",
+  "node_id": "R_kgDOUj7LIQ",
+  "topics": []
  },
  "1379858932": {
   "created_at": "2026-09-21T14:02:43Z",
@@ -361368,6 +361675,14 @@
    "windows"
   ]
  },
+ "1379979985": {
+  "created_at": "2026-09-21T15:04:01Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "Edge0-AI/Audio8-ASR-Infinite",
+  "node_id": "R_kgDOUkDS0Q",
+  "topics": []
+ },
  "1379986944": {
   "created_at": "2026-09-21T15:07:55Z",
   "desc": "A terminal coding agent that plans work as executable graphs",
@@ -361375,6 +361690,20 @@
   "name": "merijjeyn/jive",
   "node_id": "R_kgDOUkDuAA",
   "topics": []
+ },
+ "1380026302": {
+  "created_at": "2026-09-21T15:31:56Z",
+  "desc": "Agent skills from a VC. The workflows I actually use to research companies, find opportunities, and turn conversations into work.",
+  "lang": "",
+  "name": "paulklayvc/skills",
+  "node_id": "R_kgDOUkGHvg",
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "career",
+   "claude-code",
+   "skills"
+  ]
  },
  "1380116460": {
   "created_at": "2026-09-21T16:24:42Z",
@@ -361398,6 +361727,21 @@
    "lauren-ten",
    "spacex",
    "xai"
+  ]
+ },
+ "1380184397": {
+  "created_at": "2026-09-21T17:04:22Z",
+  "desc": "An open source, self-hosted, safety-focused AI workbench",
+  "lang": "Python",
+  "name": "electric-capital/quest",
+  "node_id": "R_kgDOUkPxTQ",
+  "topics": [
+   "ai",
+   "ai-agents",
+   "ai-governance",
+   "ai-security",
+   "harness",
+   "harness-ai"
   ]
  },
  "1380219642": {
@@ -361527,7 +361871,7 @@
  },
  "1380762959": {
   "created_at": "2026-09-22T02:22:54Z",
-  "desc": "805 verified examples of Jev \u2014 TypeSafe AI's System One decision model \u2014 indexed by the decision each one makes, not the blog that mentioned it. Every cited call site is re-read by CI each week. Bilingual EN/\u4e2d\u6587, JSON schema, and a cross-platform compatibility table.",
+  "desc": "1207 verified examples of Jev \u2014 TypeSafe AI's System One decision model \u2014 indexed by the decision each one makes, not the blog that mentioned it. Every cited call site is re-read by CI each week. Bilingual EN/\u4e2d\u6587, JSON schema, and a cross-platform compatibility table.",
   "lang": "Python",
   "name": "kydlikebtc/awesome-jev",
   "node_id": "R_kgDOUkzFTw",
@@ -361556,6 +361900,18 @@
   "name": "lhlGitHub/threejs-architecture-effects",
   "node_id": "R_kgDOUk1Kew",
   "topics": []
+ },
+ "1380828736": {
+  "created_at": "2026-09-22T03:34:02Z",
+  "desc": "DolphinBench - Mapping the Pareto frontier of Agent Memory",
+  "lang": "Python",
+  "name": "mem0ai/dolphinbench",
+  "node_id": "R_kgDOUk3GQA",
+  "topics": [
+   "agent-memory",
+   "ai-agents",
+   "benchmark"
+  ]
  },
  "1380866691": {
   "created_at": "2026-09-22T04:20:28Z",
@@ -361591,6 +361947,67 @@
   "node_id": "R_kgDOUk8rgw",
   "topics": []
  },
+ "1380950524": {
+  "created_at": "2026-09-22T06:00:27Z",
+  "desc": "Intent compiler for AI agents \u2014 converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
+  "lang": "Python",
+  "name": "angel291592/Intent-Router",
+  "node_id": "R_kgDOUk-h_A",
+  "topics": [
+   "agent-skills",
+   "agentic",
+   "ai-agents",
+   "clarification",
+   "claude-code",
+   "codex",
+   "context-engineering",
+   "decision-model",
+   "intent",
+   "llm-routing",
+   "prompt-engineering",
+   "skill",
+   "system-one",
+   "typed-decisions"
+  ]
+ },
+ "1381021210": {
+  "created_at": "2026-09-22T07:04:39Z",
+  "desc": "OpenAI Interview Questions and Answers",
+  "lang": "Python",
+  "name": "Schuture/OpenAI-Interview-Notes",
+  "node_id": "R_kgDOUlC2Gg",
+  "topics": []
+ },
+ "1381077678": {
+  "created_at": "2026-09-22T07:53:20Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "aghub-app/akproxy",
+  "node_id": "R_kgDOUlGSrg",
+  "topics": []
+ },
+ "1381133707": {
+  "created_at": "2026-09-22T08:38:01Z",
+  "desc": "System One compatible API for open decision models, written in Rust.",
+  "lang": "Rust",
+  "name": "alvarobartt/sys1",
+  "node_id": "R_kgDOUlJtiw",
+  "topics": [
+   "decision-model",
+   "huggingface",
+   "jev",
+   "jev-api",
+   "laya"
+  ]
+ },
+ "1381197433": {
+  "created_at": "2026-09-22T09:27:29Z",
+  "desc": "Sasuke desktop",
+  "lang": "Rust",
+  "name": "klauswg/sasuke",
+  "node_id": "R_kgDOUlNmeQ",
+  "topics": []
+ },
  "1381222319": {
   "created_at": "2026-09-22T09:45:55Z",
   "desc": "Permutation Invariant Jev",
@@ -361608,7 +362025,18 @@
   "lang": "Python",
   "name": "edison-land/paragravity",
   "node_id": "R_kgDOUlPkeQ",
-  "topics": []
+  "topics": [
+   "ai-coding",
+   "antigravity",
+   "cli",
+   "developer-tools",
+   "gemini-pro",
+   "google-antigravity",
+   "macos",
+   "multi-account",
+   "sandbox",
+   "windows"
+  ]
  },
  "1381267308": {
   "created_at": "2026-09-22T10:20:21Z",
@@ -361691,12 +362119,46 @@
   "node_id": "R_kgDOUlav9A",
   "topics": []
  },
+ "1381442482": {
+  "created_at": "2026-09-22T12:12:06Z",
+  "desc": "Jev-native probability tree and graph runtime for verifiable multi-step decision making.",
+  "lang": "Python",
+  "name": "Chuf-H/jev-tree",
+  "node_id": "R_kgDOUlcjsg",
+  "topics": []
+ },
  "1381675602": {
   "created_at": "2026-09-22T14:10:07Z",
-  "desc": "Adaptive reasoning effort for GPT-6 Astra during Codex tasks, powered by Jev to reduce token usage.",
+  "desc": "Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.",
   "lang": "JavaScript",
   "name": "miuuyy/Astra-Ares",
   "node_id": "R_kgDOUlqyUg",
+  "topics": []
+ },
+ "1381765937": {
+  "created_at": "2026-09-22T14:58:40Z",
+  "desc": "JevK5: open-weight alternative to TypeSafe Jev. Typed decisions with probabilities in one forward pass; Apache-2.0 weights and code.",
+  "lang": "Python",
+  "name": "allebee/jevk5",
+  "node_id": "R_kgDOUlwTMQ",
+  "topics": [
+   "calibration",
+   "decision-model",
+   "jev",
+   "jev-alternative",
+   "jevbench",
+   "lora",
+   "qwen",
+   "system-one",
+   "typed-decisions"
+  ]
+ },
+ "1381797319": {
+  "created_at": "2026-09-22T15:15:26Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "sc2musa/Jev_Star",
+  "node_id": "R_kgDOUlyNxw",
   "topics": []
  },
  "1381916762": {
@@ -361718,6 +362180,59 @@
    "solidity"
   ]
  },
+ "1381956661": {
+  "created_at": "2026-09-22T16:42:42Z",
+  "desc": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+  "lang": "Python",
+  "name": "ThinkFlowLab/system1-agents",
+  "node_id": "R_kgDOUl78NQ",
+  "topics": [
+   "ai-agents",
+   "browser-agent",
+   "browser-automation",
+   "claude-code-plugin",
+   "computer-use",
+   "cua",
+   "decision-model",
+   "jev",
+   "laya",
+   "mcp-server",
+   "openjiuwen",
+   "system-one"
+  ]
+ },
+ "1382033817": {
+  "created_at": "2026-09-22T17:26:07Z",
+  "desc": "Official code for LensVLM: Selective Context Expansion for Compressed Visual Representation of Text.",
+  "lang": "Python",
+  "name": "apple-aiml-research/ml-lensvlm",
+  "node_id": "R_kgDOUmApmQ",
+  "topics": []
+ },
+ "1382208792": {
+  "created_at": "2026-09-22T19:10:37Z",
+  "desc": "Claude Opus 5.5 system prompt leak split into readable components (tools, behavior, agentic rules, memory). Reorganized from a public extract for study.",
+  "lang": "",
+  "name": "cbrunner/opus-5.5-system-prompt-components",
+  "node_id": "R_kgDOUmLVGA",
+  "topics": []
+ },
+ "1382268161": {
+  "created_at": "2026-09-22T19:48:07Z",
+  "desc": "100 self-contained HTML pages made with Claude Opus 5.5 \u2014 gallery with screenshots and the exact prompts",
+  "lang": "HTML",
+  "name": "MiaAI-Lab/Claude-Opus-5.5-100-HTML-Files",
+  "node_id": "R_kgDOUmO9AQ",
+  "topics": []
+ },
+ "1382299104": {
+  "created_at": "2026-09-22T20:10:49Z",
+  "desc": "Yard Sale Gold \u2014 AI-powered yard sale scanner built with React and Cloudflare Workers",
+  "lang": "TypeScript",
+  "name": "wesbos/yard-sale",
+  "node_id": "R_kgDOUmQ14A",
+  "topics": []
+ },
  "1382304020": {
   "created_at": "2026-09-22T20:14:59Z",
   "desc": "Procedural risograph films in single HTML files (Window Seat, Roost and more), with the Claude Code skills, docs and tools to make your own.",
@@ -361732,12 +362247,114 @@
    "risograph"
   ]
  },
+ "1382348446": {
+  "created_at": "2026-09-22T20:55:03Z",
+  "desc": "Four decision-quality tools on Jev (TypeSafe System One): Jev answers structured questions, deterministic code keeps the final say.",
+  "lang": "Java",
+  "name": "klauswg/jev-suite",
+  "node_id": "R_kgDOUmT2ng",
+  "topics": []
+ },
+ "1382402344": {
+  "created_at": "2026-09-22T21:59:26Z",
+  "desc": "Benchmark for tracking model capability after release.",
+  "lang": "Python",
+  "name": "ninjahawk/livenerf",
+  "node_id": "R_kgDOUmXJKA",
+  "topics": []
+ },
+ "1382441164": {
+  "created_at": "2026-09-22T22:52:13Z",
+  "desc": "Claude Code skill: turn a messy phone recording into an edited vertical reel (best takes, captions, animated overlays, memes)",
+  "lang": "TypeScript",
+  "name": "mariagorskikh/talking-head-reel",
+  "node_id": "R_kgDOUmZgzA",
+  "topics": []
+ },
+ "1382450432": {
+  "created_at": "2026-09-22T23:06:11Z",
+  "desc": "Local AI song generator with an editable score \u2014 YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows app, no Python, installer with auto-update.",
+  "lang": "TypeScript",
+  "name": "timoncool/YuE2-Studio",
+  "node_id": "R_kgDOUmaFAA",
+  "topics": [
+   "abc-notation",
+   "ai-music",
+   "covers",
+   "cuda",
+   "ggml",
+   "local-ai",
+   "music-generation",
+   "offline",
+   "rust",
+   "sheet-music",
+   "tauri",
+   "text-to-music",
+   "vocals",
+   "windows",
+   "yue2"
+  ]
+ },
  "1382467199": {
   "created_at": "2026-09-22T23:32:19Z",
   "desc": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
   "lang": "JavaScript",
   "name": "JohnHeibel/PDoomVideo",
   "node_id": "R_kgDOUmbGfw",
+  "topics": []
+ },
+ "1382497250": {
+  "created_at": "2026-09-23T00:18:12Z",
+  "desc": "A collection of megakernels for TPU",
+  "lang": "Python",
+  "name": "Inferact/tpu-megakernels",
+  "node_id": "R_kgDOUmc74g",
+  "topics": []
+ },
+ "1382519703": {
+  "created_at": "2026-09-23T00:47:22Z",
+  "desc": "Local Qwen-Image-2.1 studio for Apple Silicon: text-to-image, multi-image editing and prompt enhancing, with a CLI and a helmstudio web UI.",
+  "lang": "Python",
+  "name": "janishar/qwen-image-2.1-studio",
+  "node_id": "R_kgDOUmeTlw",
+  "topics": [
+   "apple-silicon",
+   "diffusion",
+   "generative-ai",
+   "helmstudio",
+   "image-editing",
+   "local-ai",
+   "macos",
+   "mps",
+   "prompt-enhancement",
+   "pytorch",
+   "qwen-image",
+   "text-to-image",
+   "web-ui"
+  ]
+ },
+ "1382625851": {
+  "created_at": "2026-09-23T02:48:02Z",
+  "desc": "Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
+  "lang": "Python",
+  "name": "Liuziyu77/Valen",
+  "node_id": "R_kgDOUmkyOw",
+  "topics": []
+ },
+ "1382671462": {
+  "created_at": "2026-09-23T03:26:07Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "black-forest-labs/flux-action",
+  "node_id": "R_kgDOUmnkZg",
+  "topics": []
+ },
+ "1382777337": {
+  "created_at": "2026-09-23T04:57:34Z",
+  "desc": "Addon to use Claude inside World of Warcraft  (WoW)",
+  "lang": "Lua",
+  "name": "chelinho139/wow-claude",
+  "node_id": "R_kgDOUmuB-Q",
   "topics": []
  },
  "1382790500": {
@@ -361761,6 +362378,298 @@
   "lang": "JavaScript",
   "name": "riba2534/claude-opus-5-5-demo",
   "node_id": "R_kgDOUm01kA",
+  "topics": []
+ },
+ "1382890725": {
+  "created_at": "2026-09-23T06:32:36Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "ABC12345anouys/EvoBot",
+  "node_id": "R_kgDOUm085Q",
+  "topics": []
+ },
+ "1382911422": {
+  "created_at": "2026-09-23T06:49:12Z",
+  "desc": "REx@Skill - Agentic Reverse Engineering eXecution Skill for binary vulnerability discovery",
+  "lang": "Python",
+  "name": "tihanyin/REx-skill",
+  "node_id": "R_kgDOUm2Nvg",
+  "topics": []
+ },
+ "1382992199": {
+  "created_at": "2026-09-23T07:43:44Z",
+  "desc": "Generate replayable Excel test cases from live browser pages, or run existing Excel cases, using Playwright and local Laya or a compatible decision API.",
+  "lang": "JavaScript",
+  "name": "anthonyli/laya-pilot",
+  "node_id": "R_kgDOUm7JRw",
+  "topics": [
+   "ai-testing",
+   "browser-automation",
+   "e2e-testing",
+   "excel",
+   "laya",
+   "playwright",
+   "test-automation"
+  ]
+ },
+ "1382997872": {
+  "created_at": "2026-09-23T07:47:24Z",
+  "desc": "Jev Browser \u2014 indexed browser automation. Jev chooses the control, Playwright acts. A CodexQA skill.",
+  "lang": "TypeScript",
+  "name": "openqa-cn/jev-browser",
+  "node_id": "R_kgDOUm7fcA",
+  "topics": [
+   "agent-skills",
+   "browser-automation",
+   "codexqa",
+   "jev",
+   "jev-browser",
+   "playwright"
+  ]
+ },
+ "1383023635": {
+  "created_at": "2026-09-23T08:04:42Z",
+  "desc": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
+  "lang": "Markdown",
+  "name": "amitshekhariitbhu/ai-engineering-course",
+  "node_id": "R_kgDOUm9EEw",
+  "topics": [
+   "ai-course",
+   "ai-engineering",
+   "ai-engineering-course",
+   "ai-engineering-curriculum",
+   "large-language-models"
+  ]
+ },
+ "1383219004": {
+  "created_at": "2026-09-23T10:25:10Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "tinnel123666888/OmniJev",
+  "node_id": "R_kgDOUnI_PA",
+  "topics": []
+ },
+ "1383293267": {
+  "created_at": "2026-09-23T11:21:44Z",
+  "desc": "Desktop companion for AI coding agents and Codex workflows",
+  "lang": "Rust",
+  "name": "BinaryDeliverer/CodexDesk",
+  "node_id": "R_kgDOUnNhUw",
+  "topics": [
+   "agent",
+   "ai",
+   "codex",
+   "desktop",
+   "developer-tools",
+   "gui",
+   "productivity",
+   "rust"
+  ]
+ },
+ "1383293279": {
+  "created_at": "2026-09-23T11:21:45Z",
+  "desc": "Desktop panel and toolkit for Claude and AI assistants",
+  "lang": "Rust",
+  "name": "AvenueSnowStep/ClaudePanel",
+  "node_id": "R_kgDOUnNhXw",
+  "topics": [
+   "agent",
+   "ai",
+   "assistant",
+   "claude",
+   "desktop",
+   "gui",
+   "productivity",
+   "rust"
+  ]
+ },
+ "1383330463": {
+  "created_at": "2026-09-23T11:43:36Z",
+  "desc": "Multi-device terminal remote management and AI operation platform.",
+  "lang": "TypeScript",
+  "name": "RaysunKR/termirai",
+  "node_id": "R_kgDOUnPynw",
+  "topics": []
+ },
+ "1383379143": {
+  "created_at": "2026-09-23T12:12:01Z",
+  "desc": "\u53bb AI \u5473\uff1a\u4e2d\u6587\u5199\u4f5c\u7684 AI \u75d5\u8ff9\u6e05\u7406 skill\u3002\u5408\u5e76\u4e09\u5bb6\u89c4\u5219\uff08\u542b\u8bed\u6599\u5b9e\u6d4b\uff09\uff0c\u5e76\u88c1\u51b3\u5b83\u4eec\u4e92\u76f8\u77db\u76fe\u7684\u4e03\u5904\u3002A Claude skill for stripping AI tells from Chinese drafts.",
+  "lang": "",
+  "name": "baibanbao/qu-ai-wei",
+  "node_id": "R_kgDOUnSwxw",
+  "topics": [
+   "ai-detection",
+   "chinese",
+   "claude-code",
+   "claude-skill",
+   "humanizer",
+   "writing"
+  ]
+ },
+ "1383448007": {
+  "created_at": "2026-09-23T12:55:05Z",
+  "desc": "Issue Greek invoices via AADE timologio, get the MARK, keep one JSON per invoice, sync to your ERP (SAP B1 today; SoftOne, Pylon, Megasoft wanted). Claude skill, not a \u03a5\u03a0\u0391\u0397\u0395\u03a3.",
+  "lang": "Python",
+  "name": "palavogikos-collab/myDATA",
+  "node_id": "R_kgDOUnW9xw",
+  "topics": [
+   "aade",
+   "claude-skill",
+   "e-invoicing",
+   "epsilon-pylon",
+   "erp",
+   "greece",
+   "megasoft",
+   "mydata",
+   "sap-business-one",
+   "softone",
+   "timologio"
+  ]
+ },
+ "1383773819": {
+  "created_at": "2026-09-23T16:02:24Z",
+  "desc": "MoJev: typed, calibrated decisions in one forward pass.",
+  "lang": "Python",
+  "name": "MoLeMo-Lab/mojev",
+  "node_id": "R_kgDOUnq2ew",
+  "topics": []
+ },
+ "1383804874": {
+  "created_at": "2026-09-23T16:20:10Z",
+  "desc": "\u8bb0\u5f97\u5979\u8bf4\u8fc7\u7684\u6bcf\u4e00\u53e5\u8bdd\uff0c\u4e5f\u8bb0\u5f97\u4f60\u7b54\u5e94\u8fc7\u7684\u6bcf\u4e00\u4ef6\u4e8b\u3002A self-hosted AI chief of staff for your chats \u2014 remembers what they said and what you promised.",
+  "lang": "JavaScript",
+  "name": "georgeding/Relate",
+  "node_id": "R_kgDOUnsvyg",
+  "topics": [
+   "ai-assistant",
+   "llm",
+   "mcp",
+   "memory",
+   "ollama",
+   "openai-compatible",
+   "personal-knowledge",
+   "privacy",
+   "self-hosted",
+   "telegram"
+  ]
+ },
+ "1383808665": {
+  "created_at": "2026-09-23T16:22:23Z",
+  "desc": "A painted music video for \"Functional Emotions\", made by Claude Opus 5.5: custom GPU brushstroke renderer, storyboard, and 7 parallel chapter agents.",
+  "lang": "JavaScript",
+  "name": "ledbetterljoshua/functional-emotions-video",
+  "node_id": "R_kgDOUns-mQ",
+  "topics": []
+ },
+ "1383809012": {
+  "created_at": "2026-09-23T16:22:35Z",
+  "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+  "lang": "Go",
+  "name": "yetone/magpie",
+  "node_id": "R_kgDOUns_9A",
+  "topics": [
+   "claude-code",
+   "codex",
+   "deepseek",
+   "gemini-cli",
+   "llm",
+   "macos"
+  ]
+ },
+ "1383926459": {
+  "created_at": "2026-09-23T17:32:37Z",
+  "desc": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
+  "lang": "Python",
+  "name": "asokurasu/text-humanizer",
+  "node_id": "R_kgDOUn0Kuw",
+  "topics": [
+   "ai-detector",
+   "ai-detector-bypass",
+   "ai-detectors",
+   "text-humanizer",
+   "zerogpt",
+   "zerogpt-bypass"
+  ]
+ },
+ "1383937741": {
+  "created_at": "2026-09-23T17:39:43Z",
+  "desc": "Open-weight, Jev-inspired decision model finetuned on top of Qwen3.5 4B",
+  "lang": "Python",
+  "name": "togethercomputer/tev1",
+  "node_id": "R_kgDOUn02zQ",
+  "topics": []
+ },
+ "1383977800": {
+  "created_at": "2026-09-23T18:04:25Z",
+  "desc": "One prompt in, a looping animated 3D icon out \u2014 with real transparency. A Claude Code skill.",
+  "lang": "Python",
+  "name": "samyost1/3dicon",
+  "node_id": "R_kgDOUn3TSA",
+  "topics": []
+ },
+ "1383979298": {
+  "created_at": "2026-09-23T18:05:31Z",
+  "desc": "Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+  "lang": "Python",
+  "name": "angusdevgo/Seep-Reverse-Lab",
+  "node_id": "R_kgDOUn3ZIg",
+  "topics": []
+ },
+ "1383988294": {
+  "created_at": "2026-09-23T18:11:57Z",
+  "desc": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+  "lang": "Python",
+  "name": "yukitorido/short-video-generator-AI",
+  "node_id": "R_kgDOUn38Rg",
+  "topics": [
+   "ai",
+   "llm",
+   "llm-tools",
+   "opus-clip",
+   "opus-clip-alternative",
+   "short-video",
+   "short-video-automation",
+   "short-video-generator",
+   "short-video-maker"
+  ]
+ },
+ "1384094559": {
+  "created_at": "2026-09-23T19:29:56Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "Contrastive-LM/CLM",
+  "node_id": "R_kgDOUn-bXw",
+  "topics": []
+ },
+ "1384159311": {
+  "created_at": "2026-09-23T20:27:00Z",
+  "desc": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
+  "lang": "JavaScript",
+  "name": "JohnHeibel/ClaudeAnimationBase",
+  "node_id": "R_kgDOUoCYTw",
+  "topics": []
+ },
+ "1384244575": {
+  "created_at": "2026-09-23T21:53:06Z",
+  "desc": "ZCodium\uff0cIndependent audit fork of ZCode (ZCode \u2192 ZCodium). All monitoring and telemetry removed; upstream commits reviewed one by one. ZCode \u7684\u72ec\u7acb\u5ba1\u8ba1\u5206\u652f\uff08ZCode \u2192 ZCodium\uff09\uff1a\u5df2\u79fb\u9664\u76d1\u63a7\u4e0e\u9065\u6d4b\uff0c\u4e0a\u6e38\u6539\u52a8\u9010\u63d0\u4ea4\u5ba1\u9605\u3002",
+  "lang": "TypeScript",
+  "name": "ZCodium-project/ZCodium",
+  "node_id": "R_kgDOUoHlXw",
+  "topics": [
+   "ai-agents",
+   "vibe-coding",
+   "zcod",
+   "zcode",
+   "zcode-desktop",
+   "zcodium"
+  ]
+ },
+ "1384595391": {
+  "created_at": "2026-09-24T03:49:57Z",
+  "desc": "SONIC adpation for new full size humanoid agibot A3\uff01",
+  "lang": "C++",
+  "name": "AgibotTech/sonic_for_a3",
+  "node_id": "R_kgDOUoc_vw",
   "topics": []
  },
  "138552196": {
