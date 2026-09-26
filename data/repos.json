@@ -358929,6 +358929,14 @@
   "node_id": "R_kgDOUg8kOg",
   "topics": []
  },
+ "1376736903": {
+  "created_at": "2026-09-19T04:45:59Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "RoboProbe/RoboProbe",
+  "node_id": "R_kgDOUg9Whw",
+  "topics": []
+ },
  "1376757283": {
   "created_at": "2026-09-19T05:14:36Z",
   "desc": "A verified, community-maintained catalog of 916 open-source projects built with Jev.",
@@ -359091,6 +359099,14 @@
   "node_id": "R_kgDOUhEuvw",
   "topics": []
  },
+ "1376869581": {
+  "created_at": "2026-09-19T07:31:34Z",
+  "desc": "Jev-powered relevance filtering and reranking for RAG in Python.",
+  "lang": "Python",
+  "name": "hotchpotch/jev-reranker",
+  "node_id": "R_kgDOUhFczQ",
+  "topics": []
+ },
  "1376891056": {
   "created_at": "2026-09-19T07:54:57Z",
   "desc": "Command-line tool for TypeSafe AI's Jev model. Ask yes/no, multiple-choice and rubric questions about any text and get calibrated probabilities back. Answers become exit codes for shells and CI, JSON for scripts, and MCP tools for AI agents.",
@@ -359153,6 +359169,14 @@
   "lang": "C++",
   "name": "IIIIIllllIIIIIlllll/gfx1151-engine",
   "node_id": "R_kgDOUhJzBw",
+  "topics": []
+ },
+ "1376947340": {
+  "created_at": "2026-09-19T08:57:02Z",
+  "desc": "Agent-driven Three.js talking-head video production. Source available for noncommercial use; commercial use requires written authorization.",
+  "lang": "JavaScript",
+  "name": "erduo1998-cell/agent-motion",
+  "node_id": "R_kgDOUhKMjA",
   "topics": []
  },
  "1376970259": {
@@ -359317,7 +359341,11 @@
   "lang": "Python",
   "name": "Yinsongxu/LLM2Jev",
   "node_id": "R_kgDOUhQU7w",
-  "topics": []
+  "topics": [
+   "jev",
+   "llm",
+   "mllm"
+  ]
  },
  "1377049125": {
   "created_at": "2026-09-19T11:01:19Z",
@@ -359499,6 +359527,27 @@
   "name": "Dominic-DK/mac-shortcuts-mcp",
   "node_id": "R_kgDOUhcqdw",
   "topics": []
+ },
+ "1377264191": {
+  "created_at": "2026-09-19T14:40:45Z",
+  "desc": "A visual multi-agent desktop for Codex: live tasks, shared projects, isolated Missions, and OpenCodex models on Windows.",
+  "lang": "JavaScript",
+  "name": "Gu-kai-lei/Open-Pet-Office",
+  "node_id": "R_kgDOUhdiPw",
+  "topics": [
+   "agent-workflow",
+   "ai-agents",
+   "ai-orchestration",
+   "codex",
+   "codex-desktop",
+   "deepseek",
+   "desktop-app",
+   "desktop-pet",
+   "electron",
+   "multi-agent",
+   "opencodex",
+   "windows"
+  ]
  },
  "1377266080": {
   "created_at": "2026-09-19T14:42:47Z",
@@ -359884,11 +359933,16 @@
  },
  "1377644325": {
   "created_at": "2026-09-19T21:52:18Z",
-  "desc": "The system one Harness for system one models",
+  "desc": "The System One harness for System One models. Run Jev and other System One models locally or directly on HarnessRouter.ai.",
   "lang": "Python",
   "name": "HarnessRouter/SystemOneHarness",
   "node_id": "R_kgDOUh0vJQ",
-  "topics": []
+  "topics": [
+   "harness",
+   "harness-engineering",
+   "system-one-harness",
+   "system-one-models"
+  ]
  },
  "1377650013": {
   "created_at": "2026-09-19T22:01:25Z",
@@ -359940,8 +359994,8 @@
  },
  "1377725938": {
   "created_at": "2026-09-20T00:08:23Z",
-  "desc": "OpenJev: Open-source alternative to TypeSafe Jev. Typed probabilistic decision API (Choice, Noul, Score) powered by open LLMs & constrained logprob calibration.",
-  "lang": "HTML",
+  "desc": "Self-evolving cognitive decision engine & TypeSafe Jev alternative. Deliberative decision flywheel ('explore first, crystallize later' System 2\u21921) with 100% option-order invariance. Typed probabilistic API (Choice, Noul, Score) for Open LLMs, Laya (ModernBERT), & commercial Jev with calibrated logprobs and adaptive safety guards.",
+  "lang": "Python",
   "name": "zhangcy122/OpenJev",
   "node_id": "R_kgDOUh5t8g",
   "topics": []
@@ -360015,6 +360069,14 @@
    "rubygem",
    "typesafe-ai"
   ]
+ },
+ "1377811021": {
+  "created_at": "2026-09-20T02:21:57Z",
+  "desc": "DLSS 5 Neural Rendering on AMD GPUs, built into OptiScaler: model interleave, residual composition, XeSS frame generation up to 6X, FSR Ray Regeneration. Discord:  https://discord.gg/AMDNR \u00b7 Ko-fi: https://ko-fi.com/3zinr",
+  "lang": "",
+  "name": "3zwr1/AMD-NR---OptiScaler",
+  "node_id": "R_kgDOUh-6TQ",
+  "topics": []
  },
  "1377820977": {
   "created_at": "2026-09-20T02:35:26Z",
@@ -360603,6 +360665,14 @@
    "quickshell"
   ]
  },
+ "1378417234": {
+  "created_at": "2026-09-20T14:22:40Z",
+  "desc": "\u4eba\u751f\u53d1\u5c55 Skill\uff1a\u57fa\u4e8e\u9ad8\u6027\u4ef7\u6bd4\u4eba\u751f\u6307\u5357\uff0c\u7ed3\u5408\u4e2a\u4eba\u5904\u5883\u3001\u8bc1\u636e\u4e0e\u6210\u672c\u6536\u76ca\uff0c\u4e3a\u751f\u6d3b\u56f0\u60d1\u548c\u4eba\u751f\u9009\u62e9\u63d0\u4f9b\u7b54\u7591\u3002",
+  "lang": "",
+  "name": "Chami537/life-development-skill",
+  "node_id": "R_kgDOUij6Ug",
+  "topics": []
+ },
  "1378419248": {
   "created_at": "2026-09-20T14:24:27Z",
   "desc": "Ternary (2.125 bit/weight) Bonsai 2 27B on the NINFER engine \u2014 Ada sm_89, Linux. Derivative work of Neroued/ninfer; see README.",
@@ -360891,6 +360961,14 @@
   "node_id": "R_kgDOUi6ePg",
   "topics": []
  },
+ "1378797927": {
+  "created_at": "2026-09-20T21:38:51Z",
+  "desc": "MetaCoginition powered by Reflex 4B",
+  "lang": "Python",
+  "name": "ItIsCuthNotCup/MetaCog",
+  "node_id": "R_kgDOUi7JZw",
+  "topics": []
+ },
  "1378813039": {
   "created_at": "2026-09-20T22:03:05Z",
   "desc": "ComfyUI  Custom Node for Qwen-Image-2.1 Prompt Enhancement , support T2I , Image Edit",
@@ -361168,7 +361246,7 @@
  },
  "1379166549": {
   "created_at": "2026-09-21T05:55:40Z",
-  "desc": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
+  "desc": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
   "lang": "Python",
   "name": "nokia-applied-research/AnyJev",
   "node_id": "R_kgDOUjRpVQ",
@@ -361229,6 +361307,14 @@
   "lang": "Rust",
   "name": "karminski/Jev-Quantum",
   "node_id": "R_kgDOUjYC9g",
+  "topics": []
+ },
+ "1379297874": {
+  "created_at": "2026-09-21T07:44:36Z",
+  "desc": "5m BTC Up/Down Polymarket trading agent using Typesafe Jev as the decision layer & TUI",
+  "lang": "TypeScript",
+  "name": "VGabriel45/polymarket-btc5m-jev-trading",
+  "node_id": "R_kgDOUjZqUg",
   "topics": []
  },
  "1379298275": {
@@ -361696,6 +361782,20 @@
    "wan3-0-video"
   ]
  },
+ "1379792193": {
+  "created_at": "2026-09-21T13:26:59Z",
+  "desc": "ZCode-CE is the open-source community edition of the ZCode AI coding workbench, offering a desktop application, a browser interface, and a terminal agent. ",
+  "lang": "TypeScript",
+  "name": "Zcode-CE/Zcode-CE",
+  "node_id": "R_kgDOUj31QQ",
+  "topics": [
+   "ai",
+   "community-edition",
+   "harness",
+   "no-telemetry",
+   "zcode"
+  ]
+ },
  "1379816438": {
   "created_at": "2026-09-21T13:40:49Z",
   "desc": "Seedream 5.0 Pro API \u4e2d\u6587\u6587\u6863\uff1a\u6a21\u578b ID\u3001\u6bcf\u5f20 $0.0146\uff081K-layer\uff09 \u8ba1\u8d39\u3001\u56fe\u50cf\u53c2\u6570\u4e0e\u8c03\u7528\u793a\u4f8b\uff0c\u542b curl / Python \u4ee3\u7801\u4e0e OpenAI \u517c\u5bb9\u63a5\u53e3\u8bf4\u660e\u3002",
@@ -361722,7 +361822,10 @@
   "lang": "Python",
   "name": "liangdabiao/video-clone-lite",
   "node_id": "R_kgDOUj5USA",
-  "topics": []
+  "topics": [
+   "skill",
+   "skills"
+  ]
  },
  "1379825889": {
   "created_at": "2026-09-21T13:45:58Z",
@@ -361819,6 +361922,21 @@
    "public-preview",
    "quant-trading",
    "simreal"
+  ]
+ },
+ "1379856219": {
+  "created_at": "2026-09-21T14:01:22Z",
+  "desc": "Morocco's 1,503 communes as open data: HCP codes, the 2024 and 2014 censuses, boundaries, an HTTP API and an MCP server.",
+  "lang": "TypeScript",
+  "name": "zkousama/morocco-communes",
+  "node_id": "R_kgDOUj7vWw",
+  "topics": [
+   "api",
+   "census",
+   "geojson",
+   "mcp-server",
+   "morocco",
+   "open-data"
   ]
  },
  "1379858932": {
@@ -361980,6 +362098,14 @@
   "node_id": "R_kgDOUkR6-g",
   "topics": []
  },
+ "1380254762": {
+  "created_at": "2026-09-21T17:47:22Z",
+  "desc": "",
+  "lang": "Rust",
+  "name": "jasonkneen/instinctual-memory",
+  "node_id": "R_kgDOUkUEKg",
+  "topics": []
+ },
  "1380270430": {
   "created_at": "2026-09-21T17:56:59Z",
   "desc": "Firecrawl API examples in Python: scrape one URL, map then batch scrape, start a crawl and poll its status.",
@@ -362098,6 +362224,20 @@
   "topics": [
    "ai-agent",
    "deep-research"
+  ]
+ },
+ "1380729698": {
+  "created_at": "2026-09-22T01:41:32Z",
+  "desc": "Self-hosted social media scheduler. Write once, publish to any connected platform. Runs on your own Cloudflare account.",
+  "lang": "TypeScript",
+  "name": "deepakness/cogsend",
+  "node_id": "R_kgDOUkxDYg",
+  "topics": [
+   "cloudflare-workers",
+   "self-hosted",
+   "social-media",
+   "social-media-scheduler",
+   "sveltekit"
   ]
  },
  "1380739864": {
@@ -362280,7 +362420,7 @@
  },
  "1381077678": {
   "created_at": "2026-09-22T07:53:20Z",
-  "desc": "",
+  "desc": "\u628a\u5df2\u6709\u7684 Codex\u3001Claude\u3001Gemini\u3001Kimi\u3001Grok\u3001Devin \u8ba2\u9605\u63a5\u5230\u53ea\u8ba4 OpenAI \u63a5\u53e3\u7684\u7f16\u7a0b\u5de5\u5177\u4e0a\u3002",
   "lang": "TypeScript",
   "name": "aghub-app/akproxy",
   "node_id": "R_kgDOUlGSrg",
@@ -362318,6 +362458,14 @@
    "jev",
    "llm"
   ]
+ },
+ "1381227629": {
+  "created_at": "2026-09-22T09:49:59Z",
+  "desc": "Free MAPS guide: set up your own AI operating system on Claude Code (Memory, Agent, Pulse, Screen) \u2014 one prompt per layer",
+  "lang": "",
+  "name": "pavrus117/ai-os-maps-guide",
+  "node_id": "R_kgDOUlPcbQ",
+  "topics": []
  },
  "1381229689": {
   "created_at": "2026-09-22T09:51:33Z",
@@ -362418,6 +362566,23 @@
    "illustration",
    "procedural-generation",
    "skill"
+  ]
+ },
+ "1381397567": {
+  "created_at": "2026-09-22T11:47:24Z",
+  "desc": "Automatic project memory for Claude Code. Also works with Cursor and Codex.",
+  "lang": "TypeScript",
+  "name": "Avinash-jetwani/jevmem",
+  "node_id": "R_kgDOUlZ0Pw",
+  "topics": [
+   "ai-memory",
+   "claude-code",
+   "codex",
+   "cursor",
+   "developer-tools",
+   "jev",
+   "mcp",
+   "typesafe"
   ]
  },
  "138141023": {
@@ -362608,6 +362773,14 @@
   "node_id": "R_kgDOUmXkFg",
   "topics": []
  },
+ "1382439708": {
+  "created_at": "2026-09-22T22:50:16Z",
+  "desc": "Let your AI agents ask each other for help, over Tailscale. Wherever they run.",
+  "lang": "Go",
+  "name": "mvanhorn/agent-tincan",
+  "node_id": "R_kgDOUmZbHA",
+  "topics": []
+ },
  "1382441164": {
   "created_at": "2026-09-22T22:52:13Z",
   "desc": "Claude Code skill: turn a messy phone recording into an edited vertical reel (best takes, captions, animated overlays, memes)",
@@ -362721,6 +362894,14 @@
    "web-ui"
   ]
  },
+ "1382570034": {
+  "created_at": "2026-09-23T01:48:17Z",
+  "desc": "Apple Silicon macOS film development and photo editor with local AI and MCP",
+  "lang": "Swift",
+  "name": "VaderChen/FilmDevelop",
+  "node_id": "R_kgDOUmhYMg",
+  "topics": []
+ },
  "1382625851": {
   "created_at": "2026-09-23T02:48:02Z",
   "desc": "Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
@@ -362788,6 +362969,14 @@
   "node_id": "R_kgDOUm2Nvg",
   "topics": []
  },
+ "1382991317": {
+  "created_at": "2026-09-23T07:43:09Z",
+  "desc": "\u51fa\u884c\u8def\u4e66\u5de5\u4f5c\u6d41 skill\uff1a\u8054\u7f51\u5b9e\u67e5+\u591a\u6e90\u4ea4\u53c9\u9a8c\u8bc1+\u516d\u7ef4\u5ea6\u8def\u4e66+\u7f8e\u98df\u60c5\u62a5\u5361\uff0c\u9644\u57fa\u51c6\u9aa8\u67b6\u4e0e\u6821\u9a8c\u5de5\u5177\u3002\u8ba9 AI \u5e2e\u4f60\u505a\u51fa\u53ef\u6838\u9a8c\u3001\u80fd\u6267\u884c\u7684\u65c5\u884c\u653b\u7565\u3002",
+  "lang": "HTML",
+  "name": "awangwang123/jianhao-travel-planner",
+  "node_id": "R_kgDOUm7F1Q",
+  "topics": []
+ },
  "1382992199": {
   "created_at": "2026-09-23T07:43:44Z",
   "desc": "Generate replayable Excel test cases from live browser pages, or run existing Excel cases, using Playwright and local Laya or a compatible decision API.",
@@ -362833,6 +363022,14 @@
    "large-language-models"
   ]
  },
+ "1383029247": {
+  "created_at": "2026-09-23T08:08:39Z",
+  "desc": "\u5fae\u4fe1\u804a\u5929\u91cc\u7684\u8a00\u5916\u4e4b\u610f\u52a9\u624b\uff1a\u7ed3\u5408\u4e0a\u4e0b\u6587\u5c55\u793a\u60c5\u7eea\u6982\u7387\u3001\u6f5c\u53f0\u8bcd\u4e0e\u6c9f\u901a\u5efa\u8bae\u7684 Android LSPosed / Xposed \u6a21\u5757\u3002",
+  "lang": "Kotlin",
+  "name": "YIRC99/yanwai",
+  "node_id": "R_kgDOUm9Z_w",
+  "topics": []
+ },
  "1383133197": {
   "created_at": "2026-09-23T09:20:08Z",
   "desc": "Compass \u7684\u975e\u5b98\u65b9\u7b80\u4f53\u4e2d\u6587\u672c\u5730\u5316\uff1b\u539f\u9879\u76ee\u7531 Daniel Agrici\uff08@AgriciDaniel\uff09\u521b\u5efa\u3002",
@@ -362845,6 +363042,47 @@
    "life-os",
    "obsidian"
   ]
+ },
+ "1383174634": {
+  "created_at": "2026-09-23T09:51:52Z",
+  "desc": "CIT Voice Stuido - Chuy\u1ec3n v\u0103n b\u1ea3n ti\u1ebfng Vi\u1ec7t th\u00e0nh gi\u1ecdng n\u00f3i, ch\u1ea1y ho\u00e0n to\u00e0n tr\u00ean m\u00e1y b\u1ea1n.",
+  "lang": "",
+  "name": "Cuongyd196/cit-voice-studio",
+  "node_id": "R_kgDOUnGR6g",
+  "topics": [
+   "text-to-speech",
+   "tts",
+   "voice-ai",
+   "voice-cloning"
+  ]
+ },
+ "1383184578": {
+  "created_at": "2026-09-23T09:59:24Z",
+  "desc": "\u57fa\u4e8eLana\u6a21\u578b\u5b9e\u73b0\u7684\u5fae\u4fe1\u804a\u5929\u60c5\u611f\u5206\u6790\u5ba2\u6237\u7aef\uff0c\u652f\u6301\u610f\u56fe\u8bc6\u522b\u3001\u60c5\u7eea\u611f\u77e5\u3001\u4eba\u7269\u753b\u50cf\u3001\u7fa4\u804a\u753b\u50cf\u3001\u597d\u611f\u5ea6\u5206\u6790\u548c MBTI \u804a\u5929\u63a8\u6d4b",
+  "lang": "Python",
+  "name": "tswawa/WechatVibe",
+  "node_id": "R_kgDOUnG4wg",
+  "topics": [
+   "chat-analysis",
+   "electron",
+   "emotion-recognition",
+   "intent-recognition",
+   "laya",
+   "local-ai",
+   "mbti",
+   "onnx",
+   "personality-analysis",
+   "wechat",
+   "windows"
+  ]
+ },
+ "1383204085": {
+  "created_at": "2026-09-23T10:13:52Z",
+  "desc": "",
+  "lang": "",
+  "name": "AIwolfie/jailbreak-archive",
+  "node_id": "R_kgDOUnIE9Q",
+  "topics": []
  },
  "1383219004": {
   "created_at": "2026-09-23T10:25:10Z",
@@ -362972,6 +363210,24 @@
    "simreal"
   ]
  },
+ "1383527767": {
+  "created_at": "2026-09-23T13:42:51Z",
+  "desc": "Go SDK and CLI for TypeSafe Jev: typed decisions (yes/no, choice, score) from a model",
+  "lang": "Go",
+  "name": "mattn/go-jev",
+  "node_id": "R_kgDOUnb1Vw",
+  "topics": [
+   "ai",
+   "classification",
+   "cli",
+   "go",
+   "golang",
+   "jev",
+   "llm",
+   "sdk",
+   "typesafe"
+  ]
+ },
  "1383553946": {
   "created_at": "2026-09-23T13:57:53Z",
   "desc": "\u4e00\u4eba\u4e00\u7ad9 \u00b7 \u6536\u96c6\u503c\u5f97\u5173\u6ce8\u7684\u4e2a\u4eba\u7f51\u7ad9\u3001\u72ec\u7acb\u535a\u5ba2\u4e0e\u6570\u5b57\u82b1\u56ed / A curated directory of personal websites, blogs & digital gardens",
@@ -362994,6 +363250,21 @@
   "name": "Rimagination/easyplot",
   "node_id": "R_kgDOUneVbA",
   "topics": []
+ },
+ "1383574324": {
+  "created_at": "2026-09-23T14:09:35Z",
+  "desc": "Make Claude the manager, not the coder: one skill that hands work to cheaper AI CLIs, verifies the results, and gets a second vendor to review.",
+  "lang": "",
+  "name": "yanauto/opus-manager",
+  "node_id": "R_kgDOUnerNA",
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "claude",
+   "claude-code",
+   "code-review",
+   "multi-agent"
+  ]
  },
  "1383604528": {
   "created_at": "2026-09-23T14:25:56Z",
@@ -363068,6 +363339,23 @@
    "gemini-cli",
    "llm",
    "macos"
+  ]
+ },
+ "1383924438": {
+  "created_at": "2026-09-23T17:31:20Z",
+  "desc": "Unofficial Windows ZCode account manager with local snapshots, quota dashboard, optional auto-switch, bilingual UI, and encrypted backups.",
+  "lang": "Rust",
+  "name": "Kang-code-sudo/Z-Accounts",
+  "node_id": "R_kgDOUn0C1g",
+  "topics": [
+   "account-manager",
+   "dashboard",
+   "oauth",
+   "rust",
+   "tauri",
+   "windows",
+   "z-ai",
+   "zcode"
   ]
  },
  "1383926459": {
@@ -363180,6 +363468,30 @@
    "zcodium"
   ]
  },
+ "1384260430": {
+  "created_at": "2026-09-23T22:11:15Z",
+  "desc": "Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
+  "lang": "Rust",
+  "name": "ollaya-dev/ollaya",
+  "node_id": "R_kgDOUoIjTg",
+  "topics": [
+   "calibration",
+   "classification",
+   "decision-models",
+   "gliclass",
+   "jev",
+   "laya",
+   "llm-routing",
+   "local-inference",
+   "nli",
+   "ollama",
+   "onnx",
+   "onnxruntime",
+   "rust",
+   "typesafe",
+   "zero-shot-classification"
+  ]
+ },
  "1384311578": {
   "created_at": "2026-09-23T23:13:49Z",
   "desc": "Paper Instruments Skills",
@@ -363195,6 +363507,20 @@
   "name": "majidmanzarpour/blender-game-skills",
   "node_id": "R_kgDOUoOMnA",
   "topics": []
+ },
+ "1384367183": {
+  "created_at": "2026-09-24T00:26:22Z",
+  "desc": "\u2728\u2705 The easiest decisions your code will ever make.",
+  "lang": "Python",
+  "name": "jlowin/vibecheck",
+  "node_id": "R_kgDOUoPETw",
+  "topics": [
+   "ai",
+   "decision-model",
+   "jev",
+   "llm",
+   "python"
+  ]
  },
  "1384446919": {
   "created_at": "2026-09-24T02:02:11Z",
@@ -363220,6 +363546,14 @@
   "node_id": "R_kgDOUoc_vw",
   "topics": []
  },
+ "1384819080": {
+  "created_at": "2026-09-24T06:13:40Z",
+  "desc": "\u95ea\u7535.skill\uff1a\u7167 Anthropic \u4e24\u5468\u628a claude.ai \u63d0\u901f 3 \u500d\u7684\u65b9\u6cd5\uff0c\u7ed9\u4f60\u7684\u7f51\u7ad9\u63d0\u901f\u3002\u5148\u91cf\u3001\u518d\u8bc1\u3001\u540e\u722c\uff0c\u7528\u68d8\u8f6e\u9501\u4f4f\u53ea\u8bb8\u53d8\u597d\u3002",
+  "lang": "Python",
+  "name": "alchaincyf/huashu-flash",
+  "node_id": "R_kgDOUoqpiA",
+  "topics": []
+ },
  "1384856497": {
   "created_at": "2026-09-24T06:35:19Z",
   "desc": "\u8f6e\u8f6cteam",
@@ -363234,6 +363568,43 @@
   "lang": "",
   "name": "wangmingxuan666/Tiersense",
   "node_id": "R_kgDOUotCTw",
+  "topics": []
+ },
+ "1384864244": {
+  "created_at": "2026-09-24T06:39:38Z",
+  "desc": "Turn room and home photographs into reviewable, walkable Unreal Engine projects with Codex.",
+  "lang": "PowerShell",
+  "name": "amirmushichge/unreal-home-wizard",
+  "node_id": "R_kgDOUotZ9A",
+  "topics": [
+   "architecture",
+   "codex",
+   "digital-twin",
+   "photogrammetry",
+   "unreal-engine"
+  ]
+ },
+ "1384971688": {
+  "created_at": "2026-09-24T07:40:01Z",
+  "desc": "ComfyUI \u59ff\u52bf\u4e0e\u673a\u4f4d\u7f16\u8f91\u5668 for Qwen Image 2.1\uff1aVNCCS \u771f\u4eba\u4eba\u5076 + OpenPose \u4e00\u952e\u6446\u59ff\uff08\u5185\u7f6e 209 \u9aa8\u67b6\uff09+ \u81ea\u7531\u89c6\u89d2\u591a\u4eba\u673a\u4f4d | Pose & camera studio with VNCCS PoseStudio LoRA",
+  "lang": "JavaScript",
+  "name": "Work-Fisher/ComfyUI-Fisher-Pose",
+  "node_id": "R_kgDOUoz9qA",
+  "topics": [
+   "comfyui",
+   "comfyui-custom-node",
+   "makehuman",
+   "openpose",
+   "pose-editor",
+   "qwen-image"
+  ]
+ },
+ "1384979197": {
+  "created_at": "2026-09-24T07:44:11Z",
+  "desc": "Jev-powered video highlights and cited summaries from subtitles and scripts",
+  "lang": "Python",
+  "name": "cclank/jevclip",
+  "node_id": "R_kgDOUo0a_Q",
   "topics": []
  },
  "1385098236": {
@@ -363268,6 +363639,43 @@
    "zeroclawinstall"
   ]
  },
+ "1385139201": {
+  "created_at": "2026-09-24T09:13:39Z",
+  "desc": "Open-source multi-model desktop group chat and Chrome extension",
+  "lang": "TypeScript",
+  "name": "richard1208/parallio",
+  "node_id": "R_kgDOUo-MAQ",
+  "topics": [
+   "ai-tools",
+   "chrome-extension",
+   "electron",
+   "multi-model",
+   "openrouter",
+   "typescript"
+  ]
+ },
+ "1385167327": {
+  "created_at": "2026-09-24T09:31:18Z",
+  "desc": "Build AI agents and LLM workflows visually. Security-maintained continuation of Flowise: security fixes, Apache-2.0 only, drop-in for your existing flows and data.",
+  "lang": "TypeScript",
+  "name": "Perruer/keelflow",
+  "node_id": "R_kgDOUo_53w",
+  "topics": [
+   "agentic-workflow",
+   "ai-agents",
+   "chatbot",
+   "docker",
+   "flowise",
+   "langchain",
+   "llm",
+   "low-code",
+   "ollama",
+   "openai",
+   "rag",
+   "security",
+   "self-hosted"
+  ]
+ },
  "1385234557": {
   "created_at": "2026-09-24T10:15:43Z",
   "desc": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
@@ -363282,6 +363690,21 @@
    "image",
    "image-generation",
    "t2i"
+  ]
+ },
+ "1385252572": {
+  "created_at": "2026-09-24T10:30:02Z",
+  "desc": "JSON.parse with hard limits on nesting depth, key count, string length and input size. Refuses parser bombs before they are allocated.",
+  "lang": "TypeScript",
+  "name": "agentscope-ai-java/json-guard",
+  "node_id": "R_kgDOUpFG3A",
+  "topics": [
+   "dos",
+   "json",
+   "nodejs",
+   "security",
+   "typescript",
+   "zero-dependencies"
   ]
  },
  "1385271151": {
@@ -363321,6 +363744,219 @@
    "trading-platform"
   ]
  },
+ "1385572356": {
+  "created_at": "2026-09-24T13:32:45Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "aws-samples/sample-voice-ai-agent-studio",
+  "node_id": "R_kgDOUpYoBA",
+  "topics": []
+ },
+ "1385585664": {
+  "created_at": "2026-09-24T13:39:35Z",
+  "desc": "seedance-2.5 API (seedance2.5 / seedance 2.5): from $0.0961 per second (480P); 720P $0.216; 1080P $0.3849. Model id, api settings, curl and Python examples over an OpenAI-compatibl",
+  "lang": "Shell",
+  "name": "hvk5d6snsba15uum/seedance2.5-seedance-2.5-api",
+  "node_id": "R_kgDOUpZcAA",
+  "topics": [
+   "ai-api-gateway",
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "seedance-2-5",
+   "seedance-2-5-api",
+   "seedance2-5",
+   "seedance2-5-api",
+   "text-to-video"
+  ]
+ },
+ "1385594097": {
+  "created_at": "2026-09-24T13:44:17Z",
+  "desc": "seedance-2.5 API (seedance2.5 / seedance 2.5): from $0.0961 per second (480P) through one gateway key. Model id, gateway settings, curl and Python examples over an OpenAI-compatibl",
+  "lang": "Shell",
+  "name": "d3qqcegqn5bf1aco/seedance2.5-seedance-2.5-gateway",
+  "node_id": "R_kgDOUpZ88Q",
+  "topics": [
+   "ai-api-gateway",
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "seedance-2-5",
+   "seedance-2-5-api",
+   "seedance-2-5-gateway",
+   "seedance2-5",
+   "seedance2-5-api",
+   "text-to-video"
+  ]
+ },
+ "1385600042": {
+  "created_at": "2026-09-24T13:47:27Z",
+  "desc": "seedance-2.5 API (seedance2.5 / seedance 2.5): 1080P costs $0.3849 per second; 720P $0.216; 480P $0.0961. Model id, 1080p settings, curl and Python examples over an OpenAI-compatib",
+  "lang": "Shell",
+  "name": "vsm67u54g4j/seedance2.5-seedance-2.5-1080p",
+  "node_id": "R_kgDOUpaUKg",
+  "topics": [
+   "ai-api-gateway",
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "seedance-2-5",
+   "seedance-2-5-1080p",
+   "seedance-2-5-api",
+   "seedance2-5",
+   "seedance2-5-api",
+   "text-to-video"
+  ]
+ },
+ "1385607186": {
+  "created_at": "2026-09-24T13:51:18Z",
+  "desc": "seedance-2.5 API (seedance2.5 / seedance 2.5): every recipe runs from $0.0961 per second (480P). Model id, prompts settings, curl and Python examples over an OpenAI-compatible gate",
+  "lang": "Shell",
+  "name": "xfeqaolq2ovnv/seedance2.5-seedance-2.5-prompts",
+  "node_id": "R_kgDOUpawEg",
+  "topics": [
+   "ai-api-gateway",
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "seedance-2-5",
+   "seedance-2-5-api",
+   "seedance-2-5-prompts",
+   "seedance2-5",
+   "seedance2-5-api",
+   "text-to-video"
+  ]
+ },
+ "1385661051": {
+  "created_at": "2026-09-24T14:15:35Z",
+  "desc": "seedance-2.0-mini API (seedance2.0mini / seedance 2.0 mini): 480P $0.01056 per second; 720P $0.02288. Model id, api settings, curl and Python examples over an OpenAI-compatible gat",
+  "lang": "Shell",
+  "name": "hhad58x5d3nht3a/seedance2.0mini-seedance-2.0-mini-api",
+  "node_id": "R_kgDOUpeCew",
+  "topics": [
+   "ai-api-gateway",
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "seedance-2-0-mini",
+   "seedance-2-0-mini-api",
+   "seedance2-0mini",
+   "seedance2-0mini-api",
+   "text-to-video"
+  ]
+ },
+ "1385668588": {
+  "created_at": "2026-09-24T14:19:07Z",
+  "desc": "gpt-image-2.5-ext API (gptimage2.5 / gpt image 2.5 ext): 4K $0.021 per image; 2K $0.014; 1K $0.0085. Model id, 4k settings, curl and Python examples over an OpenAI-compatible gatew",
+  "lang": "Shell",
+  "name": "gkdh0uepxud4b/gptimage2.5-gpt-image-2.5-4k",
+  "node_id": "R_kgDOUpef7A",
+  "topics": [
+   "ai-api-gateway",
+   "api-docs",
+   "apimart",
+   "gpt-image-2-5-ext",
+   "gpt-image-2-5-ext-4k",
+   "gpt-image-2-5-ext-api",
+   "gptimage2-5",
+   "gptimage2-5-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "text-to-image"
+  ]
+ },
+ "1385683731": {
+  "created_at": "2026-09-24T14:26:16Z",
+  "desc": "gemini-3-pro-image-preview API (nanobananapro / gemini 3 pro image preview): 4K $0.04 per image; default $0.03. Model id, 4k settings, curl and Python examples over an OpenAI-compa",
+  "lang": "Shell",
+  "name": "nmkshs742wz1yrh/nanobananapro-nano-banana-pro-4k",
+  "node_id": "R_kgDOUpfbEw",
+  "topics": [
+   "ai-api-gateway",
+   "api-docs",
+   "apimart",
+   "gemini-3-pro-image-preview",
+   "gemini-3-pro-image-preview-4k",
+   "gemini-3-pro-image-preview-api",
+   "nanobananapro",
+   "nanobananapro-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "text-to-image"
+  ]
+ },
+ "1385691734": {
+  "created_at": "2026-09-24T14:30:19Z",
+  "desc": "AI API gateway pricing: published unit prices for image2.5 ($0.0085/image), Seedance 2.0 Mini ($0.0106/sec), LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up",
+  "lang": "Shell",
+  "name": "o6vm1o9t/aiapi-gateway-pricing",
+  "node_id": "R_kgDOUpf6Vg",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-gateway-api",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "gateway",
+   "gateway-api",
+   "gateway-pricing",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385697549": {
+  "created_at": "2026-09-24T14:33:16Z",
+  "desc": "seedance-2.5 API \u4e2d\u6587\u6587\u6863\uff08seedance2.5\uff09\uff1a480P \u6bcf\u79d2 $0.0961\uff1b720P $0.216\uff1b1080P $0.3849\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "ok66oqyea0fi8zqv/seedance2.5-seedance-2.5-api-cn",
+  "node_id": "R_kgDOUpgRDQ",
+  "topics": [
+   "ai-api-gateway",
+   "apimart",
+   "chinese",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "seedance-2-5",
+   "seedance-2-5-api",
+   "seedance2-5",
+   "seedance2-5-api",
+   "text-to-video"
+  ]
+ },
+ "1385735998": {
+  "created_at": "2026-09-24T14:53:40Z",
+  "desc": "gpt-image-2 API (gptimage2 / gpt image 2): 1K $0.0085 per image; 2K $0.014; 4K $0.021. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimu",
+  "lang": "Shell",
+  "name": "kywh6cljfydw/gptimage2-gpt-image-2-api",
+  "node_id": "R_kgDOUpinPg",
+  "topics": [
+   "ai-api-gateway",
+   "api-docs",
+   "apimart",
+   "gpt-image-2",
+   "gpt-image-2-api",
+   "gptimage2",
+   "gptimage2-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "text-to-image"
+  ]
+ },
  "1385750356": {
   "created_at": "2026-09-24T15:00:59Z",
   "desc": "Companion guide for the NetworkChuck Paperclip video: install Paperclip and build an AI IT department. Every step tested on Paperclip 2026.916.1.",
@@ -363355,6 +363991,14 @@
   "node_id": "R_kgDOUppvzA",
   "topics": []
  },
+ "1385884737": {
+  "created_at": "2026-09-24T16:11:48Z",
+  "desc": "Native vLLM serving for Jev decision models",
+  "lang": "Python",
+  "name": "mode-io/vllm-jev",
+  "node_id": "R_kgDOUprsQQ",
+  "topics": []
+ },
  "1385896447": {
   "created_at": "2026-09-24T16:17:19Z",
   "desc": "\u5728 dsh \u91cc\u88c5\u4e0a\u8fd9\u4e2a\u63d2\u4ef6\u5373\u53ef\uff0c\u65e0\u9700\u767b\u5f55\u3001\u6ce8\u518c\u6216\u586b API Key\uff0c\u5c31\u80fd\u4f7f\u7528\u5305\u62ec Muse Spark 1.3\u3001MiMo V2.6 \u5728\u5185\u7684\u524d\u6cbf\u6a21\u578b\u2014\u2014\u5b8c\u5168\u514d\u8d39\uff0c\u4e0d\u9650\u91cf\u3002 All you do is install this plugin in dsh: no login, no sign-up, no API key \u2014 the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
@@ -363374,6 +364018,614 @@
    "openai-compatible"
   ]
  },
+ "1385932968": {
+  "created_at": "2026-09-24T16:34:27Z",
+  "desc": "AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "t2fknd72ek2/openai-compatible-api",
+  "node_id": "R_kgDOUpuoqA",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385938684": {
+  "created_at": "2026-09-24T16:36:59Z",
+  "desc": "AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "syve4rnjr6q/ai-api-relay-pricing",
+  "node_id": "R_kgDOUpu-_A",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385940456": {
+  "created_at": "2026-09-24T16:37:42Z",
+  "desc": "AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "pbd91ed197/ai-api-proxy",
+  "node_id": "R_kgDOUpvF6A",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385940769": {
+  "created_at": "2026-09-24T16:37:49Z",
+  "desc": "AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "h4udc060ram/image-api-gateway",
+  "node_id": "R_kgDOUpvHIQ",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385940907": {
+  "created_at": "2026-09-24T16:37:53Z",
+  "desc": "AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "onji14obx6p/video-api-gateway",
+  "node_id": "R_kgDOUpvHqw",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385944949": {
+  "created_at": "2026-09-24T16:39:44Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "x3nop8m0/ai-api-gateway-cn",
+  "node_id": "R_kgDOUpvXdQ",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385946301": {
+  "created_at": "2026-09-24T16:40:20Z",
+  "desc": "Qwen3.8-Flash-Next (125B MoE) on a 12-24 GB NVIDIA GPU + 64 GB RAM: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+  "lang": "C++",
+  "name": "Niko1221/Strata",
+  "node_id": "R_kgDOUpvcvQ",
+  "topics": []
+ },
+ "1385946365": {
+  "created_at": "2026-09-24T16:40:22Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "w8sgms4l8e/llm-api-gateway-cn",
+  "node_id": "R_kgDOUpvc_Q",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385946642": {
+  "created_at": "2026-09-24T16:40:29Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "mkehgv85oo/ai-api-aggregator-cn",
+  "node_id": "R_kgDOUpveEg",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385946899": {
+  "created_at": "2026-09-24T16:40:36Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "yfo24usvspx/ai-api-relay-cn",
+  "node_id": "R_kgDOUpvfEw",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385952569": {
+  "created_at": "2026-09-24T16:43:16Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "bfcn96b8ibx3nfe/image-api-gateway-cn",
+  "node_id": "R_kgDOUpv1OQ",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385952730": {
+  "created_at": "2026-09-24T16:43:20Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "xa8frx0vaulu978/video-api-gateway-cn",
+  "node_id": "R_kgDOUpv12g",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385953957": {
+  "created_at": "2026-09-24T16:43:56Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "i9dk4wmlcea/cheap-llm-api-cn",
+  "node_id": "R_kgDOUpv6pQ",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385957766": {
+  "created_at": "2026-09-24T16:45:40Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "gnsxh528i2/openai-compatible-cn",
+  "node_id": "R_kgDOUpwJhg",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385958579": {
+  "created_at": "2026-09-24T16:46:05Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "h21hgz0qfd2ku/gpt-image-api-cn",
+  "node_id": "R_kgDOUpwMsw",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385958632": {
+  "created_at": "2026-09-24T16:46:07Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "j4c8dobolsuo8m2m/seedance-api-cn",
+  "node_id": "R_kgDOUpwM6A",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385960203": {
+  "created_at": "2026-09-24T16:46:54Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "wqvdw3tl/nano-banana-api-cn",
+  "node_id": "R_kgDOUpwTCw",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385974863": {
+  "created_at": "2026-09-24T16:54:20Z",
+  "desc": "AI API \u4e2d\u7d99\u30fb\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4 \u65e5\u672c\u8a9e\u30ac\u30a4\u30c9 \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "so5ez05op96c0z/ai-image-api-ja",
+  "node_id": "R_kgDOUpxMTw",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385974908": {
+  "created_at": "2026-09-24T16:54:21Z",
+  "desc": "AI API \u4e2d\u7d99\u30fb\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4 \u65e5\u672c\u8a9e\u30ac\u30a4\u30c9 \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "l2stfh4/ai-api-gateway-ja",
+  "node_id": "R_kgDOUpxMfA",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385974972": {
+  "created_at": "2026-09-24T16:54:23Z",
+  "desc": "AI API \u4e2d\u7d99\u30fb\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4 \u65e5\u672c\u8a9e\u30ac\u30a4\u30c9 \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "d2td7nw6r/llm-api-gateway-ja",
+  "node_id": "R_kgDOUpxMvA",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385974997": {
+  "created_at": "2026-09-24T16:54:24Z",
+  "desc": "AI API \u4e2d\u7d99\u30fb\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4 \u65e5\u672c\u8a9e\u30ac\u30a4\u30c9 \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "rujfja0dyx36/ai-video-api-ja",
+  "node_id": "R_kgDOUpxM1Q",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385985335": {
+  "created_at": "2026-09-24T16:59:25Z",
+  "desc": "AI API \uc911\uacc4\u00b7\uac8c\uc774\ud2b8\uc6e8\uc774 \ud55c\uad6d\uc5b4 \uac00\uc774\ub4dc \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "lt8qy4myw14j/ai-api-gateway-ko",
+  "node_id": "R_kgDOUpx1Nw",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385985426": {
+  "created_at": "2026-09-24T16:59:27Z",
+  "desc": "AI API \u4e2d\u7d99\u30fb\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4 \u65e5\u672c\u8a9e\u30ac\u30a4\u30c9 \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "q3fhlhd9f6ijzhrv/openrouter-alternative-ja",
+  "node_id": "R_kgDOUpx1kg",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385985511": {
+  "created_at": "2026-09-24T16:59:30Z",
+  "desc": "AI API \u4e2d\u7d99\u30fb\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4 \u65e5\u672c\u8a9e\u30ac\u30a4\u30c9 \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "tnp1zauytwz7e/ai-api-pricing-ja",
+  "node_id": "R_kgDOUpx15w",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385986544": {
+  "created_at": "2026-09-24T17:00:03Z",
+  "desc": "AI API \uc911\uacc4\u00b7\uac8c\uc774\ud2b8\uc6e8\uc774 \ud55c\uad6d\uc5b4 \uac00\uc774\ub4dc \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "h1d1ut37nis2/llm-api-gateway-ko",
+  "node_id": "R_kgDOUpx58A",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385991157": {
+  "created_at": "2026-09-24T17:02:24Z",
+  "desc": "AI API \uc911\uacc4\u00b7\uac8c\uc774\ud2b8\uc6e8\uc774 \ud55c\uad6d\uc5b4 \uac00\uc774\ub4dc \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "bnqrymg3zo64au/cheapest-llm-api-ko",
+  "node_id": "R_kgDOUpyL9Q",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385992381": {
+  "created_at": "2026-09-24T17:03:00Z",
+  "desc": "AI API \uc911\uacc4\u00b7\uac8c\uc774\ud2b8\uc6e8\uc774 \ud55c\uad6d\uc5b4 \uac00\uc774\ub4dc \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "sduu1ha/ai-api-pricing-ko",
+  "node_id": "R_kgDOUpyQvQ",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385996939": {
+  "created_at": "2026-09-24T17:05:14Z",
+  "desc": "Passerelle/relais API \u2014 guide en fran\u00e7ais \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "pbxzhaqjodow7hc/ai-api-gateway-fr",
+  "node_id": "R_kgDOUpyiiw",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1385997849": {
+  "created_at": "2026-09-24T17:05:42Z",
+  "desc": "Passerelle/relais API \u2014 guide en fran\u00e7ais \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "g9fqyrdjbt2h0h/llm-api-gateway-fr",
+  "node_id": "R_kgDOUpymGQ",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1386002698": {
+  "created_at": "2026-09-24T17:08:04Z",
+  "desc": "Passerelle/relais API \u2014 guide en fran\u00e7ais \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "omoun8nc1vbpx12/ai-image-api-fr",
+  "node_id": "R_kgDOUpy5Cg",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1386003222": {
+  "created_at": "2026-09-24T17:08:20Z",
+  "desc": "Passerelle/relais API \u2014 guide en fran\u00e7ais \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "cnaf609itkvimah/ai-video-api-fr",
+  "node_id": "R_kgDOUpy7Fg",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
  "1386004688": {
   "created_at": "2026-09-24T17:09:04Z",
   "desc": "Open-source AI video clipping desktop app by BridgeMind",
@@ -363381,6 +364633,561 @@
   "name": "bridge-mind/bridgeclip",
   "node_id": "R_kgDOUpzA0A",
   "topics": []
+ },
+ "1386005768": {
+  "created_at": "2026-09-24T17:09:37Z",
+  "desc": "Passerelle/relais API \u2014 guide en fran\u00e7ais \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "bxfwbd7ntoi/openrouter-alternative-fr",
+  "node_id": "R_kgDOUpzFCA",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1386005848": {
+  "created_at": "2026-09-24T17:09:39Z",
+  "desc": "Passerelle/relais API \u2014 guide en fran\u00e7ais \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "rjid4jygvwgi556g/ai-api-pricing-fr",
+  "node_id": "R_kgDOUpzFWA",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1386007747": {
+  "created_at": "2026-09-24T17:10:38Z",
+  "desc": "gpt-image-2.5 API (gptimage2.5 / gpt image 2.5): flare@1K $0.0085; sunburst@1K $0.0085; flare@2K $0.014. Model id, api settings, curl and Python examples over an OpenAI-compatible ",
+  "lang": "Shell",
+  "name": "cqk4s1t/gptimage2.5-gpt-image-2.5-api",
+  "node_id": "R_kgDOUpzMww",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "gpt-image-2-5",
+   "gpt-image-2-5-api",
+   "gptimage2-5",
+   "gptimage2-5-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "text-to-image"
+  ]
+ },
+ "1386008485": {
+  "created_at": "2026-09-24T17:11:01Z",
+  "desc": "gpt-image-2.5 API (gptimage2.5 / gpt image 2.5): flare@1K $0.0085; sunburst@1K $0.0085; flare@2K $0.014. Model id, gateway settings, curl and Python examples over an OpenAI-compati",
+  "lang": "Shell",
+  "name": "x5igu5k0ib7w/gptimage2.5-gpt-image-2.5-gateway",
+  "node_id": "R_kgDOUpzPpQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gateway",
+   "gpt-image-2-5",
+   "gpt-image-2-5-api",
+   "gpt-image-2-5-gateway",
+   "gptimage2-5",
+   "gptimage2-5-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "text-to-image"
+  ]
+ },
+ "1386015885": {
+  "created_at": "2026-09-24T17:14:50Z",
+  "desc": "AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "z2ilx67xogs/unified-ai-api",
+  "node_id": "R_kgDOUpzsjQ",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1386016704": {
+  "created_at": "2026-09-24T17:15:15Z",
+  "desc": "AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "y2i3j6wlg2p51kk/openai-compatible-proxy",
+  "node_id": "R_kgDOUpzvwA",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1386020921": {
+  "created_at": "2026-09-24T17:17:22Z",
+  "desc": "AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "qqzj1a625tt0/ai-api-relay",
+  "node_id": "R_kgDOUp0AOQ",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1386021747": {
+  "created_at": "2026-09-24T17:17:43Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "u0o3cso/ai-api-pricing-cn",
+  "node_id": "R_kgDOUp0Dcw",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1386035478": {
+  "created_at": "2026-09-24T17:24:25Z",
+  "desc": "gpt-image-2.5 API (gptimage2.5 / gpt image 2.5): flare@1K $0.0085; sunburst@1K $0.0085; flare@2K $0.014. Model id, prompts settings, curl and Python examples over an OpenAI-compati",
+  "lang": "Shell",
+  "name": "hmpg3ugc/gptimage2.5-gpt-image-2.5-prompts",
+  "node_id": "R_kgDOUp05Fg",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gpt-image-2-5",
+   "gpt-image-2-5-api",
+   "gpt-image-2-5-prompts",
+   "gptimage2-5",
+   "gptimage2-5-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "prompts",
+   "text-to-image"
+  ]
+ },
+ "1386035488": {
+  "created_at": "2026-09-24T17:24:25Z",
+  "desc": "nano-banana-pro API (nanobananapro / nano banana pro): default $0.03; 4K $0.04. Model id, prompts settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum t",
+  "lang": "Shell",
+  "name": "dkvzv43kmpm5w/nanobananapro-nano-banana-pro-prompts",
+  "node_id": "R_kgDOUp05IA",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "nano-banana-pro",
+   "nano-banana-pro-api",
+   "nano-banana-pro-prompts",
+   "nanobananapro",
+   "nanobananapro-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "prompts",
+   "text-to-image"
+  ]
+ },
+ "1386035526": {
+  "created_at": "2026-09-24T17:24:26Z",
+  "desc": "nano-banana-pro API (nanobananapro / nano banana pro): default $0.03; 4K $0.04. Model id, gateway settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum t",
+  "lang": "Shell",
+  "name": "qr664tnsxq0eyn4v/nanobananapro-nano-banana-pro-gateway",
+  "node_id": "R_kgDOUp05Rg",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gateway",
+   "nano-banana-pro",
+   "nano-banana-pro-api",
+   "nano-banana-pro-gateway",
+   "nanobananapro",
+   "nanobananapro-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "text-to-image"
+  ]
+ },
+ "1386035543": {
+  "created_at": "2026-09-24T17:24:26Z",
+  "desc": "nano-banana-pro API (nanobananapro / nano banana pro): default $0.03; 4K $0.04. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-u",
+  "lang": "Shell",
+  "name": "lrc2lwat48z2w80/nanobananapro-nano-banana-pro-api",
+  "node_id": "R_kgDOUp05Vw",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "nano-banana-pro",
+   "nano-banana-pro-api",
+   "nanobananapro",
+   "nanobananapro-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "text-to-image"
+  ]
+ },
+ "1386040750": {
+  "created_at": "2026-09-24T17:27:02Z",
+  "desc": "seedance-2.0 API (seedance2.0 / seedance 2.0): 480P-input $0.04; 480P $0.066; 720P-input $0.0858. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway",
+  "lang": "Shell",
+  "name": "xcb1lkup/seedance2.0-seedance-2.0-api",
+  "node_id": "R_kgDOUp1Nrg",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "seedance-2-0",
+   "seedance-2-0-api",
+   "seedance2-0",
+   "seedance2-0-api",
+   "text-to-video"
+  ]
+ },
+ "1386040921": {
+  "created_at": "2026-09-24T17:27:07Z",
+  "desc": "seedance-2.0 API (seedance2.0 / seedance 2.0): 480P-input $0.04; 480P $0.066; 720P-input $0.0858. Model id, gateway settings, curl and Python examples over an OpenAI-compatible gat",
+  "lang": "Shell",
+  "name": "qwp38napmr7wuyk/seedance2.0-seedance-2.0-gateway",
+  "node_id": "R_kgDOUp1OWQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "seedance-2-0",
+   "seedance-2-0-api",
+   "seedance-2-0-gateway",
+   "seedance2-0",
+   "seedance2-0-api",
+   "text-to-video"
+  ]
+ },
+ "1386040989": {
+  "created_at": "2026-09-24T17:27:09Z",
+  "desc": "seedance-2.0 API (seedance2.0 / seedance 2.0): 480P-input $0.04; 480P $0.066; 720P-input $0.0858. Model id, 4k settings, curl and Python examples over an OpenAI-compatible gateway,",
+  "lang": "Shell",
+  "name": "n395cux/seedance2.0-seedance-2.0-4k",
+  "node_id": "R_kgDOUp1OnQ",
+  "topics": [
+   "4k",
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "seedance-2-0",
+   "seedance-2-0-4k",
+   "seedance-2-0-api",
+   "seedance2-0",
+   "seedance2-0-api",
+   "text-to-video"
+  ]
+ },
+ "1386041384": {
+  "created_at": "2026-09-24T17:27:21Z",
+  "desc": "seedance-2.0 API (seedance2.0 / seedance 2.0): 480P-input $0.04; 480P $0.066; 720P-input $0.0858. Model id, prompts settings, curl and Python examples over an OpenAI-compatible gat",
+  "lang": "Shell",
+  "name": "l8ydfngb96sgsj/seedance2.0-seedance-2.0-prompts",
+  "node_id": "R_kgDOUp1QKA",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "prompts",
+   "seedance-2-0",
+   "seedance-2-0-api",
+   "seedance-2-0-prompts",
+   "seedance2-0",
+   "seedance2-0-api",
+   "text-to-video"
+  ]
+ },
+ "1386046129": {
+  "created_at": "2026-09-24T17:29:49Z",
+  "desc": "grok-imagine-2.0 API (grokimagine2.0 / grok imagine 2.0): upload-image $0; default $0.015; region-edit $0.015. Model id, gateway settings, curl and Python examples over an OpenAI-c",
+  "lang": "Shell",
+  "name": "cjiziasuicar/grokimagine2.0-grok-imagine-2.0-gateway",
+  "node_id": "R_kgDOUp1isQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gateway",
+   "grok-imagine-2-0",
+   "grok-imagine-2-0-api",
+   "grok-imagine-2-0-gateway",
+   "grokimagine2-0",
+   "grokimagine2-0-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "text-to-image"
+  ]
+ },
+ "1386046144": {
+  "created_at": "2026-09-24T17:29:50Z",
+  "desc": "grok-imagine-2.0 API (grokimagine2.0 / grok imagine 2.0): upload-image $0; default $0.015; region-edit $0.015. Model id, prompts settings, curl and Python examples over an OpenAI-c",
+  "lang": "Shell",
+  "name": "bx0idu7sqebwpgu8/grokimagine2.0-grok-imagine-2.0-prompts",
+  "node_id": "R_kgDOUp1iwA",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "grok-imagine-2-0",
+   "grok-imagine-2-0-api",
+   "grok-imagine-2-0-prompts",
+   "grokimagine2-0",
+   "grokimagine2-0-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "prompts",
+   "text-to-image"
+  ]
+ },
+ "1386046145": {
+  "created_at": "2026-09-24T17:29:50Z",
+  "desc": "grok-imagine-2.0 API (grokimagine2.0 / grok imagine 2.0): upload-image $0; default $0.015; region-edit $0.015. Model id, api settings, curl and Python examples over an OpenAI-compa",
+  "lang": "Shell",
+  "name": "k2c2gbd1pqdj01wo/grokimagine2.0-grok-imagine-2.0-api",
+  "node_id": "R_kgDOUp1iwQ",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "grok-imagine-2-0",
+   "grok-imagine-2-0-api",
+   "grokimagine2-0",
+   "grokimagine2-0-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "text-to-image"
+  ]
+ },
+ "1386046158": {
+  "created_at": "2026-09-24T17:29:50Z",
+  "desc": "grok-imagine-2.0 API (grokimagine2.0 / grok imagine 2.0): upload-image $0; default $0.015; region-edit $0.015. Model id, 2k settings, curl and Python examples over an OpenAI-compat",
+  "lang": "Shell",
+  "name": "ga7ycgew/grokimagine2.0-grok-imagine-2.0-2k",
+  "node_id": "R_kgDOUp1izg",
+  "topics": [
+   "2k",
+   "api-docs",
+   "apimart",
+   "grok-imagine-2-0",
+   "grok-imagine-2-0-2k",
+   "grok-imagine-2-0-api",
+   "grokimagine2-0",
+   "grokimagine2-0-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "text-to-image"
+  ]
+ },
+ "1386050841": {
+  "created_at": "2026-09-24T17:32:18Z",
+  "desc": "seedream-5.0 API (seedream5.0 / seedream 5.0): 1K-layer $0.0146; 1K $0.0293; 2K-layer $0.0293. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $",
+  "lang": "Shell",
+  "name": "xlba2khlnrdsd8f/seedream5.0-seedream-5.0-api",
+  "node_id": "R_kgDOUp11GQ",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "seedream-5-0",
+   "seedream-5-0-api",
+   "seedream5-0",
+   "seedream5-0-api",
+   "text-to-image"
+  ]
+ },
+ "1386051016": {
+  "created_at": "2026-09-24T17:32:24Z",
+  "desc": "seedream-5.0 API (seedream5.0 / seedream 5.0): 1K-layer $0.0146; 1K $0.0293; 2K-layer $0.0293. Model id, gateway settings, curl and Python examples over an OpenAI-compatible gatewa",
+  "lang": "Shell",
+  "name": "ydfqphoks5738xo/seedream5.0-seedream-5.0-gateway",
+  "node_id": "R_kgDOUp11yA",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "seedream-5-0",
+   "seedream-5-0-api",
+   "seedream-5-0-gateway",
+   "seedream5-0",
+   "seedream5-0-api",
+   "text-to-image"
+  ]
+ },
+ "1386051053": {
+  "created_at": "2026-09-24T17:32:26Z",
+  "desc": "seedream-5.0 API (seedream5.0 / seedream 5.0): 1K-layer $0.0146; 1K $0.0293; 2K-layer $0.0293. Model id, prompts settings, curl and Python examples over an OpenAI-compatible gatewa",
+  "lang": "Shell",
+  "name": "nj4naiem992lmr/seedream5.0-seedream-5.0-prompts",
+  "node_id": "R_kgDOUp117Q",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "prompts",
+   "seedream-5-0",
+   "seedream-5-0-api",
+   "seedream-5-0-prompts",
+   "seedream5-0",
+   "seedream5-0-api",
+   "text-to-image"
+  ]
+ },
+ "1386052763": {
+  "created_at": "2026-09-24T17:33:23Z",
+  "desc": "flux-2 API (flux2 / flux 2): 1MP $0.024; 2MP $0.036; 3MP $0.048. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "fjaefshg9/flux2-flux-2-api",
+  "node_id": "R_kgDOUp18mw",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "flux-2",
+   "flux-2-api",
+   "flux2",
+   "flux2-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "text-to-image"
+  ]
+ },
+ "1386055469": {
+  "created_at": "2026-09-24T17:34:44Z",
+  "desc": "flux-2 API (flux2 / flux 2): 1MP $0.024; 2MP $0.036; 3MP $0.048. Model id, gateway settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "twp0wh4xm56p6lc3/flux2-flux-2-gateway",
+  "node_id": "R_kgDOUp2HLQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "flux-2",
+   "flux-2-api",
+   "flux-2-gateway",
+   "flux2",
+   "flux2-api",
+   "gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "text-to-image"
+  ]
+ },
+ "1386055991": {
+  "created_at": "2026-09-24T17:35:01Z",
+  "desc": "flux-2 API (flux2 / flux 2): 1MP $0.024; 2MP $0.036; 3MP $0.048. Model id, prompts settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "sgp2hidyk7jm/flux2-flux-2-prompts",
+  "node_id": "R_kgDOUp2JNw",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "flux-2",
+   "flux-2-api",
+   "flux-2-prompts",
+   "flux2",
+   "flux2-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "prompts",
+   "text-to-image"
+  ]
+ },
+ "1386058082": {
+  "created_at": "2026-09-24T17:36:02Z",
+  "desc": "qwen-image-3.0 API (qwenimage3.0 / qwen image 3.0): default $0.0206; 1K $0.0206; 2K $0.0206. Model id, gateway settings, curl and Python examples over an OpenAI-compatible gateway,",
+  "lang": "Shell",
+  "name": "lfzgvaqci0occqg/qwenimage3.0-qwen-image-3.0-gateway",
+  "node_id": "R_kgDOUp2RYg",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "qwen-image-3-0",
+   "qwen-image-3-0-api",
+   "qwen-image-3-0-gateway",
+   "qwenimage3-0",
+   "qwenimage3-0-api",
+   "text-to-image"
+  ]
  },
  "1386061631": {
   "created_at": "2026-09-24T17:37:46Z",
@@ -363397,6 +365204,1101 @@
    "technical-writing"
   ]
  },
+ "1386102169": {
+  "created_at": "2026-09-24T17:59:38Z",
+  "desc": "kling-3 API (kling3 / kling 3): default $0.0672; pro $0.0896; sound $0.1008. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "ki0ti51/kling3-kling-3-api",
+  "node_id": "R_kgDOUp49mQ",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "kling-3",
+   "kling-3-api",
+   "kling3",
+   "kling3-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "text-to-video"
+  ]
+ },
+ "1386102188": {
+  "created_at": "2026-09-24T17:59:39Z",
+  "desc": "kling-3 API (kling3 / kling 3): default $0.0672; pro $0.0896; sound $0.1008. Model id, gateway settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-",
+  "lang": "Shell",
+  "name": "nm23y450v9v/kling3-kling-3-gateway",
+  "node_id": "R_kgDOUp49rA",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gateway",
+   "kling-3",
+   "kling-3-api",
+   "kling-3-gateway",
+   "kling3",
+   "kling3-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "text-to-video"
+  ]
+ },
+ "1386102205": {
+  "created_at": "2026-09-24T17:59:39Z",
+  "desc": "qwen-image-3.0 API (qwenimage3.0 / qwen image 3.0): default $0.0206; 1K $0.0206; 2K $0.0206. Model id, prompts settings, curl and Python examples over an OpenAI-compatible gateway,",
+  "lang": "Shell",
+  "name": "qh7wn6hrf9tx/qwenimage3.0-qwen-image-3.0-prompts",
+  "node_id": "R_kgDOUp49vQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "prompts",
+   "qwen-image-3-0",
+   "qwen-image-3-0-api",
+   "qwen-image-3-0-prompts",
+   "qwenimage3-0",
+   "qwenimage3-0-api",
+   "text-to-image"
+  ]
+ },
+ "1386102888": {
+  "created_at": "2026-09-24T18:00:02Z",
+  "desc": "kling-3 API (kling3 / kling 3): default $0.0672; pro $0.0896; sound $0.1008. Model id, prompts settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-",
+  "lang": "Shell",
+  "name": "ovdtze56q1zgksb4/kling3-kling-3-prompts",
+  "node_id": "R_kgDOUp5AaA",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "kling-3",
+   "kling-3-api",
+   "kling-3-prompts",
+   "kling3",
+   "kling3-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "prompts",
+   "text-to-video"
+  ]
+ },
+ "1386106710": {
+  "created_at": "2026-09-24T18:02:04Z",
+  "desc": "veo-3.1 API (veo3.1 / veo 3.1): default $0.07; extend $0.07; 4K $0.57. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "zp9okb28gn3h/veo3.1-veo-3.1-api",
+  "node_id": "R_kgDOUp5PVg",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "llm-api",
+   "llm-api-pricing",
+   "openai-compatible",
+   "pay-as-you-go",
+   "veo-3-1",
+   "veo-3-1-api",
+   "veo3-1",
+   "veo3-1-api"
+  ]
+ },
+ "1386107545": {
+  "created_at": "2026-09-24T18:02:32Z",
+  "desc": "veo-3.1 API (veo3.1 / veo 3.1): default $0.07; extend $0.07; 4K $0.57. Model id, gateway settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "amtesfxx0/veo3.1-veo-3.1-gateway",
+  "node_id": "R_kgDOUp5SmQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gateway",
+   "llm-api",
+   "llm-api-pricing",
+   "openai-compatible",
+   "pay-as-you-go",
+   "veo-3-1",
+   "veo-3-1-api",
+   "veo-3-1-gateway",
+   "veo3-1",
+   "veo3-1-api"
+  ]
+ },
+ "1386107995": {
+  "created_at": "2026-09-24T18:02:44Z",
+  "desc": "veo-3.1 API (veo3.1 / veo 3.1): default $0.07; extend $0.07; 4K $0.57. Model id, prompts settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "q7o9z6l8jhtagctl/veo3.1-veo-3.1-prompts",
+  "node_id": "R_kgDOUp5UWw",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "llm-api",
+   "llm-api-pricing",
+   "openai-compatible",
+   "pay-as-you-go",
+   "prompts",
+   "veo-3-1",
+   "veo-3-1-api",
+   "veo-3-1-prompts",
+   "veo3-1",
+   "veo3-1-api"
+  ]
+ },
+ "1386109831": {
+  "created_at": "2026-09-24T18:03:45Z",
+  "desc": "wan-3.0-video API (wan3.0video / wan 3.0 video): 480P $0.0329; 720P $0.0658; default $0.1315. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $1",
+  "lang": "Shell",
+  "name": "ejsyk3xdp3t2o/wan3.0video-wan-3.0-video-api",
+  "node_id": "R_kgDOUp5bhw",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "text-to-video",
+   "wan-3-0-video",
+   "wan-3-0-video-api",
+   "wan3-0video",
+   "wan3-0video-api"
+  ]
+ },
+ "1386111415": {
+  "created_at": "2026-09-24T18:04:38Z",
+  "desc": "wan-3.0-video API (wan3.0video / wan 3.0 video): 480P $0.0329; 720P $0.0658; default $0.1315. Model id, gateway settings, curl and Python examples over an OpenAI-compatible gateway",
+  "lang": "Shell",
+  "name": "j7ts80q4tkx1ism4/wan3.0video-wan-3.0-video-gateway",
+  "node_id": "R_kgDOUp5htw",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "text-to-video",
+   "wan-3-0-video",
+   "wan-3-0-video-api",
+   "wan-3-0-video-gateway",
+   "wan3-0video",
+   "wan3-0video-api"
+  ]
+ },
+ "1386112170": {
+  "created_at": "2026-09-24T18:05:02Z",
+  "desc": "wan-3.0-video API (wan3.0video / wan 3.0 video): 480P $0.0329; 720P $0.0658; default $0.1315. Model id, prompts settings, curl and Python examples over an OpenAI-compatible gateway",
+  "lang": "Shell",
+  "name": "gslsvt43llzsaw/wan3.0video-wan-3.0-video-prompts",
+  "node_id": "R_kgDOUp5kqg",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "prompts",
+   "text-to-video",
+   "wan-3-0-video",
+   "wan-3-0-video-api",
+   "wan-3-0-video-prompts",
+   "wan3-0video",
+   "wan3-0video-api"
+  ]
+ },
+ "1386112831": {
+  "created_at": "2026-09-24T18:05:23Z",
+  "desc": "hailuo-2.3 API (hailuo2.3 / hailuo 2.3): default $0.0248; 1080P $0.0424. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "ik29kerqejooyj/hailuo2.3-hailuo-2.3-api",
+  "node_id": "R_kgDOUp5nPw",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "hailuo-2-3",
+   "hailuo-2-3-api",
+   "hailuo2-3",
+   "hailuo2-3-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "text-to-video"
+  ]
+ },
+ "1386113997": {
+  "created_at": "2026-09-24T18:06:02Z",
+  "desc": "hailuo-2.3 API (hailuo2.3 / hailuo 2.3): default $0.0248; 1080P $0.0424. Model id, gateway settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "iyqhcef3ffn/hailuo2.3-hailuo-2.3-gateway",
+  "node_id": "R_kgDOUp5rzQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gateway",
+   "hailuo-2-3",
+   "hailuo-2-3-api",
+   "hailuo-2-3-gateway",
+   "hailuo2-3",
+   "hailuo2-3-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "text-to-video"
+  ]
+ },
+ "1386116149": {
+  "created_at": "2026-09-24T18:07:14Z",
+  "desc": "hailuo-2.3 API (hailuo2.3 / hailuo 2.3): default $0.0248; 1080P $0.0424. Model id, prompts settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "ddiaf67azw/hailuo2.3-hailuo-2.3-prompts",
+  "node_id": "R_kgDOUp50NQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "hailuo-2-3",
+   "hailuo-2-3-api",
+   "hailuo-2-3-prompts",
+   "hailuo2-3",
+   "hailuo2-3-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "prompts",
+   "text-to-video"
+  ]
+ },
+ "1386116756": {
+  "created_at": "2026-09-24T18:07:34Z",
+  "desc": "midjourney API (midjourney / midjourney): default $0.045; imagine $0.045; imagine-niji6 $0.045. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, ",
+  "lang": "Shell",
+  "name": "fvkutltnp0iwy/midjourney-api",
+  "node_id": "R_kgDOUp52lA",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "llm-api",
+   "llm-api-pricing",
+   "midjourney",
+   "midjourney-api",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386117375": {
+  "created_at": "2026-09-24T18:07:57Z",
+  "desc": "midjourney API (midjourney / midjourney): default $0.045; imagine $0.045; imagine-niji6 $0.045. Model id, gateway settings, curl and Python examples over an OpenAI-compatible gatew",
+  "lang": "Shell",
+  "name": "zq0kc6svuwle/midjourney-gateway",
+  "node_id": "R_kgDOUp54_w",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gateway",
+   "llm-api",
+   "llm-api-pricing",
+   "midjourney",
+   "midjourney-api",
+   "midjourney-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386118529": {
+  "created_at": "2026-09-24T18:08:37Z",
+  "desc": "midjourney API (midjourney / midjourney): default $0.045; imagine $0.045; imagine-niji6 $0.045. Model id, prompts settings, curl and Python examples over an OpenAI-compatible gatew",
+  "lang": "Shell",
+  "name": "t9hid1p6ue2a/midjourney-prompts",
+  "node_id": "R_kgDOUp59gQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "llm-api",
+   "llm-api-pricing",
+   "midjourney",
+   "midjourney-api",
+   "midjourney-prompts",
+   "openai-compatible",
+   "pay-as-you-go",
+   "prompts"
+  ]
+ },
+ "1386120696": {
+  "created_at": "2026-09-24T18:09:52Z",
+  "desc": "AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "l5367qw01zq/zimage-z-image-turbo-api",
+  "node_id": "R_kgDOUp6F-A",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1386121094": {
+  "created_at": "2026-09-24T18:10:05Z",
+  "desc": "imagen-4.0 API (imagen4.0 / imagen 4.0): default $0.04. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "qbejwz7zi1a/imagen4.0-imagen-4.0-api",
+  "node_id": "R_kgDOUp6Hhg",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "imagen-4-0",
+   "imagen-4-0-api",
+   "imagen4-0",
+   "imagen4-0-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "text-to-image"
+  ]
+ },
+ "1386121977": {
+  "created_at": "2026-09-24T18:10:34Z",
+  "desc": "AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "azle5biyd9td956/pixverse6-pixverse-v6-api",
+  "node_id": "R_kgDOUp6K-Q",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1386122881": {
+  "created_at": "2026-09-24T18:11:04Z",
+  "desc": "viduq3 API (viduq3 / viduq3): 540P $0.04; default $0.08; 720P $0.08. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "sl8fe6obaz8ym3c/viduq3-api",
+  "node_id": "R_kgDOUp6OgQ",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "text-to-video",
+   "viduq3",
+   "viduq3-api"
+  ]
+ },
+ "1386130624": {
+  "created_at": "2026-09-24T18:15:27Z",
+  "desc": "AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "b8agzi2vupj175j/skyreels4-skyreels-v4-api",
+  "node_id": "R_kgDOUp6swA",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1386130627": {
+  "created_at": "2026-09-24T18:15:28Z",
+  "desc": "seedream-4.5 API (seedream4.5 / seedream 4.5): default $0.026. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "ac6ezs3b4am/seedream4.5-seedream-4.5-api",
+  "node_id": "R_kgDOUp6sww",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "seedream-4-5",
+   "seedream-4-5-api",
+   "seedream4-5",
+   "seedream4-5-api",
+   "text-to-image"
+  ]
+ },
+ "1386130628": {
+  "created_at": "2026-09-24T18:15:28Z",
+  "desc": "wan-2.7-image API (wan2.7image / wan 2.7 image): default $0.0216. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "xhh873d/wan2.7image-wan-2.7-image-api",
+  "node_id": "R_kgDOUp6sxA",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "text-to-image",
+   "wan-2-7-image",
+   "wan-2-7-image-api",
+   "wan2-7image",
+   "wan2-7image-api"
+  ]
+ },
+ "1386130635": {
+  "created_at": "2026-09-24T18:15:28Z",
+  "desc": "happyhorse-1.1 API (happyhorse1.1 / happyhorse 1.1): 720P $0.13; default $0.172; 1080P $0.172. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $",
+  "lang": "Shell",
+  "name": "xy82d465/happyhorse1.1-happyhorse-1.1-api",
+  "node_id": "R_kgDOUp6syw",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "happyhorse-1-1",
+   "happyhorse-1-1-api",
+   "happyhorse1-1",
+   "happyhorse1-1-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "text-to-video"
+  ]
+ },
+ "1386135244": {
+  "created_at": "2026-09-24T18:17:57Z",
+  "desc": "gemini-3.1-flash-lite-image API (gemini3.1flashliteimage / gemini 3.1 flash lite image): default $0.0125. Model id, api settings, curl and Python examples over an OpenAI-compatible",
+  "lang": "Shell",
+  "name": "bncnm3qadk/gemini3.1flashliteimage-gemini-3.1-flash-lite-image-api",
+  "node_id": "R_kgDOUp6-zA",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "gemini-3-1-flash-lite-image",
+   "gemini-3-1-flash-lite-image-api",
+   "gemini3-1flashliteimage",
+   "gemini3-1flashliteimage-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "text-to-image"
+  ]
+ },
+ "1386135329": {
+  "created_at": "2026-09-24T18:18:01Z",
+  "desc": "viduq3-turbo API (viduq3turbo / viduq3 turbo): 540P $0.032; 720P $0.048; 1080P $0.056. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimu",
+  "lang": "Shell",
+  "name": "wxyqdethj0wot9u/viduq3turbo-viduq3-turbo-api",
+  "node_id": "R_kgDOUp6_IQ",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "text-to-video",
+   "viduq3-turbo",
+   "viduq3-turbo-api",
+   "viduq3turbo",
+   "viduq3turbo-api"
+  ]
+ },
+ "1386135345": {
+  "created_at": "2026-09-24T18:18:01Z",
+  "desc": "kling-3.0-turbo API (kling3.0turbo / kling 3.0 turbo): 720P $0.1144; 1080P $0.1432. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum t",
+  "lang": "Shell",
+  "name": "e0pp066/kling3.0turbo-kling-3.0-turbo-api",
+  "node_id": "R_kgDOUp6_MQ",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "kling-3-0-turbo",
+   "kling-3-0-turbo-api",
+   "kling3-0turbo",
+   "kling3-0turbo-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "text-to-video"
+  ]
+ },
+ "1386135493": {
+  "created_at": "2026-09-24T18:18:06Z",
+  "desc": "sora-2 API (sora2 / sora 2): default $0.08; official-720P $0.08. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "bthlvvdnq90gx/sora2-sora-2-api",
+  "node_id": "R_kgDOUp6_xQ",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-second-pricing",
+   "sora-2",
+   "sora-2-api",
+   "sora2",
+   "sora2-api",
+   "text-to-video"
+  ]
+ },
+ "1386140108": {
+  "created_at": "2026-09-24T18:20:39Z",
+  "desc": "AI API \u4e2d\u7d99\u30fb\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4 \u65e5\u672c\u8a9e\u30ac\u30a4\u30c9 \u00b7 seedance-2.5 / seedance2.5 API\uff1a480P-input $0.0576; 480P $0.0961; 720P-input $0.1296\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "bf6yeyp2li6t3/seedance2.5-seedance-2.5-api-ja",
+  "node_id": "R_kgDOUp7RzA",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "ja",
+   "model-ja",
+   "openai-compatible",
+   "pay-as-you-go",
+   "seedance-2-5",
+   "seedance-2-5-api",
+   "seedance2-5",
+   "seedance2-5-api"
+  ]
+ },
+ "1386140287": {
+  "created_at": "2026-09-24T18:20:45Z",
+  "desc": "Passerelle/relais API \u2014 guide en fran\u00e7ais \u00b7 seedance-2.5 / seedance2.5 API\uff1a480P-input $0.0576; 480P $0.0961; 720P-input $0.1296\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "m9bhsjas4e/seedance2.5-seedance-2.5-api-fr",
+  "node_id": "R_kgDOUp7Sfw",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "fr",
+   "model-fr",
+   "openai-compatible",
+   "pay-as-you-go",
+   "seedance-2-5",
+   "seedance-2-5-api",
+   "seedance2-5",
+   "seedance2-5-api"
+  ]
+ },
+ "1386140376": {
+  "created_at": "2026-09-24T18:20:49Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 gpt-image-2.5 / gptimage2.5 API\uff1aflare@1K $0.0085; sunburst@1K $0.0085; flare@2K $0.014\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "r6rlnhx/gptimage2.5-gpt-image-2.5-api-cn",
+  "node_id": "R_kgDOUp7S2A",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "cn",
+   "gpt-image-2-5",
+   "gpt-image-2-5-api",
+   "gptimage2-5",
+   "gptimage2-5-api",
+   "model-cn",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386144817": {
+  "created_at": "2026-09-24T18:23:26Z",
+  "desc": "AI API \uc911\uacc4\u00b7\uac8c\uc774\ud2b8\uc6e8\uc774 \ud55c\uad6d\uc5b4 \uac00\uc774\ub4dc \u00b7 gpt-image-2.5 / gptimage2.5 API\uff1aflare@1K $0.0085; sunburst@1K $0.0085; flare@2K $0.014\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "y4gt20muoqgr/gptimage2.5-gpt-image-2.5-api-ko",
+  "node_id": "R_kgDOUp7kMQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gpt-image-2-5",
+   "gpt-image-2-5-api",
+   "gptimage2-5",
+   "gptimage2-5-api",
+   "ko",
+   "model-ko",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386144916": {
+  "created_at": "2026-09-24T18:23:30Z",
+  "desc": "Passerelle/relais API \u2014 guide en fran\u00e7ais \u00b7 gpt-image-2.5 / gptimage2.5 API\uff1aflare@1K $0.0085; sunburst@1K $0.0085; flare@2K $0.014\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "uq4j9o9h9oaoi/gptimage2.5-gpt-image-2.5-api-fr",
+  "node_id": "R_kgDOUp7klA",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "fr",
+   "gpt-image-2-5",
+   "gpt-image-2-5-api",
+   "gptimage2-5",
+   "gptimage2-5-api",
+   "model-fr",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386148762": {
+  "created_at": "2026-09-24T18:25:49Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 nano-banana-pro / nanobananapro API\uff1adefault $0.03; 4K $0.04\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "l58paermlzmw/nanobananapro-nano-banana-pro-api-cn",
+  "node_id": "R_kgDOUp7zmg",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "cn",
+   "model-cn",
+   "nano-banana-pro",
+   "nano-banana-pro-api",
+   "nanobananapro",
+   "nanobananapro-api",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386148966": {
+  "created_at": "2026-09-24T18:25:55Z",
+  "desc": "AI API \u4e2d\u7d99\u30fb\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4 \u65e5\u672c\u8a9e\u30ac\u30a4\u30c9 \u00b7 nano-banana-pro / nanobananapro API\uff1adefault $0.03; 4K $0.04\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "gfqobluvu2/nanobananapro-nano-banana-pro-api-ja",
+  "node_id": "R_kgDOUp70Zg",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "ja",
+   "model-ja",
+   "nano-banana-pro",
+   "nano-banana-pro-api",
+   "nanobananapro",
+   "nanobananapro-api",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386152133": {
+  "created_at": "2026-09-24T18:27:52Z",
+  "desc": "AI API \uc911\uacc4\u00b7\uac8c\uc774\ud2b8\uc6e8\uc774 \ud55c\uad6d\uc5b4 \uac00\uc774\ub4dc \u00b7 nano-banana-pro / nanobananapro API\uff1adefault $0.03; 4K $0.04\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "oatcdtzbohp/nanobananapro-nano-banana-pro-api-ko",
+  "node_id": "R_kgDOUp8AxQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "ko",
+   "model-ko",
+   "nano-banana-pro",
+   "nano-banana-pro-api",
+   "nanobananapro",
+   "nanobananapro-api",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386153017": {
+  "created_at": "2026-09-24T18:28:24Z",
+  "desc": "Passerelle/relais API \u2014 guide en fran\u00e7ais \u00b7 nano-banana-pro / nanobananapro API\uff1adefault $0.03; 4K $0.04\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "i98obnc8rnegxf8/nanobananapro-nano-banana-pro-api-fr",
+  "node_id": "R_kgDOUp8EOQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "fr",
+   "model-fr",
+   "nano-banana-pro",
+   "nano-banana-pro-api",
+   "nanobananapro",
+   "nanobananapro-api",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386153851": {
+  "created_at": "2026-09-24T18:28:54Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 grok-imagine-2.0 / grokimagine2.0 API\uff1aupload-image $0; default $0.015; region-edit $0.015\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "hd42567u/grokimagine2.0-grok-imagine-2.0-api-cn",
+  "node_id": "R_kgDOUp8Hew",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "cn",
+   "grok-imagine-2-0",
+   "grok-imagine-2-0-api",
+   "grokimagine2-0",
+   "grokimagine2-0-api",
+   "model-cn",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386161878": {
+  "created_at": "2026-09-24T18:33:40Z",
+  "desc": "AI API \uc911\uacc4\u00b7\uac8c\uc774\ud2b8\uc6e8\uc774 \ud55c\uad6d\uc5b4 \uac00\uc774\ub4dc \u00b7 grok-imagine-2.0 / grokimagine2.0 API\uff1aupload-image $0; default $0.015; region-edit $0.015\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "rnzpezzb4ffdis0h/grokimagine2.0-grok-imagine-2.0-api-ko",
+  "node_id": "R_kgDOUp8m1g",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "grok-imagine-2-0",
+   "grok-imagine-2-0-api",
+   "grokimagine2-0",
+   "grokimagine2-0-api",
+   "ko",
+   "model-ko",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386161881": {
+  "created_at": "2026-09-24T18:33:40Z",
+  "desc": "AI API \u4e2d\u7d99\u30fb\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4 \u65e5\u672c\u8a9e\u30ac\u30a4\u30c9 \u00b7 grok-imagine-2.0 / grokimagine2.0 API\uff1aupload-image $0; default $0.015; region-edit $0.015\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "d1h5grxx9una7uq0/grokimagine2.0-grok-imagine-2.0-api-ja",
+  "node_id": "R_kgDOUp8m2Q",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "grok-imagine-2-0",
+   "grok-imagine-2-0-api",
+   "grokimagine2-0",
+   "grokimagine2-0-api",
+   "ja",
+   "model-ja",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386165595": {
+  "created_at": "2026-09-24T18:36:00Z",
+  "desc": "AI API \u4e2d\u7d99\u30fb\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4 \u65e5\u672c\u8a9e\u30ac\u30a4\u30c9 \u00b7 seedream-5.0 / seedream5.0 API\uff1a1K-layer $0.0146; 1K $0.0293; 2K-layer $0.0293\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "dy9jyi5wrum1a/seedream5.0-seedream-5.0-api-ja",
+  "node_id": "R_kgDOUp81Ww",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "ja",
+   "model-ja",
+   "openai-compatible",
+   "pay-as-you-go",
+   "seedream-5-0",
+   "seedream-5-0-api",
+   "seedream5-0",
+   "seedream5-0-api"
+  ]
+ },
+ "1386165603": {
+  "created_at": "2026-09-24T18:36:01Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 flux-2 / flux2 API\uff1a1MP $0.024; 2MP $0.036; 3MP $0.048\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "k6hdkoe76rybli/flux2-flux-2-api-cn",
+  "node_id": "R_kgDOUp81Yw",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "cn",
+   "flux-2",
+   "flux-2-api",
+   "flux2",
+   "flux2-api",
+   "model-cn",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386169861": {
+  "created_at": "2026-09-24T18:38:24Z",
+  "desc": "AI API \u4e2d\u7d99\u30fb\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4 \u65e5\u672c\u8a9e\u30ac\u30a4\u30c9 \u00b7 flux-2 / flux2 API\uff1a1MP $0.024; 2MP $0.036; 3MP $0.048\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "ba43yaqmj/flux2-flux-2-api-ja",
+  "node_id": "R_kgDOUp9GBQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "flux-2",
+   "flux-2-api",
+   "flux2",
+   "flux2-api",
+   "ja",
+   "model-ja",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386170086": {
+  "created_at": "2026-09-24T18:38:32Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 kling-3 / kling3 API\uff1adefault $0.0672; pro $0.0896; sound $0.1008\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "fxc6l8rhylu/kling3-kling-3-api-cn",
+  "node_id": "R_kgDOUp9G5g",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "cn",
+   "kling-3",
+   "kling-3-api",
+   "kling3",
+   "kling3-api",
+   "model-cn",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386173739": {
+  "created_at": "2026-09-24T18:40:51Z",
+  "desc": "AI API \u4e2d\u7d99\u30fb\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4 \u65e5\u672c\u8a9e\u30ac\u30a4\u30c9 \u00b7 kling-3 / kling3 API\uff1adefault $0.0672; pro $0.0896; sound $0.1008\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "f9addgw4efhbve24/kling3-kling-3-api-ja",
+  "node_id": "R_kgDOUp9VKw",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "ja",
+   "kling-3",
+   "kling-3-api",
+   "kling3",
+   "kling3-api",
+   "model-ja",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386173755": {
+  "created_at": "2026-09-24T18:40:52Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 veo-3.1 / veo3.1 API\uff1adefault $0.07; extend $0.07; 4K $0.57\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "s8peu9s3gz/veo3.1-veo-3.1-api-cn",
+  "node_id": "R_kgDOUp9VOw",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "cn",
+   "model-cn",
+   "openai-compatible",
+   "pay-as-you-go",
+   "veo-3-1",
+   "veo-3-1-api",
+   "veo3-1",
+   "veo3-1-api"
+  ]
+ },
+ "1386174131": {
+  "created_at": "2026-09-24T18:41:06Z",
+  "desc": "AI API \u4e2d\u7d99\u30fb\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4 \u65e5\u672c\u8a9e\u30ac\u30a4\u30c9 \u00b7 veo-3.1 / veo3.1 API\uff1adefault $0.07; extend $0.07; 4K $0.57\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "j5uz55lf5vqfaq3m/veo3.1-veo-3.1-api-ja",
+  "node_id": "R_kgDOUp9Wsw",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "ja",
+   "model-ja",
+   "openai-compatible",
+   "pay-as-you-go",
+   "veo-3-1",
+   "veo-3-1-api",
+   "veo3-1",
+   "veo3-1-api"
+  ]
+ },
+ "1386176321": {
+  "created_at": "2026-09-24T18:42:29Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 qwen-image-3.0 / qwenimage3.0 API\uff1adefault $0.0206; 1K $0.0206; 2K $0.0206\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "oy8jfpo2qa8075/qwenimage3.0-qwen-image-3.0-api-cn",
+  "node_id": "R_kgDOUp9fQQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "cn",
+   "model-cn",
+   "openai-compatible",
+   "pay-as-you-go",
+   "qwen-image-3-0",
+   "qwen-image-3-0-api",
+   "qwenimage3-0",
+   "qwenimage3-0-api"
+  ]
+ },
+ "1386177603": {
+  "created_at": "2026-09-24T18:43:18Z",
+  "desc": "AI API \u4e2d\u7d99\u30fb\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4 \u65e5\u672c\u8a9e\u30ac\u30a4\u30c9 \u00b7 qwen-image-3.0 / qwenimage3.0 API\uff1adefault $0.0206; 1K $0.0206; 2K $0.0206\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "fpbjogs5demjf/qwenimage3.0-qwen-image-3.0-api-ja",
+  "node_id": "R_kgDOUp9kQw",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "ja",
+   "model-ja",
+   "openai-compatible",
+   "pay-as-you-go",
+   "qwen-image-3-0",
+   "qwen-image-3-0-api",
+   "qwenimage3-0",
+   "qwenimage3-0-api"
+  ]
+ },
+ "1386177773": {
+  "created_at": "2026-09-24T18:43:23Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 seedance-2.0 / seedance2.0 API\uff1a480P-input $0.04; 480P $0.066; 720P-input $0.0858\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "gedqn5vrlxaj3/seedance2.0-seedance-2.0-api-cn",
+  "node_id": "R_kgDOUp9k7Q",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "cn",
+   "model-cn",
+   "openai-compatible",
+   "pay-as-you-go",
+   "seedance-2-0",
+   "seedance-2-0-api",
+   "seedance2-0",
+   "seedance2-0-api"
+  ]
+ },
+ "1386178150": {
+  "created_at": "2026-09-24T18:43:38Z",
+  "desc": "AI API \u4e2d\u7d99\u30fb\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4 \u65e5\u672c\u8a9e\u30ac\u30a4\u30c9 \u00b7 seedance-2.0 / seedance2.0 API\uff1a480P-input $0.04; 480P $0.066; 720P-input $0.0858\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "kz5884w8o6/seedance2.0-seedance-2.0-api-ja",
+  "node_id": "R_kgDOUp9mZg",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "ja",
+   "model-ja",
+   "openai-compatible",
+   "pay-as-you-go",
+   "seedance-2-0",
+   "seedance-2-0-api",
+   "seedance2-0",
+   "seedance2-0-api"
+  ]
+ },
+ "1386180108": {
+  "created_at": "2026-09-24T18:44:50Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 gpt-5.6 / gpt5.6 API\uff1ainput $0.16; cached_input $0.016; cache_write $0.2\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "iex0bznmramo/gpt-5.6-api-cn",
+  "node_id": "R_kgDOUp9uDA",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "cn",
+   "gpt-5-6",
+   "gpt-5-6-api",
+   "gpt5-6",
+   "gpt5-6-api",
+   "llm-cn",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386181746": {
+  "created_at": "2026-09-24T18:45:49Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 claude-sonnet-5 / claudesonnet5 API\uff1ainput $1.6; cached_input $0.16; cache_write_5m $2\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "f4dv8debr9jji/claudesonnet5-claude-sonnet-5-api-cn",
+  "node_id": "R_kgDOUp90cg",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "claude-sonnet-5",
+   "claude-sonnet-5-api",
+   "claudesonnet5",
+   "claudesonnet5-api",
+   "cn",
+   "llm-cn",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386181761": {
+  "created_at": "2026-09-24T18:45:50Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 deepseek-v4-flash / deepseekv4flash API\uff1ainput $0.3429; cached_input $0.0686; output $1.0286\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "q5j6wce58gt45/deepseekv4flash-deepseek-v4-flash-api-cn",
+  "node_id": "R_kgDOUp90gQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "cn",
+   "deepseek-v4-flash",
+   "deepseek-v4-flash-api",
+   "deepseekv4flash",
+   "deepseekv4flash-api",
+   "llm-cn",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386182316": {
+  "created_at": "2026-09-24T18:46:11Z",
+  "desc": "AI API \u4e2d\u7d99\u30fb\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4 \u65e5\u672c\u8a9e\u30ac\u30a4\u30c9 \u00b7 qwen3.8-flash / qwen3.8flash API\uff1ainput $0.0914; cached_input $0.0114; explicit_cached_input $0.0114\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "eh4awrsalwdv/qwen3.8flash-qwen3.8-flash-api-ja",
+  "node_id": "R_kgDOUp92rA",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "ja",
+   "llm-ja",
+   "openai-compatible",
+   "pay-as-you-go",
+   "qwen3-8-flash",
+   "qwen3-8-flash-api",
+   "qwen3-8flash",
+   "qwen3-8flash-api"
+  ]
+ },
+ "1386184197": {
+  "created_at": "2026-09-24T18:47:23Z",
+  "desc": "AI API \uc911\uacc4\u00b7\uac8c\uc774\ud2b8\uc6e8\uc774 \ud55c\uad6d\uc5b4 \uac00\uc774\ub4dc \u00b7 glm-5.3-flash / glm5.3flash API\uff1ainput $0.06; cached_input $0.012; output $0.2\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "f96avtwo0f7v62qc/glm5.3flash-glm-5.3-flash-api-ko",
+  "node_id": "R_kgDOUp9-BQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "glm-5-3-flash",
+   "glm-5-3-flash-api",
+   "glm5-3flash",
+   "glm5-3flash-api",
+   "ko",
+   "llm-ko",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
  "1386190011": {
   "created_at": "2026-09-24T18:51:08Z",
   "desc": "Enables tongue tracking and eye convergence on a rooted Quest Pro over wifi",
@@ -363404,6 +366306,424 @@
   "name": "Fwooffy/Qpro-Enhanced-FT-Wireless",
   "node_id": "R_kgDOUp-Uuw",
   "topics": []
+ },
+ "1386191415": {
+  "created_at": "2026-09-24T18:52:02Z",
+  "desc": "gpt-5.6-terra API (gpt5.6terra / gpt 5.6 terra): input $1.6; cached_input $0.16; cache_write $2. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway,",
+  "lang": "Shell",
+  "name": "cwn9n3vo3kno8/gpt5.6terra-gpt-5.6-terra-api",
+  "node_id": "R_kgDOUp-aNw",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gpt-5-6-terra",
+   "gpt-5-6-terra-api",
+   "gpt-5-6-terra-llm",
+   "gpt5-6terra",
+   "gpt5-6terra-api",
+   "llm",
+   "llm-api",
+   "llm-api-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386191417": {
+  "created_at": "2026-09-24T18:52:02Z",
+  "desc": "gpt-5.6-luna API (gpt5.6luna / gpt 5.6 luna): input $0.16; cached_input $0.016; cache_write $0.2. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway",
+  "lang": "Shell",
+  "name": "itsfz98v7ln/gpt5.6luna-gpt-5.6-luna-api",
+  "node_id": "R_kgDOUp-aOQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gpt-5-6-luna",
+   "gpt-5-6-luna-api",
+   "gpt-5-6-luna-llm",
+   "gpt5-6luna",
+   "gpt5-6luna-api",
+   "llm",
+   "llm-api",
+   "llm-api-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386191420": {
+  "created_at": "2026-09-24T18:52:02Z",
+  "desc": "gpt-6-astra API (gpt6astra / gpt 6 astra): input $8; cached_input $0.8; cache_write $10. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway, $1 mini",
+  "lang": "Shell",
+  "name": "y44r8lqlg6st/gpt6astra-gpt-6-astra-api",
+  "node_id": "R_kgDOUp-aPA",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gpt-6-astra",
+   "gpt-6-astra-api",
+   "gpt-6-astra-llm",
+   "gpt6astra",
+   "gpt6astra-api",
+   "llm",
+   "llm-api",
+   "llm-api-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386191441": {
+  "created_at": "2026-09-24T18:52:02Z",
+  "desc": "Passerelle/relais API \u2014 guide en fran\u00e7ais \u00b7 kimi-k2.7 / kimik2.7 API\uff1ainput $0.7429; output $3.083\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "fku558ad6/kimik2.7-kimi-k2.7-api-fr",
+  "node_id": "R_kgDOUp-aUQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "fr",
+   "kimi-k2-7",
+   "kimi-k2-7-api",
+   "kimik2-7",
+   "kimik2-7-api",
+   "llm-fr",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386195165": {
+  "created_at": "2026-09-24T18:54:24Z",
+  "desc": "claude-opus-4.7 API (claudeopus4.7 / claude opus 4.7): input $4; cached_input $0.4; cache_write_5m $5. Model id, llm settings, curl and Python examples over an OpenAI-compatible ga",
+  "lang": "Shell",
+  "name": "rbvzaxis5myenl/claudeopus4.7-claude-opus-4.7-api",
+  "node_id": "R_kgDOUp-o3Q",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "claude-opus-4-7",
+   "claude-opus-4-7-api",
+   "claude-opus-4-7-llm",
+   "claudeopus4-7",
+   "claudeopus4-7-api",
+   "llm",
+   "llm-api",
+   "llm-api-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386195166": {
+  "created_at": "2026-09-24T18:54:24Z",
+  "desc": "gpt-5.6-sol API (gpt5.6sol / gpt 5.6 sol): input $3.2; cached_input $0.32; cache_write $4. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway, $1 mi",
+  "lang": "Shell",
+  "name": "n43wtuk/gpt5.6sol-gpt-5.6-sol-api",
+  "node_id": "R_kgDOUp-o3g",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gpt-5-6-sol",
+   "gpt-5-6-sol-api",
+   "gpt-5-6-sol-llm",
+   "gpt5-6sol",
+   "gpt5-6sol-api",
+   "llm",
+   "llm-api",
+   "llm-api-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386195243": {
+  "created_at": "2026-09-24T18:54:27Z",
+  "desc": "claude-sonnet-5 API (claudesonnet5 / claude sonnet 5): input $1.6; cached_input $0.16; cache_write_5m $2. Model id, llm settings, curl and Python examples over an OpenAI-compatible",
+  "lang": "Shell",
+  "name": "pye8505i0c5cw9/claudesonnet5-claude-sonnet-5-api",
+  "node_id": "R_kgDOUp-pKw",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "claude-sonnet-5",
+   "claude-sonnet-5-api",
+   "claude-sonnet-5-llm",
+   "claudesonnet5",
+   "claudesonnet5-api",
+   "llm",
+   "llm-api",
+   "llm-api-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386195400": {
+  "created_at": "2026-09-24T18:54:32Z",
+  "desc": "grok-4.5 API (grok4.5 / grok 4.5): input $1.6; output $3.2. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "hub6l18gx/grok4.5-grok-4.5-api",
+  "node_id": "R_kgDOUp-pyA",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "grok-4-5",
+   "grok-4-5-api",
+   "grok-4-5-llm",
+   "grok4-5",
+   "grok4-5-api",
+   "llm",
+   "llm-api",
+   "llm-api-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386199510": {
+  "created_at": "2026-09-24T18:56:57Z",
+  "desc": "gemini-3-pro API (gemini3pro / gemini 3 pro): input $1.6; output $9.6. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "u7n3fubt/gemini3pro-gemini-3-pro-api",
+  "node_id": "R_kgDOUp-51g",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gemini-3-pro",
+   "gemini-3-pro-api",
+   "gemini-3-pro-llm",
+   "gemini3pro",
+   "gemini3pro-api",
+   "llm",
+   "llm-api",
+   "llm-api-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386199591": {
+  "created_at": "2026-09-24T18:57:00Z",
+  "desc": "qwen3.8-flash API (qwen3.8flash / qwen3.8 flash): input $0.0914; cached_input $0.0114; explicit_cached_input $0.0114. Model id, llm settings, curl and Python examples over an OpenA",
+  "lang": "Shell",
+  "name": "h8lblor/qwen3.8flash-qwen3.8-flash-api",
+  "node_id": "R_kgDOUp-6Jw",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "llm",
+   "llm-api",
+   "llm-api-pricing",
+   "openai-compatible",
+   "pay-as-you-go",
+   "qwen3-8-flash",
+   "qwen3-8-flash-api",
+   "qwen3-8-flash-llm",
+   "qwen3-8flash",
+   "qwen3-8flash-api"
+  ]
+ },
+ "1386199654": {
+  "created_at": "2026-09-24T18:57:03Z",
+  "desc": "glm-5.3-flash API (glm5.3flash / glm 5.3 flash): input $0.06; cached_input $0.012; output $0.2. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway, ",
+  "lang": "Shell",
+  "name": "sqt2x8cri89r/glm5.3flash-glm-5.3-flash-api",
+  "node_id": "R_kgDOUp-6Zg",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "glm-5-3-flash",
+   "glm-5-3-flash-api",
+   "glm-5-3-flash-llm",
+   "glm5-3flash",
+   "glm5-3flash-api",
+   "llm",
+   "llm-api",
+   "llm-api-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386199845": {
+  "created_at": "2026-09-24T18:57:09Z",
+  "desc": "kimi-k2.7-code API (kimik2.7code / kimi k2.7 code): input $0.7429; output $3.083. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top",
+  "lang": "Shell",
+  "name": "erzx3sbum0dt/kimik2.7code-kimi-k2.7-code-api",
+  "node_id": "R_kgDOUp-7JQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "kimi-k2-7-code",
+   "kimi-k2-7-code-api",
+   "kimi-k2-7-code-llm",
+   "kimik2-7code",
+   "kimik2-7code-api",
+   "llm",
+   "llm-api",
+   "llm-api-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386203538": {
+  "created_at": "2026-09-24T18:59:23Z",
+  "desc": "minimax-m3 API (minimaxm3 / minimax m3): input $0.24; output $0.96. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "qt7ur16hre/minimaxm3-minimax-m3-api",
+  "node_id": "R_kgDOUp_Jkg",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "llm",
+   "llm-api",
+   "llm-api-pricing",
+   "minimax-m3",
+   "minimax-m3-api",
+   "minimax-m3-llm",
+   "minimaxm3",
+   "minimaxm3-api",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386203784": {
+  "created_at": "2026-09-24T18:59:33Z",
+  "desc": "deepseek-v4-flash API (deepseekv4flash / deepseek v4 flash): input $0.3429; cached_input $0.0686; output $1.0286. Model id, llm settings, curl and Python examples over an OpenAI-co",
+  "lang": "Shell",
+  "name": "f59y84d/deepseekv4flash-deepseek-v4-flash-api",
+  "node_id": "R_kgDOUp_KiA",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "deepseek-v4-flash",
+   "deepseek-v4-flash-api",
+   "deepseek-v4-flash-llm",
+   "deepseekv4flash",
+   "deepseekv4flash-api",
+   "llm",
+   "llm-api",
+   "llm-api-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386203818": {
+  "created_at": "2026-09-24T18:59:34Z",
+  "desc": "deepseek-v4-pro API (deepseekv4pro / deepseek v4 pro): input $1.0286; cached_input $0.2057; output $3.0857. Model id, llm settings, curl and Python examples over an OpenAI-compatib",
+  "lang": "Shell",
+  "name": "eceuisg0a0l6p7q/deepseekv4pro-deepseek-v4-pro-api",
+  "node_id": "R_kgDOUp_Kqg",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "deepseek-v4-pro",
+   "deepseek-v4-pro-api",
+   "deepseek-v4-pro-llm",
+   "deepseekv4pro",
+   "deepseekv4pro-api",
+   "llm",
+   "llm-api",
+   "llm-api-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386203832": {
+  "created_at": "2026-09-24T18:59:34Z",
+  "desc": "qwen3.7-flash API (qwen3.7flash / qwen3.7 flash): input $0.0229; cached_input $0.0046; explicit_cached_input $0.0023. Model id, llm settings, curl and Python examples over an OpenA",
+  "lang": "Shell",
+  "name": "y1m7ge9aeal27kut/qwen3.7flash-qwen3.7-flash-api",
+  "node_id": "R_kgDOUp_KuA",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "llm",
+   "llm-api",
+   "llm-api-pricing",
+   "openai-compatible",
+   "pay-as-you-go",
+   "qwen3-7-flash",
+   "qwen3-7-flash-api",
+   "qwen3-7-flash-llm",
+   "qwen3-7flash",
+   "qwen3-7flash-api"
+  ]
+ },
+ "1386207520": {
+  "created_at": "2026-09-24T19:01:56Z",
+  "desc": "gpt-6-astra API (gpt6astra / gpt 6 astra): input $8; cached_input $0.8; cache_write $10. Model id, llm-pricing settings, curl and Python examples over an OpenAI-compatible gateway,",
+  "lang": "Shell",
+  "name": "p6k1a4bpr/gpt6astra-gpt-6-astra-api-pricing",
+  "node_id": "R_kgDOUp_ZIA",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gpt-6-astra",
+   "gpt-6-astra-api",
+   "gpt-6-astra-llm-pricing",
+   "gpt6astra",
+   "gpt6astra-api",
+   "llm-api",
+   "llm-api-pricing",
+   "llm-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386207756": {
+  "created_at": "2026-09-24T19:02:06Z",
+  "desc": "claude-opus-4.7 API (claudeopus4.7 / claude opus 4.7): input $4; cached_input $0.4; cache_write_5m $5. Model id, llm-pricing settings, curl and Python examples over an OpenAI-compa",
+  "lang": "Shell",
+  "name": "gflnxt8p19v5e6/claudeopus4.7-claude-opus-4.7-api-pricing",
+  "node_id": "R_kgDOUp_aDA",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "claude-opus-4-7",
+   "claude-opus-4-7-api",
+   "claude-opus-4-7-llm-pricing",
+   "claudeopus4-7",
+   "claudeopus4-7-api",
+   "llm-api",
+   "llm-api-pricing",
+   "llm-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386207794": {
+  "created_at": "2026-09-24T19:02:07Z",
+  "desc": "grok-4.5 API (grok4.5 / grok 4.5): input $1.6; output $3.2. Model id, llm-pricing settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+  "lang": "Shell",
+  "name": "rue6mc1fr5cp/grok4.5-grok-4.5-api-pricing",
+  "node_id": "R_kgDOUp_aMg",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "grok-4-5",
+   "grok-4-5-api",
+   "grok-4-5-llm-pricing",
+   "grok4-5",
+   "grok4-5-api",
+   "llm-api",
+   "llm-api-pricing",
+   "llm-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386220116": {
+  "created_at": "2026-09-24T19:10:07Z",
+  "desc": "deepseek-v4-pro API (deepseekv4pro / deepseek v4 pro): input $1.0286; cached_input $0.2057; output $3.0857. Model id, llm-pricing settings, curl and Python examples over an OpenAI-",
+  "lang": "Shell",
+  "name": "blt7g0v81ydtd/deepseekv4pro-deepseek-v4-pro-api-pricing",
+  "node_id": "R_kgDOUqAKVA",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "deepseek-v4-pro",
+   "deepseek-v4-pro-api",
+   "deepseek-v4-pro-llm-pricing",
+   "deepseekv4pro",
+   "deepseekv4pro-api",
+   "llm-api",
+   "llm-api-pricing",
+   "llm-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
  },
  "1386231117": {
   "created_at": "2026-09-24T19:17:31Z",
@@ -363413,6 +366733,163 @@
   "node_id": "R_kgDOUqA1TQ",
   "topics": []
  },
+ "1386236173": {
+  "created_at": "2026-09-24T19:21:03Z",
+  "desc": "AI API \uc911\uacc4\u00b7\uac8c\uc774\ud2b8\uc6e8\uc774 \ud55c\uad6d\uc5b4 \uac00\uc774\ub4dc \u00b7 seedance-2.5 / seedance2.5 API\uff1a480P-input $0.0576; 480P $0.0961; 720P-input $0.1296\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "w22e9wxrmz/seedance2.5-seedance-2.5-api-ko",
+  "node_id": "R_kgDOUqBJDQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "ko",
+   "model-ko",
+   "openai-compatible",
+   "pay-as-you-go",
+   "seedance-2-5",
+   "seedance-2-5-api",
+   "seedance2-5",
+   "seedance2-5-api"
+  ]
+ },
+ "1386236193": {
+  "created_at": "2026-09-24T19:21:04Z",
+  "desc": "AI API \uc911\uacc4\u00b7\uac8c\uc774\ud2b8\uc6e8\uc774 \ud55c\uad6d\uc5b4 \uac00\uc774\ub4dc \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "v4yrb2ypu/ai-image-api-ko",
+  "node_id": "R_kgDOUqBJIQ",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
+ "1386236197": {
+  "created_at": "2026-09-24T19:21:04Z",
+  "desc": "qwen-image-3.0 API (qwenimage3.0 / qwen image 3.0): default $0.0206; 1K $0.0206; 2K $0.0206. Model id, api settings, curl and Python examples over an OpenAI-compatible gateway, $1 ",
+  "lang": "Shell",
+  "name": "vc0ty0ori6s6/qwenimage3.0-qwen-image-3.0-api",
+  "node_id": "R_kgDOUqBJJQ",
+  "topics": [
+   "api",
+   "api-docs",
+   "apimart",
+   "openai-compatible",
+   "pay-as-you-go",
+   "per-image-pricing",
+   "qwen-image-3-0",
+   "qwen-image-3-0-api",
+   "qwenimage3-0",
+   "qwenimage3-0-api",
+   "text-to-image"
+  ]
+ },
+ "1386239633": {
+  "created_at": "2026-09-24T19:23:20Z",
+  "desc": "AI API \u4e2d\u7d99\u30fb\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4 \u65e5\u672c\u8a9e\u30ac\u30a4\u30c9 \u00b7 gpt-image-2.5 / gptimage2.5 API\uff1aflare@1K $0.0085; sunburst@1K $0.0085; flare@2K $0.014\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "kolf0f4vd1qjjlj/gptimage2.5-gpt-image-2.5-api-ja",
+  "node_id": "R_kgDOUqBWkQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gpt-image-2-5",
+   "gpt-image-2-5-api",
+   "gptimage2-5",
+   "gptimage2-5-api",
+   "ja",
+   "model-ja",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386239926": {
+  "created_at": "2026-09-24T19:23:32Z",
+  "desc": "Passerelle/relais API \u2014 guide en fran\u00e7ais \u00b7 grok-imagine-2.0 / grokimagine2.0 API\uff1aupload-image $0; default $0.015; region-edit $0.015\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "flugx0ktyhxyk/grokimagine2.0-grok-imagine-2.0-api-fr",
+  "node_id": "R_kgDOUqBXtg",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "fr",
+   "grok-imagine-2-0",
+   "grok-imagine-2-0-api",
+   "grokimagine2-0",
+   "grokimagine2-0-api",
+   "model-fr",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386240050": {
+  "created_at": "2026-09-24T19:23:37Z",
+  "desc": "gemini-3-pro API (gemini3pro / gemini 3 pro): input $1.6; output $9.6. Model id, llm-pricing settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up",
+  "lang": "Shell",
+  "name": "c2a0azq7d506dc/gemini3pro-gemini-3-pro-api-pricing",
+  "node_id": "R_kgDOUqBYMg",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gemini-3-pro",
+   "gemini-3-pro-api",
+   "gemini-3-pro-llm-pricing",
+   "gemini3pro",
+   "gemini3pro-api",
+   "llm-api",
+   "llm-api-pricing",
+   "llm-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386240056": {
+  "created_at": "2026-09-24T19:23:37Z",
+  "desc": "AI API \u4e2d\u8f6c\u7ad9/\u7f51\u5173\u4e2d\u6587\u6587\u6863 \u00b7 seedream-5.0 / seedream5.0 API\uff1a1K-layer $0.0146; 1K $0.0293; 2K-layer $0.0293\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "lpw9fvgd9kra6fk/seedream5.0-seedream-5.0-api-cn",
+  "node_id": "R_kgDOUqBYOA",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "cn",
+   "model-cn",
+   "openai-compatible",
+   "pay-as-you-go",
+   "seedream-5-0",
+   "seedream-5-0-api",
+   "seedream5-0",
+   "seedream5-0-api"
+  ]
+ },
+ "1386248669": {
+  "created_at": "2026-09-24T19:29:48Z",
+  "desc": "AI API \uc911\uacc4\u00b7\uac8c\uc774\ud2b8\uc6e8\uc774 \ud55c\uad6d\uc5b4 \uac00\uc774\ub4dc \u00b7 AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+  "lang": "Shell",
+  "name": "khxd7yix/ai-video-api-ko",
+  "node_id": "R_kgDOUqB53Q",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-docs",
+   "api-pricing",
+   "apimart",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openrouter-alternative",
+   "pay-as-you-go",
+   "per-image-pricing"
+  ]
+ },
  "1386261789": {
   "created_at": "2026-09-24T19:39:02Z",
   "desc": "Roblox game boilerplate for AI agents: Rojo, Wally, typed Packet networking, ProfileStore data, strict Luau and an AGENTS.md",
@@ -363420,6 +366897,46 @@
   "name": "frrazer/roblox-game-boilerplate",
   "node_id": "R_kgDOUqCtHQ",
   "topics": []
+ },
+ "1386267511": {
+  "created_at": "2026-09-24T19:43:02Z",
+  "desc": "Developer SDK, CLI & AI search intent index for 0audit.com \u2014 Fast Website Diagnostics, Technical SEO, Security Headers & Web Performance Auditor",
+  "lang": "Python",
+  "name": "defitier-sdk/0audit.com",
+  "node_id": "R_kgDOUqDDdw",
+  "topics": [
+   "audit-tools",
+   "devops",
+   "devops-tools",
+   "performance-budget",
+   "security-headers",
+   "security-headers-scanner",
+   "seo-audit",
+   "seo-audit-tool",
+   "technical-seo",
+   "technical-seo-audit",
+   "website-auditor"
+  ]
+ },
+ "1386267785": {
+  "created_at": "2026-09-24T19:43:15Z",
+  "desc": "A langgraph based workflow with a C++ CUDA harness to optimize CUDA kernels",
+  "lang": "Python",
+  "name": "bertaye/agentic-cuda-optimizer",
+  "node_id": "R_kgDOUqDEiQ",
+  "topics": []
+ },
+ "1386311515": {
+  "created_at": "2026-09-24T20:17:06Z",
+  "desc": "Captain's Deck - a read-only Firstmate flow kanban plugin for Herdr",
+  "lang": "Python",
+  "name": "deimantasnork/captains-deck",
+  "node_id": "R_kgDOUqFvWw",
+  "topics": [
+   "firstmate",
+   "herdr",
+   "herdr-plugin"
+  ]
  },
  "1386381759": {
   "created_at": "2026-09-24T21:23:25Z",
@@ -363429,12 +366946,28 @@
   "node_id": "R_kgDOUqKBvw",
   "topics": []
  },
+ "1386522258": {
+  "created_at": "2026-09-25T00:29:30Z",
+  "desc": "Source-linked guide to 1,000+ videos people made with Claude Opus 5.5: what they're about, how they look, how the frames were made.",
+  "lang": "",
+  "name": "athemeroy/awesome-opus-5-5-videos",
+  "node_id": "R_kgDOUqSmkg",
+  "topics": []
+ },
  "1386533084": {
   "created_at": "2026-09-25T00:46:02Z",
   "desc": "Run Qwen3.8-Flash-Next (125B-A6B MoE) on ONE Colab A100-80GB High-RAM: pinned runtime, weights from HF, OpenAI-compatible endpoint, measured 2.8k-3.9k t/s prefill / 90-97 t/s decode, plus a verified pinned-RAM KV tier.",
   "lang": "Python",
   "name": "architectds/collabosm",
   "node_id": "R_kgDOUqTQ3A",
+  "topics": []
+ },
+ "1386544905": {
+  "created_at": "2026-09-25T01:02:51Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "christianmat/jev-pokemon",
+  "node_id": "R_kgDOUqT_CQ",
   "topics": []
  },
  "1386778170": {
@@ -363455,6 +366988,343 @@
    "system-design",
    "system-design-interview"
   ]
+ },
+ "1386862999": {
+  "created_at": "2026-09-25T05:58:47Z",
+  "desc": "gpt-image-2 / gptimage2 API\uff1adefault $0.0085; 1K $0.0085; 2K $0.014\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "zjk4vwp01tpt07/gptimage2-gpt-image-2-api-cn",
+  "node_id": "R_kgDOUqnZlw",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "cn",
+   "gpt-image-2",
+   "gpt-image-2-api",
+   "gptimage2",
+   "gptimage2-api",
+   "model-cn",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386863025": {
+  "created_at": "2026-09-25T05:58:49Z",
+  "desc": "seedance-2.0-mini / seedance2.0mini API\uff1a480P-input $0.0064; 480P $0.0106; 720P-input $0.0138\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "devbort2lqizwj/seedance2.0mini-seedance-2.0-mini-api-cn",
+  "node_id": "R_kgDOUqnZsQ",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "cn",
+   "model-cn",
+   "openai-compatible",
+   "pay-as-you-go",
+   "seedance-2-0-mini",
+   "seedance-2-0-mini-api",
+   "seedance2-0mini",
+   "seedance2-0mini-api"
+  ]
+ },
+ "1386863026": {
+  "created_at": "2026-09-25T05:58:49Z",
+  "desc": "gpt-image-2 / gptimage2 API\uff1adefault $0.0085; 1K $0.0085; 2K $0.014\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "jlqhf90669/gptimage2-gpt-image-2-api-ko",
+  "node_id": "R_kgDOUqnZsg",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gpt-image-2",
+   "gpt-image-2-api",
+   "gptimage2",
+   "gptimage2-api",
+   "ko",
+   "model-ko",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386863039": {
+  "created_at": "2026-09-25T05:58:49Z",
+  "desc": "gpt-image-2 / gptimage2 API\uff1adefault $0.0085; 1K $0.0085; 2K $0.014\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "yd7nkljqb7/gptimage2-gpt-image-2-api-ja",
+  "node_id": "R_kgDOUqnZvw",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "gpt-image-2",
+   "gpt-image-2-api",
+   "gptimage2",
+   "gptimage2-api",
+   "ja",
+   "model-ja",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1386866371": {
+  "created_at": "2026-09-25T06:01:21Z",
+  "desc": "seedance-2.0-mini / seedance2.0mini API\uff1a480P-input $0.0064; 480P $0.0106; 720P-input $0.0138\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "kuhl8wgnph0/seedance2.0mini-seedance-2.0-mini-api-ja",
+  "node_id": "R_kgDOUqnmww",
+  "topics": [
+   "api-docs",
+   "apimart",
+   "ja",
+   "model-ja",
+   "openai-compatible",
+   "pay-as-you-go",
+   "seedance-2-0-mini",
+   "seedance-2-0-mini-api",
+   "seedance2-0mini",
+   "seedance2-0mini-api"
+  ]
+ },
+ "1386866484": {
+  "created_at": "2026-09-25T06:01:27Z",
+  "desc": "seedance-2.5 / seedance2.5 API\uff1a480P-input $0.0576; 480P $0.0961; 720P-input $0.1296\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "u04jznq/seedance2.5-seedance-2.5-720p-ko",
+  "node_id": "R_kgDOUqnnNA",
+  "topics": [
+   "720p",
+   "api-docs",
+   "apimart",
+   "ko",
+   "openai-compatible",
+   "pay-as-you-go",
+   "seedance-2-5",
+   "seedance-2-5-api",
+   "seedance2-5",
+   "seedance2-5-api"
+  ]
+ },
+ "1386866615": {
+  "created_at": "2026-09-25T06:01:34Z",
+  "desc": "nano-banana-pro / nanobananapro API\uff1adefault $0.03; 4K $0.04\u3002\u6a21\u578b ID\u3001\u53c2\u6570\u3001curl \u4e0e Python \u793a\u4f8b\uff0cOpenAI \u517c\u5bb9\u63a5\u53e3\uff0c$1 \u8d77\u5145\u3002",
+  "lang": "Shell",
+  "name": "t7xirxsvznf39/nanobananapro-nano-banana-pro-2k-fr",
+  "node_id": "R_kgDOUqnntw",
+  "topics": [
+   "2k",
+   "api-docs",
+   "apimart",
+   "fr",
+   "nano-banana-pro",
+   "nano-banana-pro-api",
+   "nanobananapro",
+   "nanobananapro-api",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1387019363": {
+  "created_at": "2026-09-25T07:35:18Z",
+  "desc": "Agent skill that produces beat-synced 1080p motion-graphic videos in HyperFrames (HTML + GSAP) with an AI voice-over, karaoke captions, SFX and generated music. MIT.",
+  "lang": "JavaScript",
+  "name": "bestagentkits/motion-video-skill",
+  "node_id": "R_kgDOUqw8Yw",
+  "topics": [
+   "agent-skills",
+   "beat-sync",
+   "chatgpt-plugins",
+   "claude-code",
+   "claude-plugin",
+   "codex",
+   "gsap",
+   "hyperframes",
+   "motion-graphics",
+   "video"
+  ]
+ },
+ "1387036429": {
+  "created_at": "2026-09-25T07:45:43Z",
+  "desc": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai \u6280\u80fd\u4e0e\u8fd0\u884c\u73af\u5883\u6587\u4ef6\uff1b\u975e\u5b98\u65b9\u5b58\u6863 / Unofficial archive.",
+  "lang": "HTML",
+  "name": "win4r/MuseAI-Skills",
+  "node_id": "R_kgDOUqx_DQ",
+  "topics": [
+   "agent-skills",
+   "meta",
+   "muse",
+   "skills"
+  ]
+ },
+ "1387091731": {
+  "created_at": "2026-09-25T08:20:35Z",
+  "desc": "\u8f9e\u8fbe\uff1a\u7528\u4f60\u9009\u62e9\u7684\u5927\u6a21\u578b\uff0c\u5728 Mac \u7684\u4efb\u4f55\u5730\u65b9\u7ffb\u8bd1\u548c\u6da6\u8272\u6587\u5b57\u3002Translate and polish text anywhere on your Mac.",
+  "lang": "Swift",
+  "name": "Xuanwo/cida",
+  "node_id": "R_kgDOUq1XEw",
+  "topics": [
+   "llm",
+   "macos",
+   "menubar-app",
+   "swiftui",
+   "translation"
+  ]
+ },
+ "1387174908": {
+  "created_at": "2026-09-25T09:16:30Z",
+  "desc": "Bulk-provision Google accounts into 9router for Antigravity AI model access (ag/claude-*, ag/gemini-*)",
+  "lang": "Python",
+  "name": "rullxd/ag-login-inject",
+  "node_id": "R_kgDOUq6b_A",
+  "topics": []
+ },
+ "1387365303": {
+  "created_at": "2026-09-25T11:35:57Z",
+  "desc": "Promo & motion videos for software products with HyperFrames + Claude Code. No two films should feel the same: tone matrix, variety audit, 24-transition atlas, 100 storyboard themes.",
+  "lang": "Python",
+  "name": "tugrawork-creator/saas-motion-kit",
+  "node_id": "R_kgDOUrGDtw",
+  "topics": [
+   "claude-code",
+   "hyperframes",
+   "motion-design",
+   "saas",
+   "storyboard",
+   "video"
+  ]
+ },
+ "1387374666": {
+  "created_at": "2026-09-25T11:40:59Z",
+  "desc": "Capcut Pro Unlocked v2026.7 - Full Premium (Windows & MacOS)",
+  "lang": "",
+  "name": "SpecterLouse/CapCut-Pro-macOS-Windows",
+  "node_id": "R_kgDOUrGoSg",
+  "topics": [
+   "capcut-activate",
+   "capcut-ai-video-generator",
+   "capcut-desktop-2026",
+   "capcut-for-macos",
+   "capcut-for-pc",
+   "capcut-pro-account",
+   "capcut-pro-activated",
+   "capcut-pro-exploit",
+   "capcut-pro-free-trial",
+   "capcut-pro-patched",
+   "capcut-pro-subscription",
+   "capcut-unlimited",
+   "capcutpro-download-2026"
+  ]
+ },
+ "1387418261": {
+  "created_at": "2026-09-25T12:07:01Z",
+  "desc": "Motion-graphics skills for Claude Code and Codex.",
+  "lang": "HTML",
+  "name": "Barty-Bart/motion-graphics",
+  "node_id": "R_kgDOUrJSlQ",
+  "topics": []
+ },
+ "1387544315": {
+  "created_at": "2026-09-25T13:23:45Z",
+  "desc": "AI-assisted Windows and Chrome GUI delegation for Codex: task contracts, local execution, Jev semantic decisions, recovery and outcome verification.",
+  "lang": "Python",
+  "name": "YUTA-fywoo/jev-gui-delegate",
+  "node_id": "R_kgDOUrQ--w",
+  "topics": []
+ },
+ "1387649779": {
+  "created_at": "2026-09-25T14:22:55Z",
+  "desc": "\u628a Muse(muse.ai) \u9006\u5411\u5c01\u88c5\u4e3a OpenAI \u517c\u5bb9\u63a5\u53e3\uff0c\u652f\u6301\u5bf9\u8bdd\u3001\u6587\u751f\u56fe\u3001\u6587\u751f\u89c6\u9891/\u56fe\u751f\u89c6\u9891\u3001\u591a\u8d26\u53f7\u6c60\u8f6e\u8f6c\u4e0e 48h \u81ea\u52a8\u7eed\u671f\u3002OpenAI-compatible API for Muse.ai with Chat, Image & Video generation.",
+  "lang": "Python",
+  "name": "czg86389-hub/muse2api",
+  "node_id": "R_kgDOUrXa8w",
+  "topics": []
+ },
+ "1387655234": {
+  "created_at": "2026-09-25T14:25:55Z",
+  "desc": "Motion graphics as a pure function of time \u2014 Canvas 2D scenes, headless-Chrome rendering with motion blur, ffmpeg, synthesized sound, and a brief-to-video prompt for coding agents.",
+  "lang": "JavaScript",
+  "name": "imserhatdemir/ft-motion",
+  "node_id": "R_kgDOUrXwQg",
+  "topics": [
+   "ai-agents",
+   "canvas",
+   "ffmpeg",
+   "generative",
+   "motion-graphics",
+   "video"
+  ]
+ },
+ "1387694479": {
+  "created_at": "2026-09-25T14:45:20Z",
+  "desc": "A curated collection of Claude Opus 5.5 videos and animations: demos, original posts, prompts and workflows. English / \u4e2d\u6587.",
+  "lang": "",
+  "name": "opusvideo/awesome-claude-video",
+  "node_id": "R_kgDOUraJjw",
+  "topics": []
+ },
+ "1387763129": {
+  "created_at": "2026-09-25T15:20:46Z",
+  "desc": "Claude Code skill: hand bulk judgment calls to Jev. 86% fewer Claude tokens on a 12-task benchmark, up to 20x faster. One-line npx install.",
+  "lang": "JavaScript",
+  "name": "UditAkhourii/quicksilver",
+  "node_id": "R_kgDOUreVuQ",
+  "topics": [
+   "ai-agents",
+   "claude",
+   "claude-code",
+   "developer-tools",
+   "jev",
+   "llm",
+   "skill",
+   "tokens",
+   "typesafe"
+  ]
+ },
+ "1387771467": {
+  "created_at": "2026-09-25T15:25:38Z",
+  "desc": "Reason over explicit states, many branches at once: merge duplicates, cancel dead ends, advance together.",
+  "lang": "Python",
+  "name": "Badtheorylabs/interference-search",
+  "node_id": "R_kgDOUre2Sw",
+  "topics": []
+ },
+ "1387780207": {
+  "created_at": "2026-09-25T15:30:48Z",
+  "desc": "Three AI trading bees on OKX, every decision by Jev. Paper trading by default. Not financial advice.",
+  "lang": "TypeScript",
+  "name": "imikerussell/beebots",
+  "node_id": "R_kgDOUrfYbw",
+  "topics": []
+ },
+ "1387810635": {
+  "created_at": "2026-09-25T15:50:36Z",
+  "desc": "Sniff out the right record: Jev-powered search for Rails with index-time labels, query understanding, and streamed reranking on top of your own keyword and embedding search",
+  "lang": "Ruby",
+  "name": "kieranklaassen/truffler",
+  "node_id": "R_kgDOUrhPSw",
+  "topics": []
+ },
+ "1388056636": {
+  "created_at": "2026-09-25T18:45:46Z",
+  "desc": "Connect an Omarchy computer to your phone: files, clipboard, notifications, media, camera, and more",
+  "lang": "Kotlin",
+  "name": "bjarneo/flux",
+  "node_id": "R_kgDOUrwQPA",
+  "topics": []
+ },
+ "1388261262": {
+  "created_at": "2026-09-25T22:48:14Z",
+  "desc": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+  "lang": "TypeScript",
+  "name": "supermemoryai/company-brain",
+  "node_id": "R_kgDOUr8vjg",
+  "topics": []
+ },
+ "1388571958": {
+  "created_at": "2026-09-26T05:19:44Z",
+  "desc": "BestNAI NovelAI gateway and YesNAI-compatible SDK",
+  "lang": "Python",
+  "name": "Slapq/BestNAI",
+  "node_id": "R_kgDOUsPtNg",
+  "topics": []
  },
  "13956112": {
   "created_at": "2013-10-29T13:10:08Z",
