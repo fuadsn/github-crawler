@@ -385729,6 +385729,25 @@
   "node_id": "R_kgDOUuv87A",
   "topics": []
  },
+ "1391208881": {
+  "created_at": "2026-09-27T17:28:19Z",
+  "desc": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+  "lang": "Python",
+  "name": "ZeamoxWang/pdmd",
+  "node_id": "R_kgDOUuwpsQ",
+  "topics": [
+   "audio-generation",
+   "diffusers",
+   "diffusion-models",
+   "distillation",
+   "distribution-matching-distillation",
+   "few-step-generation",
+   "minimax-h3",
+   "pytorch",
+   "text-to-video",
+   "video-generation"
+  ]
+ },
  "1391234707": {
   "created_at": "2026-09-27T17:50:14Z",
   "desc": "A modern, secure self-service portal for Proxmox VE \u2014 give customers control of their own VMs without access to Proxmox.",
@@ -385991,6 +386010,23 @@
   "node_id": "R_kgDOUvsJFw",
   "topics": []
  },
+ "1392216321": {
+  "created_at": "2026-09-28T08:28:11Z",
+  "desc": "Cartograph turns any GitHub repo into an interactive dependency map by parsing real code to analyze structure, trace imports, calculate blast radius, and explain modules without AI guessing edges.",
+  "lang": "TypeScript",
+  "name": "adrianhajdin/cartograph",
+  "node_id": "R_kgDOUvuJAQ",
+  "topics": [
+   "agentic-engineering",
+   "clerk",
+   "codeanalysis",
+   "codebase-visualization",
+   "dependy-graph",
+   "langsmith",
+   "nextjs16",
+   "supabase"
+  ]
+ },
  "1392255587": {
   "created_at": "2026-09-28T08:50:16Z",
   "desc": "ESP-SDR uses the undocumented raw I/Q capture functionality of ESP32 family chips to turn them into (low-duty-cycle) Software Defined Radios",
@@ -386051,6 +386087,14 @@
    "video-generation"
   ]
  },
+ "1392521390": {
+  "created_at": "2026-09-28T11:25:02Z",
+  "desc": "Local Kimi-K3 gateway and automatic IDS passkey setup for Kimi Code",
+  "lang": "Python",
+  "name": "OwenxuSH/shanghaitech-kimi-gateway",
+  "node_id": "R_kgDOUwAwrg",
+  "topics": []
+ },
  "1392533531": {
   "created_at": "2026-09-28T11:30:54Z",
   "desc": "Launch designers for your app, made in Claude Code: the real UI, cut to music on the beat, rendered on your machine.",
@@ -386097,6 +386141,14 @@
   "lang": "Go",
   "name": "Bornholm/indecis",
   "node_id": "R_kgDOUwKspA",
+  "topics": []
+ },
+ "1392685653": {
+  "created_at": "2026-09-28T12:43:00Z",
+  "desc": "Reproducible local multi-agent dev team: OpenRig + Claude Code + Codex + CLIProxyAPI + Jev. Plan in, user-tested features out.",
+  "lang": "JavaScript",
+  "name": "korallis/agent-stack",
+  "node_id": "R_kgDOUwKyVQ",
   "topics": []
  },
  "1392785047": {
@@ -386176,6 +386228,80 @@
   "node_id": "R_kgDOUwirqQ",
   "topics": []
  },
+ "1393088049": {
+  "created_at": "2026-09-28T15:28:11Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarteghp/ext-api-de",
+  "node_id": "R_kgDOUwjWMQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-de",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393092440": {
+  "created_at": "2026-09-28T15:29:42Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarteghp/ext-api-es",
+  "node_id": "R_kgDOUwjnWA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-es",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393096182": {
+  "created_at": "2026-09-28T15:31:02Z",
+  "desc": "Showreel-grade motion graphics from code, with an original soundtrack for every video. An Agent Skill for Claude Code, Codex, Cursor and other agents.",
+  "lang": "JavaScript",
+  "name": "Mort1d/motion-graphics-skills",
+  "node_id": "R_kgDOUwj19g",
+  "topics": [
+   "agent-skills",
+   "claude-code",
+   "claude-skills",
+   "codex",
+   "ffmpeg",
+   "headless-chrome",
+   "kinetic-typography",
+   "motion-design",
+   "motion-graphics",
+   "music-generation",
+   "promo-video",
+   "synthesizer",
+   "video-editing",
+   "video-generation"
+  ]
+ },
+ "1393098105": {
+  "created_at": "2026-09-28T15:31:41Z",
+  "desc": "r\u00e9tro-ing\u00e9nierie FLUX Kontext Max API: 1K $0.064. model ID `flux-kontext-max`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. flux-kontext-ext-reverse-api-fr.",
+  "lang": "",
+  "name": "apimartalwi/flux-kontext-ext-reverse-api-fr",
+  "node_id": "R_kgDOUwj9eQ",
+  "topics": [
+   "api-pricing",
+   "apimart-fr",
+   "ext-api",
+   "flux-kontext-ext",
+   "flux-kontext-max",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
  "1393103822": {
   "created_at": "2026-09-28T15:33:37Z",
   "desc": "rekayasa balik FLUX Kontext Max API: 1K $0.064. model ID `flux-kontext-max`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. flux-kontext-ext-reverse-api-id.",
@@ -386223,12 +386349,300 @@
    "reverse-engineered-api"
   ]
  },
+ "1393181773": {
+  "created_at": "2026-09-28T16:01:33Z",
+  "desc": "r\u00e9tro-ing\u00e9nierie GPT-Image-2.5 Ext API: 1K $0.0085; 2K $0.014; 4K $0.021. model ID `gpt-image-2.5-ext`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. gpt-image-2.5-ext-reverse-api-fr.",
+  "lang": "",
+  "name": "apimarth/gpt-image-2.5-ext-reverse-api-fr",
+  "node_id": "R_kgDOUwpETQ",
+  "topics": [
+   "api-pricing",
+   "apimart-fr",
+   "ext-api",
+   "gpt-image-2-5-ext",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393181868": {
+  "created_at": "2026-09-28T16:01:35Z",
+  "desc": "\u30ea\u30d0\u30fc\u30b9 GPT-Image-2.5 Ext API: 1K $0.0085; 2K $0.014; 4K $0.021. model ID `gpt-image-2.5-ext`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. gpt-image-2.5-ext-reverse-api-ja.",
+  "lang": "",
+  "name": "apimartg3/gpt-image-2.5-ext-reverse-api-ja",
+  "node_id": "R_kgDOUwpErA",
+  "topics": [
+   "api-pricing",
+   "apimart-ja",
+   "ext-api",
+   "gpt-image-2-5-ext",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393181880": {
+  "created_at": "2026-09-28T16:01:35Z",
+  "desc": "Reverse-Engineering GPT-Image-2.5 Ext API: 1K $0.0085; 2K $0.014; 4K $0.021. model ID `gpt-image-2.5-ext`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. gpt-image-2.5-ext-reverse-api-de.",
+  "lang": "",
+  "name": "apimartcetp8omuw/gpt-image-2.5-ext-reverse-api-de",
+  "node_id": "R_kgDOUwpEuA",
+  "topics": [
+   "api-pricing",
+   "apimart-de",
+   "ext-api",
+   "gpt-image-2-5-ext",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393184402": {
+  "created_at": "2026-09-28T16:02:35Z",
+  "desc": "\u9006\u5411 GPT-Image-2.5 Ext API: 1K $0.0085; 2K $0.014; 4K $0.021. model ID `gpt-image-2.5-ext`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. gpt-image-2.5-ext-reverse-api-cn.",
+  "lang": "",
+  "name": "apimartb/gpt-image-2.5-ext-reverse-api-cn",
+  "node_id": "R_kgDOUwpOkg",
+  "topics": [
+   "api-pricing",
+   "apimart-cn",
+   "ext-api",
+   "gpt-image-2-5-ext",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393185853": {
+  "created_at": "2026-09-28T16:03:06Z",
+  "desc": "rekayasa balik GPT-Image-2.5 Ext API: 1K $0.0085; 2K $0.014; 4K $0.021. model ID `gpt-image-2.5-ext`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. gpt-image-2.5-ext-reverse-api-id.",
+  "lang": "",
+  "name": "apimarth/gpt-image-2.5-ext-reverse-api-id",
+  "node_id": "R_kgDOUwpUPQ",
+  "topics": [
+   "api-pricing",
+   "apimart-id",
+   "ext-api",
+   "gpt-image-2-5-ext",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393186152": {
+  "created_at": "2026-09-28T16:03:12Z",
+  "desc": "\ub9ac\ubc84\uc2a4 GPT-Image-2.5 Ext API: 1K $0.0085; 2K $0.014; 4K $0.021. model ID `gpt-image-2.5-ext`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. gpt-image-2.5-ext-reverse-api-ko.",
+  "lang": "",
+  "name": "apimartg3/gpt-image-2.5-ext-reverse-api-ko",
+  "node_id": "R_kgDOUwpVaA",
+  "topics": [
+   "api-pricing",
+   "apimart-ko",
+   "ext-api",
+   "gpt-image-2-5-ext",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393189595": {
+  "created_at": "2026-09-28T16:04:33Z",
+  "desc": "Reverse-Engineering Grok Imagine 1.5 Edit Ext API: 1K $0.015. model ID `grok-imagine-1.5-edit-apimart`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. grok-imagine-1.5-edit-ext-reverse-api-de.",
+  "lang": "",
+  "name": "apimarte/grok-imagine-1.5-edit-ext-reverse-api-de",
+  "node_id": "R_kgDOUwpi2w",
+  "topics": [
+   "api-pricing",
+   "apimart-de",
+   "ext-api",
+   "grok-imagine-1-5-edit-apimart",
+   "grok-imagine-1-5-edit-ext",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393190246": {
+  "created_at": "2026-09-28T16:04:47Z",
+  "desc": "ingenier\u00eda inversa GPT-Image-2.5 Ext API: 1K $0.0085; 2K $0.014; 4K $0.021. model ID `gpt-image-2.5-ext`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. gpt-image-2.5-ext-reverse-api-es.",
+  "lang": "",
+  "name": "apimartcetp8omuw/gpt-image-2.5-ext-reverse-api-es",
+  "node_id": "R_kgDOUwplZg",
+  "topics": [
+   "api-pricing",
+   "apimart-es",
+   "ext-api",
+   "gpt-image-2-5-ext",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393195720": {
+  "created_at": "2026-09-28T16:06:46Z",
+  "desc": "ingenier\u00eda inversa Grok Imagine 1.5 Edit Ext API: 1K $0.015. model ID `grok-imagine-1.5-edit-apimart`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. grok-imagine-1.5-edit-ext-reverse-api-es.",
+  "lang": "",
+  "name": "apimarte/grok-imagine-1.5-edit-ext-reverse-api-es",
+  "node_id": "R_kgDOUwp6yA",
+  "topics": [
+   "api-pricing",
+   "apimart-es",
+   "ext-api",
+   "grok-imagine-1-5-edit-apimart",
+   "grok-imagine-1-5-edit-ext",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393196554": {
+  "created_at": "2026-09-28T16:07:05Z",
+  "desc": "reverse-engineered Grok Imagine 1.5 Ext API: 1K $0.015. model ID `grok-imagine-1.5-apimart`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. grok-imagine-1.5-ext-reverse-api.",
+  "lang": "",
+  "name": "apimartf0n/grok-imagine-1.5-ext-reverse-api",
+  "node_id": "R_kgDOUwp-Cg",
+  "topics": [
+   "api-pricing",
+   "apimart-en",
+   "ext-api",
+   "grok-imagine-1-5-apimart",
+   "grok-imagine-1-5-ext",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393199803": {
+  "created_at": "2026-09-28T16:08:15Z",
+  "desc": "r\u00e9tro-ing\u00e9nierie Grok Imagine 1.5 Ext API: 1K $0.015. model ID `grok-imagine-1.5-apimart`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. grok-imagine-1.5-ext-reverse-api-fr.",
+  "lang": "",
+  "name": "apimartc/grok-imagine-1.5-ext-reverse-api-fr",
+  "node_id": "R_kgDOUwqKuw",
+  "topics": [
+   "api-pricing",
+   "apimart-fr",
+   "ext-api",
+   "grok-imagine-1-5-apimart",
+   "grok-imagine-1-5-ext",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393201318": {
+  "created_at": "2026-09-28T16:08:47Z",
+  "desc": "\u9006\u5411 Grok Imagine 1.5 Ext API: 1K $0.015. model ID `grok-imagine-1.5-apimart`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. grok-imagine-1.5-ext-reverse-api-cn.",
+  "lang": "",
+  "name": "apimartf0n/grok-imagine-1.5-ext-reverse-api-cn",
+  "node_id": "R_kgDOUwqQpg",
+  "topics": [
+   "api-pricing",
+   "apimart-cn",
+   "ext-api",
+   "grok-imagine-1-5-apimart",
+   "grok-imagine-1-5-ext",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393205292": {
+  "created_at": "2026-09-28T16:10:09Z",
+  "desc": "engenharia reversa Grok Imagine 1.5 Ext API: 1K $0.015. model ID `grok-imagine-1.5-apimart`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. grok-imagine-1.5-ext-reverse-api-pt.",
+  "lang": "",
+  "name": "apimartemtc6qfo/grok-imagine-1.5-ext-reverse-api-pt",
+  "node_id": "R_kgDOUwqgLA",
+  "topics": [
+   "api-pricing",
+   "apimart-pt",
+   "ext-api",
+   "grok-imagine-1-5-apimart",
+   "grok-imagine-1-5-ext",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393206335": {
+  "created_at": "2026-09-28T16:10:34Z",
+  "desc": "Reverse-Engineering Grok Imagine 2.0 Ext API: 1K $0.015. model ID `grok-imagine-2.0-ext`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. grok-imagine-2.0-ext-reverse-api-de.",
+  "lang": "",
+  "name": "apimartf90dby1t/grok-imagine-2.0-ext-reverse-api-de",
+  "node_id": "R_kgDOUwqkPw",
+  "topics": [
+   "api-pricing",
+   "apimart-de",
+   "ext-api",
+   "grok-imagine-2-0-ext",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393211497": {
+  "created_at": "2026-09-28T16:12:20Z",
+  "desc": "rekayasa balik Grok Imagine 1.5 Ext API: 1K $0.015. model ID `grok-imagine-1.5-apimart`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. grok-imagine-1.5-ext-reverse-api-id.",
+  "lang": "",
+  "name": "apimartc/grok-imagine-1.5-ext-reverse-api-id",
+  "node_id": "R_kgDOUwq4aQ",
+  "topics": [
+   "api-pricing",
+   "apimart-id",
+   "ext-api",
+   "grok-imagine-1-5-apimart",
+   "grok-imagine-1-5-ext",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393211575": {
+  "created_at": "2026-09-28T16:12:22Z",
+  "desc": "\u0440\u0435\u0432\u0435\u0440\u0441-\u0438\u043d\u0436\u0438\u043d\u0438\u0440\u0438\u043d\u0433 Grok Imagine 1.5 Ext API: 1K $0.015. model ID `grok-imagine-1.5-apimart`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. grok-imagine-1.5-ext-reverse-api-ru.",
+  "lang": "",
+  "name": "apimartemtc6qfo/grok-imagine-1.5-ext-reverse-api-ru",
+  "node_id": "R_kgDOUwq4tw",
+  "topics": [
+   "api-pricing",
+   "apimart-ru",
+   "ext-api",
+   "grok-imagine-1-5-apimart",
+   "grok-imagine-1-5-ext",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
  "1393211966": {
   "created_at": "2026-09-28T16:12:30Z",
   "desc": "xhs-account-teardown",
   "lang": "Python",
   "name": "chenjin-cmd/xhs-account-teardown",
   "node_id": "R_kgDOUwq6Pg",
+  "topics": []
+ },
+ "1393228094": {
+  "created_at": "2026-09-28T16:18:10Z",
+  "desc": "ingenier\u00eda inversa Grok Imagine 2.0 Ext API: 1K $0.015. model ID `grok-imagine-2.0-ext`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. grok-imagine-2.0-ext-reverse-api-es.",
+  "lang": "",
+  "name": "apimartf90dby1t/grok-imagine-2.0-ext-reverse-api-es",
+  "node_id": "R_kgDOUwr5Pg",
+  "topics": [
+   "api-pricing",
+   "apimart-es",
+   "ext-api",
+   "grok-imagine-2-0-ext",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393228406": {
+  "created_at": "2026-09-28T16:18:16Z",
+  "desc": "Open-source autonomous trading system powered by AI, built to monitor and trade across 1,000+ markets including Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs and multiple EVM networks. Finds opportunities, places trades in real time and handles risk automatically",
+  "lang": "TypeScript",
+  "name": "recogardtech/AutoPilotPM",
+  "node_id": "R_kgDOUwr6dg",
   "topics": []
  },
  "1393229560": {
@@ -386238,6 +386652,57 @@
   "name": "firelex/jeff",
   "node_id": "R_kgDOUwr--A",
   "topics": []
+ },
+ "1393233724": {
+  "created_at": "2026-09-28T16:20:05Z",
+  "desc": "reverse-engineered Nano Banana 2 Lite Ext API: 1K $0.0125. model ID `gemini-3.1-flash-lite-image-ext`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. nano-banana-2-lite-ext-reverse-api.",
+  "lang": "",
+  "name": "apimarthklu96f/nano-banana-2-lite-ext-reverse-api",
+  "node_id": "R_kgDOUwsPPA",
+  "topics": [
+   "api-pricing",
+   "apimart-en",
+   "ext-api",
+   "gemini-3-1-flash-lite-image-ext",
+   "image-generation",
+   "nano-banana-2-lite-ext",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393238222": {
+  "created_at": "2026-09-28T16:21:37Z",
+  "desc": "\u9006\u5411 Nano Banana 2 Lite Ext API: 1K $0.0125. model ID `gemini-3.1-flash-lite-image-ext`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. nano-banana-2-lite-ext-reverse-api-cn.",
+  "lang": "",
+  "name": "apimarthklu96f/nano-banana-2-lite-ext-reverse-api-cn",
+  "node_id": "R_kgDOUwsgzg",
+  "topics": [
+   "api-pricing",
+   "apimart-cn",
+   "ext-api",
+   "gemini-3-1-flash-lite-image-ext",
+   "image-generation",
+   "nano-banana-2-lite-ext",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393241101": {
+  "created_at": "2026-09-28T16:22:38Z",
+  "desc": "engenharia reversa Nano Banana 2 Lite Ext API: 1K $0.0125. model ID `gemini-3.1-flash-lite-image-ext`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. nano-banana-2-lite-ext-reverse-api-pt.",
+  "lang": "",
+  "name": "apimartf1cox2/nano-banana-2-lite-ext-reverse-api-pt",
+  "node_id": "R_kgDOUwssDQ",
+  "topics": [
+   "api-pricing",
+   "apimart-pt",
+   "ext-api",
+   "gemini-3-1-flash-lite-image-ext",
+   "image-generation",
+   "nano-banana-2-lite-ext",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
  },
  "1393243034": {
   "created_at": "2026-09-28T16:23:19Z",
@@ -386256,6 +386721,23 @@
    "reverse-engineered-api"
   ]
  },
+ "1393245490": {
+  "created_at": "2026-09-28T16:24:10Z",
+  "desc": "\u0440\u0435\u0432\u0435\u0440\u0441-\u0438\u043d\u0436\u0438\u043d\u0438\u0440\u0438\u043d\u0433 Nano Banana 2 Lite Ext API: 1K $0.0125. model ID `gemini-3.1-flash-lite-image-ext`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. nano-banana-2-lite-ext-reverse-api-ru.",
+  "lang": "",
+  "name": "apimartf1cox2/nano-banana-2-lite-ext-reverse-api-ru",
+  "node_id": "R_kgDOUws9Mg",
+  "topics": [
+   "api-pricing",
+   "apimart-ru",
+   "ext-api",
+   "gemini-3-1-flash-lite-image-ext",
+   "image-generation",
+   "nano-banana-2-lite-ext",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
  "1393247548": {
   "created_at": "2026-09-28T16:24:53Z",
   "desc": "rekayasa balik Nano Banana Ext API: 1K $0.0125. model ID `gemini-2.5-flash-image-preview`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. nano-banana-ext-reverse-api-id.",
@@ -386269,6 +386751,106 @@
    "gemini-2-5-flash-image-preview",
    "image-generation",
    "nano-banana-ext",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393259409": {
+  "created_at": "2026-09-28T16:29:03Z",
+  "desc": "engenharia reversa Nano Banana Pro Ext API: 1K $0.03; 4K $0.04. model ID `gemini-3-pro-image-preview`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. nano-banana-pro-ext-reverse-api-pt.",
+  "lang": "",
+  "name": "apimartcc2w/nano-banana-pro-ext-reverse-api-pt",
+  "node_id": "R_kgDOUwtzkQ",
+  "topics": [
+   "api-pricing",
+   "apimart-pt",
+   "ext-api",
+   "gemini-3-pro-image-preview",
+   "image-generation",
+   "nano-banana-pro-ext",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393259445": {
+  "created_at": "2026-09-28T16:29:03Z",
+  "desc": "Reverse-engineered and official routes in one index: `-ext` model IDs are the reverse-engineered upstream label, the rest are official-routed at discounted unit prices. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go",
+  "lang": "",
+  "name": "apimartfjdq5t8/nano-banana-reverse-api",
+  "node_id": "R_kgDOUwtztQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-en",
+   "ext-api",
+   "llm-api-gateway",
+   "nano-banana-reverse-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "unofficial-api"
+  ]
+ },
+ "1393261824": {
+  "created_at": "2026-09-28T16:29:53Z",
+  "desc": "Routes reverse-engineered et officielles dans un m\u00eame index : les ID `-ext` sont le libell\u00e9 reverse, le reste passe en route officielle \u00e0 prix r\u00e9duit. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-u",
+  "lang": "",
+  "name": "apimartds0g/nano-banana-reverse-api-fr",
+  "node_id": "R_kgDOUwt9AA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "ext-api",
+   "llm-api-gateway",
+   "nano-banana-reverse-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "unofficial-api"
+  ]
+ },
+ "1393263435": {
+  "created_at": "2026-09-28T16:30:27Z",
+  "desc": "\u9006\u5411\u4e0e\u5b98\u65b9\u8f6c\u63a5\u8def\u7531\u7edf\u4e00\u7d22\u5f15\uff1a`-ext` \u7ed3\u5c3e\u4e3a\u9006\u5411\u4e0a\u6e38\u6807\u8bc6\uff0c\u5176\u4f59\u4e3a\u5b98\u65b9\u8f6c\u63a5\u6298\u6263\u4ef7\u3002AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartfjdq5t8/nano-banana-reverse-api-cn",
+  "node_id": "R_kgDOUwuDSw",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "ext-api",
+   "llm-api-gateway",
+   "nano-banana-reverse-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "unofficial-api"
+  ]
+ },
+ "1393263485": {
+  "created_at": "2026-09-28T16:30:28Z",
+  "desc": "\u0440\u0435\u0432\u0435\u0440\u0441-\u0438\u043d\u0436\u0438\u043d\u0438\u0440\u0438\u043d\u0433 Nano Banana Pro Ext API: 1K $0.03; 4K $0.04. model ID `gemini-3-pro-image-preview`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. nano-banana-pro-ext-reverse-api-ru.",
+  "lang": "",
+  "name": "apimartcc2w/nano-banana-pro-ext-reverse-api-ru",
+  "node_id": "R_kgDOUwuDfQ",
+  "topics": [
+   "api-pricing",
+   "apimart-ru",
+   "ext-api",
+   "gemini-3-pro-image-preview",
+   "image-generation",
+   "nano-banana-pro-ext",
    "reverse-api",
    "reverse-engineered-api"
   ]
@@ -386295,6 +386877,418 @@
    "unofficial-api"
   ]
  },
+ "1393266721": {
+  "created_at": "2026-09-28T16:31:34Z",
+  "desc": "Rute rekayasa balik dan resmi dalam satu indeks: ID `-ext` adalah label balik, sisanya rute resmi berdiskon. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartds0g/nano-banana-reverse-api-id",
+  "node_id": "R_kgDOUwuQIQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-id",
+   "ext-api",
+   "llm-api-gateway",
+   "nano-banana-reverse-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "unofficial-api"
+  ]
+ },
+ "1393267374": {
+  "created_at": "2026-09-28T16:31:49Z",
+  "desc": "Routes reverse-engineered et officielles dans un m\u00eame index : les ID `-ext` sont le libell\u00e9 reverse, le reste passe en route officielle \u00e0 prix r\u00e9duit. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-u",
+  "lang": "",
+  "name": "apimartd/reverse-api-gateway-fr",
+  "node_id": "R_kgDOUwuSrg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-api-gateway",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "unofficial-api"
+  ]
+ },
+ "1393268670": {
+  "created_at": "2026-09-28T16:32:17Z",
+  "desc": "\ub9ac\ubc84\uc2a4\uc640 \uacf5\uc2dd \ub77c\uc6b0\ud2b8\ub97c \ud55c\uacf3\uc5d0. `-ext` \ub294 \ub9ac\ubc84\uc2a4, \ub098\uba38\uc9c0\ub294 \uacf5\uc2dd \ud560\uc778 \ub2e8\uac00.AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartaafc2fr/nano-banana-reverse-api-ko",
+  "node_id": "R_kgDOUwuXvg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "ext-api",
+   "llm-api-gateway",
+   "nano-banana-reverse-api",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "unofficial-api"
+  ]
+ },
+ "1393269169": {
+  "created_at": "2026-09-28T16:32:28Z",
+  "desc": "Reverse-engineered and official routes in one index: `-ext` model IDs are the reverse-engineered upstream label, the rest are official-routed at discounted unit prices. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go",
+  "lang": "",
+  "name": "apimartez/reverse-engineered-api",
+  "node_id": "R_kgDOUwuZsQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-en",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "unofficial-api"
+  ]
+ },
+ "1393270270": {
+  "created_at": "2026-09-28T16:32:54Z",
+  "desc": "Reverse-Engineering- und offizielle Routen in einem Index: `-ext`-IDs sind die Reverse-Kennung, der Rest l\u00e4uft offiziell verg\u00fcnstigt. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartg/reverse-engineered-api-de",
+  "node_id": "R_kgDOUwud_g",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-de",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "unofficial-api"
+  ]
+ },
+ "1393271585": {
+  "created_at": "2026-09-28T16:33:21Z",
+  "desc": "Rute rekayasa balik dan resmi dalam satu indeks: ID `-ext` adalah label balik, sisanya rute resmi berdiskon. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartd/reverse-api-gateway-id",
+  "node_id": "R_kgDOUwujIQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-id",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-api-gateway",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "unofficial-api"
+  ]
+ },
+ "1393273056": {
+  "created_at": "2026-09-28T16:33:52Z",
+  "desc": "\u9006\u5411\u4e0e\u5b98\u65b9\u8f6c\u63a5\u8def\u7531\u7edf\u4e00\u7d22\u5f15\uff1a`-ext` \u7ed3\u5c3e\u4e3a\u9006\u5411\u4e0a\u6e38\u6807\u8bc6\uff0c\u5176\u4f59\u4e3a\u5b98\u65b9\u8f6c\u63a5\u6298\u6263\u4ef7\u3002AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartez/reverse-engineered-api-cn",
+  "node_id": "R_kgDOUwuo4A",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "unofficial-api"
+  ]
+ },
+ "1393273063": {
+  "created_at": "2026-09-28T16:33:53Z",
+  "desc": "\u30ea\u30d0\u30fc\u30b9\u3068\u516c\u5f0f\u30eb\u30fc\u30c8\u3092\u4e00\u5143\u5316\u3002`-ext` \u304c\u30ea\u30d0\u30fc\u30b9\u3001\u4ed6\u306f\u516c\u5f0f\u30eb\u30fc\u30c8\u5272\u5f15\u5358\u4fa1\u3002AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartgwbkkvm/reverse-engineered-api-ja",
+  "node_id": "R_kgDOUwuo5w",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "unofficial-api"
+  ]
+ },
+ "1393274553": {
+  "created_at": "2026-09-28T16:34:22Z",
+  "desc": "Rutas de ingenier\u00eda inversa y oficiales en un \u00edndice: los ID `-ext` son la etiqueta inversa, el resto va por ruta oficial con descuento. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartg/reverse-engineered-api-es",
+  "node_id": "R_kgDOUwuuuQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-es",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "unofficial-api"
+  ]
+ },
+ "1393277935": {
+  "created_at": "2026-09-28T16:35:33Z",
+  "desc": "\ub9ac\ubc84\uc2a4\uc640 \uacf5\uc2dd \ub77c\uc6b0\ud2b8\ub97c \ud55c\uacf3\uc5d0. `-ext` \ub294 \ub9ac\ubc84\uc2a4, \ub098\uba38\uc9c0\ub294 \uacf5\uc2dd \ud560\uc778 \ub2e8\uac00.AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartgwbkkvm/reverse-engineered-api-ko",
+  "node_id": "R_kgDOUwu77w",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "unofficial-api"
+  ]
+ },
+ "1393277937": {
+  "created_at": "2026-09-28T16:35:33Z",
+  "desc": "Reverse-Engineering- und offizielle Routen in einem Index: `-ext`-IDs sind die Reverse-Kennung, der Rest l\u00e4uft offiziell verg\u00fcnstigt. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarte3/reverse-engineering-api-de",
+  "node_id": "R_kgDOUwu78Q",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-de",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "reverse-engineering-api",
+   "unofficial-api"
+  ]
+ },
+ "1393282258": {
+  "created_at": "2026-09-28T16:37:00Z",
+  "desc": "Rutas de ingenier\u00eda inversa y oficiales en un \u00edndice: los ID `-ext` son la etiqueta inversa, el resto va por ruta oficial con descuento. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarte3/reverse-engineering-api-es",
+  "node_id": "R_kgDOUwvM0g",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-es",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "reverse-engineering-api",
+   "unofficial-api"
+  ]
+ },
+ "1393282760": {
+  "created_at": "2026-09-28T16:37:08Z",
+  "desc": "Reverse-engineered and official routes in one index: `-ext` model IDs are the reverse-engineered upstream label, the rest are official-routed at discounted unit prices. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go",
+  "lang": "",
+  "name": "apimartec7/reverse-proxy-api",
+  "node_id": "R_kgDOUwvOyA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-en",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "reverse-proxy-api",
+   "unofficial-api"
+  ]
+ },
+ "1393284678": {
+  "created_at": "2026-09-28T16:37:49Z",
+  "desc": "Routes reverse-engineered et officielles dans un m\u00eame index : les ID `-ext` sont le libell\u00e9 reverse, le reste passe en route officielle \u00e0 prix r\u00e9duit. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-u",
+  "lang": "",
+  "name": "apimartahfdrlm/reverse-proxy-api-fr",
+  "node_id": "R_kgDOUwvWRg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "reverse-proxy-api",
+   "unofficial-api"
+  ]
+ },
+ "1393285836": {
+  "created_at": "2026-09-28T16:38:12Z",
+  "desc": "Rotas de engenharia reversa e oficiais em um \u00edndice: IDs `-ext` s\u00e3o o r\u00f3tulo reverso, o resto \u00e9 rota oficial com desconto. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartcieexjpd/reverse-proxy-api-pt",
+  "node_id": "R_kgDOUwvazA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-pt",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "reverse-proxy-api",
+   "unofficial-api"
+  ]
+ },
+ "1393286682": {
+  "created_at": "2026-09-28T16:38:29Z",
+  "desc": "\u9006\u5411\u4e0e\u5b98\u65b9\u8f6c\u63a5\u8def\u7531\u7edf\u4e00\u7d22\u5f15\uff1a`-ext` \u7ed3\u5c3e\u4e3a\u9006\u5411\u4e0a\u6e38\u6807\u8bc6\uff0c\u5176\u4f59\u4e3a\u5b98\u65b9\u8f6c\u63a5\u6298\u6263\u4ef7\u3002AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartec7/reverse-proxy-api-cn",
+  "node_id": "R_kgDOUwveGg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "reverse-proxy-api",
+   "unofficial-api"
+  ]
+ },
+ "1393286718": {
+  "created_at": "2026-09-28T16:38:30Z",
+  "desc": "Routes reverse-engineered et officielles dans un m\u00eame index : les ID `-ext` sont le libell\u00e9 reverse, le reste passe en route officielle \u00e0 prix r\u00e9duit. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-u",
+  "lang": "",
+  "name": "apimartctxebv7x/unofficial-api-gateway-fr",
+  "node_id": "R_kgDOUwvePg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "unofficial-api",
+   "unofficial-api-gateway"
+  ]
+ },
+ "1393287834": {
+  "created_at": "2026-09-28T16:38:53Z",
+  "desc": "\u30ea\u30d0\u30fc\u30b9\u3068\u516c\u5f0f\u30eb\u30fc\u30c8\u3092\u4e00\u5143\u5316\u3002`-ext` \u304c\u30ea\u30d0\u30fc\u30b9\u3001\u4ed6\u306f\u516c\u5f0f\u30eb\u30fc\u30c8\u5272\u5f15\u5358\u4fa1\u3002AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartcrvj/unofficial-api-gateway-ja",
+  "node_id": "R_kgDOUwvimg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "unofficial-api",
+   "unofficial-api-gateway"
+  ]
+ },
+ "1393288909": {
+  "created_at": "2026-09-28T16:39:16Z",
+  "desc": "Rotas de engenharia reversa e oficiais em um \u00edndice: IDs `-ext` s\u00e3o o r\u00f3tulo reverso, o resto \u00e9 rota oficial com desconto. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartb6r2i/unofficial-api-gateway-pt",
+  "node_id": "R_kgDOUwvmzQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-pt",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "unofficial-api",
+   "unofficial-api-gateway"
+  ]
+ },
  "1393289103": {
   "created_at": "2026-09-28T16:39:21Z",
   "desc": "Rute rekayasa balik dan resmi dalam satu indeks: ID `-ext` adalah label balik, sisanya rute resmi berdiskon. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
@@ -386315,6 +387309,89 @@
    "reverse-engineering",
    "reverse-proxy-api",
    "unofficial-api"
+  ]
+ },
+ "1393289878": {
+  "created_at": "2026-09-28T16:39:37Z",
+  "desc": "\u0420\u0435\u0432\u0435\u0440\u0441-\u0438\u043d\u0436\u0438\u043d\u0438\u0440\u0438\u043d\u0433 \u0438 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u043c\u0430\u0440\u0448\u0440\u0443\u0442\u044b \u0432 \u043e\u0434\u043d\u043e\u043c \u0438\u043d\u0434\u0435\u043a\u0441\u0435: ID `-ext` \u2014 \u043e\u0431\u0440\u0430\u0442\u043d\u044b\u0439 \u043c\u0430\u0440\u0448\u0440\u0443\u0442, \u043e\u0441\u0442\u0430\u043b\u044c\u043d\u043e\u0435 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0441\u043e \u0441\u043a\u0438\u0434\u043a\u043e\u0439. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartcieexjpd/reverse-proxy-api-ru",
+  "node_id": "R_kgDOUwvqlg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ru",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "reverse-proxy-api",
+   "unofficial-api"
+  ]
+ },
+ "1393290811": {
+  "created_at": "2026-09-28T16:39:57Z",
+  "desc": "Rute rekayasa balik dan resmi dalam satu indeks: ID `-ext` adalah label balik, sisanya rute resmi berdiskon. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartctxebv7x/unofficial-api-gateway-id",
+  "node_id": "R_kgDOUwvuOw",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-id",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "unofficial-api",
+   "unofficial-api-gateway"
+  ]
+ },
+ "1393290974": {
+  "created_at": "2026-09-28T16:40:01Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartfp/affordable-llm-api-ru",
+  "node_id": "R_kgDOUwvu3g",
+  "topics": [
+   "affordable-llm-api",
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ru",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393292151": {
+  "created_at": "2026-09-28T16:40:25Z",
+  "desc": "\ub9ac\ubc84\uc2a4\uc640 \uacf5\uc2dd \ub77c\uc6b0\ud2b8\ub97c \ud55c\uacf3\uc5d0. `-ext` \ub294 \ub9ac\ubc84\uc2a4, \ub098\uba38\uc9c0\ub294 \uacf5\uc2dd \ud560\uc778 \ub2e8\uac00.AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartcrvj/unofficial-api-gateway-ko",
+  "node_id": "R_kgDOUwvzdw",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineering",
+   "unofficial-api",
+   "unofficial-api-gateway"
   ]
  },
  "1393293178": {
@@ -386339,6 +387416,23 @@
    "unofficial-api-gateway"
   ]
  },
+ "1393294028": {
+  "created_at": "2026-09-28T16:41:06Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarte3hmx/ai-api-aggregator-ru",
+  "node_id": "R_kgDOUwv6zA",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ru",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
  "1393294547": {
   "created_at": "2026-09-28T16:41:16Z",
   "desc": "\u4e00\u7ad9\u5f0f Coding Agent \u63d2\u4ef6\uff1a\u4ece\u9700\u6c42\u3001\u7814\u7a76\u3001\u8bbe\u8ba1\u3001\u539f\u578b\u5230\u5f00\u53d1\u3001\u6d4b\u8bd5\u3001\u53d1\u5e03\u7684\u5168\u6d41\u7a0b\u89c4\u5219\u3001Skills \u4e0e Hooks\uff0c\u52a9\u529b\u4efb\u4f55 0-1 \u7684\u60f3\u6cd5",
@@ -386346,6 +387440,239 @@
   "name": "SilentLake-Tech-SkillHub/SilentAgentHub",
   "node_id": "R_kgDOUwv80w",
   "topics": []
+ },
+ "1393294589": {
+  "created_at": "2026-09-28T16:41:16Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartecrg/ai-api-gateway-de",
+  "node_id": "R_kgDOUwv8_Q",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-de",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393294744": {
+  "created_at": "2026-09-28T16:41:19Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarth0ku4agh/ai-api-gateway-fr",
+  "node_id": "R_kgDOUwv9mA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393296008": {
+  "created_at": "2026-09-28T16:41:45Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartfp/ai-api-aggregator-cn",
+  "node_id": "R_kgDOUwwCiA",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393296289": {
+  "created_at": "2026-09-28T16:41:51Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartdrr12m64/ai-api-hub-de",
+  "node_id": "R_kgDOUwwDoQ",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-hub",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-de",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393299048": {
+  "created_at": "2026-09-28T16:42:48Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarte3hmx/ai-api-gateway-cn",
+  "node_id": "R_kgDOUwwOaA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393299239": {
+  "created_at": "2026-09-28T16:42:52Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarth0ku4agh/ai-api-gateway-id",
+  "node_id": "R_kgDOUwwPJw",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-id",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393299285": {
+  "created_at": "2026-09-28T16:42:53Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartecrg/ai-api-gateway-es",
+  "node_id": "R_kgDOUwwPVQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-es",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393301207": {
+  "created_at": "2026-09-28T16:43:31Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartdrr12m64/ai-api-hub-es",
+  "node_id": "R_kgDOUwwW1w",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-hub",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-es",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393304348": {
+  "created_at": "2026-09-28T16:44:37Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarte4/ai-api-relay",
+  "node_id": "R_kgDOUwwjHA",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-relay",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-en",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393305596": {
+  "created_at": "2026-09-28T16:45:04Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarth5/ai-api-relay-ru",
+  "node_id": "R_kgDOUwwn_A",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-relay",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ru",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393305605": {
+  "created_at": "2026-09-28T16:45:04Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartepx83t/ai-api-relay-id",
+  "node_id": "R_kgDOUwwoBQ",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-relay",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-id",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393309643": {
+  "created_at": "2026-09-28T16:46:32Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarte4/ai-api-relay-cn",
+  "node_id": "R_kgDOUww3yw",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-relay",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393309822": {
+  "created_at": "2026-09-28T16:46:36Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarth5/ai-api-router-de",
+  "node_id": "R_kgDOUww4fg",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-router",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-de",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393310151": {
+  "created_at": "2026-09-28T16:46:43Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartepx83t/ai-api-relay-pt",
+  "node_id": "R_kgDOUww5xw",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-relay",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-pt",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
  },
  "1393311471": {
   "created_at": "2026-09-28T16:47:12Z",
@@ -386359,6 +387686,90 @@
    "api-pricing",
    "apimart-de",
    "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393312705": {
+  "created_at": "2026-09-28T16:47:39Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarthwyngc/cheapest-llm-api-id",
+  "node_id": "R_kgDOUwxDwQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-id",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393312803": {
+  "created_at": "2026-09-28T16:47:42Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartcwsm/image-api-gateway",
+  "node_id": "R_kgDOUwxEIw",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-en",
+   "image-api-gateway",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393314134": {
+  "created_at": "2026-09-28T16:48:11Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartf/image-api-gateway-id",
+  "node_id": "R_kgDOUwxJVg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-id",
+   "image-api-gateway",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393314910": {
+  "created_at": "2026-09-28T16:48:29Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartg4i/image-api-gateway-ru",
+  "node_id": "R_kgDOUwxMXg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ru",
+   "image-api-gateway",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393315713": {
+  "created_at": "2026-09-28T16:48:46Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarth5i/llm-api-gateway-fr",
+  "node_id": "R_kgDOUwxPgQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
    "llm-api-gateway",
    "openai-compatible",
    "pay-as-you-go"
@@ -386381,6 +387792,121 @@
    "pay-as-you-go"
   ]
  },
+ "1393317230": {
+  "created_at": "2026-09-28T16:49:18Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarthwyngc/cheapest-llm-api-ko",
+  "node_id": "R_kgDOUwxVbg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393317491": {
+  "created_at": "2026-09-28T16:49:24Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartcwsm/image-api-gateway-cn",
+  "node_id": "R_kgDOUwxWcw",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "image-api-gateway",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393317574": {
+  "created_at": "2026-09-28T16:49:26Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartc00/llm-api-gateway-pt",
+  "node_id": "R_kgDOUwxWxg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-pt",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393318816": {
+  "created_at": "2026-09-28T16:49:51Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartf/image-api-gateway-pt",
+  "node_id": "R_kgDOUwxboA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-pt",
+   "image-api-gateway",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393319439": {
+  "created_at": "2026-09-28T16:50:06Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartg4i/llm-api-gateway-cn",
+  "node_id": "R_kgDOUwxeDw",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393320383": {
+  "created_at": "2026-09-28T16:50:27Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarth5i/llm-api-gateway-id",
+  "node_id": "R_kgDOUwxhvw",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-id",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393322115": {
+  "created_at": "2026-09-28T16:51:05Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartc00/llm-api-gateway-ru",
+  "node_id": "R_kgDOUwxogw",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ru",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
  "1393371921": {
   "created_at": "2026-09-28T17:10:08Z",
   "desc": "End-to-end retail analytics and recommendation platform using PySpark, Kafka, PostgreSQL, Power BI, PyTorch Two-Tower, Qdrant, FastAPI, Docker and Azure.",
@@ -386388,6 +387914,57 @@
   "name": "Jiarui-0410/real-time-recommendation-analytics",
   "node_id": "R_kgDOUw0rEQ",
   "topics": []
+ },
+ "1393399509": {
+  "created_at": "2026-09-28T17:20:50Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartgytbcbe/model-api-gateway-de",
+  "node_id": "R_kgDOUw2W1Q",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-de",
+   "llm-api-gateway",
+   "model-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393403642": {
+  "created_at": "2026-09-28T17:22:22Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartgytbcbe/model-api-gateway-es",
+  "node_id": "R_kgDOUw2m-g",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-es",
+   "llm-api-gateway",
+   "model-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393407695": {
+  "created_at": "2026-09-28T17:24:01Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarthmgtrwkp/multi-model-api-es",
+  "node_id": "R_kgDOUw22zw",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-es",
+   "llm-api-gateway",
+   "multi-model-api",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
  },
  "1393410826": {
   "created_at": "2026-09-28T17:25:16Z",
@@ -386410,6 +387987,265 @@
    "turkce"
   ]
  },
+ "1393411168": {
+  "created_at": "2026-09-28T17:25:24Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarthmgtrwkp/multi-model-api-id",
+  "node_id": "R_kgDOUw3EYA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-id",
+   "llm-api-gateway",
+   "multi-model-api",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393414873": {
+  "created_at": "2026-09-28T17:26:51Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartdrgsdjf3d/openai-api-proxy-ru",
+  "node_id": "R_kgDOUw3S2Q",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ru",
+   "llm-api-gateway",
+   "openai-api-proxy",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393416248": {
+  "created_at": "2026-09-28T17:27:22Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartex/video-api-gateway-cn",
+  "node_id": "R_kgDOUw3YOA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "video-api-gateway"
+  ]
+ },
+ "1393427548": {
+  "created_at": "2026-09-28T17:31:44Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartdrgsdjf3d/openai-compatible-api",
+  "node_id": "R_kgDOUw4EXA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-en",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openai-compatible-api",
+   "pay-as-you-go"
+  ]
+ },
+ "1393431432": {
+  "created_at": "2026-09-28T17:33:11Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartex/video-api-gateway-de",
+  "node_id": "R_kgDOUw4TiA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-de",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "video-api-gateway"
+  ]
+ },
+ "1393443908": {
+  "created_at": "2026-09-28T17:38:01Z",
+  "desc": "rekayasa balik Nano Banana Pro Ext API: 1K $0.03; 4K $0.04. model ID `gemini-3-pro-image-preview`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. nano-banana-pro-ext-reverse-api-id.",
+  "lang": "",
+  "name": "apimartdgodaeh8/nano-banana-pro-ext-reverse-api-id",
+  "node_id": "R_kgDOUw5ERA",
+  "topics": [
+   "api-pricing",
+   "apimart-id",
+   "ext-api",
+   "gemini-3-pro-image-preview",
+   "image-generation",
+   "nano-banana-pro-ext",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393444374": {
+  "created_at": "2026-09-28T17:38:11Z",
+  "desc": "ingenier\u00eda inversa Nano Banana 2 Lite Ext API: 1K $0.0125. model ID `gemini-3.1-flash-lite-image-ext`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. nano-banana-2-lite-ext-reverse-api-es.",
+  "lang": "",
+  "name": "apimartfz7/nano-banana-2-lite-ext-reverse-api-es",
+  "node_id": "R_kgDOUw5GFg",
+  "topics": [
+   "api-pricing",
+   "apimart-es",
+   "ext-api",
+   "gemini-3-1-flash-lite-image-ext",
+   "image-generation",
+   "nano-banana-2-lite-ext",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393447970": {
+  "created_at": "2026-09-28T17:39:36Z",
+  "desc": "Routes reverse-engineered et officielles dans un m\u00eame index : les ID `-ext` sont le libell\u00e9 reverse, le reste passe en route officielle \u00e0 prix r\u00e9duit. AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-u",
+  "lang": "",
+  "name": "apimartdgodaeh8/reverse-engineered-gateway-fr",
+  "node_id": "R_kgDOUw5UIg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "ext-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "reverse-api",
+   "reverse-engineered-api",
+   "reverse-engineered-gateway",
+   "reverse-engineering",
+   "unofficial-api"
+  ]
+ },
+ "1393448254": {
+  "created_at": "2026-09-28T17:39:43Z",
+  "desc": "\u30ea\u30d0\u30fc\u30b9 Nano Banana 2 Lite Ext API: 1K $0.0125. model ID `gemini-3.1-flash-lite-image-ext`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. nano-banana-2-lite-ext-reverse-api-ja.",
+  "lang": "",
+  "name": "apimartfz7/nano-banana-2-lite-ext-reverse-api-ja",
+  "node_id": "R_kgDOUw5VPg",
+  "topics": [
+   "api-pricing",
+   "apimart-ja",
+   "ext-api",
+   "gemini-3-1-flash-lite-image-ext",
+   "image-generation",
+   "nano-banana-2-lite-ext",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393480709": {
+  "created_at": "2026-09-28T17:52:14Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartf7gldzb0l/ai-api-proxy-ja",
+  "node_id": "R_kgDOUw7UBQ",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-proxy",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393480721": {
+  "created_at": "2026-09-28T17:52:14Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarteiszfurb9/affordable-llm-api-ko",
+  "node_id": "R_kgDOUw7UEQ",
+  "topics": [
+   "affordable-llm-api",
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393480734": {
+  "created_at": "2026-09-28T17:52:15Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartgh0ezyue5/ai-api-aggregator-ko",
+  "node_id": "R_kgDOUw7UHg",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393485032": {
+  "created_at": "2026-09-28T17:53:53Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarteiszfurb9/ai-api-aggregator",
+  "node_id": "R_kgDOUw7k6A",
+  "topics": [
+   "ai-api-aggregator",
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-en",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393485258": {
+  "created_at": "2026-09-28T17:53:57Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartf7gldzb0l/ai-api-proxy-ko",
+  "node_id": "R_kgDOUw7lyg",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-proxy",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393486257": {
+  "created_at": "2026-09-28T17:54:20Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartgh0ezyue5/ai-api-gateway",
+  "node_id": "R_kgDOUw7psQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-en",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
  "1393486459": {
   "created_at": "2026-09-28T17:54:25Z",
   "desc": "An interactive Electromagnetic field exploration built using Claude Opus 5.5",
@@ -386417,6 +388253,277 @@
   "name": "thebuggeddev/electromagnetism",
   "node_id": "R_kgDOUw7qew",
   "topics": []
+ },
+ "1393489613": {
+  "created_at": "2026-09-28T17:55:40Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartbprz7k3/api-relay-pricing-cn",
+  "node_id": "R_kgDOUw72zQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "api-relay-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393489946": {
+  "created_at": "2026-09-28T17:55:49Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarteo/image-api-gateway-ko",
+  "node_id": "R_kgDOUw74Gg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "image-api-gateway",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393489984": {
+  "created_at": "2026-09-28T17:55:50Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartbpvipiqk/cheapest-llm-api-fr",
+  "node_id": "R_kgDOUw74QA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393490946": {
+  "created_at": "2026-09-28T17:56:13Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarthnw2w/model-api-gateway-fr",
+  "node_id": "R_kgDOUw78Ag",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "llm-api-gateway",
+   "model-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393491006": {
+  "created_at": "2026-09-28T17:56:14Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartetccxd5a/llm-api-relay-cn",
+  "node_id": "R_kgDOUw78Pg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "llm-api-relay",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393493780": {
+  "created_at": "2026-09-28T17:57:19Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartbprz7k3/api-relay-pricing-fr",
+  "node_id": "R_kgDOUw8HFA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "api-relay-pricing",
+   "apimart-fr",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393494155": {
+  "created_at": "2026-09-28T17:57:27Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarteo/llm-api-gateway",
+  "node_id": "R_kgDOUw8Iiw",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-en",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393494329": {
+  "created_at": "2026-09-28T17:57:31Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartbpvipiqk/cheapest-llm-api-ja",
+  "node_id": "R_kgDOUw8JOQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "cheapest-llm-api",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393495000": {
+  "created_at": "2026-09-28T17:57:48Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartetccxd5a/llm-api-relay-fr",
+  "node_id": "R_kgDOUw8L2A",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "llm-api-gateway",
+   "llm-api-relay",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393495007": {
+  "created_at": "2026-09-28T17:57:48Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarthnw2w/model-api-gateway-ja",
+  "node_id": "R_kgDOUw8L3w",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "llm-api-gateway",
+   "model-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393498779": {
+  "created_at": "2026-09-28T17:59:13Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartgw2q/openai-api-proxy-ko",
+  "node_id": "R_kgDOUw8amw",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-api-proxy",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1393499089": {
+  "created_at": "2026-09-28T17:59:21Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartfe05r4/video-api-gateway-ja",
+  "node_id": "R_kgDOUw8b0Q",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "video-api-gateway"
+  ]
+ },
+ "1393502607": {
+  "created_at": "2026-09-28T18:00:44Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartgw2q/openai-compatible-api-cn",
+  "node_id": "R_kgDOUw8pjw",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "openai-compatible-api",
+   "pay-as-you-go"
+  ]
+ },
+ "1393503163": {
+  "created_at": "2026-09-28T18:00:57Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartfe05r4/video-api-gateway-ko",
+  "node_id": "R_kgDOUw8ruw",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go",
+   "video-api-gateway"
+  ]
+ },
+ "1393520341": {
+  "created_at": "2026-09-28T18:08:03Z",
+  "desc": "Reverse-Engineering FLUX Kontext Max API: 1K $0.064. model ID `flux-kontext-max`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. flux-kontext-ext-reverse-api-de.",
+  "lang": "",
+  "name": "apimartbnv6wl16d/flux-kontext-ext-reverse-api-de",
+  "node_id": "R_kgDOUw9u1Q",
+  "topics": [
+   "api-pricing",
+   "apimart-de",
+   "ext-api",
+   "flux-kontext-ext",
+   "flux-kontext-max",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
+ },
+ "1393524372": {
+  "created_at": "2026-09-28T18:09:39Z",
+  "desc": "ingenier\u00eda inversa FLUX Kontext Max API: 1K $0.064. model ID `flux-kontext-max`, OpenAI-compatible, async task + cost in every response, $1 minimum top-up. flux-kontext-ext-reverse-api-es.",
+  "lang": "",
+  "name": "apimartbnv6wl16d/flux-kontext-ext-reverse-api-es",
+  "node_id": "R_kgDOUw9-lA",
+  "topics": [
+   "api-pricing",
+   "apimart-es",
+   "ext-api",
+   "flux-kontext-ext",
+   "flux-kontext-max",
+   "image-generation",
+   "reverse-api",
+   "reverse-engineered-api"
+  ]
  },
  "1393689296": {
   "created_at": "2026-09-28T19:14:59Z",
@@ -386468,10 +388575,14 @@
   "node_id": "R_kgDOUxY7BQ",
   "topics": [
    "ai",
+   "chinese",
    "content-curation",
+   "daily-digest",
+   "docker-compose",
    "llm",
    "mcp",
    "news-aggregator",
+   "postgresql",
    "rss",
    "self-hosted",
    "typescript"
@@ -386541,6 +388652,124 @@
   "node_id": "R_kgDOUxgiTw",
   "topics": []
  },
+ "1394115602": {
+  "created_at": "2026-09-29T02:44:03Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarthw7m9/ai-api-aggregator-cheap-ja",
+  "node_id": "R_kgDOUxiEEg",
+  "topics": []
+ },
+ "1394115615": {
+  "created_at": "2026-09-29T02:44:04Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartf4kw/ai-api-gateway-cheap",
+  "node_id": "R_kgDOUxiEHw",
+  "topics": []
+ },
+ "1394115619": {
+  "created_at": "2026-09-29T02:44:04Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartgl5xeot/ai-api-aggregator-2026",
+  "node_id": "R_kgDOUxiEIw",
+  "topics": [
+   "ai-api-aggregator-2026",
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-en",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394115629": {
+  "created_at": "2026-09-29T02:44:04Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartcq/ai-api-gateway-2026-ja",
+  "node_id": "R_kgDOUxiELQ",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-gateway-2026",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394116939": {
+  "created_at": "2026-09-29T02:45:13Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarthxnw6/ai-api-aggregator-2026-ko",
+  "node_id": "R_kgDOUxiJSw",
+  "topics": [
+   "ai-api-aggregator-2026",
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394118224": {
+  "created_at": "2026-09-29T02:46:19Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartf2/ai-api-gateway-no-vpn-ko",
+  "node_id": "R_kgDOUxiOUA",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-gateway-no-vpn",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394118252": {
+  "created_at": "2026-09-29T02:46:21Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartez7cpvcfy/ai-api-gateway-pricing-cn",
+  "node_id": "R_kgDOUxiObA",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-gateway-pricing",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394118331": {
+  "created_at": "2026-09-29T02:46:25Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartgkrvhvxl/ai-api-hub-2026-ja",
+  "node_id": "R_kgDOUxiOuw",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-hub-2026",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
  "1394119641": {
   "created_at": "2026-09-29T02:47:27Z",
   "desc": "Official implementation of \"Hierarchical Continuous Diffusion Language Models\"",
@@ -386553,6 +388782,74 @@
    "diffusion-models"
   ]
  },
+ "1394120608": {
+  "created_at": "2026-09-29T02:48:12Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartf2/ai-api-gateway-pricing",
+  "node_id": "R_kgDOUxiXoA",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-gateway-pricing",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-en",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394120652": {
+  "created_at": "2026-09-29T02:48:15Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartgkrvhvxl/ai-api-hub-2026-ko",
+  "node_id": "R_kgDOUxiXzA",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-hub-2026",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394120777": {
+  "created_at": "2026-09-29T02:48:19Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartez7cpvcfy/ai-api-gateway-pricing-fr",
+  "node_id": "R_kgDOUxiYSQ",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-gateway-pricing",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394123214": {
+  "created_at": "2026-09-29T02:50:13Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarter3f6w6h/ai-api-proxy-cheap-ko",
+  "node_id": "R_kgDOUxihzg",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-proxy-cheap",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
  "1394124787": {
   "created_at": "2026-09-29T02:51:19Z",
   "desc": "\u4ece\u670d\u88c5\u53c2\u8003\u56fe\u751f\u6210\u6574\u5957\u4e0e\u62c6\u4ef6\u8d44\u4ea7\u677f\u7684 MIT Skill",
@@ -386560,6 +388857,1136 @@
   "name": "nuyoah-ai-works/nuyoah-outfit-asset-generator",
   "node_id": "R_kgDOUxin8w",
   "topics": []
+ },
+ "1394126524": {
+  "created_at": "2026-09-29T02:52:27Z",
+  "desc": "Honeycomb: Constant-Size Scene Memory Representation for Video World Models",
+  "lang": "Python",
+  "name": "kaichen-z/HoneyComb",
+  "node_id": "R_kgDOUxiuvA",
+  "topics": []
+ },
+ "1394127130": {
+  "created_at": "2026-09-29T02:52:48Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarthw7m9/ai-api-aggregator-cheap-ko",
+  "node_id": "R_kgDOUxixGg",
+  "topics": [
+   "ai-api-aggregator-cheap",
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394127145": {
+  "created_at": "2026-09-29T02:52:49Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartgl5xeot/ai-api-aggregator-2026-cn",
+  "node_id": "R_kgDOUxixKQ",
+  "topics": [
+   "ai-api-aggregator-2026",
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394127165": {
+  "created_at": "2026-09-29T02:52:50Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartf4kw/ai-api-gateway-cheap-cn",
+  "node_id": "R_kgDOUxixPQ",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-gateway-cheap",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394127318": {
+  "created_at": "2026-09-29T02:52:55Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarte1lzj/ai-api-relay-cheap-cn",
+  "node_id": "R_kgDOUxix1g",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-relay-cheap",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394128595": {
+  "created_at": "2026-09-29T02:53:45Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartcq/ai-api-gateway-2026-ko",
+  "node_id": "R_kgDOUxi20w",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-gateway-2026",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394134686": {
+  "created_at": "2026-09-29T02:57:28Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarth00/ai-api-relay-cheap-ja",
+  "node_id": "R_kgDOUxjOng",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-relay-cheap",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394134787": {
+  "created_at": "2026-09-29T02:57:31Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartby6kb1/ai-api-relay-no-vpn-fr",
+  "node_id": "R_kgDOUxjPAw",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-relay-no-vpn",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394136601": {
+  "created_at": "2026-09-29T02:58:33Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarte1lzj/ai-api-relay-cheap-fr",
+  "node_id": "R_kgDOUxjWGQ",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-relay-cheap",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394136944": {
+  "created_at": "2026-09-29T02:58:43Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarth5a/ai-api-router-cheap-ja",
+  "node_id": "R_kgDOUxjXcA",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-router-cheap",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394136949": {
+  "created_at": "2026-09-29T02:58:44Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartdqgxzj/ai-api-router-2026-ko",
+  "node_id": "R_kgDOUxjXdQ",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-router-2026",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394139042": {
+  "created_at": "2026-09-29T03:00:03Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarth00/ai-api-relay-cheap-ko",
+  "node_id": "R_kgDOUxjfog",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-relay-cheap",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394139670": {
+  "created_at": "2026-09-29T03:00:24Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartewdgn820/api-relay-pricing-cheap-cn",
+  "node_id": "R_kgDOUxjiFg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "api-relay-pricing-cheap",
+   "apimart-cn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394139774": {
+  "created_at": "2026-09-29T03:00:27Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartby6kb1/ai-api-relay-no-vpn-ja",
+  "node_id": "R_kgDOUxjifg",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-relay-no-vpn",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394141210": {
+  "created_at": "2026-09-29T03:01:31Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartg1ur/api-relay-pricing-cheap-ja",
+  "node_id": "R_kgDOUxjoGg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "api-relay-pricing-cheap",
+   "apimart-ja",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394141827": {
+  "created_at": "2026-09-29T03:01:56Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarth5a/ai-api-router-cheap-ko",
+  "node_id": "R_kgDOUxjqgw",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-router-cheap",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394141943": {
+  "created_at": "2026-09-29T03:02:01Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartdqgxzj/ai-api-router-cheap",
+  "node_id": "R_kgDOUxjq9w",
+  "topics": [
+   "ai-api-gateway",
+   "ai-api-router-cheap",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-en",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394143833": {
+  "created_at": "2026-09-29T03:03:14Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartdk/api-relay-pricing-no-vpn-ko",
+  "node_id": "R_kgDOUxjyWQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "api-relay-pricing-no-vpn",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394143908": {
+  "created_at": "2026-09-29T03:03:18Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartewdgn820/api-relay-pricing-cheap-fr",
+  "node_id": "R_kgDOUxjypA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "api-relay-pricing-cheap",
+   "apimart-fr",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394145369": {
+  "created_at": "2026-09-29T03:04:22Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartg1ur/api-relay-pricing-cheap-ko",
+  "node_id": "R_kgDOUxj4WQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "api-relay-pricing-cheap",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394147009": {
+  "created_at": "2026-09-29T03:05:34Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartdk/api-relay-pricing-pricing",
+  "node_id": "R_kgDOUxj-wQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "api-relay-pricing-pricing",
+   "apimart-en",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394147090": {
+  "created_at": "2026-09-29T03:05:39Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartdecg4/deepseek-v4-pro-api-ja",
+  "node_id": "R_kgDOUxj_Eg",
+  "topics": [
+   "ai-api-gateway",
+   "api",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394147099": {
+  "created_at": "2026-09-29T03:05:40Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartf4h/deepseek-v4-pro-api-cn",
+  "node_id": "R_kgDOUxj_Gw",
+  "topics": [
+   "ai-api-gateway",
+   "api",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394148711": {
+  "created_at": "2026-09-29T03:06:49Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartg583b51/flux-2-max-api-cn",
+  "node_id": "R_kgDOUxkFZw",
+  "topics": [
+   "ai-api-gateway",
+   "api",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394150336": {
+  "created_at": "2026-09-29T03:08:00Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartdecg4/deepseek-v4-pro-api-ko",
+  "node_id": "R_kgDOUxkLwA",
+  "topics": [
+   "ai-api-gateway",
+   "api",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394150550": {
+  "created_at": "2026-09-29T03:08:04Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartf4h/deepseek-v4-pro-api-fr",
+  "node_id": "R_kgDOUxkMlg",
+  "topics": [
+   "ai-api-gateway",
+   "api",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394152066": {
+  "created_at": "2026-09-29T03:09:01Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartg583b51/flux-2-max-api-fr",
+  "node_id": "R_kgDOUxkSgg",
+  "topics": [
+   "ai-api-gateway",
+   "api",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394152357": {
+  "created_at": "2026-09-29T03:09:11Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartbv/gemini-3-pro-image-preview-official-api-cn",
+  "node_id": "R_kgDOUxkTpQ",
+  "topics": [
+   "ai-api-gateway",
+   "api",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394152364": {
+  "created_at": "2026-09-29T03:09:11Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarte80m2k/gemini-3-pro-image-preview-official-api-ja",
+  "node_id": "R_kgDOUxkTrA",
+  "topics": [
+   "ai-api-gateway",
+   "api",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394156055": {
+  "created_at": "2026-09-29T03:11:23Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartbv/gemini-3-pro-image-preview-official-api-fr",
+  "node_id": "R_kgDOUxkiFw",
+  "topics": [
+   "ai-api-gateway",
+   "api",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394156080": {
+  "created_at": "2026-09-29T03:11:24Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarte80m2k/gemini-3-pro-image-preview-official-api-ko",
+  "node_id": "R_kgDOUxkiMA",
+  "topics": [
+   "ai-api-gateway",
+   "api",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394159901": {
+  "created_at": "2026-09-29T03:13:48Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartdyahafov/gpt-image-1.5-official-api-ja",
+  "node_id": "R_kgDOUxkxHQ",
+  "topics": [
+   "ai-api-gateway",
+   "api",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394162799": {
+  "created_at": "2026-09-29T03:15:46Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartdyahafov/gpt-image-1.5-official-api-ko",
+  "node_id": "R_kgDOUxk8bw",
+  "topics": [
+   "ai-api-gateway",
+   "api",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394166228": {
+  "created_at": "2026-09-29T03:18:02Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartfxv926/image-api-gateway-2026-ko",
+  "node_id": "R_kgDOUxlJ1A",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "image-api-gateway-2026",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394167189": {
+  "created_at": "2026-09-29T03:18:39Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarth12ga0bx7/image-api-gateway-no-vpn-cn",
+  "node_id": "R_kgDOUxlNlQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "image-api-gateway-no-vpn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394167309": {
+  "created_at": "2026-09-29T03:18:43Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartdq8cgx3/image-api-gateway-no-vpn-ja",
+  "node_id": "R_kgDOUxlODQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "image-api-gateway-no-vpn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394167737": {
+  "created_at": "2026-09-29T03:19:01Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartfbsu4lby/image-api-gateway-pricing",
+  "node_id": "R_kgDOUxlPuQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-en",
+   "image-api-gateway-pricing",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394169421": {
+  "created_at": "2026-09-29T03:19:59Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartfxv926/image-api-gateway-cheap",
+  "node_id": "R_kgDOUxlWTQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-en",
+   "image-api-gateway-cheap",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394171067": {
+  "created_at": "2026-09-29T03:21:01Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimarth12ga0bx7/image-api-gateway-no-vpn-fr",
+  "node_id": "R_kgDOUxlcuw",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "image-api-gateway-no-vpn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394171289": {
+  "created_at": "2026-09-29T03:21:08Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartdq8cgx3/image-api-gateway-no-vpn-ko",
+  "node_id": "R_kgDOUxldmQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "image-api-gateway-no-vpn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394171434": {
+  "created_at": "2026-09-29T03:21:15Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartfbsu4lby/image-api-gateway-pricing-cn",
+  "node_id": "R_kgDOUxleKg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "image-api-gateway-pricing",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394174940": {
+  "created_at": "2026-09-29T03:23:29Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartchmcg/kling-v3-api-cn",
+  "node_id": "R_kgDOUxlr3A",
+  "topics": [
+   "ai-api-gateway",
+   "api",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394178794": {
+  "created_at": "2026-09-29T03:26:11Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartchmcg/kling-v3-api-fr",
+  "node_id": "R_kgDOUxl66g",
+  "topics": [
+   "ai-api-gateway",
+   "api",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "llm-api-gateway",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394179531": {
+  "created_at": "2026-09-29T03:26:37Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartd9uqov94/llm-api-gateway-free-tier-fr",
+  "node_id": "R_kgDOUxl9yw",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "llm-api-gateway",
+   "llm-api-gateway-free-tier",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394180176": {
+  "created_at": "2026-09-29T03:27:05Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartdr8/llm-api-gateway-free-tier-ko",
+  "node_id": "R_kgDOUxmAUA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "llm-api-gateway-free-tier",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394181591": {
+  "created_at": "2026-09-29T03:28:09Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartcg4qbndso/llm-api-gateway-pricing-fr",
+  "node_id": "R_kgDOUxmF1w",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "llm-api-gateway",
+   "llm-api-gateway-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394181865": {
+  "created_at": "2026-09-29T03:28:19Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartfwey/llm-api-gateway-pricing-ko",
+  "node_id": "R_kgDOUxmG6Q",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "llm-api-gateway-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394182052": {
+  "created_at": "2026-09-29T03:28:27Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartdfxmryb/llm-api-gateway-trial-cn",
+  "node_id": "R_kgDOUxmHpA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "llm-api-gateway-trial",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394183169": {
+  "created_at": "2026-09-29T03:29:11Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartg6af30z5v/llm-api-proxy-cheap-cn",
+  "node_id": "R_kgDOUxmMAQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "llm-api-proxy-cheap",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394183741": {
+  "created_at": "2026-09-29T03:29:36Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartc50wiwt/llm-api-proxy-no-vpn-fr",
+  "node_id": "R_kgDOUxmOPQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "llm-api-gateway",
+   "llm-api-proxy-no-vpn",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394184194": {
+  "created_at": "2026-09-29T03:29:55Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartd9uqov94/llm-api-gateway-free-tier-ja",
+  "node_id": "R_kgDOUxmQAg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "llm-api-gateway",
+   "llm-api-gateway-free-tier",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394186080": {
+  "created_at": "2026-09-29T03:31:04Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartcg4qbndso/llm-api-gateway-pricing-ja",
+  "node_id": "R_kgDOUxmXYA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "llm-api-gateway",
+   "llm-api-gateway-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394186267": {
+  "created_at": "2026-09-29T03:31:10Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartfwey/llm-api-gateway-trial",
+  "node_id": "R_kgDOUxmYGw",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-en",
+   "llm-api-gateway",
+   "llm-api-gateway-trial",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394187600": {
+  "created_at": "2026-09-29T03:31:56Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartcz9/llm-api-relay-2026-ja",
+  "node_id": "R_kgDOUxmdUA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "llm-api-gateway",
+   "llm-api-relay-2026",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394187729": {
+  "created_at": "2026-09-29T03:32:01Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartg6af30z5v/llm-api-proxy-cheap-fr",
+  "node_id": "R_kgDOUxmd0Q",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "llm-api-gateway",
+   "llm-api-proxy-cheap",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394188194": {
+  "created_at": "2026-09-29T03:32:13Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartgly9do81/llm-api-proxy-no-vpn-cn",
+  "node_id": "R_kgDOUxmfog",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "llm-api-proxy-no-vpn",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394188226": {
+  "created_at": "2026-09-29T03:32:14Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartetybtgg0/llm-api-relay-cheap-ko",
+  "node_id": "R_kgDOUxmfwg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "llm-api-relay-cheap",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394188369": {
+  "created_at": "2026-09-29T03:32:20Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartc50wiwt/llm-api-proxy-no-vpn-ja",
+  "node_id": "R_kgDOUxmgUQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "llm-api-gateway",
+   "llm-api-proxy-no-vpn",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394188956": {
+  "created_at": "2026-09-29T03:32:40Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartgfl2cx8k/llm-api-relay-no-vpn-cn",
+  "node_id": "R_kgDOUxminA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-cn",
+   "llm-api-gateway",
+   "llm-api-relay-no-vpn",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394192196": {
+  "created_at": "2026-09-29T03:34:26Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartcz9/llm-api-relay-2026-ko",
+  "node_id": "R_kgDOUxmvRA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "llm-api-relay-2026",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394193372": {
+  "created_at": "2026-09-29T03:35:02Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartetybtgg0/llm-api-relay-no-vpn",
+  "node_id": "R_kgDOUxmz3A",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-en",
+   "llm-api-gateway",
+   "llm-api-relay-no-vpn",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394193706": {
+  "created_at": "2026-09-29T03:35:13Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartgfl2cx8k/llm-api-relay-no-vpn-fr",
+  "node_id": "R_kgDOUxm1Kg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "llm-api-gateway",
+   "llm-api-relay-no-vpn",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394194694": {
+  "created_at": "2026-09-29T03:35:49Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartdfxmryb/llm-api-gateway-trial-fr",
+  "node_id": "R_kgDOUxm5Bg",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-fr",
+   "llm-api-gateway",
+   "llm-api-gateway-trial",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394199697": {
+  "created_at": "2026-09-29T03:38:32Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartg7wlh/model-api-gateway-pricing-ja",
+  "node_id": "R_kgDOUxnMkQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ja",
+   "llm-api-gateway",
+   "model-api-gateway-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394201220": {
+  "created_at": "2026-09-29T03:39:20Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartg9j68n/model-api-gateway-trial-ko",
+  "node_id": "R_kgDOUxnShA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "model-api-gateway-trial",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394202881": {
+  "created_at": "2026-09-29T03:40:12Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartg7wlh/model-api-gateway-pricing-ko",
+  "node_id": "R_kgDOUxnZAQ",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-ko",
+   "llm-api-gateway",
+   "model-api-gateway-pricing",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
+ },
+ "1394204700": {
+  "created_at": "2026-09-29T03:41:12Z",
+  "desc": "AI API gateway / relay: 307 models behind one OpenAI-compatible key. image2.5 $0.0085/image, Seedance 2.0 Mini $0.01056/sec, LLM from $0.0228/M tokens. USD settlement, pay-as-you-go, $1 minimum top-up.",
+  "lang": "",
+  "name": "apimartg9j68n/openai-api-proxy-2026",
+  "node_id": "R_kgDOUxngHA",
+  "topics": [
+   "ai-api-gateway",
+   "api-aggregator",
+   "api-pricing",
+   "apimart-en",
+   "llm-api-gateway",
+   "openai-api-proxy-2026",
+   "openai-compatible",
+   "pay-as-you-go"
+  ]
  },
  "1394277339": {
   "created_at": "2026-09-29T04:20:51Z",
@@ -386595,12 +390022,28 @@
   "node_id": "R_kgDOUxvalA",
   "topics": []
  },
+ "1394348802": {
+  "created_at": "2026-09-29T04:58:07Z",
+  "desc": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
+  "lang": "Python",
+  "name": "zqc3117/Spotter",
+  "node_id": "R_kgDOUxwTAg",
+  "topics": []
+ },
  "1394398089": {
   "created_at": "2026-09-29T05:22:13Z",
   "desc": "Fix Antigravity 'not eligible' error - diagnose, clean credentials, auto-fix",
   "lang": "Python",
   "name": "fulldiagnose/antigravity-fixer",
   "node_id": "R_kgDOUxzTiQ",
+  "topics": []
+ },
+ "1394457398": {
+  "created_at": "2026-09-29T05:53:12Z",
+  "desc": "PyTorch implementation of Looped Diffusion Transformer",
+  "lang": "Python",
+  "name": "OpenSenseNova/Looped-DiT",
+  "node_id": "R_kgDOUx27Ng",
   "topics": []
  },
  "1394589800": {
@@ -386819,6 +390262,14 @@
    "windows"
   ]
  },
+ "1395252550": {
+  "created_at": "2026-09-29T12:42:49Z",
+  "desc": "\u50cfcoding agent\u4e00\u6837\u81ea\u52a8\u6295\u9012boss\u76f4\u8058",
+  "lang": "Python",
+  "name": "FengLeo666/boss_react",
+  "node_id": "R_kgDOUyndRg",
+  "topics": []
+ },
  "1395278529": {
   "created_at": "2026-09-29T12:51:53Z",
   "desc": "Brainstorm the design with your coding agent, approve it, and it builds. The brainstorming step from Superpowers, for frontier models.",
@@ -386978,12 +390429,39 @@
   "node_id": "R_kgDOUzcQzw",
   "topics": []
  },
+ "1396140448": {
+  "created_at": "2026-09-29T17:21:43Z",
+  "desc": "\u4ece\u624b\u673a\u3001\u5e73\u677f\u6216\u7535\u8111\u6d4f\u89c8\u5668\u7ee7\u7eed Codex App \u4f1a\u8bdd\uff0c\u517c\u5bb9\u5b98\u65b9\u767b\u5f55\u3001API \u4e0e\u81ea\u5b9a\u4e49\u6a21\u578b\u670d\u52a1\u3002Self-hosted browser access to your existing Codex chats, with local/SSH sessions, approvals and notifications.",
+  "lang": "Python",
+  "name": "try2love/codex-mobile-bridge",
+  "node_id": "R_kgDOUzdpoA",
+  "topics": [
+   "ai-agents",
+   "codex",
+   "codex-app",
+   "developer-tools",
+   "mobile",
+   "openai-codex",
+   "remote-access",
+   "self-hosted",
+   "ssh",
+   "web-ui"
+  ]
+ },
  "1396403260": {
   "created_at": "2026-09-29T18:59:57Z",
   "desc": "High-performance OpenAI-compatible API gateway and bridge for muse.ai personal AI agents, ready for 9Router multi-model integration.",
   "lang": "Python",
   "name": "d4ncboz/museai",
   "node_id": "R_kgDOUztsPA",
+  "topics": []
+ },
+ "1396458408": {
+  "created_at": "2026-09-29T19:26:15Z",
+  "desc": "Official code for PAMI: Part Anchored Motion for Text to Human-Object Interaction Generation",
+  "lang": "",
+  "name": "Coral79/PAMI-Code",
+  "node_id": "R_kgDOUzxDqA",
   "topics": []
  },
  "1396526455": {
@@ -387010,6 +390488,23 @@
   "node_id": "R_kgDOUz55eQ",
   "topics": []
  },
+ "1396663026": {
+  "created_at": "2026-09-29T22:30:04Z",
+  "desc": "A curated list of steam frame compatible software/hardware",
+  "lang": "",
+  "name": "kosantosbik/awesome-steam-frame",
+  "node_id": "R_kgDOUz9i8g",
+  "topics": [
+   "awesome",
+   "awesome-list",
+   "awesome-lists",
+   "openvr",
+   "steam-frame",
+   "steamvr",
+   "virtual-reality",
+   "vr"
+  ]
+ },
  "1396684626": {
   "created_at": "2026-09-29T23:00:37Z",
   "desc": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.",
@@ -387017,6 +390512,23 @@
   "name": "MisakaZentai/world-execute-me-dsh-pv",
   "node_id": "R_kgDOUz-3Ug",
   "topics": []
+ },
+ "1396714267": {
+  "created_at": "2026-09-29T23:31:51Z",
+  "desc": "Rust based C2 Framework",
+  "lang": "Zig",
+  "name": "g13net/lockjaw",
+  "node_id": "R_kgDOU0ArGw",
+  "topics": [
+   "adversarial-attacks",
+   "adversary-emulation",
+   "c2",
+   "c2-framework",
+   "command-and-control",
+   "red-team",
+   "rust",
+   "zig"
+  ]
  },
  "1396738941": {
   "created_at": "2026-09-30T00:07:56Z",
@@ -387163,6 +390675,14 @@
    "reverse-engineering",
    "tmodloader"
   ]
+ },
+ "1397030982": {
+  "created_at": "2026-09-30T05:09:58Z",
+  "desc": "Official code of UniWAM: Unified World-Action Model",
+  "lang": "Python",
+  "name": "UniWAM/UniWAM",
+  "node_id": "R_kgDOU0UARg",
+  "topics": []
  },
  "1397049383": {
   "created_at": "2026-09-30T05:22:15Z",
@@ -387313,6 +390833,14 @@
    "tinyml"
   ]
  },
+ "1397749548": {
+  "created_at": "2026-09-30T11:39:34Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "Kutuyyy/Muse-on-9Router-Hermes-Agent-ai",
+  "node_id": "R_kgDOU0_3LA",
+  "topics": []
+ },
  "1397771878": {
   "created_at": "2026-09-30T11:49:32Z",
   "desc": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
@@ -387373,6 +390901,25 @@
   "name": "MCG-NJU/OneStreamer",
   "node_id": "R_kgDOU1ILcQ",
   "topics": []
+ },
+ "1397906178": {
+  "created_at": "2026-09-30T12:40:15Z",
+  "desc": "AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. \u5c06\u54f2\u79d1\u601d\u7ef4\u878d\u5165 AI \u5f00\u53d1\u6267\u884c\uff0c\u8ba9\u53d8\u66f4\u6709\u4f9d\u636e\u3001\u4ea4\u4ed8\u6709\u8bc1\u636e\u3002\u7528\u521b\u610f\u7f16\u7ec7\u73b0\u5b9e\u3002",
+  "lang": "JavaScript",
+  "name": "GanyuanRan/Autoloom",
+  "node_id": "R_kgDOU1JbAg",
+  "topics": [
+   "aegis",
+   "agentic-coding",
+   "ai-agent",
+   "ai-coding",
+   "coding-agent",
+   "deepseek-harness",
+   "desktop-app",
+   "developer-tools",
+   "engineering-governance",
+   "software-development"
+  ]
  },
  "1397939439": {
   "created_at": "2026-09-30T12:52:24Z",
@@ -387482,12 +391029,38 @@
   "node_id": "R_kgDOU1dXgw",
   "topics": []
  },
+ "1398418891": {
+  "created_at": "2026-09-30T15:58:32Z",
+  "desc": "Token \u8d85\u652f\uff1f\u5feb\u7ed9\u53f2\u5bc6\u65af\u6253\u7535\u8bdd\uff01 Better Call Smith. Adaptive model routing, a glassy Codex usage monitor, and reproducible benchmarks with receipts.",
+  "lang": "Python",
+  "name": "Chengjun023/agent-smith",
+  "node_id": "R_kgDOU1otyw",
+  "topics": [
+   "ai-agents",
+   "benchmark",
+   "codex",
+   "cost-optimization",
+   "llm-routing",
+   "local-first",
+   "macos",
+   "swiftui",
+   "token-usage"
+  ]
+ },
  "1398516998": {
   "created_at": "2026-09-30T17:19:46Z",
   "desc": "\u628a AI \u4f34\u4fa3\u642c\u8fdb Telegram\uff1aMochiBot \u00d7 OpenRouter \u00d7 VPS \u5b9e\u6218\u6559\u7a0b",
   "lang": "",
   "name": "liora-vale/ai-companion-telegram-guide",
   "node_id": "R_kgDOU1utBg",
+  "topics": []
+ },
+ "1398596958": {
+  "created_at": "2026-09-30T18:32:55Z",
+  "desc": "\u7ed9 AI \u52a9\u624b\u7528\u7684\u8bfe\u7a0b\u6574\u7406\u6280\u80fd\u5305\uff1a\u8bfe\u4ef6\u5f52\u6863\u3001\u4e2d\u82f1\u5bf9\u7167 Notebook\u3001\u590d\u4e60\u7b14\u8bb0\u3001\u901f\u8bb0\u5361\u3001\u5b57\u5e55\u6574\u7406\u3001\u9898\u5e93\u4e0e\u6a21\u62df\u5377",
+  "lang": "Python",
+  "name": "SilentLake-Tech-SkillHub/oh-my-ntu",
+  "node_id": "R_kgDOU1zlXg",
   "topics": []
  },
  "1398606485": {
@@ -387568,6 +391141,14 @@
   "node_id": "R_kgDOU2DKgQ",
   "topics": []
  },
+ "1398887952": {
+  "created_at": "2026-10-01T01:04:02Z",
+  "desc": "\u7535\u5f71\u539f\u50cf\u7d20\u5c0f\u6837\u5206\u6790\u4e0e\u7167\u7247\u6f2b\u753b\u52a8\u753b\u8f6c\u7ed8 Skill\uff1b\u5b8c\u6574\u89c4\u5219\u4e0e698\u5e27\u6570\u636e\uff0c\u539f\u521b\u90e8\u5206MIT\uff0c\u7535\u5f71\u7d20\u6750\u53e6\u5217\u6743\u5229\u8fb9\u754c\u3002",
+  "lang": "HTML",
+  "name": "chaneX69/self-love",
+  "node_id": "R_kgDOU2FWEA",
+  "topics": []
+ },
  "1398992076": {
   "created_at": "2026-10-01T03:12:18Z",
   "desc": "",
@@ -387591,6 +391172,14 @@
    "rime",
    "swift"
   ]
+ },
+ "1399076061": {
+  "created_at": "2026-10-01T04:15:43Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "Tier-Flow/LoopVL",
+  "node_id": "R_kgDOU2Q03Q",
+  "topics": []
  },
  "1399145083": {
   "created_at": "2026-10-01T04:59:29Z",
@@ -387635,6 +391224,14 @@
   "node_id": "R_kgDOU2sT8Q",
   "topics": []
  },
+ "1399726646": {
+  "created_at": "2026-10-01T10:15:43Z",
+  "desc": "Code, data and findings behind researchchamber.fun: experiments on open AI models with a pain pattern switched on",
+  "lang": "Python",
+  "name": "0xD3bt/research-chamber",
+  "node_id": "R_kgDOU24iNg",
+  "topics": []
+ },
  "1399786436": {
   "created_at": "2026-10-01T10:57:52Z",
   "desc": "\u4fee\u590d Linux QQ \u5728 Wayland \u4e0b\u7684\u5c4f\u5e55\u5171\u4eab\u3001\u622a\u56fe\u548c\u526a\u8d34\u677f\u95ee\u9898",
@@ -387649,6 +391246,14 @@
   "lang": "Go",
   "name": "Tuskira/ai-agent-gateway",
   "node_id": "R_kgDOU2_Vkg",
+  "topics": []
+ },
+ "1399841077": {
+  "created_at": "2026-10-01T11:33:59Z",
+  "desc": "\u6bcf\u5929\u7684 AI \u5b89\u5168\u7cbe\u9009\u548c\u8bba\u6587\u6e05\u5355\uff08md / bib / json\uff09\uff0c\u9644 Agent \u63a5\u5165\u8bf4\u660e \u00b7 AI Safety HOT",
+  "lang": "TeX",
+  "name": "wuyoscar/AISafetyHot-Hub",
+  "node_id": "R_kgDOU2_hNQ",
   "topics": []
  },
  "1400018213": {
@@ -387794,6 +391399,14 @@
   "node_id": "R_kgDOU3n8Fw",
   "topics": []
  },
+ "1400514535": {
+  "created_at": "2026-10-01T18:03:59Z",
+  "desc": "Run Cloudflare's clef-flash decision model locally on your webcam",
+  "lang": "HTML",
+  "name": "lucataco/clef-webcam",
+  "node_id": "R_kgDOU3on5w",
+  "topics": []
+ },
  "1400563899": {
   "created_at": "2026-10-01T18:39:44Z",
   "desc": "Godot Tool to create procedural pixel creatures",
@@ -387802,10 +391415,18 @@
   "node_id": "R_kgDOU3rouw",
   "topics": []
  },
+ "1400569563": {
+  "created_at": "2026-10-01T18:44:18Z",
+  "desc": "pi pod: run pi coding-agent sessions in remote sandboxes, on a server you run yourself",
+  "lang": "TypeScript",
+  "name": "pi-pod/pipod",
+  "node_id": "R_kgDOU3r-2w",
+  "topics": []
+ },
  "1400714777": {
   "created_at": "2026-10-01T20:59:56Z",
   "desc": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
-  "lang": "Objective-C++",
+  "lang": "Python",
   "name": "StayLameBro/backburner",
   "node_id": "R_kgDOU302GQ",
   "topics": [
@@ -387825,7 +391446,7 @@
  "1400723317": {
   "created_at": "2026-10-01T21:09:59Z",
   "desc": "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8",
-  "lang": "HTML",
+  "lang": "C++",
   "name": "cobanov/PS5LM",
   "node_id": "R_kgDOU31XdQ",
   "topics": [
@@ -387843,6 +391464,22 @@
   "lang": "",
   "name": "real-simple-labs/ai-creative-strategist-blueprint-ii",
   "node_id": "R_kgDOU39n0Q",
+  "topics": []
+ },
+ "1400860393": {
+  "created_at": "2026-10-02T00:32:59Z",
+  "desc": "Reference for building polished, console-grade PS5 homebrew interfaces with OpenGL",
+  "lang": "C++",
+  "name": "blackbearreloaded/ps5-homebrew-ui",
+  "node_id": "R_kgDOU39u6Q",
+  "topics": []
+ },
+ "1400874663": {
+  "created_at": "2026-10-02T00:54:32Z",
+  "desc": "Learning to Recover from LLM Agent Failures at Test Time",
+  "lang": "",
+  "name": "nuglifeleoji/Sentry",
+  "node_id": "R_kgDOU3-mpw",
   "topics": []
  },
  "1400877599": {
@@ -387973,6 +391610,32 @@
    "ste100"
   ]
  },
+ "1401480940": {
+  "created_at": "2026-10-02T10:02:23Z",
+  "desc": "\u4e54\u6728\u526a\u85cf\uff1a\u526a\u85cf\u7f51\u9875\u5230 Obsidian\uff0c\u9605\u8bfb\u3001\u7f16\u8f91\uff0c\u5e76\u5411 AI \u63d0\u95ee | Clip the web to Obsidian, then read, edit and chat with AI about it.",
+  "lang": "TypeScript",
+  "name": "joeseesun/qiaomu-clipper",
+  "node_id": "R_kgDOU4jm7A",
+  "topics": [
+   "ai-chat",
+   "chrome-extension",
+   "markdown",
+   "obsidian",
+   "obsidian-clipper",
+   "read-later",
+   "rss",
+   "typescript",
+   "web-clipper"
+  ]
+ },
+ "1401520107": {
+  "created_at": "2026-10-02T10:43:58Z",
+  "desc": "DeepSeek-V4.1-Flash EXL3 on one 24 GB RTX 3090 + DDR4 + NVMe: staged-DMA prefill, AVX2 CPU expert tier, elastic VRAM expert cache, Engram on disk, OpenAI API",
+  "lang": "Python",
+  "name": "0xSero/dsv41-flash-offload",
+  "node_id": "R_kgDOU4l_6w",
+  "topics": []
+ },
  "1401538687": {
   "created_at": "2026-10-02T11:01:25Z",
   "desc": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
@@ -388019,12 +391682,64 @@
   "node_id": "R_kgDOU4x8Cw",
   "topics": []
  },
+ "1401760850": {
+  "created_at": "2026-10-02T13:15:06Z",
+  "desc": "Live view of what your Claude Code agent reads and writes, plus more mods.",
+  "lang": "TypeScript",
+  "name": "hamzafer/claude-code-mods",
+  "node_id": "R_kgDOU40sUg",
+  "topics": [
+   "ai-agents",
+   "anthropic",
+   "claude",
+   "claude-code",
+   "claude-code-mods",
+   "claude-code-plugins",
+   "developer-tools",
+   "terminal"
+  ]
+ },
+ "1401821001": {
+  "created_at": "2026-10-02T13:50:42Z",
+  "desc": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+  "lang": "TypeScript",
+  "name": "whirlchat/whirl",
+  "node_id": "R_kgDOU44XSQ",
+  "topics": [
+   "ai",
+   "ai-chat",
+   "chat",
+   "convex",
+   "llm",
+   "nextjs",
+   "openrouter",
+   "react",
+   "self-hosted",
+   "typescript"
+  ]
+ },
+ "1401865966": {
+  "created_at": "2026-10-02T14:15:57Z",
+  "desc": "AI-assisted local discovery and merchant operations demo built with Spring Boot and Vue 2, with AI content tools and an optional MCP interface.",
+  "lang": "JavaScript",
+  "name": "pei711/linli-zhiying",
+  "node_id": "R_kgDOU47G7g",
+  "topics": []
+ },
  "1401933950": {
   "created_at": "2026-10-02T14:53:07Z",
   "desc": "A Three.js (TSL / WebGPU) port of OpenDLSS-NR, the open-source reimplementation of NVIDIA's DLSS 5 neural rendering network",
   "lang": "TypeScript",
   "name": "bhouston/three-dlss-nr",
   "node_id": "R_kgDOU4_Qfg",
+  "topics": []
+ },
+ "1401957600": {
+  "created_at": "2026-10-02T15:07:35Z",
+  "desc": "Skate 3 skateboarding in World of Warcraft 1.12.1 (unofficial fan project, built on benilla)",
+  "lang": "Rust",
+  "name": "Kimmo3223/world-of-skatecraft",
+  "node_id": "R_kgDOU5As4A",
   "topics": []
  },
  "1401998078": {
@@ -388059,6 +391774,222 @@
   "node_id": "R_kgDOU5PE9w",
   "topics": []
  },
+ "1402292920": {
+  "created_at": "2026-10-02T19:54:49Z",
+  "desc": "Adobe After Effects streamlines professional video editing and screen recording tasks by providing a comprehensive VFX and post-production plugin solution.",
+  "lang": "",
+  "name": "GateMultiply/Adobe-After-Effects",
+  "node_id": "R_kgDOU5VKuA",
+  "topics": [
+   "adobe-after-effects",
+   "aeshare",
+   "after-effects-2026",
+   "after-effects-2026-crack",
+   "after-effects-3d",
+   "after-effects-download-windows",
+   "after-effects-free-2026",
+   "after-effects-presets",
+   "after-effects-scripts-ai",
+   "aftereffects",
+   "motion-graphics-after-effects"
+  ]
+ },
+ "1402295297": {
+  "created_at": "2026-10-02T19:57:23Z",
+  "desc": "Autodesk Inventor aids engineers by providing a comprehensive platform that streamlines design and simulation processes without sacrificing precision or...",
+  "lang": "",
+  "name": "ChaosJellyfish98/Autodesk-Inventor",
+  "node_id": "R_kgDOU5VUAQ",
+  "topics": [
+   "autodesk-inventor-pro",
+   "autodesk-inventor-pro-pc",
+   "inventor",
+   "inventor-automation",
+   "inventor-design",
+   "inventor-parts",
+   "inventory-app",
+   "inventory-system",
+   "offsets-dump",
+   "real-time-inventory",
+   "stock-inventory"
+  ]
+ },
+ "1402295306": {
+  "created_at": "2026-10-02T19:57:23Z",
+  "desc": "Autodesk Revit', a professional desktop software utility configuration that streamlines AEC (architecture, engineering and construction) professionals'...",
+  "lang": "",
+  "name": "Streetgruglimpse/Autodesk-Revit",
+  "node_id": "R_kgDOU5VUCg",
+  "topics": [
+   "autodesk-3d",
+   "autodesk-revit-2023-pro",
+   "autodesk-revit-2025",
+   "autodesk-revit-mcp",
+   "autodesk-revit-pc",
+   "autodesk-revit-windows",
+   "design-automation-revit",
+   "revit",
+   "revit-2025",
+   "revit-addins",
+   "revit-mcp-server",
+   "revit-mep",
+   "revit-plugin"
+  ]
+ },
+ "1402296638": {
+  "created_at": "2026-10-02T19:58:53Z",
+  "desc": "An AI-powered tool that helps developers optimize their prompt-based programming tasks by providing a rich library of ready-to-use routines and utilities;...",
+  "lang": "",
+  "name": "BoltLoopMattock/Claude-Jailbreak-Prompt",
+  "node_id": "R_kgDOU5VZPg",
+  "topics": [
+   "claude-jailbreak-2026",
+   "claude-jailbreak-3-5-sonnet",
+   "get-claude-jailbreak-free",
+   "jailbreak-claude-ai",
+   "jailbreak-testing"
+  ]
+ },
+ "1402298427": {
+  "created_at": "2026-10-02T20:00:51Z",
+  "desc": "Discord Server Cloner optimizes server management by facilitating seamless cloning and configuration in a professional desktop utility environment that...",
+  "lang": "",
+  "name": "NadirAccountantFlash/Discord-Server-Cloner",
+  "node_id": "R_kgDOU5VgOw",
+  "topics": [
+   "discord-channel-cloner",
+   "discord-clone",
+   "discord-cloner",
+   "discord-cloner-bot",
+   "discord-dm-cloner",
+   "discord-exporter",
+   "discord-message-sender",
+   "discord-self-bot",
+   "discord-server-clone",
+   "discord-server-cloning",
+   "discord-server-mirror",
+   "discord-server-scraper"
+  ]
+ },
+ "1402300124": {
+  "created_at": "2026-10-02T20:02:40Z",
+  "desc": "Hitfilm optimizes your professional workflow by providing a comprehensive desktop utility configuration that streamlines complex tasks and ensures...",
+  "lang": "",
+  "name": "rivetregionblast/HitFilm",
+  "node_id": "R_kgDOU5Vm3A",
+  "topics": [
+   "fxhome-hitfilm",
+   "hitfilm-2026",
+   "hitfilm-compositing-pc-install",
+   "hitfilm-pro-express",
+   "hitfilm-pro-mac",
+   "hitfilm-video-editor-download-windows-vfx"
+  ]
+ },
+ "1402300629": {
+  "created_at": "2026-10-02T20:03:12Z",
+  "desc": "An innovative AI-based solution to streamline and simplify IMEI repair processes without any connection to mobile devices or iOS.",
+  "lang": "",
+  "name": "PyramidCoreAxle/Imei-Repair",
+  "node_id": "R_kgDOU5Vo1Q",
+  "topics": [
+   "chimera",
+   "cpid",
+   "device-unlocking",
+   "imei-check",
+   "imei-check-myanmar",
+   "imei-masker",
+   "imei-number",
+   "imei-randomization",
+   "imei-repair",
+   "kg-bypass-by-imei",
+   "samfw-tool",
+   "samsung-frp-bypass-install-setup-windows-2026",
+   "samsung-frp-tool-download",
+   "termux-lock",
+   "xiaomi-mi-account"
+  ]
+ },
+ "1402303210": {
+  "created_at": "2026-10-02T20:05:59Z",
+  "desc": "Patreon Viewer', a professional desktop software utility designed to streamline content creators' workflows by providing comprehensive data analysis and...",
+  "lang": "",
+  "name": "MarkKindSpout/Patreon-Viewer",
+  "node_id": "R_kgDOU5Vy6g",
+  "topics": [
+   "patreon-collector",
+   "patreon-content-extractor",
+   "patreon-content-viewer",
+   "patreon-dl",
+   "patreon-gui",
+   "patreon-manager",
+   "patreon-view",
+   "patreon-viewer-content",
+   "patreon-viewer-free"
+  ]
+ },
+ "1402303795": {
+  "created_at": "2026-10-02T20:06:35Z",
+  "desc": "Intensifies PHP code comprehension and debugging efficiency by providing an AI-driven professional desktop software utility configuration.",
+  "lang": "",
+  "name": "Bottombeyondbless/PHP-Storm",
+  "node_id": "R_kgDOU5V1Mw",
+  "topics": [
+   "jetbrains-phpstorm",
+   "jetbrains-phpstorm-install-setup-2026",
+   "phpstorm-2026",
+   "phpstorm-download-windows"
+  ]
+ },
+ "1402304203": {
+  "created_at": "2026-10-02T20:06:58Z",
+  "desc": "Rx 11 Audio Editor: a comprehensive digital audio workstation that empowers users to craft intricate soundscapes with precision and finesse.",
+  "lang": "",
+  "name": "Lowflaindicate/RX-11-Audio-Editor",
+  "node_id": "R_kgDOU5V2yw",
+  "topics": [
+   "audio-mastering",
+   "audio-restoration",
+   "descript-pro",
+   "music-production-for-beginners",
+   "podcast-audio-fix",
+   "podcast-editor",
+   "stem-separation",
+   "trial-software"
+  ]
+ },
+ "1402306457": {
+  "created_at": "2026-10-02T20:09:19Z",
+  "desc": "Voicemod provides a professional desktop software utility configuration that optimizes workflow and streamlines operations without employing cliched...",
+  "lang": "",
+  "name": "PlumeQueen89/VoiceMod",
+  "node_id": "R_kgDOU5V_mQ",
+  "topics": [
+   "ai-rapper-voice-generator",
+   "ai-voice-translator",
+   "audio-workstation",
+   "funnyvoices",
+   "virtual-audio",
+   "voice-modulation",
+   "voicemod-pro-2026",
+   "voicemod-pro-app",
+   "voicemod-pro-windows",
+   "voicemod-pro-windows-setup-2026",
+   "windows-daw"
+  ]
+ },
+ "1402378309": {
+  "created_at": "2026-10-02T21:33:58Z",
+  "desc": "Claude Code mod: auto handoff to a fresh conversation when context hits a threshold, keeps the prompt cache warm while you're away",
+  "lang": "TypeScript",
+  "name": "cablate/ctx-handoff-mod",
+  "node_id": "R_kgDOU5aYRQ",
+  "topics": [
+   "claude-code",
+   "claude-code-mod",
+   "context-management"
+  ]
+ },
  "1402417830": {
   "created_at": "2026-10-02T22:29:27Z",
   "desc": "See the images you paste into Claude Code: thumbnails above the prompt instead of bare [Image #1] tags",
@@ -388067,12 +391998,52 @@
   "node_id": "R_kgDOU5cypg",
   "topics": []
  },
+ "1402420302": {
+  "created_at": "2026-10-02T22:33:24Z",
+  "desc": "An e-paper Muse companion for the Xteink X4 Pro: character, status, settings and recoverable SD firmware updates.",
+  "lang": "C",
+  "name": "viticci/muse-pocket",
+  "node_id": "R_kgDOU5c8Tg",
+  "topics": []
+ },
+ "1402477338": {
+  "created_at": "2026-10-03T00:11:44Z",
+  "desc": "wechat-graphic-monetization",
+  "lang": "",
+  "name": "chenjin-cmd/wechat-graphic-monetization",
+  "node_id": "R_kgDOU5gbGg",
+  "topics": []
+ },
  "1402504227": {
   "created_at": "2026-10-03T00:59:54Z",
   "desc": "",
   "lang": "Java",
   "name": "blendi-remade/agentcraft",
   "node_id": "R_kgDOU5iEIw",
+  "topics": []
+ },
+ "1402506813": {
+  "created_at": "2026-10-03T01:04:58Z",
+  "desc": "The open source launcher for macOS",
+  "lang": "Swift",
+  "name": "thaw-app/Floe",
+  "node_id": "R_kgDOU5iOPQ",
+  "topics": []
+ },
+ "1402525166": {
+  "created_at": "2026-10-03T01:38:22Z",
+  "desc": "An AI skill that turns books into animated, narrated, interactive web experiences",
+  "lang": "HTML",
+  "name": "DozenTwelve/Papermorph",
+  "node_id": "R_kgDOU5jV7g",
+  "topics": []
+ },
+ "1402653178": {
+  "created_at": "2026-10-03T04:23:08Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "10291124jcjc-dotcom/ai-character-swap",
+  "node_id": "R_kgDOU5rJ-g",
   "topics": []
  },
  "1402655573": {
@@ -388097,12 +392068,247 @@
    "x64"
   ]
  },
+ "1402656250": {
+  "created_at": "2026-10-03T04:28:04Z",
+  "desc": "Model-agnostic Chinese and English academic editing for the latest models across Agent platforms. Reduce formulaic prose while preserving evidence and author voice.",
+  "lang": "Python",
+  "name": "heise3/academic-deai",
+  "node_id": "R_kgDOU5rV-g",
+  "topics": [
+   "academic-writing",
+   "agent-skills",
+   "bilingual",
+   "scientific-writing",
+   "writing-assistant"
+  ]
+ },
  "1402754244": {
   "created_at": "2026-10-03T06:19:07Z",
   "desc": "Pick a YC batch, get founders and likely emails, write personalised cold emails from one template. Free, stdlib Python + one HTML file, deploys on Vercel.",
   "lang": "Python",
   "name": "adityajha2005/yc-outreach",
   "node_id": "R_kgDOU5xUxA",
+  "topics": []
+ },
+ "1402924075": {
+  "created_at": "2026-10-03T09:02:14Z",
+  "desc": "DeepSeek-V4.1-Flash on two DGX Sparks: EXL3 routed experts, 262k context, 2M-token KV, vision, tools, MTP, bundled with Pi",
+  "lang": "Shell",
+  "name": "0xSero/DeepSeek-V4.1-Flash-Two-Sparks",
+  "node_id": "R_kgDOU57sKw",
+  "topics": [
+   "deepseek",
+   "dgx-spark",
+   "exl3",
+   "vllm"
+  ]
+ },
+ "1402961228": {
+  "created_at": "2026-10-03T09:40:31Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "chao08647-stack/DataPilot",
+  "node_id": "R_kgDOU599TA",
+  "topics": []
+ },
+ "1402986945": {
+  "created_at": "2026-10-03T10:08:24Z",
+  "desc": "Build small ESP32 voice gadgets for your own Hermes Agent: push-to-talk firmware, a desktop simulator and a Hermes platform plugin.",
+  "lang": "C++",
+  "name": "Adolanium/hermes-gadget-sdk",
+  "node_id": "R_kgDOU5_hwQ",
+  "topics": [
+   "cpp17",
+   "embedded",
+   "esp-idf",
+   "esp32",
+   "esp32-s3",
+   "hermes-agent",
+   "iot",
+   "push-to-talk",
+   "python",
+   "simulator",
+   "voice-assistant",
+   "websocket"
+  ]
+ },
+ "1403049639": {
+  "created_at": "2026-10-03T11:16:25Z",
+  "desc": "",
+  "lang": "Jupyter Notebook",
+  "name": "teddylee777/fastcampus-jev",
+  "node_id": "R_kgDOU6DWpw",
+  "topics": []
+ },
+ "1403056103": {
+  "created_at": "2026-10-03T11:21:38Z",
+  "desc": "VoiceShell\uff08\u58f0\u58f3\uff09 \u00b7 Experimental Muse bridge: ESP32 pairing, Linux text round trips, real walkthroughs and compatibility notes.",
+  "lang": "Python",
+  "name": "hyj-STAR/voiceshell-muse-bridge",
+  "node_id": "R_kgDOU6Dv5w",
+  "topics": [
+   "ai-agents",
+   "bluetooth",
+   "esp32",
+   "experimental",
+   "linux",
+   "muse",
+   "voiceshell"
+  ]
+ },
+ "1403057681": {
+  "created_at": "2026-10-03T11:22:42Z",
+  "desc": "Claude Code skill\uff1a\u8bf4\u4e00\u9996\u8bd7\uff0c\u505a\u51fa\u4e00\u6761\u6c34\u58a8\u624b\u7ed8\u98ce 2D \u52a8\u753b\uff08\u4ee3\u7801\u9010\u5e27\u7ed8\u5236 + \u6717\u8bf5\u9010\u5b57\u5bf9\u4f4d + numpy \u914d\u4e50\uff09",
+  "lang": "JavaScript",
+  "name": "bangbuilds/code-poem-film",
+  "node_id": "R_kgDOU6D2EQ",
+  "topics": []
+ },
+ "1403115747": {
+  "created_at": "2026-10-03T12:07:49Z",
+  "desc": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+  "lang": "Python",
+  "name": "Jakeschincariol/replica-skill",
+  "node_id": "R_kgDOU6HY4w",
+  "topics": [
+   "agent",
+   "agent-skills",
+   "app-clone",
+   "claude",
+   "claude-code",
+   "claude-skills",
+   "indie-hacker",
+   "reverse-engineering",
+   "saas"
+  ]
+ },
+ "1403306223": {
+  "created_at": "2026-10-03T14:49:02Z",
+  "desc": "Streaming Persian (Farsi) speech recognition: fine-tuning NVIDIA Nemotron 3.5 ASR streaming. Data prep, training, evaluation, inference.",
+  "lang": "Python",
+  "name": "mallahyari/nemotron-asr-streaming-farsi",
+  "node_id": "R_kgDOU6TA7w",
+  "topics": [
+   "asr",
+   "asr-model",
+   "persian",
+   "speech-recognition",
+   "speech-to-text",
+   "stt"
+  ]
+ },
+ "1403325014": {
+  "created_at": "2026-10-03T15:08:10Z",
+  "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+  "lang": "Go",
+  "name": "MatinSenPai/Gemini-Config-Checker",
+  "node_id": "R_kgDOU6UKVg",
+  "topics": []
+ },
+ "1403406155": {
+  "created_at": "2026-10-03T16:28:57Z",
+  "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+  "lang": "Python",
+  "name": "isoshimodo/ai-data-extractor",
+  "node_id": "R_kgDOU6ZHSw",
+  "topics": [
+   "ai-data",
+   "claude-code",
+   "cursor-ai",
+   "data-extraction",
+   "data-extractor",
+   "windsurf",
+   "windsurf-ai"
+  ]
+ },
+ "1403431984": {
+  "created_at": "2026-10-03T16:53:36Z",
+  "desc": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md).",
+  "lang": "HTML",
+  "name": "ythx-101/live-panel-skill",
+  "node_id": "R_kgDOU6asMA",
+  "topics": []
+ },
+ "1403435134": {
+  "created_at": "2026-10-03T16:56:54Z",
+  "desc": "A multi-language text rewriting tool designed to bypass such ai detection services as GPTZero, Turnitin and more",
+  "lang": "Python",
+  "name": "gotoanto/text-humanizer",
+  "node_id": "R_kgDOU6a4fg",
+  "topics": [
+   "ai-detection",
+   "ai-detection-bypasser",
+   "ai-detector-bypass",
+   "ai-humanizer",
+   "gptzero",
+   "gptzero-bypass",
+   "text-humanization",
+   "turnitin",
+   "turnitin-bypass"
+  ]
+ },
+ "1403448265": {
+  "created_at": "2026-10-03T17:10:43Z",
+  "desc": "AI-powered open-source tool that turns long videos into viral-ready shorts with automatic highlights, subtitles, hooks, cropping, translation and voiceover",
+  "lang": "Python",
+  "name": "dakukibana/short-video-generator",
+  "node_id": "R_kgDOU6bryQ",
+  "topics": [
+   "short-video",
+   "short-video-automation",
+   "short-video-generator",
+   "short-video-maker",
+   "shorts-generator",
+   "tiktok-automation-script",
+   "video-cutter"
+  ]
+ },
+ "1403544347": {
+  "created_at": "2026-10-03T18:57:02Z",
+  "desc": "Claude Code mod: hand a long session off to a fresh one with a structured brief, instead of auto-compacting",
+  "lang": "TypeScript",
+  "name": "alexknowshtml/claude-auto-handoff",
+  "node_id": "R_kgDOU6hjGw",
+  "topics": []
+ },
+ "1403836744": {
+  "created_at": "2026-10-04T03:17:18Z",
+  "desc": "12 \u7535\u5546\u51fa\u56fe Agent Skills for Claude Code / Codex / Cursor \u00b7 GPT Image 2.5 (Flare/Sunburst) \u00b7 Amazon \u767d\u5e95\u4e3b\u56fe, A+, \u573a\u666f\u56fe, \u6a21\u7279\u56fe, \u5c0f\u7ea2\u4e66\u5c01\u9762, \u6dd8\u5b9d\u8be6\u60c5\u9875",
+  "lang": "Python",
+  "name": "xianyu110/ecommerce-image-skills",
+  "node_id": "R_kgDOU6zZSA",
+  "topics": [
+   "agent-skills",
+   "ai-image",
+   "amazon",
+   "claude-skills",
+   "ecommerce",
+   "gpt-image",
+   "product-photography"
+  ]
+ },
+ "1403847264": {
+  "created_at": "2026-10-04T03:33:57Z",
+  "desc": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+  "lang": "TypeScript",
+  "name": "shinshin86/mesh-avatar-studio",
+  "node_id": "R_kgDOU60CYA",
+  "topics": [
+   "2d-animation",
+   "avatar",
+   "claude-code",
+   "codex",
+   "mesh-deformation",
+   "vtuber",
+   "webgl"
+  ]
+ },
+ "1404266247": {
+  "created_at": "2026-10-04T10:55:58Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "kargulstudio/sales-crm",
+  "node_id": "R_kgDOU7NnBw",
   "topics": []
  },
  "142422739": {
