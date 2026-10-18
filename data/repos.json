@@ -448989,6 +448989,14 @@
   "node_id": "R_kgDOVEuZNA",
   "topics": []
  },
+ "1414241797": {
+  "created_at": "2026-10-11T11:05:00Z",
+  "desc": "Interim AI layer for the Craft apps: connections, keys, providers, client, egui widgets (first draft)",
+  "lang": "Rust",
+  "name": "storytold/craft-ai-integrations",
+  "node_id": "R_kgDOVEueBQ",
+  "topics": []
+ },
  "1414262867": {
   "created_at": "2026-10-11T11:26:14Z",
   "desc": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0449\u0438\u043a \u0438 healthcheck \u0434\u043b\u044f VPN-\u043f\u0430\u043d\u0435\u043b\u0438 lucx-ui \u043d\u0430 \u0441\u0432\u043e\u0451\u043c \u0441\u0435\u0440\u0432\u0435\u0440\u0435: \u0434\u0432\u0430 \u0434\u043e\u043c\u0435\u043d\u0430, nginx SNI-\u0440\u043e\u0443\u0442\u0438\u043d\u0433 443, TLS/Reality, Hysteria2, AmneziaWG, decoy-\u0441\u0430\u0439\u0442\u044b \u2014 \u043e\u0434\u043d\u0438\u043c \u0441\u043a\u0440\u0438\u043f\u0442\u043e\u043c",
@@ -449170,6 +449178,16 @@
   "node_id": "R_kgDOVE40Pw",
   "topics": []
  },
+ "1414439450": {
+  "created_at": "2026-10-11T14:42:10Z",
+  "desc": "The open-source support inbox + live chat for your website",
+  "lang": "Go",
+  "name": "useopendesk/opendesk",
+  "node_id": "R_kgDOVE6iGg",
+  "topics": [
+   "helpdesk"
+  ]
+ },
  "1414468533": {
   "created_at": "2026-10-11T15:12:18Z",
   "desc": "From a place and a topic to an ArcGIS StoryMap, with every claim fact-checked against the data",
@@ -449239,11 +449257,27 @@
  },
  "1414493071": {
   "created_at": "2026-10-11T15:38:03Z",
-  "desc": "",
+  "desc": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
   "lang": "Python",
   "name": "jwuthri-cloud/Tracely-ai",
   "node_id": "R_kgDOVE9zjw",
-  "topics": []
+  "topics": [
+   "agent-evaluation",
+   "ai-agents",
+   "ai-testing",
+   "ci-cd",
+   "clickhouse",
+   "developer-tools",
+   "llm-evaluation",
+   "llm-observability",
+   "llmops",
+   "mcp",
+   "observability",
+   "python",
+   "regression-testing",
+   "self-hosted",
+   "tracing"
+  ]
  },
  "1414508160": {
   "created_at": "2026-10-11T15:53:39Z",
@@ -449372,6 +449406,18 @@
   "node_id": "R_kgDOVFI4KA",
   "topics": []
  },
+ "1414676151": {
+  "created_at": "2026-10-11T18:58:58Z",
+  "desc": "Seven Claudes try to reject your resume, then it rebuilds it with every mistake fixed. Free Claude Code skill, MIT.",
+  "lang": "Python",
+  "name": "alexyc9381/hiring-panel-skill",
+  "node_id": "R_kgDOVFI-tw",
+  "topics": [
+   "claude-code-skill",
+   "claude-skills",
+   "resume"
+  ]
+ },
  "1414685342": {
   "created_at": "2026-10-11T19:10:25Z",
   "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
@@ -449428,6 +449474,14 @@
   "node_id": "R_kgDOVFLYng",
   "topics": []
  },
+ "1414724475": {
+  "created_at": "2026-10-11T20:00:59Z",
+  "desc": "Native PC, Mac and Steam Deck port of 50 Cent: Blood on the Sand (Xbox 360), statically recompiled with ReXGlue. Download: https://skullburglar.stz.sh",
+  "lang": "C++",
+  "name": "nlwstein/skullburglar",
+  "node_id": "R_kgDOVFL7ew",
+  "topics": []
+ },
  "1414728504": {
   "created_at": "2026-10-11T20:06:31Z",
   "desc": "Structured registry of agent memory benchmarks, with every field traced to its source",
@@ -449457,7 +449511,7 @@
  },
  "1414770162": {
   "created_at": "2026-10-11T21:04:19Z",
-  "desc": "Turn any e-book into a chaptered audiobook in your own voice: free, local, CosyVoice 3, with optional online engines",
+  "desc": "Turn any e-book into a chaptered audiobook in your own voice: free, fully local. CosyVoice 3 or Fish Audio Drama 3 (80+ languages, several voices), no cloud needed",
   "lang": "Python",
   "name": "vatavale/folivox",
   "node_id": "R_kgDOVFOt8g",
@@ -449582,7 +449636,7 @@
  "1414942519": {
   "created_at": "2026-10-12T01:57:33Z",
   "desc": "Real-time generative rendering for interactive worlds, from any reference.",
-  "lang": "",
+  "lang": "Python",
   "name": "VAST-AI-Research/EdenLive",
   "node_id": "R_kgDOVFZPNw",
   "topics": [
@@ -449873,7 +449927,7 @@
  },
  "1415195979": {
   "created_at": "2026-10-12T06:53:20Z",
-  "desc": "0 tokens\u30010\u95e8\u69db  |  \u57fa\u4e8e DeepSeek \u7f51\u9875\u7248\u5236\u4f5c\u7684\u7b80\u6613 Agent \u2014\u2014 \u8ba9 deepseek \"\u64cd\u63a7\"\u4f60\u7684\u7535\u8111\u3002",
+  "desc": "0 tokens\u30010\u95e8\u69db \u3001\u8f7b\u91cf\u7ea7 |  \u57fa\u4e8e DeepSeek \u7f51\u9875\u7248\u5236\u4f5c\u7684 Agent \u2014\u2014 \u8ba9 deepseek \"\u64cd\u63a7\"\u4f60\u7684\u7535\u8111\u3002",
   "lang": "HTML",
   "name": "YaoGaoChaoLe/EAgent",
   "node_id": "R_kgDOVFotSw",
@@ -450007,6 +450061,14 @@
    "open-home-foundation",
    "open-source"
   ]
+ },
+ "1415291975": {
+  "created_at": "2026-10-12T08:19:32Z",
+  "desc": "A library to support Obsidian Excalidraw CLI development",
+  "lang": "JavaScript",
+  "name": "zsviczian/obsidian-excalidraw-cli",
+  "node_id": "R_kgDOVFukRw",
+  "topics": []
  },
  "1415308498": {
   "created_at": "2026-10-12T08:35:44Z",
@@ -450621,6 +450683,25 @@
   "node_id": "R_kgDOVGiJNw",
   "topics": []
  },
+ "1416150149": {
+  "created_at": "2026-10-12T21:30:57Z",
+  "desc": "MailCraft: an open-source, clean-room mail, calendar and contacts program (Outlook-style) in pure Rust, for Microsoft 365, Outlook.com and IMAP. Early alpha.",
+  "lang": "Rust",
+  "name": "UCS-Care-Group/mailcraft",
+  "node_id": "R_kgDOVGi8hQ",
+  "topics": [
+   "calendar",
+   "egui",
+   "email-client",
+   "imap",
+   "mcp",
+   "microsoft-graph",
+   "outlook",
+   "rust",
+   "smtp",
+   "wasm"
+  ]
+ },
  "1416169633": {
   "created_at": "2026-10-12T21:56:13Z",
   "desc": "A unified framework for making structural biology tools interoperable.",
@@ -451033,6 +451114,14 @@
    "reverse-engineering"
   ]
  },
+ "1416692952": {
+  "created_at": "2026-10-13T08:19:04Z",
+  "desc": "Official implementation for \"DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models\"",
+  "lang": "Python",
+  "name": "sumuru789/DK-VLM",
+  "node_id": "R_kgDOVHEE2A",
+  "topics": []
+ },
  "1416699813": {
   "created_at": "2026-10-13T08:24:51Z",
   "desc": "Official repository of \"WAVE-0: Bridging VLA Policies and WAMs with Lightweight Latent Future Prediction\"",
@@ -451234,6 +451323,23 @@
   "name": "ibragim-bad/evals-from-sessions",
   "node_id": "R_kgDOVHc8bg",
   "topics": []
+ },
+ "1417112297": {
+  "created_at": "2026-10-13T13:25:16Z",
+  "desc": "A native macOS harness for coding agents that works with any model, on the opencode engine.",
+  "lang": "Swift",
+  "name": "serhatandic/kuvo-code",
+  "node_id": "R_kgDOVHdq6Q",
+  "topics": [
+   "ai-coding",
+   "apple-silicon",
+   "coding-agent",
+   "llm",
+   "macos",
+   "opencode",
+   "swift",
+   "swiftui"
+  ]
  },
  "1417150228": {
   "created_at": "2026-10-13T13:44:56Z",
@@ -451534,6 +451640,14 @@
    "windows"
   ]
  },
+ "1417888008": {
+  "created_at": "2026-10-13T20:00:18Z",
+  "desc": "ePub Translation",
+  "lang": "Rust",
+  "name": "saturngod/Sagar",
+  "node_id": "R_kgDOVINBCA",
+  "topics": []
+ },
  "1417926206": {
   "created_at": "2026-10-13T20:23:40Z",
   "desc": "e-book version of the akitaonrails.com blog.",
@@ -451595,6 +451709,14 @@
    "zen-mod"
   ]
  },
+ "1418088819": {
+  "created_at": "2026-10-13T22:30:03Z",
+  "desc": "The harness Mutuals uses to give life to its characters",
+  "lang": "TypeScript",
+  "name": "mutuals-inc/character-harness",
+  "node_id": "R_kgDOVIZRcw",
+  "topics": []
+ },
  "1418127095": {
   "created_at": "2026-10-13T23:24:12Z",
   "desc": "RAX harness: coding agents that learn robot tasks by online exploration",
@@ -451618,6 +451740,28 @@
   "name": "yxhpy/qwen3.8-flash-next-local-deploy",
   "node_id": "R_kgDOVIePfw",
   "topics": []
+ },
+ "1418204947": {
+  "created_at": "2026-10-14T01:19:15Z",
+  "desc": "GEO \u533b\u751f\uff1a\u4e00\u53e5\u8bdd\u88c5\u8fdb AI \u52a9\u624b\uff0c\u67e5\u6e05\u8c46\u5305\u3001DeepSeek\u3001ChatGPT\u3001Claude \u4e3a\u4ec0\u4e48\u4e0d\u63a8\u8350\u4f60\uff0c\u6539\u8d44\u6599\u3001\u5199\u5185\u5bb9\u3001\u518d\u590d\u67e5\u3002\u5f00\u6e90\u4e2d\u82f1\u53cc\u8bed GEO\uff08\u751f\u6210\u5f0f\u5f15\u64ce\u4f18\u5316\uff09skill\u3002",
+  "lang": "JavaScript",
+  "name": "Fangx-AI/geo-doctor",
+  "node_id": "R_kgDOVIgXEw",
+  "topics": [
+   "agent-skills",
+   "ai-overviews",
+   "ai-search",
+   "chatgpt",
+   "chinese",
+   "deepseek",
+   "doubao",
+   "generative-engine-optimization",
+   "geo",
+   "geo-doctor",
+   "llm-seo",
+   "perplexity",
+   "seo"
+  ]
  },
  "1418238508": {
   "created_at": "2026-10-14T02:04:31Z",
@@ -451694,6 +451838,14 @@
   "lang": "Python",
   "name": "qnguyen3/QUAN-Transcribe",
   "node_id": "R_kgDOVImx0Q",
+  "topics": []
+ },
+ "1418330360": {
+  "created_at": "2026-10-14T03:53:40Z",
+  "desc": "Neural frame generation for PS5 homebrew: beats FSR 3.1 on unseen game frames, in about 2 ms on the console.",
+  "lang": "C++",
+  "name": "mihawk-99/PS5_MihawkGen",
+  "node_id": "R_kgDOVIoA-A",
   "topics": []
  },
  "1418412718": {
@@ -451789,6 +451941,33 @@
    "voice-activity-detection"
   ]
  },
+ "1418531436": {
+  "created_at": "2026-10-14T07:25:27Z",
+  "desc": "\u63a8\u91cf\u725b BullFlow \u2014 \u5f00\u6e90\u4f01\u4e1a\u7ea7 RAG \u89e3\u51b3\u65b9\u6848\uff1a\u4ece\u4f01\u4e1a\u77e5\u8bc6\u5e93\u3001\u8425\u9500\u5185\u5bb9\u81ea\u52a8\u5316\u751f\u4ea7\u5230\u5168\u57df\u5185\u5bb9\u5206\u53d1 | Open-source enterprise RAG solution: knowledge base \u2192 automated marketing content \u2192 omnichannel publishing. \u77e5\u8bc6\u5e93\u5168\u94fe\u8def\u672c\u5730\u5f00\u6e90\u6a21\u578b\uff0c\u65e0\u9700\u4ed8\u8d39\u6a21\u578b\uff1bAI Agent \u521b\u4f5c\u56fe\u6587 / \u56fe\u7247 / \u89c6\u9891\uff0c\u4e00\u952e\u53d1\u5e03\u6296\u97f3\u3001\u5c0f\u7ea2\u4e66\u3001\u516c\u4f17\u53f7\u3001LinkedIn\u3001YouTube \u7b49 17 \u4e2a\u5e73\u53f0\u3002Commercial-grade, multi-tenant, billing & admin built in. MIT",
+  "lang": "TypeScript",
+  "name": "jaikydota/BullFlow",
+  "node_id": "R_kgDOVI0SbA",
+  "topics": [
+   "ai-agents",
+   "bge-m3",
+   "content-generation",
+   "elasticsearch",
+   "knowledge-base",
+   "langgraph",
+   "milvus",
+   "multi-tenant",
+   "rag",
+   "social-media-marketing"
+  ]
+ },
+ "1418532489": {
+  "created_at": "2026-10-14T07:26:28Z",
+  "desc": "[CVPR 2026 Highlight] Official PyTorch implementation of MacTok, a masked 1D continuous image tokenizer that compresses images into just 64 or 128 tokens.",
+  "lang": "Python",
+  "name": "alienflm/MacTok",
+  "node_id": "R_kgDOVI0WiQ",
+  "topics": []
+ },
  "1418580617": {
   "created_at": "2026-10-14T08:12:45Z",
   "desc": "Pure C#/.NET YOLO inference: SIMD CPU, Vulkan/Metal GPU, direct .pt and ONNX; detection, segmentation and pose.",
@@ -451796,6 +451975,25 @@
   "name": "hnlyf168/SimdYolo",
   "node_id": "R_kgDOVI3SiQ",
   "topics": []
+ },
+ "1418592001": {
+  "created_at": "2026-10-14T08:23:21Z",
+  "desc": "Manga / black & white comic filter for ComfyUI: crisp lines, flat tones, real screentone (halftone), solid blacks and panel frames.",
+  "lang": "Python",
+  "name": "ashukae/ComfyUI-MangaScreen",
+  "node_id": "R_kgDOVI3_AQ",
+  "topics": [
+   "black-and-white",
+   "comfyui",
+   "comfyui-nodes",
+   "comic",
+   "comic-filter",
+   "halftone",
+   "manga",
+   "manga-filter",
+   "qwen-image",
+   "screentone"
+  ]
  },
  "1418639621": {
   "created_at": "2026-10-14T09:03:43Z",
@@ -451843,6 +452041,14 @@
    "pbr"
   ]
  },
+ "1418652851": {
+  "created_at": "2026-10-14T09:15:23Z",
+  "desc": "Task-Kit\uff1adefine \"what and why\" before deciding \"how\"",
+  "lang": "Shell",
+  "name": "lilinxin75/task_kit",
+  "node_id": "R_kgDOVI7ssw",
+  "topics": []
+ },
  "1418653861": {
   "created_at": "2026-10-14T09:16:16Z",
   "desc": "Just a sophisticated way to turn dumb chatbox llms into agents.",
@@ -451858,6 +452064,22 @@
   "name": "yanqiangmiffy/chinese-decision",
   "node_id": "R_kgDOVI-OOw",
   "topics": []
+ },
+ "1418717946": {
+  "created_at": "2026-10-14T10:13:40Z",
+  "desc": "Official Unitree H2 deployment of TRACE: SONIC whole-body control with motion replay, planning, and VR teleoperation.",
+  "lang": "Python",
+  "name": "QinnyuLan/SONIC_unitree_h2",
+  "node_id": "R_kgDOVI_q-g",
+  "topics": [
+   "humanoid-robot",
+   "motion-tracking",
+   "mujoco",
+   "robotics",
+   "teleoperation",
+   "unitree-h2",
+   "whole-body-control"
+  ]
  },
  "1418737534": {
   "created_at": "2026-10-14T10:32:43Z",
@@ -452015,9 +452237,9 @@
  },
  "1418902693": {
   "created_at": "2026-10-14T12:48:03Z",
-  "desc": "Qwen3.8-Flash-Next (180B) on one 16 GB NVIDIA GPU with Glyd's engine",
+  "desc": "Glyd Condor: Qwen3.8-Flash-Next (180B) on one 16 GB NVIDIA GPU with Glyd's engine",
   "lang": "HTML",
-  "name": "surya-koritala/glyd-qwen-3.8-flash",
+  "name": "surya-koritala/glyd-condor",
   "node_id": "R_kgDOVJK8pQ",
   "topics": []
  },
@@ -452050,6 +452272,14 @@
    "svg"
   ]
  },
+ "1419054367": {
+  "created_at": "2026-10-14T13:55:04Z",
+  "desc": "\u4e00\u4e2a\u628a\"\u5403\u9ea6\u5f53\u52b3\"\u53d8\u6210\u96c6\u5361\u6e38\u620f\u7684 Skill\uff0c\u63a5\u5165\u9ea6\u5f53\u52b3\u5b98\u65b9 MCP \u771f\u5b9e\u6570\u636e\uff0c\u62bd\u5361\u51b3\u5b9a\u4eca\u5929\u5403\u4ec0\u4e48\u9ea6\u5f53\u52b3\u5957\u9910\uff0c\u8fd8\u53ef\u4ee5\u96c6\u9ea6\u5f53\u52b3\u5fbd\u7ae0\uff0cCLI\u7ec8\u7aef\u4e0b\u5355",
+  "lang": "Rust",
+  "name": "wenlibo90/mcgacha",
+  "node_id": "R_kgDOVJUNHw",
+  "topics": []
+ },
  "1419078245": {
   "created_at": "2026-10-14T14:05:05Z",
   "desc": "\u57fa\u4e8e REA \u6df1\u5ea6\u62c6\u89e3\u5e76\u9ad8\u4fdd\u771f\u8fd8\u539f Claude \u5b98\u65b9\u684c\u9762\u7aef UI\u3002\u8fd8\u539f 30 \u4e2a\u72ec\u7acb React \u7ec4\u4ef6\u4e0e 8 \u9879\u786c\u6838\u4ea4\u4e92\u7269\u7406\u7b97\u6cd5\uff0c\u9644\u5e26 3000+ \u884c\u9006\u5411\u5206\u6790\u624b\u518c\u3002",
@@ -452079,28 +452309,44 @@
  },
  "1419211419": {
   "created_at": "2026-10-14T14:59:36Z",
-  "desc": "A native shell for you mobile apps.",
+  "desc": "NSH runs modules written in TSX \u2014 natively on iOS, Android, macOS, Windows, Linux, GPUI and the web",
   "lang": "Rust",
-  "name": "longbridge/native-shell",
+  "name": "longbridge/nsh",
   "node_id": "R_kgDOVJdymw",
   "topics": [
    "cross-platform",
-   "gui",
-   "native"
+   "native",
+   "nsh"
   ]
  },
  "1419287318": {
   "created_at": "2026-10-14T15:35:51Z",
-  "desc": "\u4e8c\u5f00artex\u7684\u4ee3\u7801\u5ba1\u8ba1\u5e73\u53f0 | \u65b0\u589e\u672c\u5730\u53cd\u7f16\u8bd1java\u4f9d\u8d56\u5e93",
+  "desc": "\u4e8c\u5f00artex\u7684\u4ee3\u7801\u5ba1\u8ba1\u5e73\u53f0 | \u65b0\u589e\u672c\u5730\u53cd\u7f16\u8bd1java\u4f9d\u8d56\u5e93 | \u591a\u8d26\u53f7\u7ba1\u7406",
   "lang": "Go",
   "name": "Ernket/CodeScan-Artex",
   "node_id": "R_kgDOVJibFg",
   "topics": []
  },
+ "1419349967": {
+  "created_at": "2026-10-14T16:04:12Z",
+  "desc": "\u8ba9 AI \u8bfb\u61c2\u4f60\u5728 B \u7ad9 @ \u5b83\u7684\u89c6\u9891\uff0c\u81ea\u52a8\u56de\u4e00\u6761\u5e26\u53ef\u8df3\u8f6c\u65f6\u95f4\u6233\u7684\u8bc4\u8bba\u3002DSH / AI Agent \u6280\u80fd\u3002",
+  "lang": "PowerShell",
+  "name": "bronyacccxz/dsh-bilibili-reply",
+  "node_id": "R_kgDOVJmPzw",
+  "topics": [
+   "ai-agents",
+   "automation",
+   "bilibili",
+   "comment-bot",
+   "deepseek-harness",
+   "dsh",
+   "skills"
+  ]
+ },
  "1419607239": {
   "created_at": "2026-10-14T17:55:04Z",
   "desc": "Learn languages from the English you already read: Claude Code, Codex, claude.ai, ChatGPT and Chrome",
-  "lang": "Python",
+  "lang": "JavaScript",
   "name": "jackieoliver/french-weave",
   "node_id": "R_kgDOVJ18xw",
   "topics": []
@@ -452170,6 +452416,14 @@
    "rhubarb"
   ]
  },
+ "1419812126": {
+  "created_at": "2026-10-14T20:26:45Z",
+  "desc": "Outsource your thinking, not your understanding. A comprehension checkpoint for agent-assisted development.",
+  "lang": "JavaScript",
+  "name": "parthh01/sphinx",
+  "node_id": "R_kgDOVKCdHg",
+  "topics": []
+ },
  "1419851397": {
   "created_at": "2026-10-14T21:05:17Z",
   "desc": "Animated vocabulary cards for learning languages, on an ESP32-S3 (M5Stack StopWatch). First course: German.",
@@ -452235,6 +452489,20 @@
    "harness"
   ]
  },
+ "1419925746": {
+  "created_at": "2026-10-14T22:46:48Z",
+  "desc": "TEIN AI: the final glossy facial-performance mask workflow, with animated examples and reproducible setup.",
+  "lang": "Python",
+  "name": "sirioberati/Emotion-Control-Open-Source-Workflow",
+  "node_id": "R_kgDOVKJY8g",
+  "topics": [
+   "ai-filmmaking",
+   "facial-animation",
+   "mediapipe",
+   "motion-capture",
+   "python"
+  ]
+ },
  "1419989588": {
   "created_at": "2026-10-15T00:27:59Z",
   "desc": "Star the repo to help support! The open source operating system for creating viral content on social media. ",
@@ -452253,7 +452521,7 @@
  },
  "1420047948": {
   "created_at": "2026-10-15T01:54:17Z",
-  "desc": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOCX specifications from requirements. Supports traceability, your own model provider and optional read-only MCP access.",
+  "desc": "Self-hosted AI workspace for software engineering capstone and course projects. Generate UML models, system designs, test cases and editable DOC specifications from requirements. Supports traceability, your own model provider and optional read-only MCP access.",
   "lang": "TypeScript",
   "name": "guolola/SoftJL",
   "node_id": "R_kgDOVKQ2TA",
@@ -452308,11 +452576,20 @@
  },
  "1420072451": {
   "created_at": "2026-10-15T02:26:49Z",
-  "desc": "2026 AI \u53d1\u5361\u6bd4\u4ef7 & API \u4e2d\u8f6c\u7ad9\u53cc\u91cd\u7cbe\u9009\u6307\u5357",
-  "lang": "",
+  "desc": "2026 AI \u53d1\u5361\u6bd4\u4ef7 & API \u4e2d\u8f6c\u7ad9\u7cbe\u9009\u6307\u5357 | \u5feb\u901f\u68c0\u7d22 Skill",
+  "lang": "Python",
   "name": "waw666waw666/awesome-ai-relay-and-cards",
   "node_id": "R_kgDOVKSWAw",
-  "topics": []
+  "topics": [
+   "agent-skill",
+   "ai",
+   "anti-trap",
+   "api-relay",
+   "awesome",
+   "chatgpt",
+   "claude",
+   "pricing-tracker"
+  ]
  },
  "1420074396": {
   "created_at": "2026-10-15T02:29:33Z",
@@ -452391,6 +452668,31 @@
   "name": "moritzkremb/claude-eyes",
   "node_id": "R_kgDOVKkPSg",
   "topics": []
+ },
+ "1420381088": {
+  "created_at": "2026-10-15T08:07:05Z",
+  "desc": "\u4e00\u4e2a\u901a\u8fc7:\u591allm\u5e76\u53d1/\u5b9e\u65f6\u7ebf\u6027\u7b97\u6cd5/ai\u81ea\u52a8\u4f18\u5316\u8fdb\u884c\u8bb0\u5fc6\u4f53\u6574\u7406\u7684\u591a\u6a21\u6001ai\u804a\u5929\u52a9\u624b",
+  "lang": "Python",
+  "name": "xinghuangjun/YiYan",
+  "node_id": "R_kgDOVKlLoA",
+  "topics": []
+ },
+ "1420394694": {
+  "created_at": "2026-10-15T08:19:45Z",
+  "desc": "\u4e00\u4e2a\u4f1a\u4e3b\u52a8\u53d1\u73b0\u4efb\u52a1\u7684\u667a\u80fd\u4f53",
+  "lang": "Python",
+  "name": "duyongan/dots-agent",
+  "node_id": "R_kgDOVKmAxg",
+  "topics": [
+   "ai-agent",
+   "automation",
+   "autonomous-agents",
+   "deepagents",
+   "langgraph",
+   "llm",
+   "proactive",
+   "python"
+  ]
  },
  "1420402787": {
   "created_at": "2026-10-15T08:27:10Z",
@@ -452478,12 +452780,37 @@
   "node_id": "R_kgDOVKyFhQ",
   "topics": []
  },
+ "1420650444": {
+  "created_at": "2026-10-15T12:00:03Z",
+  "desc": "A zero-embedding approach to video intelligence, using Jev: contact sheets + typed decisions, as MCP tools and a skill for any coding agent.",
+  "lang": "Python",
+  "name": "DeepAleph/jevreel",
+  "node_id": "R_kgDOVK1nzA",
+  "topics": [
+   "agent-skills",
+   "claude-code",
+   "contact-sheets",
+   "decision-model",
+   "jev",
+   "mcp",
+   "video",
+   "video-search"
+  ]
+ },
  "1420664069": {
   "created_at": "2026-10-15T12:09:41Z",
   "desc": "\u9ea6\u7b97\u76d8\uff1a\u57fa\u4e8e\u9ea6\u5f53\u52b3 MCP \u7684\u667a\u80fd\u70b9\u9910\u52a9\u624b\uff0c\u679a\u4e3e\u6700\u4f18\u7ec4\u5408\u5b9e\u7b97\u6bd4\u4ef7\uff0c\u5e2e\u4f60\u7701\u94b1\u3001\u63a7\u70ed\u91cf\u3001\u529e\u56e2\u9910\u3002",
   "lang": "",
   "name": "W313997791/mai-suanpan",
   "node_id": "R_kgDOVK2dBQ",
+  "topics": []
+ },
+ "1420664110": {
+  "created_at": "2026-10-15T12:09:43Z",
+  "desc": "Claude Code skill for hand-painted animation and lyric music videos",
+  "lang": "JavaScript",
+  "name": "Joker-chichi/claude-mv-skill",
+  "node_id": "R_kgDOVK2dLg",
   "topics": []
  },
  "1420732648": {
@@ -452500,6 +452827,14 @@
   "lang": "Python",
   "name": "Tencent-Hunyuan/Hy-Memory",
   "node_id": "R_kgDOVK7UKA",
+  "topics": []
+ },
+ "1420746302": {
+  "created_at": "2026-10-15T13:08:38Z",
+  "desc": "\u6309\u8bad\u7ec3\u76ee\u6807\u63a8\u8350\u9ea6\u5f53\u52b3\u5957\u9910\uff0c\u6bd4\u8f83\u5b9e\u4ef7\u4e0e\u8425\u517b\uff0c\u751f\u6210\u6708\u5e74\u5403\u9ea6\u624b\u8d26\u7f51\u9875\u548c\u5206\u4eab\u957f\u56fe\u3002\u9002\u914d WorkBuddy\u3001Codex \u4e0e DeepSeek Agent\uff0c\u57fa\u4e8e\u5b98\u65b9 MCP\u3002",
+  "lang": "Python",
+  "name": "tomsbin/mcd-fit-planner",
+  "node_id": "R_kgDOVK7ePg",
   "topics": []
  },
  "1420747575": {
@@ -452544,6 +452879,14 @@
    "opencode",
    "tauri"
   ]
+ },
+ "1420806989": {
+  "created_at": "2026-10-15T13:50:55Z",
+  "desc": "\u57fa\u4e8eRust\u7f16\u5199\u7684\u4e2d\u8f6cAPI\u7834\u7532\u9879\u76ee\uff0c\u652f\u6301Responses / Chat Completions / Anthropic Messages API\uff0c\u652f\u6301ChatGPT/Claude/Grok/Gemini/Deepseek/Glm/Kimi\u7b49\u5927\u591a\u6570\u4e3b\u6d41\u6a21\u578b",
+  "lang": "Rust",
+  "name": "mizaawa/ZakoProxyCLI",
+  "node_id": "R_kgDOVK_LTQ",
+  "topics": []
  },
  "1420855467": {
   "created_at": "2026-10-15T14:23:06Z",
@@ -452609,11 +452952,16 @@
  },
  "1420979969": {
   "created_at": "2026-10-15T15:55:36Z",
-  "desc": "",
+  "desc": "Agent skills that get you into flow state.",
   "lang": "JavaScript",
   "name": "MK27MK/uxed",
   "node_id": "R_kgDOVLJvAQ",
-  "topics": []
+  "topics": [
+   "agent-skills",
+   "ai-design",
+   "claude-code",
+   "vibe-coding"
+  ]
  },
  "1421040438": {
   "created_at": "2026-10-15T16:41:34Z",
@@ -452688,6 +453036,22 @@
    "hermes-plugin"
   ]
  },
+ "1421278851": {
+  "created_at": "2026-10-15T20:15:53Z",
+  "desc": "Pixel Loom \u50cf\u7d20\u7ec7\u673a\uff1a\u652f\u6301 AI \u901a\u8fc7 MCP \u521b\u4f5c\u7684\u5f00\u6e90\u50cf\u7d20\u753b\u4e0e\u52a8\u753b\u7f16\u8f91\u5668\u3002Windows \u4fbf\u643a\u7248\u8bf7\u70b9\u51fb\u4e0b\u65b9\u94fe\u63a5\u4e0b\u8f7d\uff0c\u5b8c\u6574\u89e3\u538b\u540e\u5373\u53ef\u4f7f\u7528\u3002",
+  "lang": "Python",
+  "name": "yangsir2077/pixel-loom",
+  "node_id": "R_kgDOVLb-gw",
+  "topics": [
+   "ai-tools",
+   "animation",
+   "mcp",
+   "pixel-art",
+   "python",
+   "sprite-editor",
+   "tkinter"
+  ]
+ },
  "1421290055": {
   "created_at": "2026-10-15T20:27:43Z",
   "desc": "",
@@ -452755,6 +453119,14 @@
   "node_id": "R_kgDOVLpEug",
   "topics": []
  },
+ "1421497509": {
+  "created_at": "2026-10-16T01:17:33Z",
+  "desc": "Code typing practice, quick races and multiplayer rooms.",
+  "lang": "TypeScript",
+  "name": "appdever01/codepace",
+  "node_id": "R_kgDOVLpUpQ",
+  "topics": []
+ },
  "1421497958": {
   "created_at": "2026-10-16T01:18:13Z",
   "desc": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
@@ -452769,12 +453141,48 @@
    "text-to-image"
   ]
  },
+ "1421518883": {
+  "created_at": "2026-10-16T01:48:45Z",
+  "desc": "\u2614 AI Passport \u2014 Google/Gemini \u9001\u4e2d\u4e0e\u9501\u533a\u81ea\u8bca\u5de5\u5177\u7bb1:\u56db\u9636\u72b6\u6001\u673a\u95ee\u8bca + \u8282\u70b9\u7167\u5996\u955c + \u672c\u673a\u73af\u5883\u4f53\u68c0\u3002\u7ed9\u7b2c\u4e00\u6b21\u89e6\u6478 AI \u7684\u4eba\u6491\u4e00\u628a\u4f1e\u3002",
+  "lang": "Python",
+  "name": "wusuoweiju48/google-anti-cn-doctor",
+  "node_id": "R_kgDOVLqoIw",
+  "topics": []
+ },
+ "1421520678": {
+  "created_at": "2026-10-16T01:51:24Z",
+  "desc": "\u7814\u8ff9 Trail\uff5c\u672c\u5730\u4f18\u5148\u7684 AI \u6295\u8d44\u7814\u7a76\u5de5\u4f5c\u53f0\u3002\u8fde\u63a5\u884c\u60c5\u3001K \u7ebf\u4e0e\u6df1\u5ea6\u7814\u7a76\uff0c\u8ba9\u5224\u65ad\u53ef\u8ffd\u6eaf\u3001\u98ce\u9669\u53ef\u590d\u6838\u3002Local-first AI investment research desktop with an evidence-grounded copilot.",
+  "lang": "TypeScript",
+  "name": "ydflow/Trail",
+  "node_id": "R_kgDOVLqvJg",
+  "topics": [
+   "ai-agent",
+   "deepresearch",
+   "electron",
+   "financial-analysis",
+   "local-first",
+   "longbridge",
+   "market-data",
+   "portfolio-analysis",
+   "react",
+   "stock-market",
+   "typescript"
+  ]
+ },
  "1421534981": {
   "created_at": "2026-10-16T02:11:44Z",
   "desc": "\uc601\ubb38 \ub17c\ubb38 PDF\ub97c \ub808\uc774\uc544\uc6c3 \uadf8\ub300\ub85c \ud55c\uae00\ub85c \ubc88\uc5ed\ud558\ub294 Claude Code \uc2a4\ud0ac (BabelDOC + Claude)",
   "lang": "Python",
   "name": "maenjh/ko-paper",
   "node_id": "R_kgDOVLrnBQ",
+  "topics": []
+ },
+ "1421559564": {
+  "created_at": "2026-10-16T02:45:13Z",
+  "desc": "Standalone, content-neutral PS5 homebrew indexer and media framework. Proudly built alongside AI by JVK3R.",
+  "lang": "C++",
+  "name": "JVK3R/JobeesLair",
+  "node_id": "R_kgDOVLtHDA",
   "topics": []
  },
  "1421564052": {
@@ -452833,6 +453241,14 @@
    "rust-lang"
   ]
  },
+ "1421678920": {
+  "created_at": "2026-10-16T05:15:17Z",
+  "desc": "\uce58\uacfc \uc6d0\uc7a5\ub2d8\ub4e4 \ub204\uad6c\ub098 \ud574\ubcf4\uc2e4 \uc218 \uc788\ub294 \uc6d0\ub0b4 \uc790\ub3d9\ud654 \uad6c\ud604 \uc608\uc2dc",
+  "lang": "JavaScript",
+  "name": "GangJaeYu/DentalAX",
+  "node_id": "R_kgDOVL0ZSA",
+  "topics": []
+ },
  "1421680026": {
   "created_at": "2026-10-16T05:16:38Z",
   "desc": "Fish Audio Drama 3 text-to-speech on the TensorFold native CUDA engine for DGX Spark (GB10): recipe, engine patches, benchmarks. Built with Fish Audio.",
@@ -452849,6 +453265,23 @@
   "node_id": "R_kgDOVL5u6g",
   "topics": []
  },
+ "1422037381": {
+  "created_at": "2026-10-16T10:55:20Z",
+  "desc": "Ahenk: a\u00e7\u0131k T\u00fcrk\u00e7e metinden sese. Open Turkish text-to-speech: VoxCPM2 LoRA (Ahenk), 8.6M on-device model (Ahenk Cep), trnorm text normaliser, TR-Zor benchmark",
+  "lang": "Python",
+  "name": "ozguradmin/ahenk-turkish-tts",
+  "node_id": "R_kgDOVMKRhQ",
+  "topics": [
+   "on-device",
+   "speech-synthesis",
+   "text-to-speech",
+   "tts",
+   "turkce",
+   "turkish",
+   "turkish-nlp",
+   "voxcpm"
+  ]
+ },
  "1422053844": {
   "created_at": "2026-10-16T11:12:03Z",
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
@@ -452857,12 +453290,70 @@
   "node_id": "R_kgDOVMLR1A",
   "topics": []
  },
+ "1422065285": {
+  "created_at": "2026-10-16T11:23:05Z",
+  "desc": "Agent skills for Krexa: backtest, paper-trade and run trading agents from Hermes, OpenClaw, Claude and more",
+  "lang": "",
+  "name": "Krexa-xyz/skills",
+  "node_id": "R_kgDOVML-hQ",
+  "topics": []
+ },
+ "1422126675": {
+  "created_at": "2026-10-16T12:23:00Z",
+  "desc": "PC port of GE for Windows and Linux, built from the N64 decompilation. Widescreen, mouse look, modern controller support and in-game settings. Co-op, netplay and mods in development.",
+  "lang": "C",
+  "name": "murkantor/Project-Midas",
+  "node_id": "R_kgDOVMPuUw",
+  "topics": [
+   "decompilation",
+   "game-port",
+   "goldeneye",
+   "goldeneye-007",
+   "n64",
+   "opengl",
+   "pc-port",
+   "retrogaming",
+   "sdl2"
+  ]
+ },
+ "1422185390": {
+  "created_at": "2026-10-16T13:15:29Z",
+  "desc": "DreamStory - \u672c\u5730\u4f18\u5148\u7684 AI \u5c0f\u8bf4\u521b\u4f5c\u5de5\u4f5c\u53f0",
+  "lang": "",
+  "name": "JJFlyaways/DreamStory",
+  "node_id": "R_kgDOVMTTrg",
+  "topics": []
+ },
+ "1422250409": {
+  "created_at": "2026-10-16T14:12:07Z",
+  "desc": "Android \u4e0e ESP32-S3 1.75 \u82f1\u5bf8\u5706\u5c4f\u5bfc\u822a\uff1bAI \u8f85\u52a9\u5f00\u53d1\uff0c\u4ec5\u4f9b\u975e\u5546\u4e1a\u4f7f\u7528\uff0c\u7981\u6b62\u672a\u7ecf\u8bb8\u53ef\u8f6c\u552e\u3002",
+  "lang": "C",
+  "name": "zyn950929/MotoNav",
+  "node_id": "R_kgDOVMXRqQ",
+  "topics": []
+ },
+ "1422310331": {
+  "created_at": "2026-10-16T15:03:52Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "qqqqqq-stu/mcparallel",
+  "node_id": "R_kgDOVMa7uw",
+  "topics": []
+ },
  "1422335531": {
   "created_at": "2026-10-16T15:26:45Z",
   "desc": "",
   "lang": "Python",
   "name": "yuzushi-dev/hermes-seo",
   "node_id": "R_kgDOVMceKw",
+  "topics": []
+ },
+ "1422336477": {
+  "created_at": "2026-10-16T15:27:36Z",
+  "desc": "A Long-Horizon Benchmark for Self-Improving Inference Systems",
+  "lang": "Python",
+  "name": "apple-aiml-research/ml-rsi-inference-bench",
+  "node_id": "R_kgDOVMch3Q",
   "topics": []
  },
  "1422344223": {
@@ -452912,12 +453403,39 @@
    "wpf"
   ]
  },
+ "1422491888": {
+  "created_at": "2026-10-16T17:51:21Z",
+  "desc": "Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md",
+  "lang": "Rust",
+  "name": "fzn0x/idx",
+  "node_id": "R_kgDOVMmA8A",
+  "topics": [
+   "analytics",
+   "cli",
+   "finance",
+   "idx",
+   "ihsg",
+   "indonesia",
+   "mcp",
+   "rust",
+   "stocks",
+   "terminal"
+  ]
+ },
  "1422517871": {
   "created_at": "2026-10-16T18:15:13Z",
   "desc": "Play The Return of the King (PC and Xbox) and The Two Towers (Xbox) on a modern PC",
   "lang": "C",
   "name": "Shagg88/Athelas",
   "node_id": "R_kgDOVMnmbw",
+  "topics": []
+ },
+ "1422536563": {
+  "created_at": "2026-10-16T18:32:13Z",
+  "desc": "Claude's answers, rendered: Markdown, math, charts and diagrams drawn in the Claude Code terminal. Independent project, not affiliated with Anthropic.",
+  "lang": "TypeScript",
+  "name": "razorback16/cc-intelligent-ui",
+  "node_id": "R_kgDOVMovcw",
   "topics": []
  },
  "1422783076": {
@@ -452936,6 +453454,14 @@
   "node_id": "R_kgDOVM98OA",
   "topics": []
  },
+ "1422944148": {
+  "created_at": "2026-10-17T04:29:55Z",
+  "desc": "Windows \u4e0a\u8bfb\u53d6 2.4G \u65e0\u7ebf\u5916\u8bbe\u7535\u91cf\u7684\u5c0f\u5de5\u5177\uff08\u7eaf ctypes\uff0c\u96f6\u7b2c\u4e09\u65b9\u4f9d\u8d56\uff09",
+  "lang": "Python",
+  "name": "yszyszysz233/2.4G-battery-viewer",
+  "node_id": "R_kgDOVNBnlA",
+  "topics": []
+ },
  "1422973296": {
   "created_at": "2026-10-17T05:17:17Z",
   "desc": "\u6cbf\u7740\u597d\u5947\u5fc3\u7ee7\u7eed\u53d1\u73b0 \u2014\u2014 \u672c\u5730\u4f18\u5148\u7684\u591a\u5e73\u53f0\u5185\u5bb9\u805a\u5408\u3001\u9605\u8bfb\u4e0e\u7b14\u8bb0\u5de5\u5177",
@@ -452952,6 +453478,141 @@
    "youtube",
    "youtube-downloader"
   ]
+ },
+ "1423065838": {
+  "created_at": "2026-10-17T07:23:21Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "free-dam-man/cf-global-edge-node-skill",
+  "node_id": "R_kgDOVNJC7g",
+  "topics": []
+ },
+ "1423078540": {
+  "created_at": "2026-10-17T07:41:02Z",
+  "desc": "POLI 450A (Stanford): regression lecture slides, worksheets, R code and data",
+  "lang": "TeX",
+  "name": "xuyiqing/regression-lectures",
+  "node_id": "R_kgDOVNJ0jA",
+  "topics": []
+ },
+ "1423079185": {
+  "created_at": "2026-10-17T07:41:51Z",
+  "desc": "Fast, local, read-only MCP Server for WeChat (4.x/3.x) & DingTalk (7.x V2/V3) chat history with FTS5 search",
+  "lang": "Python",
+  "name": "stkoecn/im-mcp",
+  "node_id": "R_kgDOVNJ3EQ",
+  "topics": [
+   "ai-agent",
+   "claude-desktop",
+   "cursor",
+   "dingtalk",
+   "llm",
+   "mcp",
+   "model-context-protocol",
+   "wechat"
+  ]
+ },
+ "1423101235": {
+  "created_at": "2026-10-17T08:12:35Z",
+  "desc": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
+  "lang": "Java",
+  "name": "Gathin23/tv-vibehack",
+  "node_id": "R_kgDOVNLNMw",
+  "topics": [
+   "adb",
+   "android-tv",
+   "claude-code",
+   "debloat",
+   "launcher",
+   "xiaomi"
+  ]
+ },
+ "1423263144": {
+  "created_at": "2026-10-17T11:33:25Z",
+  "desc": "X1aoZhe's OpusMC \u2014 \u6d4f\u89c8\u5668\u91cc\u8fd0\u884c\u7684 Minecraft \u590d\u523b\uff08\u7eaf JavaScript + WebGL2\uff0c\u65e0\u5f15\u64ce\u65e0\u4f9d\u8d56\uff09",
+  "lang": "JavaScript",
+  "name": "X1aoZhe/OpusMC",
+  "node_id": "R_kgDOVNVFqA",
+  "topics": []
+ },
+ "1423367363": {
+  "created_at": "2026-10-17T13:39:11Z",
+  "desc": "Virtual clothing try-on from a single photo \u2014 mobile web app. Upload a person and a garment, get a photorealistic result.",
+  "lang": "",
+  "name": "BreezeSolicitorMap/undress.ai",
+  "node_id": "R_kgDOVNbcww",
+  "topics": [
+   "blooket-bot",
+   "coomer-party",
+   "exhentai",
+   "hentai2read",
+   "porn",
+   "sex"
+  ]
+ },
+ "1423412935": {
+  "created_at": "2026-10-17T14:28:10Z",
+  "desc": "Engine-level performance fix for Oblivion Remastered (UE5): higher fps in towns, far fewer travel hitches, same image. Source, benchmark and docs.",
+  "lang": "C++",
+  "name": "LTSharpe/OblivionRemasteredPerformanceFix",
+  "node_id": "R_kgDOVNeOxw",
+  "topics": [
+   "game-mod",
+   "mod",
+   "oblivion-remastered",
+   "performance",
+   "unreal-engine-5"
+  ]
+ },
+ "1423413755": {
+  "created_at": "2026-10-17T14:29:01Z",
+  "desc": "\ud83d\udc1f \u4e2d\u56fd\u4e8c\u624b\u4ea4\u6613\u6697\u8bed\u5168\u4e66\u4e0e\u907f\u5751\u5408\u89c4\u6307\u5357 (\u95f2\u9c7c / \u8f6c\u8f6c / \u5c0f\u7ea2\u4e66 4,476+ \u6761\u5b9e\u6218\u6697\u53f7\u53d8\u4f53\u3001\u5356\u5bb6\u6f5c\u53f0\u8bcd\u900f\u89c6\u4e0e\u4e70\u5bb6\u9a8c\u8d27\u9632\u5272\u6307\u5357)",
+  "lang": "",
+  "name": "Domainsun/awesome-chinese-secondhand-slang",
+  "node_id": "R_kgDOVNeR-w",
+  "topics": [
+   "antifraud",
+   "awesome",
+   "awesome-list",
+   "chinese-slang",
+   "ecommerce",
+   "goofish",
+   "risk-control",
+   "secondhand",
+   "xianyu"
+  ]
+ },
+ "1423460660": {
+  "created_at": "2026-10-17T15:19:15Z",
+  "desc": "A Claude Code skill that turns your main session into a dispatcher that never blocks",
+  "lang": "",
+  "name": "olivieropinotti/orchestrator-skill",
+  "node_id": "R_kgDOVNhJNA",
+  "topics": []
+ },
+ "1423689866": {
+  "created_at": "2026-10-17T19:52:00Z",
+  "desc": "",
+  "lang": "C",
+  "name": "ly05010419/MacNativeGames",
+  "node_id": "R_kgDOVNvIig",
+  "topics": []
+ },
+ "1423810590": {
+  "created_at": "2026-10-17T22:42:57Z",
+  "desc": "A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
+  "lang": "JavaScript",
+  "name": "Leonxlnx/athenaion",
+  "node_id": "R_kgDOVN2gHg",
+  "topics": []
+ },
+ "1423983390": {
+  "created_at": "2026-10-18T04:22:18Z",
+  "desc": "Agent skill for native Nintendo Switch game porting to Apple Silicon macOS, iPadOS and iOS with Rust and Metal",
+  "lang": "",
+  "name": "realskyrin/ns-game-apple-arm-port",
+  "node_id": "R_kgDOVOBDHg",
+  "topics": []
  },
  "142422739": {
   "created_at": "2018-07-26T09:58:36Z",
