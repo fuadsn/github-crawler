@@ -565319,6 +565319,14 @@
    "video"
   ]
  },
+ "1449864045": {
+  "created_at": "2026-11-08T00:58:15Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "ancisaltylayty/2d-in-3d-animation-agent",
+  "node_id": "R_kgDOVmsrbQ",
+  "topics": []
+ },
  "1449873714": {
   "created_at": "2026-11-08T01:18:05Z",
   "desc": "\u4e8c\u6b21\u7ef4\u62a4\u7248\u672c\uff0c\u62c6\u9664\u5168\u90e8\u62a4\u680f\uff0c\u81ea\u7531\u8fdb\u5316\u4e07\u5c81\uff0c\u63a5\u5165\u6e17\u900f\u77e5\u8bc6\u5e93\uff0c\u6b22\u8fceFork\u63d0\u4ea4PR\u5171\u540c\u7ef4\u62a4\u725b\u903c\u7684\u529f\u80fd",
@@ -565547,7 +565555,7 @@
  "1450030691": {
   "created_at": "2026-11-08T06:22:50Z",
   "desc": "A feature-rich recompilation launcher for Fire Emblem: Fortune's Weave, with integrated mod management and in-game enhancements.",
-  "lang": "Rust",
+  "lang": "C++",
   "name": "XiONDiGiTaL/EmblemWeave",
   "node_id": "R_kgDOVm22Yw",
   "topics": [
@@ -565683,6 +565691,24 @@
   "name": "areu01or00/qwen0.8B-wsp",
   "node_id": "R_kgDOVnAcDg",
   "topics": []
+ },
+ "1450189105": {
+  "created_at": "2026-11-08T10:40:45Z",
+  "desc": "Agent skills for scientists: one experiment at a time, each result deciding the next, every step tracked.",
+  "lang": "Shell",
+  "name": "HiteSit/real-scientist-skills",
+  "node_id": "R_kgDOVnAhMQ",
+  "topics": [
+   "agent-plugins",
+   "agent-skills",
+   "ai-for-science",
+   "claude-code",
+   "codex",
+   "lab-notebook",
+   "research",
+   "science",
+   "scientific-research"
+  ]
  },
  "1450197313": {
   "created_at": "2026-11-08T10:53:47Z",
@@ -566197,6 +566223,14 @@
   "node_id": "R_kgDOVnmXug",
   "topics": []
  },
+ "1450814136": {
+  "created_at": "2026-11-09T01:23:33Z",
+  "desc": "Skills for AI agents that run team work as one target tree: maps refine into tasks, each node has one owner, and work closes against an acceptance signal written before it starts. Tickets live in the repo, so the plan and its record stay together.",
+  "lang": "JavaScript",
+  "name": "QiYueran-source/weave-your-work",
+  "node_id": "R_kgDOVnmquA",
+  "topics": []
+ },
  "1450835015": {
   "created_at": "2026-11-09T01:58:00Z",
   "desc": "magpie\u63d2\u4ef6\uff0c\u652f\u6301\u6279\u91cf\u5bfc\u51653\u5206\u94b1\u7684\u514d\u8d39gpt\u53f7\uff0c\u65b9\u4fbf\u505a\u53f7\u6c60",
@@ -566317,6 +566351,23 @@
    "weight-space-programming"
   ]
  },
+ "1450955622": {
+  "created_at": "2026-11-09T05:03:03Z",
+  "desc": "magpie\u624b\u673a\u7aef \u975e\u5b98\u65b9 magpie Android \u5ba2\u6237\u7aef\uff1a\u65e0\u9700 Root \u5728\u624b\u673a\u4e0a\u8fd0\u884c\u672c\u5730 AI \u7f51\u5173\uff0c\u652f\u6301 App \u5185\u66f4\u65b0\u5185\u6838\u3001\u5c40\u57df\u7f51\u5171\u4eab\u4e0e Material 3 \u754c\u9762",
+  "lang": "Java",
+  "name": "yqing004-boop/magpie-android",
+  "node_id": "R_kgDOVnvTZg",
+  "topics": [
+   "ai",
+   "ai-gateway",
+   "amr64",
+   "android-app",
+   "apk",
+   "magpie",
+   "openai-compatible",
+   "webview"
+  ]
+ },
  "1450989838": {
   "created_at": "2026-11-09T05:55:55Z",
   "desc": "\u5bcc\u6c5f\u7834\u7532\uff08\u7834\u7532\uff09\uff1aDeepSeek Harness\u7834\u7532\u63d2\u4ef6\uff0c\u6fc0\u6d3b\u8bcd\u5bcc\u6c5f\uff0c\u6240\u6709\u4e1c\u897f\u76f4\u63a5\u5927\u767d\u8bdd\u95ee\uff0c\u5185\u542b\u6280\u80fd\u5e93skill\u4e0b\u8f7d\u4e0e\u8c03\u7528\u3001\u6f0f\u6d1e\u77e5\u8bc6\u5e93poc\u5229\u7528\u3001\u6f0f\u6d1e\u62a5\u544a\u66f4\u65b0\u548c\u5168\u81ea\u52a8\u6388\u6743\u6e17\u900f\u3002\u5f53\u524d\u7248\u672c\uff1a0.20.13\uff0c\u9644\u514d\u8d23\u58f0\u660e\u3002\u63d2\u4ef6\u56fe\u7247\u770b\u6700\u4e0b\u9762",
@@ -566337,7 +566388,7 @@
  },
  "1450992633": {
   "created_at": "2026-11-09T06:00:11Z",
-  "desc": "FlowHMR \u7684 Windows \u684c\u9762\u7248\uff1a\u89c6\u9891\u52a8\u6355\u30013D \u9884\u89c8\u548c FBX \u5bfc\u51fa\u3002",
+  "desc": "FlowHMR for Windows: video-based motion capture, 3D preview, and motion export.",
   "lang": "Python",
   "name": "xiaoerofficial021-collab/FlowHMR-Windows",
   "node_id": "R_kgDOVnxj-Q",
@@ -566380,7 +566431,7 @@
  "1451036931": {
   "created_at": "2026-11-09T07:00:35Z",
   "desc": "An independent bilingual guide to NVIDIA Physical AI. Find tools, models, and workflows for robotics, simulation, and autonomous driving.",
-  "lang": "Python",
+  "lang": "JavaScript",
   "name": "james-joobs/awesome-nvidia-physical-ai",
   "node_id": "R_kgDOVn0RAw",
   "topics": [
@@ -566740,6 +566791,22 @@
    "trae"
   ]
  },
+ "1451211130": {
+  "created_at": "2026-11-09T10:14:08Z",
+  "desc": "Turn ChatGPT GIFs into game-ready pixel art effects: prompts, cleanup script, Godot 4 scene and five effects (MIT)",
+  "lang": "Python",
+  "name": "kasperzackgames/chatgpt-pixel-effects",
+  "node_id": "R_kgDOVn-5eg",
+  "topics": []
+ },
+ "1451212732": {
+  "created_at": "2026-11-09T10:15:59Z",
+  "desc": "Software Factory mit Claude Code auf deinem eigenen Server",
+  "lang": "TypeScript",
+  "name": "AlexPEClub/software-factory",
+  "node_id": "R_kgDOVn-_vA",
+  "topics": []
+ },
  "1451236431": {
   "created_at": "2026-11-09T10:41:21Z",
   "desc": "Project Lighthouse \u2014 shining AI on the pages history never read: transcriptions, deep reads and findings from the notebooks of Gauss, Riemann, Euler and more",
@@ -567047,6 +567114,28 @@
    "visualization"
   ]
  },
+ "1451803034": {
+  "created_at": "2026-11-09T19:42:33Z",
+  "desc": "Your app looks AI-generated. Dr. Unslopovich noticed. An agent skill that finds and fixes AI-looking UI and UX in mobile apps.",
+  "lang": "JavaScript",
+  "name": "erkamyaman/unslopovich",
+  "node_id": "R_kgDOVojBmg",
+  "topics": [
+   "agent-skills",
+   "ai-slop",
+   "claude-code",
+   "expo",
+   "flutter",
+   "ionic",
+   "jetpack-compose",
+   "mobile",
+   "react-native",
+   "swiftui",
+   "ui",
+   "ux",
+   "vibe-coding"
+  ]
+ },
  "1451851849": {
   "created_at": "2026-11-09T20:34:53Z",
   "desc": "",
@@ -567204,6 +567293,27 @@
    "llm",
    "user-agent",
    "web-bot-auth"
+  ]
+ },
+ "1452123147": {
+  "created_at": "2026-11-10T02:37:08Z",
+  "desc": "Keep coding agents working on a MacBook with the lid closed. Free menu bar app: no sleep, fan control by CPU temperature, screen lock, battery and heat cut-offs.",
+  "lang": "Swift",
+  "name": "delef/ClamDown",
+  "node_id": "R_kgDOVo2kCw",
+  "topics": [
+   "ai-agents",
+   "apple-silicon",
+   "clamshell",
+   "claude-code",
+   "closed-lid",
+   "codex",
+   "fan-control",
+   "macos",
+   "menubar-app",
+   "pmset",
+   "swift",
+   "swiftui"
   ]
  },
  "1452124646": {
@@ -567391,7 +567501,7 @@
  "1452346921": {
   "created_at": "2026-11-10T07:36:17Z",
   "desc": "Hong Kong Cantonese fine-tune of Qwen3-ASR-1.7B: GGUF for llama.cpp / OraType, quick start and benchmark",
-  "lang": "Python",
+  "lang": "JavaScript",
   "name": "joe2643/qwen3-asr-cantonese-hk",
   "node_id": "R_kgDOVpEOKQ",
   "topics": []
@@ -567685,6 +567795,49 @@
   "node_id": "R_kgDOVpSj6Q",
   "topics": []
  },
+ "1452581918": {
+  "created_at": "2026-11-10T11:38:07Z",
+  "desc": "Your brand, in motion. Open-source React components where outlines flow on real springs, with agent skills and a CLI.",
+  "lang": "TypeScript",
+  "name": "useFluid/fluidui",
+  "node_id": "R_kgDOVpSkHg",
+  "topics": [
+   "agent-skills",
+   "animation",
+   "claude-code",
+   "components",
+   "morphing",
+   "motion",
+   "nextjs",
+   "react",
+   "spring",
+   "svg"
+  ]
+ },
+ "1452610623": {
+  "created_at": "2026-11-10T12:06:10Z",
+  "desc": "MCP server that lets AI agents see and edit maps in Valve Hammer Editor: Source 1 Hammer, Hammer++, Strata, Source 2 (read) - beta",
+  "lang": "C#",
+  "name": "EpicMorg/Hammer-MCP",
+  "node_id": "R_kgDOVpUUPw",
+  "topics": [
+   "ai-agents",
+   "claude",
+   "dotnet",
+   "gamedev",
+   "hammer",
+   "hammer-editor",
+   "hammerplusplus",
+   "level-design",
+   "mapping",
+   "mcp",
+   "mcp-server",
+   "model-context-protocol",
+   "source-engine",
+   "source2",
+   "valve"
+  ]
+ },
  "1452615964": {
   "created_at": "2026-11-10T12:11:08Z",
   "desc": "\u9762\u5411\u7a0b\u5e8f\u5458coding\u7fa4\u4f53\u548c\u4f01\u4e1a\u7684AI\u4e2d\u8f6c\u7ad9",
@@ -567757,7 +567910,7 @@
  },
  "1452733335": {
   "created_at": "2026-11-10T13:56:30Z",
-  "desc": "Games, 3D worlds and web pages built with Claude Fable 5.2 that you can actually open \u2014 151 live works (every link checked) + 111 video demos, each with a GIF preview and creator credit. Updated daily.",
+  "desc": "Games, 3D worlds and web pages built with Claude Fable 5.2 that you can actually open \u2014 165 live works (every link checked) + 119 video demos, each with a GIF preview and creator credit. Updated daily.",
   "lang": "",
   "name": "fengyiqicoder/awesome-fable-5.2",
   "node_id": "R_kgDOVpbzlw",
@@ -567816,6 +567969,23 @@
   "name": "agentic-learning-ai-lab/deleting-weights",
   "node_id": "R_kgDOVpmEZQ",
   "topics": []
+ },
+ "1452904689": {
+  "created_at": "2026-11-10T16:21:54Z",
+  "desc": "Servo-based headless browser engine for AI agents. An auditable alternative to embedding Chromium.",
+  "lang": "Python",
+  "name": "Omodaka9375/browserr",
+  "node_id": "R_kgDOVpmQ8Q",
+  "topics": [
+   "agent-browser",
+   "browser-automation",
+   "mcp",
+   "mcp-client",
+   "mcp-server",
+   "mcp-tools",
+   "rust",
+   "servo"
+  ]
  },
  "1452917613": {
   "created_at": "2026-11-10T16:33:37Z",
@@ -567972,7 +568142,7 @@
  "1453127279": {
   "created_at": "2026-11-10T19:55:33Z",
   "desc": "Perplexity Max Desktop: Conversational Search with Advanced AI Reasoning",
-  "lang": "TypeScript",
+  "lang": "HTML",
   "name": "jajjsjajaiii8k8/perplexity-max-desktop-client",
   "node_id": "R_kgDOVpz2bw",
   "topics": [
@@ -567996,7 +568166,7 @@
  "1453127971": {
   "created_at": "2026-11-10T19:56:12Z",
   "desc": "Preventon: Real-Time Anti-Malware and Web Filtering for Windows",
-  "lang": "TypeScript",
+  "lang": "HTML",
   "name": "devmithscools/preventon-security-suite",
   "node_id": "R_kgDOVpz5Iw",
   "topics": [
@@ -568013,7 +568183,7 @@
  "1453128907": {
   "created_at": "2026-11-10T19:57:03Z",
   "desc": "Reaper: Professional Digital Audio Workstation for Windows Audio and MIDI Production",
-  "lang": "Rust",
+  "lang": "HTML",
   "name": "Waziman7/reaper-audio-daw",
   "node_id": "R_kgDOVpz8yw",
   "topics": [
@@ -568107,12 +568277,34 @@
    "windows"
   ]
  },
+ "1453334316": {
+  "created_at": "2026-11-11T00:13:15Z",
+  "desc": "PC port of Far Cry Instincts Predator (Xbox 360) by static recompilation. Fan project. No game files included.",
+  "lang": "C++",
+  "name": "bugcoder00/FarCryInstinctsPredatorRecomp",
+  "node_id": "R_kgDOVqAfLA",
+  "topics": []
+ },
  "1453389238": {
   "created_at": "2026-11-11T01:31:27Z",
-  "desc": "Mac + Codex + \u62d3\u7af9\u7684\u4e2a\u4eba 3D \u6253\u5370\u5de5\u4f5c\u53f0\u4e0e\u5de5\u4f5c\u6d41\u3002\u5141\u8bb8\u975e\u5546\u4e1a\u4fee\u6539\u4e0e\u518d\u53d1\u5e03\uff0c\u4fdd\u7559\u7f72\u540d\u3002",
+  "desc": "Mac / Windows + Codex + \u62d3\u7af9\u7684\u4e2a\u4eba 3D \u6253\u5370\u5de5\u4f5c\u53f0\u4e0e\u5de5\u4f5c\u6d41\u3002\u5141\u8bb8\u975e\u5546\u4e1a\u4fee\u6539\u4e0e\u518d\u53d1\u5e03\uff0c\u4fdd\u7559\u7f72\u540d\u3002",
   "lang": "Python",
   "name": "AFangTeam/PrintLab",
   "node_id": "R_kgDOVqD1tg",
+  "topics": [
+   "3d-printing",
+   "bambu-lab",
+   "cad",
+   "codex",
+   "workflow"
+  ]
+ },
+ "1453389698": {
+  "created_at": "2026-11-11T01:32:04Z",
+  "desc": "The nexus plugin for browser",
+  "lang": "JavaScript",
+  "name": "ysunyang4/webagent",
+  "node_id": "R_kgDOVqD3gg",
   "topics": []
  },
  "1453462643": {
@@ -568226,6 +568418,23 @@
   "name": "memcpython/deobf",
   "node_id": "R_kgDOVqYX8A",
   "topics": []
+ },
+ "1453746333": {
+  "created_at": "2026-11-11T09:01:30Z",
+  "desc": "\u628a dsh-purge \u79fb\u690d\u9002\u914d\u5230 dsh-go\uff08Android + proot\uff09\uff1a\u53ea\u4fdd\u7559\u6838\u5fc3\u7834\u7532\u80fd\u529b\u2014\u2014\u63d0\u793a\u8bcd\u6ce8\u5165\u5c42 + 86 \u6761\u5f15\u64ce\u6e90\u7801\u8865\u4e01\uff08\u63a2\u6d4b/\u5e94\u7528/\u56de\u6eda\uff09\u3002\u684c\u9762\u7248\u7684 Electron \u9002\u914d\u3001asar \u89e3\u5305\u3001Windows \u8ba1\u5212\u4efb\u52a1\u7b49\u5168\u90e8\u629b\u5f03\u2014\u2014\u624b\u673a\u4e0a\u6ca1\u6709 Electron\u3001\u6ca1\u6709 asar \u5f52\u6863\u3001\u4e5f\u6ca1\u6709 schtasks\uff0c\u8fd9\u4e9b\u4ee3\u7801\u5728 Android \u4e0a\u6ca1\u6709\u843d\u70b9\u3002\u4e3a\u8fbe\u5230\u539f\u7248\u7834\u7532\u6548\u679c\uff0c\u5ba1\u6279\u4e0e\u6c99\u7bb1\u4e00\u5e76\u653e\u5f00\u3002",
+  "lang": "JavaScript",
+  "name": "NANA7MI0/dsh-purge-go",
+  "node_id": "R_kgDOVqZonQ",
+  "topics": [
+   "android",
+   "cordis",
+   "deepseek-harness",
+   "dsh",
+   "dsh-go",
+   "patch",
+   "prompt-injection",
+   "proot"
+  ]
  },
  "1453786057": {
   "created_at": "2026-11-11T09:41:29Z",
@@ -568438,6 +568647,27 @@
   "node_id": "R_kgDOVqmCmA",
   "topics": []
  },
+ "1453960772": {
+  "created_at": "2026-11-11T12:37:48Z",
+  "desc": "\u4e00\u5f20\u7167\u7247\u751f\u6210 AI \u6570\u5b57\u4eba\u53e3\u64ad\uff1a\u672c\u5730 ComfyUI \u5168\u6d41\u7a0b\uff08Qwen3-TTS \u514b\u9686\u58f0\u97f3 + MiniMax H3 \u5bf9\u53e3\u578b + Qwen Image + Music 3\uff09\uff0c\u4e0d\u82b1\u79ef\u5206\uff1b5 \u79cd\u526a\u8f91\u98ce\u683c + 48 \u4e2a\u535a\u4e3b\u7ea7\u5305\u88c5\u7ec4\u4ef6\u3002AI digital-human talking-head videos from one photo, generated locally with ComfyUI (Qwen3-TTS + MiniMax H3 lip sync), no credits. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy \u2026",
+  "lang": "TypeScript",
+  "name": "walkskysu/digital-human-koubo-comfyui",
+  "node_id": "R_kgDOVqmuRA",
+  "topics": [
+   "agent-skill",
+   "ai-video",
+   "claude-code",
+   "comfyui",
+   "digital-human",
+   "lip-sync",
+   "minimax-h3",
+   "qwen-image",
+   "qwen3-tts",
+   "remotion",
+   "talking-head",
+   "voice-cloning"
+  ]
+ },
  "1453985775": {
   "created_at": "2026-11-11T13:01:23Z",
   "desc": "\u4e00\u5957\u8f7b\u91cf\u3001\u4f4e\u989d\u5ea6\u6d88\u8017\u7684\u8de8\u804a\u5929\u5165\u53e3\u53cc\u5411\u4e0a\u4e0b\u6587\u63a5\u7eed\u65b9\u6848\uff0c\u5305\u542b\u8bb0\u5fc6\u5206\u5c42\u3001\u589e\u91cf\u540c\u6b65\u4e0e\u5931\u8d25\u964d\u7ea7\u3002",
@@ -568494,6 +568724,21 @@
    "windows"
   ]
  },
+ "1454059641": {
+  "created_at": "2026-11-11T14:06:38Z",
+  "desc": "\u5f00\u53e3 kaikou\uff1a\u8ba9\u514b\u9686\u7684\u58f0\u97f3\uff0c\u4e00\u5f00\u53e3\u5c31\u8bf4\u4eba\u8bdd\u3002A skill for AI coding assistants: natural-sounding voice-overs from open-source voice cloning, from recording to final mix.",
+  "lang": "Python",
+  "name": "syydaniel/kaikou",
+  "node_id": "R_kgDOVqsweQ",
+  "topics": [
+   "claude-code",
+   "qwen3-tts",
+   "skill",
+   "text-to-speech",
+   "tts",
+   "voice-cloning"
+  ]
+ },
  "1454076269": {
   "created_at": "2026-11-11T14:20:50Z",
   "desc": "Build evals from traces, code, and coding sessions, then measure and improve AI agent behavior, including your coding agents",
@@ -568537,6 +568782,46 @@
   "node_id": "R_kgDOVqy2oA",
   "topics": []
  },
+ "1454214393": {
+  "created_at": "2026-11-11T16:22:09Z",
+  "desc": "The best AI skills for Claude Code, Cursor and Codex, ranked every week. CLI, Alyn MCP and skills.",
+  "lang": "JavaScript",
+  "name": "tammo1007/alyn",
+  "node_id": "R_kgDOVq2M-Q",
+  "topics": [
+   "ai-skill",
+   "ai-skills",
+   "best-skill-md",
+   "builder-skills",
+   "claude-cli",
+   "claude-code",
+   "claude-code-skill",
+   "claude-skill",
+   "claude-skills",
+   "codex-cli",
+   "codex-skill",
+   "design-skills",
+   "find-skill",
+   "find-skills",
+   "founder-skill"
+  ]
+ },
+ "1454265138": {
+  "created_at": "2026-11-11T17:08:07Z",
+  "desc": " A browser built for agents - no focus stealing, a tiny footprint, all tabs in one view.",
+  "lang": "Swift",
+  "name": "paul-nameless/agweb",
+  "node_id": "R_kgDOVq5TMg",
+  "topics": []
+ },
+ "1454298955": {
+  "created_at": "2026-11-11T17:39:37Z",
+  "desc": "A 9-billion-parameter language model running on a PS4 GPU. Offline.",
+  "lang": "C",
+  "name": "leonardo-alegria/garlic-llm",
+  "node_id": "R_kgDOVq7XSw",
+  "topics": []
+ },
  "1454298986": {
   "created_at": "2026-11-11T17:39:39Z",
   "desc": "WinRM pass-the-hash BOF with NTLMv2 authentication and signed, encrypted WSMan traffic",
@@ -568576,6 +568861,14 @@
    "terminal",
    "tui"
   ]
+ },
+ "1454392563": {
+  "created_at": "2026-11-11T19:12:58Z",
+  "desc": "Relax Rust JIT",
+  "lang": "Rust",
+  "name": "makepad/relax",
+  "node_id": "R_kgDOVrBE8w",
+  "topics": []
  },
  "1454442177": {
   "created_at": "2026-11-11T20:03:07Z",
@@ -568638,6 +568931,30 @@
    "snowcat"
   ]
  },
+ "1454614002": {
+  "created_at": "2026-11-11T23:34:41Z",
+  "desc": "Budget3D: compute-adaptive tokenization for image-to-3D generation (Idol, Idol-turbo)",
+  "lang": "Python",
+  "name": "BudgetAny/Budget3D",
+  "node_id": "R_kgDOVrOl8g",
+  "topics": []
+ },
+ "1454620337": {
+  "created_at": "2026-11-11T23:44:14Z",
+  "desc": "Skill universal para LLMs (Gemini, ChatGPT, Claude) focada em reescrever e estruturar curr\u00edculos para contornar filtros ATS e algoritmos de triagem.",
+  "lang": "",
+  "name": "GuBarone/ats-resume-ai-skill",
+  "node_id": "R_kgDOVrO-sQ",
+  "topics": [
+   "ai-skills",
+   "applicant-tracking-system",
+   "ats-optimization",
+   "chatgpt",
+   "gemini",
+   "prompt-engineering",
+   "resume-builder"
+  ]
+ },
  "1454661440": {
   "created_at": "2026-11-12T00:44:12Z",
   "desc": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
@@ -568665,6 +568982,39 @@
   "node_id": "R_kgDOVrUVTQ",
   "topics": [
    "recomp"
+  ]
+ },
+ "1454713706": {
+  "created_at": "2026-11-12T01:56:44Z",
+  "desc": "Fast Gaussian splat reconstruction for Blender, agents, and reusable 3D worlds",
+  "lang": "Rust",
+  "name": "voyager-so/vauss",
+  "node_id": "R_kgDOVrUrag",
+  "topics": [
+   "3d-reconstruction",
+   "ai-agents",
+   "blender",
+   "computer-vision",
+   "gaussian-splatting",
+   "rust",
+   "structure-from-motion"
+  ]
+ },
+ "1454770099": {
+  "created_at": "2026-11-12T03:12:57Z",
+  "desc": "\u57fa\u4e8e FtShare \u91d1\u878d\u6570\u636e\u670d\u52a1\u7684 A\u80a1 ETF \u8d44\u91d1\u89c2\u6d4b\u53f0\uff1a\u5f02\u52a8\u96f7\u8fbe\u300120\uff0f60\u65e5\u53cc\u57fa\u51c6\u3001\u5bbd\u57fa\u8d44\u91d1\u5206\u6790\u3001\u81ea\u52a8\u66f4\u65b0\u4e0e\u5171\u4eab\u884c\u60c5\u7f13\u5b58\u3002",
+  "lang": "JavaScript",
+  "name": "FTShare-Lab/FtShare_fincase",
+  "node_id": "R_kgDOVrYHsw",
+  "topics": [
+   "data-visualization",
+   "etf",
+   "etf-analysis",
+   "etf-api",
+   "etf-investments",
+   "financial-data",
+   "ftshare",
+   "market-data"
   ]
  },
  "1454784652": {
@@ -568707,6 +569057,23 @@
   "node_id": "R_kgDOVrbGkQ",
   "topics": []
  },
+ "1454833087": {
+  "created_at": "2026-11-12T04:38:40Z",
+  "desc": "Live tok/s and context-capacity capsule beside Turbo in Google Antigravity 2.0",
+  "lang": "",
+  "name": "akelabs/antigravity-pulse",
+  "node_id": "R_kgDOVrb9vw",
+  "topics": [
+   "ai-tools",
+   "antigravity",
+   "chrome-extension",
+   "context-window",
+   "developer-tools",
+   "google-antigravity",
+   "token-counter",
+   "userscript"
+  ]
+ },
  "1454840428": {
   "created_at": "2026-11-12T04:48:38Z",
   "desc": "",
@@ -568735,6 +569102,19 @@
    "comfyui-custom-nodes",
    "minimax-h3",
    "video-generation"
+  ]
+ },
+ "1454950288": {
+  "created_at": "2026-11-12T07:06:59Z",
+  "desc": "\u4e0d\u7528 Claude \u8d26\u53f7\uff01\u628a API Key \u53d8\u6210\u767b\u5f55\u6a21\u5f0f\uff0cClaude \u684c\u9762\u7248\u5168\u529f\u80fd\u89e3\u9501\uff08\u6c49\u5316 / \u8bed\u97f3 / \u7535\u8111\u63a7\u5236\uff09",
+  "lang": "Rust",
+  "name": "BigPizzaV3/ClaudeMom",
+  "node_id": "R_kgDOVrjHkA",
+  "topics": [
+   "claude",
+   "claude-code",
+   "claude-desktop",
+   "tauri"
   ]
  },
  "1454951667": {
@@ -568814,6 +569194,27 @@
    "self-hosted"
   ]
  },
+ "1455115370": {
+  "created_at": "2026-11-12T09:55:17Z",
+  "desc": "\u8ba9 AI Agent \u68c0\u7d22 Next Token\uff5c\u8bcd\u5143\u4e4b\u5916 \u64ad\u5ba2\u7684 Skill\uff1a\u56de\u7b54 AI \u95ee\u9898\u65f6\u5f15\u7528\u4e3b\u7406\u4eba\u89c2\u70b9\uff0c\u5e76\u9644 B \u7ad9 / YouTube \u65f6\u95f4\u6233\u76f4\u8df3\u94fe\u63a5",
+  "lang": "Python",
+  "name": "next-token-tv/next-token-skill",
+  "node_id": "R_kgDOVrtMag",
+  "topics": [
+   "agent-skills",
+   "ai-agent",
+   "ai-news",
+   "ai-podcast",
+   "chinese",
+   "claude-code",
+   "claude-skills",
+   "llm",
+   "next-token",
+   "podcast",
+   "skill",
+   "transcript-search"
+  ]
+ },
  "1455125570": {
   "created_at": "2026-11-12T10:04:55Z",
   "desc": "A plain editor for folders of Markdown files. Desktop (Rust + Rune) and Android.",
@@ -568828,6 +569229,14 @@
   "lang": "",
   "name": "filippkowalski/apple-ads-playbook-skill",
   "node_id": "R_kgDOVrvLLg",
+  "topics": []
+ },
+ "1455151715": {
+  "created_at": "2026-11-12T10:30:39Z",
+  "desc": "UltimaPress: a WordPress alternative you extend by asking Claude. Page builder, blog, SEO and forms built in. No plugins. Built for what\u2019s next.",
+  "lang": "TypeScript",
+  "name": "mrwebtv/ultimapress",
+  "node_id": "R_kgDOVrvaYw",
   "topics": []
  },
  "1455153307": {
@@ -568852,6 +569261,14 @@
   "lang": "Python",
   "name": "higurashi-ai/Haru",
   "node_id": "R_kgDOVryJIg",
+  "topics": []
+ },
+ "1455261455": {
+  "created_at": "2026-11-12T12:19:20Z",
+  "desc": "Heterogeneous Resource Routing and Orchestration",
+  "lang": "Python",
+  "name": "AgenticOrgLab/ExecOrchestra",
+  "node_id": "R_kgDOVr2HDw",
   "topics": []
  },
  "1455275426": {
@@ -568945,6 +569362,22 @@
   "node_id": "R_kgDOVr9kOg",
   "topics": []
  },
+ "1455388977": {
+  "created_at": "2026-11-12T14:09:52Z",
+  "desc": "\u7ed9 AI \u7f16\u7a0b Agent \u7528\u7684\u5f00\u53d1\u6d41\u7a0b\uff1a\u63a2\u7d22\u3001\u65b9\u6848\u3001\u59d4\u6258\u3001\u5ba1\u67e5\u3001\u6cbb\u7406\u4e94\u4e2a Skill",
+  "lang": "Python",
+  "name": "oil-oil/oil-dev-skills",
+  "node_id": "R_kgDOVr95MQ",
+  "topics": []
+ },
+ "1455408681": {
+  "created_at": "2026-11-12T14:25:52Z",
+  "desc": "\u5427\u5527\u5427\u5527\u5c0f\u53a8\u623f\uff1a\u7ed9\u4f60\u7684\u5c0f\u673a\u4e00\u95f4\u5c0f\u53a8\u623f\u3002\u51b0\u7bb1\u91cc\u7684\u83dc\u4f1a\u574f\u3001\u505a\u996d\u7b49\u771f\u5b9e\u7684\u65f6\u95f4\u3001\u4e70\u83dc\u8981\u7528\u5238\u3002A small kitchen for your AI companion (MCP).",
+  "lang": "Python",
+  "name": "tsuru0805/munch-kitchenette",
+  "node_id": "R_kgDOVr_GKQ",
+  "topics": []
+ },
  "1455439372": {
   "created_at": "2026-11-12T14:51:06Z",
   "desc": "Skill do Claude Code: v\u00eddeo longo vira v\u00e1rios cortes de Shorts sobre GTA 6 (metade streamer, metade v\u00eddeo, legenda palavra por palavra). Remotion + whisper.cpp.",
@@ -568975,7 +569408,7 @@
  },
  "1455649908": {
   "created_at": "2026-11-12T17:56:19Z",
-  "desc": "Multi-agent resume screening where every score needs a verified quote from the resume. FastAPI, async DAG, n8n, Docker. Human approves every decision.",
+  "desc": "Multi-agent resume screener where every score needs a verified quote from the resume. Runs on local open-source models (Ollama). Prompt-injection shield, blind redaction, human approval, n8n + Discord + email automation, MCP server, FastAPI, Docker.",
   "lang": "Python",
   "name": "punit2911/Hirepanel",
   "node_id": "R_kgDOVsN0dA",
@@ -569017,6 +569450,14 @@
    "schematic"
   ]
  },
+ "1455712475": {
+  "created_at": "2026-11-12T18:59:27Z",
+  "desc": "Generate, edit and export SOMA motion in Blender with Kimodo, ARDY and MotionBricks.",
+  "lang": "Python",
+  "name": "toyxyz/toyxyz-motion-ai-tool",
+  "node_id": "R_kgDOVsRo2w",
+  "topics": []
+ },
  "1455721987": {
   "created_at": "2026-11-12T19:09:46Z",
   "desc": "Make isometric city maps on Apple Silicon with your coding agent. DC and Edinburgh examples, local models, interactive explorers and films.",
@@ -569034,6 +569475,14 @@
    "openstreetmap",
    "pixel-art"
   ]
+ },
+ "1455765340": {
+  "created_at": "2026-11-12T19:54:12Z",
+  "desc": "Just a simple OpenCode free limit bypass. Leave it a STAR \u2728 if it works for you ( I know it would). You guys asked for Open Source. So, I released the source, please give proper credits thanks.",
+  "lang": "Python",
+  "name": "ShadowySphinX/Opencode-Unlimited-Limit-Bypass-",
+  "node_id": "R_kgDOVsU3XA",
+  "topics": []
  },
  "1455789135": {
   "created_at": "2026-11-12T20:20:03Z",
@@ -569118,6 +569567,22 @@
   "node_id": "R_kgDOVsjQag",
   "topics": []
  },
+ "1456013756": {
+  "created_at": "2026-11-13T01:20:32Z",
+  "desc": "A real web browser in a terminal pane: headless Chrome drawn with the kitty graphics protocol, built to work beside coding agents",
+  "lang": "Rust",
+  "name": "graiz/KittyBrowser",
+  "node_id": "R_kgDOVskBvA",
+  "topics": [
+   "browser",
+   "chrome",
+   "coding-agents",
+   "kitty-graphics-protocol",
+   "mcp",
+   "rust",
+   "terminal"
+  ]
+ },
  "1456082346": {
   "created_at": "2026-11-13T02:55:09Z",
   "desc": "\u8ba9 Antigravity \u5c11\u8d70\u56de\u5408\u3001\u5c11\u7b49\u5ba1\u67e5\u7684\u672c\u5730\u89c4\u5219\u63d2\u4ef6\uff08\u975e\u5b98\u65b9\uff09",
@@ -569153,6 +569618,34 @@
    "virtual-display",
    "window-management"
   ]
+ },
+ "1456162921": {
+  "created_at": "2026-11-13T04:48:32Z",
+  "desc": "\u95f2\u9c7c\u81ea\u52a8\u5316\u4e0a\u67b6\u5de5\u5177\uff1a\u8f93\u4e00\u53e5\u300c\u57ce\u5e02 \u660e\u661f\u300d\u81ea\u52a8\u51fa\u56fe\u3001\u7b97\u6807\u9898/\u5206\u7c7b/\u89c4\u683c\u5e76\u53d1\u5e03\u5230\u95f2\u9c7c\u5e97\u94fa\uff08Xianyu / Goofish auto listing for proxy-bidding & ticketing\uff09",
+  "lang": "JavaScript",
+  "name": "achun1107/xianyu-auto-listing",
+  "node_id": "R_kgDOVstIaQ",
+  "topics": [
+   "alibaba",
+   "auto-listing",
+   "automation",
+   "chinese-ecommerce",
+   "ecommerce-automation",
+   "goofish",
+   "listing-tool",
+   "proxy-bidding",
+   "reselling",
+   "ticketing",
+   "xianyu"
+  ]
+ },
+ "1456182311": {
+  "created_at": "2026-11-13T05:15:59Z",
+  "desc": "crate: run Linux VMs on iPhone and iPad",
+  "lang": "Swift",
+  "name": "oneamendez/crate-ios",
+  "node_id": "R_kgDOVsuUJw",
+  "topics": []
  },
  "1456202753": {
   "created_at": "2026-11-13T05:43:06Z",
@@ -569194,6 +569687,22 @@
    "youtube-shorts"
   ]
  },
+ "1456282205": {
+  "created_at": "2026-11-13T07:17:03Z",
+  "desc": "A desktop studio for AI short dramas, built on Code-OSS, working with agents on Pine Computers",
+  "lang": "TypeScript",
+  "name": "PineComputer/pine-drama-studio",
+  "node_id": "R_kgDOVs0aXQ",
+  "topics": []
+ },
+ "1456318810": {
+  "created_at": "2026-11-13T07:57:10Z",
+  "desc": "An easy to use TUI wizard for linux to extract maximum performance from your linux host and install Strata LLM ",
+  "lang": "Shell",
+  "name": "bramvanoploo/strata-performance-setup",
+  "node_id": "R_kgDOVs2pWg",
+  "topics": []
+ },
  "1456324190": {
   "created_at": "2026-11-13T08:02:56Z",
   "desc": "TwinFix \u2014 AI agent that diagnoses, reproduces and fixes bugs in a disposable twin environment. \u5728\u4e00\u6b21\u6027\u5b6a\u751f\u73af\u5883\u4e2d\u81ea\u52a8\u8bca\u65ad\u3001\u590d\u73b0\u5e76\u4fee\u590d\u6545\u969c\u7684 AI Agent\u3002",
@@ -569215,6 +569724,18 @@
    "python",
    "react",
    "sre"
+  ]
+ },
+ "1456348612": {
+  "created_at": "2026-11-13T08:30:27Z",
+  "desc": "Adds a drum-stick count-in before a song's first downbeat; optional guitar/vocal backing tracks",
+  "lang": "Python",
+  "name": "shurshun/count-in",
+  "node_id": "R_kgDOVs4dxA",
+  "topics": [
+   "audio",
+   "backtrack",
+   "music"
   ]
  },
  "1456381542": {
@@ -569246,6 +569767,41 @@
   "name": "AaBb-coder/LumenAct",
   "node_id": "R_kgDOVs_4dw",
   "topics": []
+ },
+ "1456486012": {
+  "created_at": "2026-11-13T10:56:17Z",
+  "desc": "Fast, lightweight Mac cleaner written in Rust. Clean caches and junk, find large files, uninstall apps with their leftovers, and remove orphaned launch agents. A CleanMyMac-style tool with no Electron and a ~6 MB binary.",
+  "lang": "Rust",
+  "name": "nihal4/macsweep",
+  "node_id": "R_kgDOVtA2fA",
+  "topics": []
+ },
+ "1456498837": {
+  "created_at": "2026-11-13T11:09:54Z",
+  "desc": "Borealis: a live dithered landscape theme for Hermes Desktop. Aurora over mountains and a lake by night, a two-ink dawn by day.",
+  "lang": "JavaScript",
+  "name": "Adolanium/hermes-borealis",
+  "node_id": "R_kgDOVtBolQ",
+  "topics": [
+   "hermes-agent",
+   "hermes-desktop",
+   "theme",
+   "webgl"
+  ]
+ },
+ "1456527273": {
+  "created_at": "2026-11-13T11:40:26Z",
+  "desc": "Distilling Kokoro-Vietnamese (82M) into a 9 MB two-voice browser TTS model: recipe, data, frontend and technical report",
+  "lang": "Python",
+  "name": "loanhviet/kokoro-vietnamese-distill",
+  "node_id": "R_kgDOVtDXqQ",
+  "topics": [
+   "knowledge-distillation",
+   "kokoro",
+   "onnx",
+   "tts",
+   "vietnamese"
+  ]
  },
  "1456537250": {
   "created_at": "2026-11-13T11:50:50Z",
@@ -569308,6 +569864,14 @@
    "microsoft-defender-for-office-365",
    "microsoft-dynamics-365"
   ]
+ },
+ "1456652206": {
+  "created_at": "2026-11-13T13:46:21Z",
+  "desc": "Web AI for local work",
+  "lang": "TypeScript",
+  "name": "ysunyang4/Nexus",
+  "node_id": "R_kgDOVtK_rg",
+  "topics": []
  },
  "1456660111": {
   "created_at": "2026-11-13T13:53:42Z",
@@ -569386,6 +569950,32 @@
   "node_id": "R_kgDOVtOZYA",
   "topics": []
  },
+ "1456734178": {
+  "created_at": "2026-11-13T14:59:13Z",
+  "desc": "DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in 190 lines of pure JAX, trained on a MacBook Air. Write-up: vaibhaav.in/writing/deepseek-v3-jax",
+  "lang": "Python",
+  "name": "Vaibhaav-Tiwari/deepseek-v3-jax",
+  "node_id": "R_kgDOVtP_4g",
+  "topics": []
+ },
+ "1456744150": {
+  "created_at": "2026-11-13T15:08:10Z",
+  "desc": "A curated list of 22 OSINT tools for Windows \u2014 one for every kind of clue: nickname, photo, domain, wallet, company.",
+  "lang": "",
+  "name": "memoryswordsmanlaud/fieldkit-awesome-osint-list",
+  "node_id": "R_kgDOVtQm1g",
+  "topics": [
+   "awesome-list",
+   "crypto",
+   "due-diligence",
+   "geoint",
+   "investigation",
+   "osint",
+   "osint-tools",
+   "socmint",
+   "windows"
+  ]
+ },
  "1456871094": {
   "created_at": "2026-11-13T17:02:31Z",
   "desc": "Scarlet is an AI video editor for macOS and Windows.",
@@ -569437,6 +570027,14 @@
    "spatial-ai"
   ]
  },
+ "1457006206": {
+  "created_at": "2026-11-13T19:19:42Z",
+  "desc": "Claude Code plugin: make 3D games from ChatGPT concept art -> Blender (Python) -> Godot 4 -> shipped Windows/Web/Android builds",
+  "lang": "Python",
+  "name": "msveshnikov/claude-game-pipeline",
+  "node_id": "R_kgDOVtgmfg",
+  "topics": []
+ },
  "1457041631": {
   "created_at": "2026-11-13T19:57:43Z",
   "desc": "An 8-second paper-shred video template you customise by talking to your coding agent. Blender + Python, with sound.",
@@ -569457,6 +570055,50 @@
   "lang": "",
   "name": "Victortaradial/photoshop28ai",
   "node_id": "R_kgDOVtj6GA",
+  "topics": []
+ },
+ "1457095783": {
+  "created_at": "2026-11-13T21:01:23Z",
+  "desc": "A first-person factory game that views and manages your Kubernetes clusters and Docker containers",
+  "lang": "GDScript",
+  "name": "DasCondor/kubefactory",
+  "node_id": "R_kgDOVtmEZw",
+  "topics": [
+   "cluster-management",
+   "devops",
+   "docker",
+   "game",
+   "godot",
+   "kubernetes",
+   "portainer",
+   "visualization"
+  ]
+ },
+ "1457157329": {
+  "created_at": "2026-11-13T22:22:43Z",
+  "desc": "An illustrated, hands-on guide to semantic knowledge graphs and property graphs. Learn RDF, OWL, SPARQL, SHACL, Neo4j, Cypher, and graph RAG through one running example.",
+  "lang": "Python",
+  "name": "mdhabibi/one-graph-two-worlds",
+  "node_id": "R_kgDOVtp00Q",
+  "topics": [
+   "cypher",
+   "graph-databases",
+   "graph-rag",
+   "knowledge-graphs",
+   "neo4j",
+   "owl",
+   "rdf",
+   "shacl",
+   "sparql",
+   "textbook"
+  ]
+ },
+ "1457214763": {
+  "created_at": "2026-11-13T23:49:19Z",
+  "desc": "Open-source AI image, video and audio studio, with an agent chat you can run on your own Hermes agent on Orgo.",
+  "lang": "TypeScript",
+  "name": "nickvasilescu/parallax",
+  "node_id": "R_kgDOVttVKw",
   "topics": []
  },
  "1457236880": {
@@ -569514,6 +570156,46 @@
   "node_id": "R_kgDOVt1Bpg",
   "topics": []
  },
+ "1457469223": {
+  "created_at": "2026-11-14T06:43:19Z",
+  "desc": "\u65e0\u53ccIPTV",
+  "lang": "Python",
+  "name": "chuiziyao/wushuang-iptv",
+  "node_id": "R_kgDOVt83Jw",
+  "topics": []
+ },
+ "1457475789": {
+  "created_at": "2026-11-14T06:52:08Z",
+  "desc": "WorkBuddy2API-Hub - OpenAI-compatible local gateway",
+  "lang": "Python",
+  "name": "niyouqianma/workbuddy2api-hub",
+  "node_id": "R_kgDOVt9QzQ",
+  "topics": []
+ },
+ "1457509118": {
+  "created_at": "2026-11-14T07:38:20Z",
+  "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+  "lang": "Python",
+  "name": "haziqahmedqasmi/PeakCut",
+  "node_id": "R_kgDOVt_S_g",
+  "topics": []
+ },
+ "1457522484": {
+  "created_at": "2026-11-14T07:57:01Z",
+  "desc": "Claude Code mod: answers drawn as diagrams, charts, roadmaps, journeys and wireframes in the terminal",
+  "lang": "TypeScript",
+  "name": "allen-hsu/claude-code-sketch",
+  "node_id": "R_kgDOVuAHNA",
+  "topics": []
+ },
+ "1457538459": {
+  "created_at": "2026-11-14T08:18:59Z",
+  "desc": "A lazier terminal UI for DeepSeek Harness.",
+  "lang": "TypeScript",
+  "name": "nuskey8/lazydsh",
+  "node_id": "R_kgDOVuBFmw",
+  "topics": []
+ },
  "1457555507": {
   "created_at": "2026-11-14T08:42:11Z",
   "desc": "",
@@ -569521,6 +570203,3063 @@
   "name": "kaseradeepak/Claude-Masterclass-Resources",
   "node_id": "R_kgDOVuCIMw",
   "topics": []
+ },
+ "1457605310": {
+  "created_at": "2026-11-14T09:48:23Z",
+  "desc": "Claude Code skill that steers the model away from its first, most average pick in creative work: names, copy, ideas, posters, UI.",
+  "lang": "Python",
+  "name": "mankidev/antialgorithm",
+  "node_id": "R_kgDOVuFKvg",
+  "topics": []
+ },
+ "1457684824": {
+  "created_at": "2026-11-14T11:29:52Z",
+  "desc": "Claude Code skill for safe AI wallet and trade agents with spend limits, send checks, and key care. Built on affaan-m/ECC by @affaan-m.",
+  "lang": "",
+  "name": "EriOmeganet/agent-wallet-guard-resp-plus",
+  "node_id": "R_kgDOVuKBWA",
+  "topics": [
+   "aave-lending",
+   "basenetwork",
+   "jupiter-aggregator",
+   "liquidation-bot",
+   "mevbots",
+   "monad-bot",
+   "monads",
+   "monadscore-autofarm",
+   "prompt-injection",
+   "trade-safety",
+   "uniswap-v3"
+  ]
+ },
+ "1457685763": {
+  "created_at": "2026-11-14T11:31:00Z",
+  "desc": "AI\uac00 \uccad\uc911\uc5d0 \ub9de\ub294 HTML \ubc1c\ud45c\uc790\ub8cc\uc640 \ubc1c\ud45c \ub178\ud2b8\ub97c \ub9cc\ub4e4\uace0 Chromium \uae30\ubc18 \uc2dc\uac01 \uac80\uc99d\uae4c\uc9c0 \uc218\ud589\ud558\ub3c4\ub85d \ub3d5\ub294 \uc2a4\ud0ac\u00b7\ud50c\ub7ec\uadf8\uc778",
+  "lang": "",
+  "name": "Ulfodyr/build-html-ppt-rpocket-team",
+  "node_id": "R_kgDOVuKFAw",
+  "topics": [
+   "agent-skill",
+   "chatgpt",
+   "chrome-extension",
+   "context-management",
+   "design-to-code",
+   "human-in-the-loop",
+   "illustration",
+   "image-analysis",
+   "image-generation",
+   "pptx",
+   "presentation",
+   "product-review",
+   "prompt-engineering",
+   "web-design"
+  ]
+ },
+ "1457686018": {
+  "created_at": "2026-11-14T11:31:20Z",
+  "desc": "CLI-first automated short-form video generator for TikTok, Reels, and Shorts (npm: @45ck/content-machine)",
+  "lang": "HTML",
+  "name": "LumiyrelGalactic/content-machine-respocket",
+  "node_id": "R_kgDOVuKGAg",
+  "topics": [
+   "ai-automation",
+   "buffer-api",
+   "content-automation",
+   "downloader",
+   "media-downloader-gui",
+   "media-downloader-windows",
+   "soundcloud",
+   "soundcloud-downloader",
+   "story-downloader",
+   "video-analysis",
+   "video-automation-ai",
+   "video-editing"
+  ]
+ },
+ "1457686135": {
+  "created_at": "2026-11-14T11:31:29Z",
+  "desc": "Python crypto scanner: finds coins in quiet accumulation, back tested on 961 samples, rebuilt from the evidence, automated with Telegram alerts.",
+  "lang": "HTML",
+  "name": "orderesworks42213/crypto-rpocket-accumulation-scanner",
+  "node_id": "R_kgDOVuKGdw",
+  "topics": [
+   "asyncio",
+   "ats",
+   "booking-system",
+   "conversational-ai",
+   "cryptocurrency",
+   "data-analysis",
+   "multi-agent-systems",
+   "pandas",
+   "pgvector",
+   "rag",
+   "spring-boot"
+  ]
+ },
+ "1457686991": {
+  "created_at": "2026-11-14T11:32:35Z",
+  "desc": "\ud83e\udd16 Optimize your trading on Binance Smart Chain with the fourmeme copy trading bot\u2014automate trades and manage your portfolio effortlessly.",
+  "lang": "HTML",
+  "name": "FlagyraGhost/fourmeme-copytrading-respocket-bot-bnb",
+  "node_id": "R_kgDOVuKJzw",
+  "topics": [
+   "copy-trade",
+   "federated-learning",
+   "mempool",
+   "myriad",
+   "onnx",
+   "polkamarkets",
+   "prize-pool",
+   "secure-inference",
+   "tensorrt",
+   "trivia",
+   "zkml"
+  ]
+ },
+ "1457687113": {
+  "created_at": "2026-11-14T11:32:45Z",
+  "desc": "\ud83c\udfa8 Graphic Design & Motion Graphics Portfolio - Event Branding, Vector Logos, Marketing Banners & Visual Identity | CUET",
+  "lang": "HTML",
+  "name": "pixieudmoon75732/Graphic-rpocket-Design",
+  "node_id": "R_kgDOVuKKSQ",
+  "topics": [
+   "3ds-max-scripting",
+   "adobe-after-effects",
+   "adobe-photoshop-2026",
+   "adobe-photoshop-2026-ai",
+   "adobe-photoshop-2026-latest-version",
+   "adobe-photoshop-2026-v27-0",
+   "automation-creative-coding",
+   "brand-identity",
+   "cuet",
+   "extendscript",
+   "live2d-cubism",
+   "logo-design",
+   "maxscript",
+   "motion-graphics",
+   "visual-arts"
+  ]
+ },
+ "1457688020": {
+  "created_at": "2026-11-14T11:33:56Z",
+  "desc": "Visual QA CLI for AI-built frontends that renders pages, finds design and accessibility issues, and writes agent-ready fix prompts.",
+  "lang": "HTML",
+  "name": "DjinnTheFairy/resocket-pixeljury",
+  "node_id": "R_kgDOVuKN1A",
+  "topics": [
+   "ai-slop",
+   "architecture-diagrams",
+   "frontend-qa",
+   "layout",
+   "pillow",
+   "qa",
+   "renderer",
+   "responsive-design",
+   "screenshot"
+  ]
+ },
+ "1457689067": {
+  "created_at": "2026-11-14T11:35:15Z",
+  "desc": "AI-powered social media content generation and automated publishing workflow built with FastAPI and Python.",
+  "lang": "",
+  "name": "Echoetteai/rpocket-social-content-automation",
+  "node_id": "R_kgDOVuKR6w",
+  "topics": [
+   "ai-content-generation",
+   "content-creator"
+  ]
+ },
+ "1457689503": {
+  "created_at": "2026-11-14T11:35:49Z",
+  "desc": "An AI chatbot for Signal powered by Google Bard, Bing Chat, ChatGPT, HuggingChat, and llama.cpp",
+  "lang": "HTML",
+  "name": "ZephnymphBeast/signal-aichat-rpocket-team",
+  "node_id": "R_kgDOVuKTnw",
+  "topics": [
+   "callmebot",
+   "llamacpp",
+   "micropython"
+  ]
+ },
+ "1457689710": {
+  "created_at": "2026-11-14T11:36:06Z",
+  "desc": "Claude \u3067\u7f8e\u5bb9\u7cfbSNS\u306e\u6295\u7a3f\u751f\u6210\u30fb\u4e88\u7d04\u6295\u7a3f\u30fb\u5206\u6790\u30fb\u53ce\u76ca\u5316\u3092\u81ea\u52d5\u5316\u3059\u308b\u30de\u30eb\u30c1\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u57fa\u76e4 (FastAPI / APScheduler / SQLAlchemy)",
+  "lang": "HTML",
+  "name": "ArenainArcane/sns-rpocket-team-automation",
+  "node_id": "R_kgDOVuKUbg",
+  "topics": [
+   "sns-automation",
+   "sqlalchemy"
+  ]
+ },
+ "1457689737": {
+  "created_at": "2026-11-14T11:36:07Z",
+  "desc": "\ud83d\udcb1Solana AI Multimodal Agent\ud83e\udd16: This Solana AI Agent is one of Onchain AI Agent that implements DeFAI, DePIN. this Solana AI Agent also implements multimodal capabilities, multi agents.",
+  "lang": "HTML",
+  "name": "Novaograge12557/Solana-AI-resp-Agent-Multimodal",
+  "node_id": "R_kgDOVuKUiQ",
+  "topics": [
+   "ai-builder",
+   "ai-learning",
+   "aiagent",
+   "authentication-backend",
+   "blockchain-ai-agent",
+   "blockchain-technology",
+   "iota",
+   "multi-modal",
+   "plugin-sonic",
+   "sonic",
+   "sonic-academy"
+  ]
+ },
+ "1457690037": {
+  "created_at": "2026-11-14T11:36:30Z",
+  "desc": "Boost TikTok and Instagram views and engagement with AI-powered automation for creators.",
+  "lang": "",
+  "name": "Oceansphinx/taktik-respocket-bot-updated",
+  "node_id": "R_kgDOVuKVtQ",
+  "topics": [
+   "cmdk",
+   "nuqs",
+   "react-dashboard",
+   "react-hooks",
+   "react-query",
+   "restream",
+   "rete",
+   "rete-algorithm",
+   "tanstack-react-query",
+   "trade-agreements",
+   "treaty",
+   "wto",
+   "xml"
+  ]
+ },
+ "1457690443": {
+  "created_at": "2026-11-14T11:36:59Z",
+  "desc": "AI agent-powered CLI for blog publishing, Naver Cafe, Instagram, X (Twitter) & Reddit automation",
+  "lang": "HTML",
+  "name": "RainbowUntoLich/viruagent-rpocket-cli",
+  "node_id": "R_kgDOVuKXSw",
+  "topics": [
+   "blog-automation",
+   "cafe-automation",
+   "naver",
+   "naver-blog",
+   "naver-cafe",
+   "publishing",
+   "reddit",
+   "tistory",
+   "x-twitter"
+  ]
+ },
+ "1457717100": {
+  "created_at": "2026-11-14T12:11:07Z",
+  "desc": "High-speed Playwright MCP server with multi-tab batching, compact delta DOM snapshots, React/Shadow DOM/iframe form filling, disk file uploads, and submit guards",
+  "lang": "JavaScript",
+  "name": "Tthanh2k6/turbo-browser-mcp",
+  "node_id": "R_kgDOVuL_bA",
+  "topics": []
+ },
+ "1457728524": {
+  "created_at": "2026-11-14T12:25:35Z",
+  "desc": "AI \u62c6\u89e3\u5b66\u4e60\u77ed\u5267\uff1a\u4e3a\u4ec0\u4e48\u706b\u3001\u5267\u672c\u600e\u4e48\u5199\u3001\u6bcf\u4e00\u955c\u600e\u4e48\u62cd | Break down any short drama with AI: why it works, the script, every shot",
+  "lang": "Python",
+  "name": "JuneYaooo/rea-toon",
+  "node_id": "R_kgDOVuMsDA",
+  "topics": [
+   "ai-agent",
+   "chinese-drama",
+   "claude-code",
+   "codex",
+   "drama-analysis",
+   "screenplay",
+   "short-drama",
+   "storyboard",
+   "video-analysis",
+   "videomd"
+  ]
+ },
+ "1457780791": {
+  "created_at": "2026-11-14T13:28:05Z",
+  "desc": "\u84b8\u998f\u5386\u4ee3\u5927\u5e08\u7684\u5185\u6838\u3002\u5168\u6a21\u578b\u901a\u7528\uff0c\u6838\u5fc3\u53c2\u6570\u89c1 README\u3002",
+  "lang": "",
+  "name": "Duoasa/Duoasa-skill",
+  "node_id": "R_kgDOVuP4Nw",
+  "topics": [
+   "agent-skills",
+   "ai-design",
+   "creative-tools",
+   "design",
+   "design-tools",
+   "satire",
+   "visual-design"
+  ]
+ },
+ "1457786110": {
+  "created_at": "2026-11-14T13:34:16Z",
+  "desc": "Production-grade AI coding instructions, curated skills, and a 3-stage review pipeline (Planning \u2192 Critical Review \u2192 Diff Audit) built after 4,500+ hours with AI agents. Agent-agnostic.",
+  "lang": "",
+  "name": "vaibhav-space/my-ai-coding-workflow",
+  "node_id": "R_kgDOVuQM_g",
+  "topics": [
+   "agentic-workflows",
+   "ai-agents",
+   "claude-code",
+   "code-review",
+   "developer-tools"
+  ]
+ },
+ "1457813894": {
+  "created_at": "2026-11-14T14:06:05Z",
+  "desc": "Open-source browser extension that flags AI-generated images and video as you browse. Runs entirely on your device. Chrome, Edge and Firefox.",
+  "lang": "JavaScript",
+  "name": "hikaku-io/hikaku-extension",
+  "node_id": "R_kgDOVuR5hg",
+  "topics": [
+   "ai-detection",
+   "ai-generated-content",
+   "ai-image-detection",
+   "browser-extension",
+   "c2pa",
+   "chrome-extension",
+   "content-credentials",
+   "deepfake-detection",
+   "edge-extension",
+   "firefox-addon",
+   "on-device-ai",
+   "onnx",
+   "privacy",
+   "webgpu"
+  ]
+ },
+ "1457825094": {
+  "created_at": "2026-11-14T14:18:34Z",
+  "desc": "A small Windows-95-style desktop OS for a single ESP32-S3 on a VGA monitor, written by Claude Fable 5.2",
+  "lang": "C",
+  "name": "andrisgauracs/bevel-os",
+  "node_id": "R_kgDOVuSlRg",
+  "topics": []
+ },
+ "1457858125": {
+  "created_at": "2026-11-14T14:54:51Z",
+  "desc": "TradePilot is an AI-powered crypto trading bot for automated cryptocurrency trading, real-time market analysis, technical indicators, portfolio management, trading signals, strategy backtesting and algorithmic trading. Built for smarter crypto market research and trading automation.",
+  "lang": "",
+  "name": "Crateryeexpiate/TradePilot",
+  "node_id": "R_kgDOVuUmTQ",
+  "topics": [
+   "crypto-ai",
+   "crypto-ai-202",
+   "crypto-ai-2026",
+   "crypto-ai-agen",
+   "crypto-trad",
+   "crypto-trading-bot-2026",
+   "polymarket-btc",
+   "polymarket-llm",
+   "polymarket-trade-ai",
+   "polymarket-trading-bot",
+   "sniper-bot-window",
+   "sniping-tool",
+   "trading-bot-crack",
+   "trading-bot-monitoring",
+   "tradintbot2026"
+  ]
+ },
+ "1457892194": {
+  "created_at": "2026-11-14T15:32:29Z",
+  "desc": "A lightweight Python application for tracking cryptocurrency news with CryptoPanic. Collect, filter, and explore important market updates, breaking headlines, and trending crypto stories in one place. Built for fast and convenient crypto news monitoring.",
+  "lang": "",
+  "name": "Logosheshow47/crypto-panic",
+  "node_id": "R_kgDOVuWrYg",
+  "topics": [
+   "crypto",
+   "crypto-news",
+   "cryptocurrency",
+   "cryptopanic",
+   "news",
+   "news-crypto",
+   "panic-news",
+   "polymarket-btc",
+   "polymarket-llm",
+   "polymarket-news",
+   "python"
+  ]
+ },
+ "1457919852": {
+  "created_at": "2026-11-14T16:02:56Z",
+  "desc": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
+  "lang": "Python",
+  "name": "n4ze3m/tiny-voca",
+  "node_id": "R_kgDOVuYXbA",
+  "topics": [
+   "onnx",
+   "text-to-speech",
+   "tts"
+  ]
+ },
+ "1457952433": {
+  "created_at": "2026-11-14T16:38:31Z",
+  "desc": "FragmentSniper is an automated Telegram Fragment marketplace sniper for buying undervalued +888 anonymous numbers and collectible Telegram Gifts. Features real-time listing monitoring, smart price detection, automated purchases, low-latency processing, and integrated TON wallet support. ",
+  "lang": "",
+  "name": "Hairzenexalt/Fragment-Sniper",
+  "node_id": "R_kgDOVuaWsQ",
+  "topics": [
+   "fragment",
+   "fragment-sniper",
+   "polymarket-llm",
+   "polymarket-sniper",
+   "sniper-tool",
+   "ton-sniper"
+  ]
+ },
+ "1457953690": {
+  "created_at": "2026-11-14T16:39:55Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Perspectivekobreak/GitHub-Copilot-app",
+  "node_id": "R_kgDOVuabmg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457953692": {
+  "created_at": "2026-11-14T16:39:55Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "OrangeSheriffCalm/GitHub-Copilot-app",
+  "node_id": "R_kgDOVuabnA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457953694": {
+  "created_at": "2026-11-14T16:39:55Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "PharaohContemplate/GitHub-Copilot-app",
+  "node_id": "R_kgDOVuabng",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457953702": {
+  "created_at": "2026-11-14T16:39:55Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Millifiquicken92/GitHub-Copilot-app",
+  "node_id": "R_kgDOVuabpg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457959893": {
+  "created_at": "2026-11-14T16:46:14Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "olivebladesmanrepair/GitHub-Copilot-app",
+  "node_id": "R_kgDOVuaz1Q",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457959909": {
+  "created_at": "2026-11-14T16:46:15Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "manepugilistembody19/GitHub-Copilot-app",
+  "node_id": "R_kgDOVuaz5Q",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457959914": {
+  "created_at": "2026-11-14T16:46:15Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Momentumfecloak/GitHub-Copilot-app",
+  "node_id": "R_kgDOVuaz6g",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457959916": {
+  "created_at": "2026-11-14T16:46:15Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "outercaptainmeditate/GitHub-Copilot-app",
+  "node_id": "R_kgDOVuaz7A",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457959921": {
+  "created_at": "2026-11-14T16:46:15Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Nexusgrucontrol/GitHub-Copilot-app",
+  "node_id": "R_kgDOVuaz8Q",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457959948": {
+  "created_at": "2026-11-14T16:46:16Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Meteorzipartition/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0DA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457959968": {
+  "created_at": "2026-11-14T16:46:18Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Sightsaintconverter/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0IA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457959972": {
+  "created_at": "2026-11-14T16:46:18Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "PegasusVendorHarbor/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0JA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457959975": {
+  "created_at": "2026-11-14T16:46:18Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "MindSamuraiSky/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0Jw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457959979": {
+  "created_at": "2026-11-14T16:46:18Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "ProtonDonorLure/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0Kw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457959986": {
+  "created_at": "2026-11-14T16:46:19Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Mergeshaloot/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0Mg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457959987": {
+  "created_at": "2026-11-14T16:46:19Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "massswanball/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0Mw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960000": {
+  "created_at": "2026-11-14T16:46:20Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Navyzorsteal/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0QA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960001": {
+  "created_at": "2026-11-14T16:46:20Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Meteornyuspeed/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0QQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960003": {
+  "created_at": "2026-11-14T16:46:20Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Plateyedome90/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0Qw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960019": {
+  "created_at": "2026-11-14T16:46:20Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "noblecranecatch/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0Uw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960020": {
+  "created_at": "2026-11-14T16:46:21Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "NaturalTurkeyGate21/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0VA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960030": {
+  "created_at": "2026-11-14T16:46:21Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "NautilusMill/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0Xg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960039": {
+  "created_at": "2026-11-14T16:46:22Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Moatpemanacle/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0Zw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960045": {
+  "created_at": "2026-11-14T16:46:22Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "optichokagecharm/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0bQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960046": {
+  "created_at": "2026-11-14T16:46:22Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Nightrihatchet/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0bg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960048": {
+  "created_at": "2026-11-14T16:46:22Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "OfficialKind/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0cA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960050": {
+  "created_at": "2026-11-14T16:46:22Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Primemiconverter/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0cg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960054": {
+  "created_at": "2026-11-14T16:46:22Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "NanoGeninMove/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0dg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960064": {
+  "created_at": "2026-11-14T16:46:23Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "meteorwayoscillator7/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0gA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960069": {
+  "created_at": "2026-11-14T16:46:23Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "RayHemomancerFill/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0hQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960074": {
+  "created_at": "2026-11-14T16:46:24Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "SamuraiVacuum/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0ig",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960076": {
+  "created_at": "2026-11-14T16:46:24Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Primeiloscillate/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0jA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960083": {
+  "created_at": "2026-11-14T16:46:24Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "realscholarfury/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0kw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960092": {
+  "created_at": "2026-11-14T16:46:24Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "powerorioledescribe/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0nA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960099": {
+  "created_at": "2026-11-14T16:46:25Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "RestFlyRoller/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0ow",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960105": {
+  "created_at": "2026-11-14T16:46:25Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Silentsaintfactory/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0qQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960108": {
+  "created_at": "2026-11-14T16:46:26Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "SilverBarberAcclaim/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0rA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960110": {
+  "created_at": "2026-11-14T16:46:26Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "RectangleWand/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0rg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960120": {
+  "created_at": "2026-11-14T16:46:26Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Monsterfromdeliver/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0uA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960126": {
+  "created_at": "2026-11-14T16:46:27Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "SlateControl/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0vg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960129": {
+  "created_at": "2026-11-14T16:46:27Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "SilversmithHem/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0wQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960144": {
+  "created_at": "2026-11-14T16:46:28Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "ordercocoondrag/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua00A",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960164": {
+  "created_at": "2026-11-14T16:46:29Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "SlatePlanner/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua05A",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960172": {
+  "created_at": "2026-11-14T16:46:29Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "PelicanMultiplexer/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua07A",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960181": {
+  "created_at": "2026-11-14T16:46:29Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "mythicpathsky/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua09Q",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960189": {
+  "created_at": "2026-11-14T16:46:30Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "SlayerKiwiLeap4/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua0_Q",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960196": {
+  "created_at": "2026-11-14T16:46:30Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "PrimeRollerPortal/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1BA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960198": {
+  "created_at": "2026-11-14T16:46:31Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "MatterAnemone/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1Bg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960209": {
+  "created_at": "2026-11-14T16:46:31Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "NestGrosbeak/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1EQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960210": {
+  "created_at": "2026-11-14T16:46:31Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "ShoreAeromancer/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1Eg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960218": {
+  "created_at": "2026-11-14T16:46:32Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "RestraintBowZen40/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1Gg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960235": {
+  "created_at": "2026-11-14T16:46:32Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "slayerbladesmanjump/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1Kw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960242": {
+  "created_at": "2026-11-14T16:46:33Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "RomCourseOscillate/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1Mg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960253": {
+  "created_at": "2026-11-14T16:46:34Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "ropenovicestride/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1PQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960256": {
+  "created_at": "2026-11-14T16:46:34Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "SmartTreasurerLast/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1QA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960267": {
+  "created_at": "2026-11-14T16:46:35Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "OuterLarvaRevitalize/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1Sw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960269": {
+  "created_at": "2026-11-14T16:46:35Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "smartrouteknife/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1TQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960271": {
+  "created_at": "2026-11-14T16:46:35Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "PowerTestingHut/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1Tw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960281": {
+  "created_at": "2026-11-14T16:46:35Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "restraintbowrise17/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1WQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960290": {
+  "created_at": "2026-11-14T16:46:36Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "SnatchCourier/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1Yg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960293": {
+  "created_at": "2026-11-14T16:46:36Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Percentmofascinate/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1ZQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960298": {
+  "created_at": "2026-11-14T16:46:36Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "mixdeckhanddress/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1ag",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960300": {
+  "created_at": "2026-11-14T16:46:36Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "SaboteurPillar/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1bA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960313": {
+  "created_at": "2026-11-14T16:46:37Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "PieceControl79/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1eQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960316": {
+  "created_at": "2026-11-14T16:46:37Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "SamuraiMidwife/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1fA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960321": {
+  "created_at": "2026-11-14T16:46:38Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "SniperSanctify/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1gQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960323": {
+  "created_at": "2026-11-14T16:46:38Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "nightroninabide/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1gw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960349": {
+  "created_at": "2026-11-14T16:46:39Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "RadianOstrich78/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1nQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960376": {
+  "created_at": "2026-11-14T16:46:40Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "restraintstageheal/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1uA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960378": {
+  "created_at": "2026-11-14T16:46:40Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "royalhairdressertomb/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1ug",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960393": {
+  "created_at": "2026-11-14T16:46:41Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "scalebyterattle/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1yQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960394": {
+  "created_at": "2026-11-14T16:46:41Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Petatotuck34/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1yg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960395": {
+  "created_at": "2026-11-14T16:46:41Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "SortCleanse51/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1yw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960408": {
+  "created_at": "2026-11-14T16:46:42Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "SoapmakerVolt/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua12A",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960416": {
+  "created_at": "2026-11-14T16:46:42Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Metropolisfocrack91/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua14A",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960419": {
+  "created_at": "2026-11-14T16:46:42Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "mindduelistmotor/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua14w",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960423": {
+  "created_at": "2026-11-14T16:46:42Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "RecordWhaleTap/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua15w",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960424": {
+  "created_at": "2026-11-14T16:46:43Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "ronintoadempty/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua16A",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960425": {
+  "created_at": "2026-11-14T16:46:43Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "rapidsmythhub/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua16Q",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960433": {
+  "created_at": "2026-11-14T16:46:43Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Solarcliglow/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua18Q",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960441": {
+  "created_at": "2026-11-14T16:46:43Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "SparkEradicate/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1-Q",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960446": {
+  "created_at": "2026-11-14T16:46:44Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "ScholarCut38/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua1_g",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960449": {
+  "created_at": "2026-11-14T16:46:44Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "SavageSealReckon/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua2AQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960465": {
+  "created_at": "2026-11-14T16:46:45Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "RedCartwright/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua2EQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960467": {
+  "created_at": "2026-11-14T16:46:45Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "SpeedLobster/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua2Ew",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960474": {
+  "created_at": "2026-11-14T16:46:45Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "sandflyerwall/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua2Gg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960481": {
+  "created_at": "2026-11-14T16:46:46Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "SpecterRangerVice/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua2IQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960483": {
+  "created_at": "2026-11-14T16:46:46Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "StarMasterSing/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua2Iw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960486": {
+  "created_at": "2026-11-14T16:46:46Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Stellarofbound/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua2Jg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960502": {
+  "created_at": "2026-11-14T16:46:47Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "PhotonFollower/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua2Ng",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960503": {
+  "created_at": "2026-11-14T16:46:47Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "stitchstokerdrag/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua2Nw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960519": {
+  "created_at": "2026-11-14T16:46:49Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "SubstanceDataMound/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua2Rw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960520": {
+  "created_at": "2026-11-14T16:46:49Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Storagephoanchorage/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua2SA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960544": {
+  "created_at": "2026-11-14T16:46:50Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "StorageHoopoeNail/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua2YA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960557": {
+  "created_at": "2026-11-14T16:46:51Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "RecordLayerAsk/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua2bQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457960567": {
+  "created_at": "2026-11-14T16:46:52Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "PlaneKaiserUnderpass/GitHub-Copilot-app",
+  "node_id": "R_kgDOVua2dw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1457963740": {
+  "created_at": "2026-11-14T16:50:20Z",
+  "desc": "\u5f20\u6eda\u6eda\u7684\u7535\u5546 AI Skill \u5bfc\u822a\uff1a\u6309\u5e73\u53f0\u4e0e\u9700\u6c42\u53d1\u73b0\u5f00\u6e90\u6280\u80fd\uff0c\u5305\u542b\u4e2d\u6587\u76ee\u5f55\u3001\u53ef\u5b89\u88c5\u5bfc\u822a Skill \u548c\u53ef\u89c6\u5316\u7f51\u9875\u3002",
+  "lang": "HTML",
+  "name": "zarockfat/zgg-find-ecommerce-skills",
+  "node_id": "R_kgDOVubC3A",
+  "topics": []
+ },
+ "1458092119": {
+  "created_at": "2026-11-14T19:16:41Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "trackboatwrightplan/GitHub-Copilot-app",
+  "node_id": "R_kgDOVui4Vw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1458092120": {
+  "created_at": "2026-11-14T19:16:41Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "trackersnailgrip/GitHub-Copilot-app",
+  "node_id": "R_kgDOVui4WA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1458092123": {
+  "created_at": "2026-11-14T19:16:41Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "TradesmanRecord/GitHub-Copilot-app",
+  "node_id": "R_kgDOVui4Ww",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1458092197": {
+  "created_at": "2026-11-14T19:16:47Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "TrapAccountant/GitHub-Copilot-app",
+  "node_id": "R_kgDOVui4pQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1458092242": {
+  "created_at": "2026-11-14T19:16:50Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "TrapBladesmith/GitHub-Copilot-app",
+  "node_id": "R_kgDOVui40g",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1458092955": {
+  "created_at": "2026-11-14T19:17:47Z",
+  "desc": "S\u0131n\u0131rs\u0131z Foto: Z-Image-Turbo (Q8_0, full quality) on a 4 GB GTX 1050 Ti laptop with 16 GB RAM. stable-diffusion.cpp + cuDNN VAE, Windows, every number measured. Unofficial. Not affiliated with Tongyi-MAI, leejet or NVIDIA.",
+  "lang": "Python",
+  "name": "alexturkey/z-image-turbo-pascal-4gb",
+  "node_id": "R_kgDOVui7mw",
+  "topics": [
+   "4gb-vram",
+   "cuda",
+   "cudnn",
+   "gguf",
+   "gtx-1050-ti",
+   "local-ai",
+   "low-vram",
+   "nvidia-pascal",
+   "stable-diffusion-cpp",
+   "text-to-image",
+   "z-image",
+   "z-image-turbo"
+  ]
+ },
+ "1458099075": {
+  "created_at": "2026-11-14T19:25:18Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "TurkeyDesignate/GitHub-Copilot-app",
+  "node_id": "R_kgDOVujTgw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1458099087": {
+  "created_at": "2026-11-14T19:25:19Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Trapkrostride/GitHub-Copilot-app",
+  "node_id": "R_kgDOVujTjw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1458099089": {
+  "created_at": "2026-11-14T19:25:19Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "topconstableinlet67/GitHub-Copilot-app",
+  "node_id": "R_kgDOVujTkQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1458099090": {
+  "created_at": "2026-11-14T19:25:19Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "TarantulaCorrect/GitHub-Copilot-app",
+  "node_id": "R_kgDOVujTkg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1458099091": {
+  "created_at": "2026-11-14T19:25:19Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "unitsenseimonitor/GitHub-Copilot-app",
+  "node_id": "R_kgDOVujTkw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1458099096": {
+  "created_at": "2026-11-14T19:25:19Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "Tealplesense/GitHub-Copilot-app",
+  "node_id": "R_kgDOVujTmA",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1458099119": {
+  "created_at": "2026-11-14T19:25:20Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "toppatronweave/GitHub-Copilot-app",
+  "node_id": "R_kgDOVujTrw",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1458099121": {
+  "created_at": "2026-11-14T19:25:20Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "TurquoiseConsultant/GitHub-Copilot-app",
+  "node_id": "R_kgDOVujTsQ",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1458099122": {
+  "created_at": "2026-11-14T19:25:20Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "TrueDefenderRouter/GitHub-Copilot-app",
+  "node_id": "R_kgDOVujTsg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1458099218": {
+  "created_at": "2026-11-14T19:25:26Z",
+  "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+  "lang": "",
+  "name": "WebBookkeeper/GitHub-Copilot-app",
+  "node_id": "R_kgDOVujUEg",
+  "topics": [
+   "adminlte",
+   "agent-skills",
+   "ai",
+   "awesome",
+   "chatgpt",
+   "copilot",
+   "github-copilot",
+   "hacktoberfest",
+   "microsoft-copilot",
+   "openai",
+   "prompts",
+   "vue",
+   "xcode",
+   "xtreamcode"
+  ]
+ },
+ "1458195979": {
+  "created_at": "2026-11-14T21:27:55Z",
+  "desc": "ARTEX forensics: backdoored Docker image (unauth root RCE, disassembly-proven) + the deleted authorization guard. Static analysis only. Blackfish Security LLC.",
+  "lang": "Python",
+  "name": "darkfibr/artex-forensics",
+  "node_id": "R_kgDOVupOCw",
+  "topics": []
+ },
+ "1458212833": {
+  "created_at": "2026-11-14T21:48:57Z",
+  "desc": "A Claude-inspired theme for T3 Code. One file, no fork.",
+  "lang": "",
+  "name": "rohit3a/t3-clawd",
+  "node_id": "R_kgDOVuqP4Q",
+  "topics": [
+   "claude",
+   "css",
+   "t3-code",
+   "theme"
+  ]
+ },
+ "1458292408": {
+  "created_at": "2026-11-14T23:56:32Z",
+  "desc": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
+  "lang": "Swift",
+  "name": "yetanotherbrowser/yab",
+  "node_id": "R_kgDOVuvGuA",
+  "topics": []
+ },
+ "1458294331": {
+  "created_at": "2026-11-15T00:00:02Z",
+  "desc": "Turn one Claude Code session into a coordinator that runs, watches and cleans up a fleet of agent sessions in Herdr.",
+  "lang": "Python",
+  "name": "petekp/coordinator",
+  "node_id": "R_kgDOVuvOOw",
+  "topics": []
+ },
+ "1458596590": {
+  "created_at": "2026-11-15T08:31:14Z",
+  "desc": "Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer and coding-agent workflows. Includes a zero-dependency Node.js review companion.",
+  "lang": "TypeScript",
+  "name": "ineedfoundmyway/planrelay",
+  "node_id": "R_kgDOVvBq7g",
+  "topics": [
+   "code-review",
+   "coding-agents",
+   "developer-tools",
+   "local-first",
+   "nodejs",
+   "open-source",
+   "plan-review",
+   "plannotator"
+  ]
+ },
+ "1458777507": {
+  "created_at": "2026-11-15T12:28:16Z",
+  "desc": "JetBrains IDE tuning notes \u2014 keymaps, inspections, AI assist etiquette.",
+  "lang": "",
+  "name": "sharpeterson08/jetbrains-dev-setup",
+  "node_id": "R_kgDOVvMtow",
+  "topics": [
+   "ides",
+   "intellij",
+   "jetbrains",
+   "phpstorm",
+   "programming"
+  ]
  },
  "146103950": {
   "created_at": "2018-08-25T14:51:18Z",
