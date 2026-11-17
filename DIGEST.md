@@ -1,133 +1,133 @@
-# AI repos - 2026-11-16
+# AI repos - 2026-11-17
 
 ## Brand new
 
 - **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** - Chat Demo  
-  3,977 stars - +1,655 today - TypeScript
+  4,481 stars - +504 today - TypeScript
 
 - **[apex-compute/ANR](https://github.com/apex-compute/ANR)** - Apex Neural Rendering (ANR) by Apex Compute  
-  2,418 stars - +459 today - C++
+  2,562 stars - +144 today - C++
 
 - **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** - Private AI meeting notes. Free and open source.  
-  1,810 stars - +236 today - TypeScript - ai-meeting-assistant, electron, linux, llama-cpp, local-ai, macos, mcp, meeting-notes, open-source, privacy, speech-to-text, transcription, whisper, whisper-cpp, windows
+  1,969 stars - +159 today - TypeScript - ai-meeting-assistant, electron, linux, llama-cpp, local-ai, macos, mcp, meeting-notes, open-source, privacy, speech-to-text, transcription, whisper, whisper-cpp, windows
 
 - **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** - muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）  
-  1,401 stars - +583 today - Python
+  1,565 stars - +164 today - Python
 
 - **[ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar)** - 白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送  
-  1,094 stars - +417 today - TypeScript
+  1,392 stars - +298 today - TypeScript
 
-- **[alexeyw/lot-map](https://github.com/alexeyw/lot-map)** - A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.  
-  913 stars - +55 today - TypeScript - agent-observability, ai-agents, claude, claude-code, claude-code-plugin, developer-tools, svg-animation, typescript, visualization
+- **[Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook)** - Offline knowledge AI, maps and videos for survival and rebuilding  
+  1,360 stars - new - Python
 
-- **[JDhruv14/line-art-animation](https://github.com/JDhruv14/line-art-animation)** - A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.  
-  905 stars - +96 today - TypeScript - claude-skill, line-art, svg-animation, typescript
+- **[CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian)** - 麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏  
+  912 stars - +639 today - JavaScript - automation, chrome-extension, creator-tools, dashboard, feishu, social-media
+
+- **[haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut)** - AI clipping for long videos and live streams. Self-hosted, bring your own AI key.  
+  798 stars - +236 today - Python
 
 - **[opencoredev/islandcn](https://github.com/opencoredev/islandcn)** - The open-source Dynamic Island for React, installed with shadcn.  
-  767 stars - +52 today - TypeScript - dynamic-island, nextjs, react, shadcn, typescript, ui-components
+  791 stars - +24 today - TypeScript - dynamic-island, nextjs, react, shadcn, typescript, ui-components
 
-- **[failsafe-security/artex](https://github.com/failsafe-security/artex)** - Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)  
-  767 stars - +99 today - Go
-
-- **[Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)** - STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.  
-  727 stars - +63 today - Python - agent-skills, ai-writing, asd-ste100, claude-code, claude-skills, codex, cursor, humanize-ai-text, humanizer, karpathy, llm, plain-language, simplified-technical-english, writing
+- **[sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)** - Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization  
+  704 stars - new - Python - agent-skill, benchmarking, claude-code, inference, llm, speculative-decoding
 
 
 ## Last 24 hours
 
+- **[google-research/paper-orchestra](https://github.com/google-research/paper-orchestra)** - PaperOrchestra is a multi-agent framework for automated AI research paper writing.  
+  2,544 stars - +1,328 today - Python - ai-research-assistant, multi-agent-systems
+
+- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** - The best way to control Claude Code, Codex and more from any computer or phone  
+  63,773 stars - +1,276 today - TypeScript - agent-orchestration, agents, ai, chatgpt, claude, claude-code, code, vibe-coding
+
 - **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** - 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.  
-  77,157 stars - +1,757 today - JavaScript - ai-agents, deepseek, deepseek-harness, developer-tools, dsh, dsh-plugin, free-model, llm, model-provider, openai-compatible
+  78,391 stars - +1,234 today - JavaScript - ai-agents, deepseek, deepseek-harness, developer-tools, dsh, dsh-plugin, free-model, llm, model-provider, openai-compatible
 
-- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** - Chat Demo  
-  3,977 stars - +1,655 today - TypeScript
-
-- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。  
-  24,660 stars - +1,180 today - Dart - ai-agent, android, android-app, coding-agent, deepseek, deepseek-harness, dsh, dsh-plugin, dsh-tui, flutter, llm
-
-- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** - Craft Anything: understand how any software works, and craft your own.  
-  34,562 stars - +1,142 today - Rust
-
-- **[NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)** - Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.  
-  2,422 stars - +1,087 today - Python - agent-evaluation, agent-security, agent-skills, agentic-ai, benchmark, claude-code, codex, evaluate, evaluation, security-scanner, skill-eval, skill-evals, skill-evaluation, skill-evaluator, skills
+- **[kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)** -   
+  7,633 stars - +1,228 today - Python
 
 - **[ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)** - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.  
-  18,647 stars - +1,050 today - TypeScript - ag-ui-protocol, agent-frontend, agent-ui, agentic-workflow, ai-agents
+  19,864 stars - +1,217 today - TypeScript - ag-ui-protocol, agent-frontend, agent-ui, agentic-workflow, ai-agents
 
-- **[Tencent/LoopForge](https://github.com/Tencent/LoopForge)** - Resumable multi-agent development workflows for coding agents (CodeBuddy, Codex, Cursor, Claude Code).  
-  2,267 stars - +1,048 today - Python
-
-- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.  
-  52,785 stars - +1,029 today - Go - agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context
+- **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。  
+  25,835 stars - +1,175 today - Dart - ai-agent, android, android-app, coding-agent, deepseek, deepseek-harness, dsh, dsh-plugin, dsh-tui, flutter, llm
 
 - **[BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)** - ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)  
-  4,530 stars - +1,000 today - Go
+  5,631 stars - +1,101 today - Go
 
-- **[ersinkoc/phonebox](https://github.com/ersinkoc/phonebox)** - Turn an old Android phone into a desk panel for your Windows PC: 41 widgets, visual layout editor, webhooks, PC stats, media, AI quotas, Claude Code sessions, GitHub and shortcuts. USB or Wi-Fi, no cloud.  
-  1,700 stars - +997 today - C# - android, claude-code, dashboard, desk-panel, dotnet, old-phone, stream-deck, system-monitor, tailscale, webhooks, widgets, windows
+- **[storytold/craft-anything](https://github.com/storytold/craft-anything)** - Craft Anything: understand how any software works, and craft your own.  
+  35,509 stars - +947 today - Rust
+
+- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings  
+  74,547 stars - +852 today - JavaScript
+
+- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages  
+  117,508 stars - +822 today - JavaScript - agent-skills, ai-agents, anti-slop, claude-code, codex, cursor, design-system, frontend, landing-page, ui-design, web-design
 
 
 ## This week
 
 - **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** - 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.  
-  77,157 stars - +7,162 in 7d - JavaScript - ai-agents, deepseek, deepseek-harness, developer-tools, dsh, dsh-plugin, free-model, llm, model-provider, openai-compatible
+  78,391 stars - +7,150 in 7d - JavaScript - ai-agents, deepseek, deepseek-harness, developer-tools, dsh, dsh-plugin, free-model, llm, model-provider, openai-compatible
 
-- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** - Chat Demo  
-  3,977 stars - +3,805 in 7d - TypeScript
+- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** - The best way to control Claude Code, Codex and more from any computer or phone  
+  63,773 stars - +1,276 in 7d - TypeScript - agent-orchestration, agents, ai, chatgpt, claude, claude-code, code, vibe-coding
 
 - **[storytold/craft-anything](https://github.com/storytold/craft-anything)** - Craft Anything: understand how any software works, and craft your own.  
-  34,562 stars - +7,236 in 7d - Rust
+  35,509 stars - +6,645 in 7d - Rust
+
+- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** - Chat Demo  
+  4,481 stars - +4,309 in 7d - TypeScript
 
 - **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。  
-  24,660 stars - +5,101 in 7d - Dart - ai-agent, android, android-app, coding-agent, deepseek, deepseek-harness, dsh, dsh-plugin, dsh-tui, flutter, llm
+  25,835 stars - +5,243 in 7d - Dart - ai-agent, android, android-app, coding-agent, deepseek, deepseek-harness, dsh, dsh-plugin, dsh-tui, flutter, llm
+
+- **[affaan-m/ECC](https://github.com/affaan-m/ECC)** - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  
+  305,169 stars - +3,410 in 7d - JavaScript - ai-agents, anthropic, claude, claude-code, developer-tools, llm, mcp, productivity
 
 - **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings  
-  73,695 stars - +4,332 in 7d - JavaScript
+  74,547 stars - +4,132 in 7d - JavaScript
 
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** - DeepSeek Harness: Everything is a Plugin.  
-  282,244 stars - +3,471 in 7d - TypeScript - ai-agents, cordis, dsh, dsh-plugin
-
-- **[anthropics/skills](https://github.com/anthropics/skills)** - Public repository for Agent Skills  
-  195,826 stars - +4,152 in 7d - Python - agent-skills
-
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** - A Claude skill that turns vibecoded, AI-looking UI into a designed interface  
-  17,155 stars - +3,355 in 7d - JavaScript
+- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.  
+  53,528 stars - +3,304 in 7d - Go - agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context
 
 - **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** - The Open-Source Elevenlabs alternative AI Voice Clone, Dub, Dictate, Transcribe, Audiobook creator and Voice workflow studio.  
-  111,789 stars - +4,188 in 7d - Python - ai, cuda, dubbing, huggingface, mlx, omnivoice-studio, transcription, translate, tts, voice-ai, voice-cloning, voice-generation, workflow
+  112,587 stars - +3,935 in 7d - Python - ai, cuda, dubbing, huggingface, mlx, omnivoice-studio, transcription, translate, tts, voice-ai, voice-cloning, voice-generation, workflow
 
-- **[yetone/magpie](https://github.com/yetone/magpie)** - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.  
-  37,515 stars - +3,047 in 7d - Go - claude-code, codex, deepseek, gemini-cli, llm, macos
+- **[anthropics/skills](https://github.com/anthropics/skills)** - Public repository for Agent Skills  
+  196,534 stars - +3,502 in 7d - Python - agent-skills
 
 
 ## This month
 
 - **[storytold/craft-anything](https://github.com/storytold/craft-anything)** - Craft Anything: understand how any software works, and craft your own.  
-  34,562 stars - +30,938 in 30d - Rust
+  35,509 stars - +31,885 in 30d - Rust
 
 - **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** - 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.  
-  77,157 stars - +53,919 in 30d - JavaScript - ai-agents, deepseek, deepseek-harness, developer-tools, dsh, dsh-plugin, free-model, llm, model-provider, openai-compatible
+  78,391 stars - +52,072 in 30d - JavaScript - ai-agents, deepseek, deepseek-harness, developer-tools, dsh, dsh-plugin, free-model, llm, model-provider, openai-compatible
 
 - **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings  
-  73,695 stars - +41,632 in 30d - JavaScript
+  74,547 stars - +42,004 in 30d - JavaScript
 
-- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** - Chat Demo  
-  3,977 stars - +3,805 in 30d - TypeScript
+- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** - The best way to control Claude Code, Codex and more from any computer or phone  
+  63,773 stars - +1,276 in 30d - TypeScript - agent-orchestration, agents, ai, chatgpt, claude, claude-code, code, vibe-coding
 
 - **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** - The Open-Source Elevenlabs alternative AI Voice Clone, Dub, Dictate, Transcribe, Audiobook creator and Voice workflow studio.  
-  111,789 stars - +37,971 in 30d - Python - ai, cuda, dubbing, huggingface, mlx, omnivoice-studio, transcription, translate, tts, voice-ai, voice-cloning, voice-generation, workflow
+  112,587 stars - +36,700 in 30d - Python - ai, cuda, dubbing, huggingface, mlx, omnivoice-studio, transcription, translate, tts, voice-ai, voice-cloning, voice-generation, workflow
 
 - **[Gathin23/tv-vibehack](https://github.com/Gathin23/tv-vibehack)** - Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.  
-  58,565 stars - +56,838 in 30d - Java - adb, android-tv, claude-code, debloat, launcher, xiaomi
+  58,895 stars - +57,168 in 30d - Java - adb, android-tv, claude-code, debloat, launcher, xiaomi
 
 - **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。  
-  24,660 stars - +22,495 in 30d - Dart - ai-agent, android, android-app, coding-agent, deepseek, deepseek-harness, dsh, dsh-plugin, dsh-tui, flutter, llm
+  25,835 stars - +23,670 in 30d - Dart - ai-agent, android, android-app, coding-agent, deepseek, deepseek-harness, dsh, dsh-plugin, dsh-tui, flutter, llm
+
+- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** - Chat Demo  
+  4,481 stars - +4,309 in 30d - TypeScript
 
 - **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** - DeepSeek Harness: Everything is a Plugin.  
-  282,244 stars - +29,140 in 30d - TypeScript - ai-agents, cordis, dsh, dsh-plugin
+  282,865 stars - +28,633 in 30d - TypeScript - ai-agents, cordis, dsh, dsh-plugin
 
 - **[YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)** - no more refusals, do everything.  
-  +17,850 in 30d - JavaScript
-
-- **[heydamir/unslop](https://github.com/heydamir/unslop)** - A Claude skill that turns vibecoded, AI-looking UI into a designed interface  
-  17,155 stars - +13,495 in 30d - JavaScript
+  +17,431 in 30d - JavaScript
 

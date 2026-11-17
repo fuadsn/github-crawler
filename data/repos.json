@@ -582826,6 +582826,14 @@
    "web-app"
   ]
  },
+ "1452192595": {
+  "created_at": "2026-11-10T04:15:13Z",
+  "desc": "\u859b\u8f89\u77ed\u89c6\u9891\u8425\u9500\u4f53\u7cfb\u5168\u91cf\u84b8\u998f Skill\uff5c\u65b0\u5a92\u4f53\u8fd0\u8425 / \u77ed\u89c6\u9891\u8fd0\u8425 / IP \u4eba\u8bbe / \u8d26\u53f7\u5b9a\u4f4d / \u9009\u9898 / \u811a\u672c\uff5c455 \u89c6\u9891 317.9h \u84b8\u998f\u4e3a 13 \u518c\u4e2d\u6587\u53c2\u8003\u624b\u518c",
+  "lang": "",
+  "name": "bruce-gao-start/xuehui-shortvideo-skill",
+  "node_id": "R_kgDOVo6zUw",
+  "topics": []
+ },
  "1452205518": {
   "created_at": "2026-11-10T04:34:21Z",
   "desc": "",
@@ -583064,6 +583072,14 @@
    "coregold",
    "us"
   ]
+ },
+ "1452379738": {
+  "created_at": "2026-11-10T08:12:12Z",
+  "desc": "\u6211\u7ed9\u5927\u80a5\u9c7c\u521b\u5efa\u4e86\u4e00\u4e2a\u5bb6...",
+  "lang": "JavaScript",
+  "name": "sh2234113/feiyu-room-template",
+  "node_id": "R_kgDOVpGOWg",
+  "topics": []
  },
  "1452380424": {
   "created_at": "2026-11-10T08:12:55Z",
@@ -583610,7 +583626,7 @@
  },
  "1452733335": {
   "created_at": "2026-11-10T13:56:30Z",
-  "desc": "Games, 3D worlds and web pages built with Claude Fable 5.2 that you can actually open \u2014 176 live works (every link checked) + 128 video demos, each with a GIF preview and creator credit. Updated daily.",
+  "desc": "Games, 3D worlds and web pages built with Claude Fable 5.2 that you can actually open \u2014 185 live works (every link checked) + 135 video demos, each with a GIF preview and creator credit. Updated daily.",
   "lang": "",
   "name": "fengyiqicoder/awesome-fable-5.2",
   "node_id": "R_kgDOVpbzlw",
@@ -583929,6 +583945,14 @@
    "security",
    "tokenized-stocks"
   ]
+ },
+ "1453058338": {
+  "created_at": "2026-11-10T18:45:36Z",
+  "desc": "threadstudio - tool t\u1ea1o video \u0111\u1ecdc comment Threads ",
+  "lang": "Python",
+  "name": "K07VN/threadstudio",
+  "node_id": "R_kgDOVpvpIg",
+  "topics": []
  },
  "1453070439": {
   "created_at": "2026-11-10T18:57:36Z",
@@ -584290,11 +584314,19 @@
  },
  "1453389698": {
   "created_at": "2026-11-11T01:32:04Z",
-  "desc": "The nexus plugin for browser",
+  "desc": "Nexus \u7684\u6d4f\u89c8\u5668\u63d2\u4ef6\uff1a\u8ba9 DeepSeek\u3001Gemini\u3001ChatGPT\u3001Kimi \u7b49\u7f51\u9875\u7248 AI \u901a\u8fc7 MCP \u8c03\u7528\u672c\u5730\u5de5\u5177\uff0c\u9700\u914d\u5408 Nexus \u4f7f\u7528",
   "lang": "JavaScript",
   "name": "ysunyang4/webagent",
   "node_id": "R_kgDOVqD3gg",
-  "topics": []
+  "topics": [
+   "ai-agent",
+   "browser-extension",
+   "chrome-extension",
+   "llm",
+   "local-ai",
+   "mcp",
+   "webagent"
+  ]
  },
  "1453417059": {
   "created_at": "2026-11-11T02:09:38Z",
@@ -584543,6 +584575,14 @@
    "vcc"
   ]
  },
+ "1453633622": {
+  "created_at": "2026-11-11T06:58:07Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "PKU-YuanGroup/RSI4S",
+  "node_id": "R_kgDOVqSwVg",
+  "topics": []
+ },
  "1453634707": {
   "created_at": "2026-11-11T06:59:21Z",
   "desc": "\u26a1 2026 \u5b9e\u6218\u6307\u5357\uff1a\u624b\u628a\u624b\u6559\u4f60\u7528 CoreGold \u5546\u4e1a VCC \u5f00\u901a Windsurf / Cursor \u6ee1\u8840\u7f16\u7a0b",
@@ -584574,6 +584614,14 @@
    "viral-video",
    "viral-video-generator"
   ]
+ },
+ "1453666591": {
+  "created_at": "2026-11-11T07:35:36Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "Tencent-Hunyuan/MovieRoll",
+  "node_id": "R_kgDOVqUxHw",
+  "topics": []
  },
  "1453682475": {
   "created_at": "2026-11-11T07:53:04Z",
@@ -584657,6 +584705,26 @@
   "name": "nickvasilescu/bot-hq",
   "node_id": "R_kgDOVqXbhQ",
   "topics": []
+ },
+ "1453712334": {
+  "created_at": "2026-11-11T08:25:48Z",
+  "desc": "Live, multi-camera object tracking with SAM3, SAM 2 and EdgeTAM, on one GPU or many. One model per GPU serves every camera: faster than the original code, about 4x less GPU memory, identical masks.",
+  "lang": "Python",
+  "name": "aryamandarda/tamserve",
+  "node_id": "R_kgDOVqXjzg",
+  "topics": [
+   "batching",
+   "computer-vision",
+   "edgetam",
+   "gpu",
+   "inference",
+   "model-serving",
+   "object-tracking",
+   "pytorch",
+   "sam2",
+   "segment-anything",
+   "video-segmentation"
+  ]
  },
  "1453712399": {
   "created_at": "2026-11-11T08:25:53Z",
@@ -585114,7 +585182,7 @@
  },
  "1453949592": {
   "created_at": "2026-11-11T12:27:03Z",
-  "desc": "Dify-based enterprise after-sales support agent demo with synthetic policies, orders, and evaluation.",
+  "desc": "\u57fa\u4e8e Dify \u642d\u5efa\u7684\u4f01\u4e1a\u7ea7\u552e\u540e\u652f\u6301Agent\u6f14\u793a\uff0c\u5185\u7f6e\u5408\u6210\u653f\u7b56\u6587\u6863\u3001\u8ba2\u5355\u6570\u636e\u4e0e\u6548\u679c\u8bc4\u4f30\u3002",
   "lang": "Python",
   "name": "KaelLee335/enterprise-support-agent",
   "node_id": "R_kgDOVqmCmA",
@@ -585281,6 +585349,14 @@
   "lang": "JavaScript",
   "name": "adamholter/aa-plus",
   "node_id": "R_kgDOVquEeg",
+  "topics": []
+ },
+ "1454095622": {
+  "created_at": "2026-11-11T14:37:11Z",
+  "desc": "Adoption kit for personal AI agent operations (Muse) and a defect-discovery skill for systematic code audits \u2014 generalized designs and procedures only, in Japanese and English.",
+  "lang": "",
+  "name": "Chisiki1/muse-agent-operations-kit",
+  "node_id": "R_kgDOVqu9Bg",
   "topics": []
  },
  "1454159520": {
@@ -585648,6 +585724,14 @@
   "node_id": "R_kgDOVrP9zw",
   "topics": []
  },
+ "1454641530": {
+  "created_at": "2026-11-12T00:15:50Z",
+  "desc": "Native Nintendo 3DS homebrew store for Esteban\u2019s Forge ports and community apps. Built-in updates; latest release v1.0.",
+  "lang": "C",
+  "name": "EstebanPdN/forge.store",
+  "node_id": "R_kgDOVrQReg",
+  "topics": []
+ },
  "1454653877": {
   "created_at": "2026-11-12T00:33:32Z",
   "desc": "Unofficial agent skill for auditing and tuning prompts, CLAUDE.md files, skills, and harnesses for Claude Fable 5.2. Based on Anthropic's prompting guide.",
@@ -585661,6 +585745,14 @@
    "claude-code-plugin",
    "prompt-engineering"
   ]
+ },
+ "1454659084": {
+  "created_at": "2026-11-12T00:40:42Z",
+  "desc": "\u8bba\u6587\u4fee\u6539\u53ef\u89c6\u5316\u770b\u677f\uff0c\u8f85\u52a9\u8bba\u6587\u4fee\u6539\u3001\u8fdb\u5ea6\u7ba1\u7406",
+  "lang": "HTML",
+  "name": "saideao/paper-review-dashboard",
+  "node_id": "R_kgDOVrRWDA",
+  "topics": []
  },
  "1454660936": {
   "created_at": "2026-11-12T00:43:27Z",
@@ -585708,6 +585800,14 @@
   "lang": "TypeScript",
   "name": "gopkg-dev/damail",
   "node_id": "R_kgDOVrS28A",
+  "topics": []
+ },
+ "1454707437": {
+  "created_at": "2026-11-12T01:48:24Z",
+  "desc": "\u57fa\u4e8e FastAPI + Vue 3 \u6784\u5efa\u7684\u4e00\u7ad9\u5f0f AI \u5e94\u7528\u4e0e\u7ba1\u7406\u5e73\u53f0\uff0c\u96c6\u6210\u591a\u4f9b\u5e94\u5546\u6a21\u578b\u63a5\u5165\u3001\u6d41\u5f0f\u5bf9\u8bdd\u3001\u6eda\u52a8\u4e0a\u4e0b\u6587\u6458\u8981\u3001\u667a\u80fd\u4f53\u914d\u7f6e\u4e0e\u53d1\u5e03\u3001\u6280\u80fd\u7ba1\u7406\u53ca\u5de5\u4f5c\u7a7a\u95f4\u3002\u652f\u6301 RAG \u77e5\u8bc6\u5e93\u3001\u6587\u6863\u5207\u7247\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u7ed3\u679c\u91cd\u6392\uff0c\u63a5\u5165\u672c\u5730\u53ca\u4e91\u7aef MinerU\uff0c\u5b9e\u73b0\u6587\u6863\u89e3\u6790\u4e0e\u5165\u5e93\u3002\u63d0\u4f9b OpenAI \u517c\u5bb9\u63a8\u7406\u63a5\u53e3\uff0c\u4ee5\u53ca\u6587\u4ef6\u3001\u77e5\u8bc6\u5e93\u3001\u6280\u80fd\u7b49\u8d44\u6e90 API\uff0c\u914d\u5907\u5e94\u7528\u4e0e\u5bc6\u94a5\u6388\u6743\u3001\u89d2\u8272\u6743\u9650\u7ba1\u7406\u3001\u7528\u91cf\u7edf\u8ba1\u3001\u79ef\u5206\u8ba1\u8d39\u548c\u64cd\u4f5c\u5ba1\u8ba1\uff0c\u8986\u76d6\u4ece\u7f51\u9875\u4ea4\u4e92\u5230\u4e1a\u52a1\u7cfb\u7edf\u96c6\u6210\u7684\u5b8c\u6574\u6d41\u7a0b\u3002",
+  "lang": "Python",
+  "name": "JINAN-xxx/Zhiheng",
+  "node_id": "R_kgDOVrUS7Q",
   "topics": []
  },
  "1454708045": {
@@ -585859,7 +585959,7 @@
  },
  "1454840428": {
   "created_at": "2026-11-12T04:48:38Z",
-  "desc": "\u5927\u5b66\u751f\u7ade\u8d5b \u00d7 AI Agent\uff1a\u8fde\u7eed\u6392\u540d\u3001\u9009\u8d5b\u8d44\u6e90\u3001\u5f00\u8d5b\u6a21\u677f\u3001Modex\u4e0eCodex/Claude\u6570\u6a21\u5b9e\u6218\u3002",
+  "desc": "\u9ad8\u6027\u4ef7\u6bd4\u5927\u5b66\u751f\u7ade\u8d5b\u6307\u5357\uff1a10\u7ae0\u6309\u95ee\u9898\u67e5\uff0c27\u9879\u8fde\u7eed\u5236\u4f5c\u53c2\u8003\u300173\u6761\u8d5b\u4e8b\u5165\u53e3\u3001Agent\u6570\u6a21\u6559\u7a0b\u4e0e\u771f\u9898\u590d\u73b0\u3002",
   "lang": "Python",
   "name": "Rain-dust/HowToCompeteBetter",
   "node_id": "R_kgDOVrcabA",
@@ -586019,6 +586119,14 @@
   "lang": "TypeScript",
   "name": "deepseek-ai/chat-demo",
   "node_id": "R_kgDOVrmjdg",
+  "topics": []
+ },
+ "1455019339": {
+  "created_at": "2026-11-12T08:21:50Z",
+  "desc": "Open source alternative to Wispr Flow and Granola",
+  "lang": "TypeScript",
+  "name": "every-app/open-scribe",
+  "node_id": "R_kgDOVrnVSw",
   "topics": []
  },
  "1455022793": {
@@ -586238,6 +586346,14 @@
   "lang": "",
   "name": "Gosu-x/multimodal-threat-dataset",
   "node_id": "R_kgDOVrvgmw",
+  "topics": []
+ },
+ "1455161977": {
+  "created_at": "2026-11-12T10:40:56Z",
+  "desc": "[arXiv 2026] MMFlash: Faster Speculative Decoding for Vision-Language Models",
+  "lang": "Python",
+  "name": "fscdc/MMFlash",
+  "node_id": "R_kgDOVrwCeQ",
   "topics": []
  },
  "1455162578": {
@@ -586537,6 +586653,25 @@
   "node_id": "R_kgDOVr_eWg",
   "topics": []
  },
+ "1455417375": {
+  "created_at": "2026-11-12T14:32:56Z",
+  "desc": "Offline memory-first personal-agent framework with a deterministic daily briefing app: provenance-tracked memory graph, consolidation and decay, budgeted hybrid retrieval, preference calibration, privacy tiers, plan DSL, byte-deterministic replay, synthetic personas. NumPy core, optional CPU-only torch extra.",
+  "lang": "Python",
+  "name": "easy1ive/famulix",
+  "node_id": "R_kgDOVr_oHw",
+  "topics": [
+   "agent-framework",
+   "daily-briefing",
+   "deterministic-replay",
+   "memory",
+   "numpy",
+   "personal-agent",
+   "personalization",
+   "privacy",
+   "python",
+   "retrieval"
+  ]
+ },
  "1455417508": {
   "created_at": "2026-11-12T14:33:03Z",
   "desc": "Long-term memory plugin and standalone worker for QQbridge and DeepSeek Harness",
@@ -586727,6 +586862,14 @@
   "node_id": "R_kgDOVsU3XA",
   "topics": []
  },
+ "1455784065": {
+  "created_at": "2026-11-12T20:14:21Z",
+  "desc": "\u96ea\u8ff9\uff1a \u4e00\u4e2a\u4eba\uff0c\u4e00\u5ea7\u5c71\uff0c\u4e00\u8def\u5411\u4e0b",
+  "lang": "JavaScript",
+  "name": "huiskylabs/cold-smoke",
+  "node_id": "R_kgDOVsWAgQ",
+  "topics": []
+ },
  "1455789135": {
   "created_at": "2026-11-12T20:20:03Z",
   "desc": "configuration for Adobe Photoshop 27 AI environment.",
@@ -586766,6 +586909,14 @@
    "macos"
   ]
  },
+ "1455858424": {
+  "created_at": "2026-11-12T21:39:43Z",
+  "desc": "PushFPS: push 30 FPS console games to 60 or 120 FPS. Real-time AI frame generation for any capture card on Windows, with NVIDIA RTX and AMD support. Free and open source, based on Veyra.",
+  "lang": "C++",
+  "name": "DosukaSOL/PushFPS",
+  "node_id": "R_kgDOVsai-A",
+  "topics": []
+ },
  "1455886334": {
   "created_at": "2026-11-12T22:15:12Z",
   "desc": "Local proxy that connects Claude Code and other coding agents to any OpenAI-compatible AI provider. with streaming, tool use, fallbacks, and rate limiting.",
@@ -586801,6 +586952,14 @@
    "webgpu",
    "wgsl"
   ]
+ },
+ "1455952445": {
+  "created_at": "2026-11-12T23:49:03Z",
+  "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
+  "lang": "Python",
+  "name": "Immortal-Protocols/lastbook",
+  "node_id": "R_kgDOVsgSPQ",
+  "topics": []
  },
  "1455995934": {
   "created_at": "2026-11-13T00:54:26Z",
@@ -586894,6 +587053,27 @@
   "node_id": "R_kgDOVso-pw",
   "topics": []
  },
+ "1456098883": {
+  "created_at": "2026-11-13T03:17:26Z",
+  "desc": "Self-hosted bug bounty scope tracker: every HackerOne, Bugcrowd, Intigriti and YesWeHack program you can see, private invites included, with scope history, HuntScore, recon exports and alerts. One Docker container.",
+  "lang": "Go",
+  "name": "mdpsec/huntdeck",
+  "node_id": "R_kgDOVspOQw",
+  "topics": [
+   "bug-bounty",
+   "bugbounty",
+   "bugcrowd",
+   "golang",
+   "hackerone",
+   "intigriti",
+   "recon",
+   "scope",
+   "security-tools",
+   "self-hosted",
+   "sqlite",
+   "yeswehack"
+  ]
+ },
  "1456101689": {
   "created_at": "2026-11-13T03:21:13Z",
   "desc": "General Indonesian academic writing skills for AI agents: outline, draft, edit, and audit research theses, journal articles, internship reports, and technical reports, with a workflow dispatcher and campus-guide adapter.",
@@ -586931,6 +587111,14 @@
    "virtual-display",
    "window-management"
   ]
+ },
+ "1456105896": {
+  "created_at": "2026-11-13T03:27:02Z",
+  "desc": "thinksmart view\u529f\u80fd\u6539\u9020",
+  "lang": "Python",
+  "name": "fubin0478/thinksmart-view",
+  "node_id": "R_kgDOVsppqA",
+  "topics": []
  },
  "1456143538": {
   "created_at": "2026-11-13T04:20:29Z",
@@ -587082,6 +587270,20 @@
   "node_id": "R_kgDOVsyxZw",
   "topics": []
  },
+ "1456271997": {
+  "created_at": "2026-11-13T07:05:36Z",
+  "desc": "\u7eaf\u524d\u7aef\u79bb\u7ebf\u5b57\u5e16\u751f\u6210\u5668\uff1a\u4e0d\u88c5\u3001\u4e0d\u8fde\u7f51\uff0c\u53cc\u51fb index.html \u5c31\u80fd\u751f\u6210\u5e76\u6253\u5370 A4 \u5b57\u5e16\u3002  \u6ca1\u6709\u540e\u7aef\u3001\u6ca1\u6709\u767b\u5f55\u3001\u6ca1\u6709\u6784\u5efa\u6b65\u9aa4\u3002\u6c49\u5b57\u7b14\u987a\u3001\u62fc\u97f3\u6ce8\u97f3\u3001\u82f1\u6587\u56db\u7ebf\u4e09\u683c\u3001\u6570\u5b66\u53e3\u7b97\u3001 \u7a7a\u767d\u683c\u7eb8\uff0c\u53c2\u6570\u4e00\u6539\u7248\u9762\u7acb\u523b\u91cd\u6392\uff0c\u6253\u5370\u65f6\u9009\u300c\u53e6\u5b58\u4e3a PDF\u300d\u5c31\u662f\u77e2\u91cf\u6587\u4ef6\u3002",
+  "lang": "JavaScript",
+  "name": "dhjz/zitie",
+  "node_id": "R_kgDOVszyfQ",
+  "topics": [
+   "hanzi",
+   "pinyin",
+   "print",
+   "zitie",
+   "zitieren"
+  ]
+ },
  "1456282205": {
   "created_at": "2026-11-13T07:17:03Z",
   "desc": "A desktop studio for AI short dramas, built on Code-OSS, working with agents on Pine Computers",
@@ -587133,7 +587335,7 @@
  "1456302476": {
   "created_at": "2026-11-13T07:39:18Z",
   "desc": "Draw an outline. Pull it up. Open-source push/pull 3D modeler in Rust: desktop app, CLI and MCP server.",
-  "lang": "Rust",
+  "lang": "JavaScript",
   "name": "jasonsutter87/sketchcraft",
   "node_id": "R_kgDOVs1pjA",
   "topics": [
@@ -587589,6 +587791,14 @@
    "spigot-plugin"
   ]
  },
+ "1456601427": {
+  "created_at": "2026-11-13T12:56:51Z",
+  "desc": "A secure multi-account switcher for Google Colab CLI",
+  "lang": "Python",
+  "name": "mizorewww/colab-account-changer",
+  "node_id": "R_kgDOVtH5Uw",
+  "topics": []
+ },
  "1456635592": {
   "created_at": "2026-11-13T13:30:28Z",
   "desc": "AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence.",
@@ -587628,13 +587838,29 @@
    "microsoft-dynamics-365"
   ]
  },
+ "1456643854": {
+  "created_at": "2026-11-13T13:38:23Z",
+  "desc": "Projects built with Claude Fable 5.2",
+  "lang": "TypeScript",
+  "name": "h4ni0/fable-5.2-projects",
+  "node_id": "R_kgDOVtKfDg",
+  "topics": []
+ },
  "1456652206": {
   "created_at": "2026-11-13T13:46:21Z",
-  "desc": "Web AI for local work",
+  "desc": "Web AI for local work\uff1a\u8ba9\u7f51\u9875\u7248 AI \u76f4\u63a5\u64cd\u4f5c\u4f60\u7684\u672c\u5730\u6587\u4ef6\u548c\u7535\u8111\uff0c\u914d\u5957\u6d4f\u89c8\u5668\u63d2\u4ef6 webagent",
   "lang": "TypeScript",
   "name": "ysunyang4/Nexus",
   "node_id": "R_kgDOVtK_rg",
-  "topics": []
+  "topics": [
+   "ai-agent",
+   "browser-extension",
+   "chrome-extension",
+   "llm",
+   "local-ai",
+   "mcp",
+   "webagent"
+  ]
  },
  "1456658506": {
   "created_at": "2026-11-13T13:52:10Z",
@@ -587754,7 +587980,7 @@
  },
  "1456734178": {
   "created_at": "2026-11-13T14:59:13Z",
-  "desc": "DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in 190 lines of pure JAX, trained on a MacBook Air. Write-up: vaibhaav.in/writing/deepseek-v3-jax",
+  "desc": "DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in ~200 lines of pure JAX, trained on a MacBook Air.",
   "lang": "Python",
   "name": "Vaibhaav-Tiwari/deepseek-v3-jax",
   "node_id": "R_kgDOVtP_4g",
@@ -587846,6 +588072,14 @@
   "lang": "TypeScript",
   "name": "Forward-Future/scarlet",
   "node_id": "R_kgDOVtYWtg",
+  "topics": []
+ },
+ "1456876788": {
+  "created_at": "2026-11-13T17:07:50Z",
+  "desc": "",
+  "lang": "Go",
+  "name": "Vme18000yuan/SkyShield",
+  "node_id": "R_kgDOVtYs9A",
   "topics": []
  },
  "1456897727": {
@@ -588020,6 +588254,29 @@
    "portainer",
    "visualization"
   ]
+ },
+ "1457109820": {
+  "created_at": "2026-11-13T21:19:21Z",
+  "desc": "Empirical analysis of Claude Code token usage: auto-compaction sweet spots across 8 developer workflows and Claude Desktop vs. CLI overhead",
+  "lang": "Python",
+  "name": "inevolin/claude-code-usage-analysis",
+  "node_id": "R_kgDOVtm7PA",
+  "topics": [
+   "benchmark",
+   "claude-code",
+   "context-window",
+   "llm",
+   "prompt-caching",
+   "token-usage"
+  ]
+ },
+ "1457136150": {
+  "created_at": "2026-11-13T21:53:35Z",
+  "desc": "Fast document parsing in Rust. Turn PDFs, Office files, spreadsheets and more into Markdown and structured JSON also with built-in OCR. MIT licensed.",
+  "lang": "Rust",
+  "name": "bulkgrid/bulkparse",
+  "node_id": "R_kgDOVtoiFg",
+  "topics": []
  },
  "1457157329": {
   "created_at": "2026-11-13T22:22:43Z",
@@ -591955,6 +592212,14 @@
    "herdr-layout"
   ]
  },
+ "1458303867": {
+  "created_at": "2026-11-15T00:17:40Z",
+  "desc": "Skill to draw stick figure animated visuals",
+  "lang": "JavaScript",
+  "name": "nilbuild/stick-scene",
+  "node_id": "R_kgDOVuvzew",
+  "topics": []
+ },
  "1458318786": {
   "created_at": "2026-11-15T00:44:30Z",
   "desc": "ULTRON: an AI that lives in your Mac. It hears you, watches through your webcam, takes over your apps and unlocks your screen. It follows you to your iPhone. There are no strings on me.",
@@ -592175,7 +592440,7 @@
  },
  "1458716297": {
   "created_at": "2026-11-15T11:12:07Z",
-  "desc": "Native copy-on-write Git worktrees, with verified materialization and reproducible benchmarks.",
+  "desc": "lightweight git-worktrees for agents",
   "lang": "Rust",
   "name": "leostera/git-twig",
   "node_id": "R_kgDOVvI-iQ",
@@ -592649,6 +592914,25 @@
    "voice-recorder"
   ]
  },
+ "1459812801": {
+  "created_at": "2026-11-16T09:37:55Z",
+  "desc": "Seedance 2.5 Flash API: text-to-video endpoint, parameters and errors.",
+  "lang": "",
+  "name": "fujc683/seedance-2-5-flash-api",
+  "node_id": "R_kgDOVwL5wQ",
+  "topics": [
+   "ai-video",
+   "ai-video-generation",
+   "api",
+   "apimart",
+   "awesome",
+   "prompt-engineering",
+   "seedance",
+   "text-to-video",
+   "tutorial",
+   "video-generation"
+  ]
+ },
  "1459814797": {
   "created_at": "2026-11-16T09:39:47Z",
   "desc": "Seedance 2.5 Flash vs Seedance 2.0, Kling 4.0 Flash and Veo 3.",
@@ -592706,12 +592990,50 @@
    "video-generation"
   ]
  },
+ "1459817225": {
+  "created_at": "2026-11-16T09:42:11Z",
+  "desc": "Seedance 2.5 Flash relay API: one key, Alipay payment, no VPN needed.",
+  "lang": "",
+  "name": "fujc683/seedance-2-5-flash-api-proxy",
+  "node_id": "R_kgDOVwMLCQ",
+  "topics": [
+   "ai-api",
+   "ai-video",
+   "api-gateway",
+   "api-proxy",
+   "apimart",
+   "awesome",
+   "cheap-api",
+   "openai-compatible",
+   "text-to-video",
+   "video-generation"
+  ]
+ },
  "1459818224": {
   "created_at": "2026-11-16T09:43:12Z",
   "desc": "One OpenAI-compatible endpoint for Seedance, Kling, Wan, PixVerse and Veo.",
   "lang": "",
   "name": "fujc683/ai-video-api-gateway",
   "node_id": "R_kgDOVwMO8A",
+  "topics": [
+   "ai-api",
+   "ai-video",
+   "api-gateway",
+   "api-proxy",
+   "apimart",
+   "awesome",
+   "cheap-api",
+   "openai-compatible",
+   "text-to-video",
+   "video-generation"
+  ]
+ },
+ "1459819318": {
+  "created_at": "2026-11-16T09:44:13Z",
+  "desc": "Every video model ranked by price per second, with a realistic workflow budget.",
+  "lang": "",
+  "name": "fujc683/cheap-video-api",
+  "node_id": "R_kgDOVwMTNg",
   "topics": [
    "ai-api",
    "ai-video",
@@ -592771,6 +593093,46 @@
   "name": "oujingzhou/agent-interview-questions",
   "node_id": "R_kgDOVwXKxg",
   "topics": []
+ },
+ "1460149071": {
+  "created_at": "2026-11-16T14:43:45Z",
+  "desc": "Steer your ideas in realtime",
+  "lang": "HTML",
+  "name": "chuanqisun/spaceship",
+  "node_id": "R_kgDOVwgbTw",
+  "topics": []
+ },
+ "1460180740": {
+  "created_at": "2026-11-16T15:09:46Z",
+  "desc": "31 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+  "lang": "Python",
+  "name": "boringmarketer/boring-marketing-skills",
+  "node_id": "R_kgDOVwiXBA",
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "claude-code",
+   "codex",
+   "copywriting",
+   "local-seo",
+   "marketing",
+   "seo"
+  ]
+ },
+ "1460417668": {
+  "created_at": "2026-11-16T18:40:04Z",
+  "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+  "lang": "Python",
+  "name": "sybil-solutions/inference-optimisation-skill",
+  "node_id": "R_kgDOVww0hA",
+  "topics": [
+   "agent-skill",
+   "benchmarking",
+   "claude-code",
+   "inference",
+   "llm",
+   "speculative-decoding"
+  ]
  },
  "146103950": {
   "created_at": "2018-08-25T14:51:18Z",
