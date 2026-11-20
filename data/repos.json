@@ -587056,6 +587056,35 @@
   "node_id": "R_kgDOVsgSPQ",
   "topics": []
  },
+ "1455990165": {
+  "created_at": "2026-11-13T00:46:00Z",
+  "desc": "Speak, translate, refine and listen, in any app on your Mac.",
+  "lang": "Swift",
+  "name": "supnorm/Yullo",
+  "node_id": "R_kgDOVsillQ",
+  "topics": []
+ },
+ "1455992644": {
+  "created_at": "2026-11-13T00:49:38Z",
+  "desc": "\u8206\u89c1 OpinionLens \u00b7 \u793e\u5a92\u8206\u60c5\u76d1\u6d4b\u4e0e AI \u62a5\u544a\u684c\u9762\u7aef\uff08Electron + FastAPI sidecar + MediaCrawler \u8fd0\u884c\u65f6\u5305\u88c5\uff09\u3002\u8bbe\u7f6e\u4e2d\u5fc3\uff1a\u90ae\u4ef6/\u4f01\u5fae/Bark \u901a\u77e5\u3001\u591a\u8d26\u53f7\u53f7\u6c60\u3001OpenAI \u517c\u5bb9/DeepSeek/Anthropic \u6a21\u578b API\u3002",
+  "lang": "Python",
+  "name": "SolitudeZY/OpinionLens",
+  "node_id": "R_kgDOVsivRA",
+  "topics": [
+   "ai-report",
+   "crawler",
+   "electron",
+   "fastapi",
+   "llm",
+   "media-crawler",
+   "open-source",
+   "opinion-monitoring",
+   "privacy",
+   "public-opinion",
+   "social-media",
+   "windows-desktop"
+  ]
+ },
  "1455995934": {
   "created_at": "2026-11-13T00:54:26Z",
   "desc": "Windows Dynamic Island: a capsule at the top of your screen that aggregates what is happening right now - music, AI coding agents, browser, meetings, and the file you are editing.",
@@ -587135,6 +587164,14 @@
    "roblox",
    "youtube-shorts"
   ]
+ },
+ "1456055186": {
+  "created_at": "2026-11-13T02:17:49Z",
+  "desc": "Image2.6 \u89c6\u89c9\u73a9\u6cd5\u5e93",
+  "lang": "Python",
+  "name": "nima2qisi2/image2.6-playground-public",
+  "node_id": "R_kgDOVsmjkg",
+  "topics": []
  },
  "1456061399": {
   "created_at": "2026-11-13T02:26:33Z",
@@ -587467,6 +587504,25 @@
    "opencode",
    "reverse-proxy",
    "windows"
+  ]
+ },
+ "1456264552": {
+  "created_at": "2026-11-13T06:56:52Z",
+  "desc": "A Chinese-first small language model built from scratch: open 60B-token dataset, tokenizer, mHC + Engram + MoE model, pretraining through RL, all in PyTorch. \u4ece\u96f6\u505a\u4e2d\u6587\u5c0f\u6a21\u578b\uff0c\u6570\u636e\u548c\u4ee3\u7801\u5168\u90e8\u5f00\u6e90",
+  "lang": "Python",
+  "name": "logitcai/tinybrain",
+  "node_id": "R_kgDOVszVaA",
+  "topics": [
+   "chinese",
+   "dataset",
+   "from-scratch",
+   "language-model",
+   "llm",
+   "mixture-of-experts",
+   "muon",
+   "pretraining",
+   "pytorch",
+   "reinforcement-learning"
   ]
  },
  "1456271997": {
@@ -588163,7 +588219,7 @@
  },
  "1456660111": {
   "created_at": "2026-11-13T13:53:42Z",
-  "desc": "\u96f6 MitM \u7684 Apple \u667a\u80fd\u3001PCC \u9690\u79c1\u4e91\u8ba1\u7b97\u4e0e\u4e2d\u6587 Siri \u6781\u7b80\u5206\u6d41\u65b9\u6848 & \u672c\u5730\u914d\u7f6e\u4f53\u68c0\u53f0",
+  "desc": "\uf8ff \u96f6 MitM \u7684 Apple \u667a\u80fd\u3001PCC \u76f8\u518c\u6d88\u9664\u4e0e\u4e2d\u6587 Siri \u6781\u7b80\u5206\u6d41\u65b9\u6848 & \u5728\u7ebf\u4f53\u68c0\u53f0 | Zero-MitM Apple Intelligence, Private Cloud Compute (PCC) & Siri Routing Suite for Surge / Clash / Loon / Shadowrocket",
   "lang": "Python",
   "name": "Kianuni/AppleFlow",
   "node_id": "R_kgDOVtLejw",
@@ -588560,7 +588616,7 @@
  "1457140623": {
   "created_at": "2026-11-13T21:59:50Z",
   "desc": "ProdClub \u4f7f\u7528\u6307\u5357\uff1aChatGPT Plus / Pro \u56fd\u5185\u5982\u4f55\u4ee3\u5145\u503c\u3001\u4f18\u60e0\u7801 NJJU47\u3001\u652f\u4ed8\u5b9d\u4e0b\u5355\u3001\u5f00\u901a\u6761\u4ef6\u4e0e\u5e38\u89c1\u95ee\u9898\u3002",
-  "lang": "",
+  "lang": "Python",
   "name": "laoma528/ProdClub",
   "node_id": "R_kgDOVtozjw",
   "topics": [
@@ -588609,6 +588665,23 @@
    "qt-quick-3d",
    "solid-modeling",
    "step"
+  ]
+ },
+ "1457172598": {
+  "created_at": "2026-11-13T22:44:00Z",
+  "desc": "Static PE Analyzer for Malware Triage: structure, strings, crypto, hidden payloads, .NET, YARA and ATT&CK, with a 0-100 suspicion score. Nothing is executed.",
+  "lang": "Python",
+  "name": "FzRsLLaSheR/PELens",
+  "node_id": "R_kgDOVtqwdg",
+  "topics": [
+   "dfir",
+   "malware-analysis",
+   "malware-triage",
+   "mitre-attack",
+   "pe-file",
+   "reverse-engineering",
+   "static-analysis",
+   "yara"
   ]
  },
  "1457178896": {
@@ -588848,6 +588921,25 @@
   "node_id": "R_kgDOVt6d6g",
   "topics": []
  },
+ "1457432822": {
+  "created_at": "2026-11-14T05:51:29Z",
+  "desc": "Hebbian Robot-Use Agents (RUA)",
+  "lang": "Rust",
+  "name": "Hebbian-Robotics/rua",
+  "node_id": "R_kgDOVt6o9g",
+  "topics": [
+   "embodied-ai",
+   "lerobot",
+   "livekit",
+   "mcap",
+   "physical-ai",
+   "robot-learning",
+   "robot-use",
+   "robot-use-agents",
+   "robotics",
+   "so101"
+  ]
+ },
  "1457444803": {
   "created_at": "2026-11-14T06:08:27Z",
   "desc": "Agent Foundry: Engenharia e Constru\u00e7\u00e3o de Agentes com Google ADK - DevFest Fortaleza 2026",
@@ -588902,6 +588994,14 @@
    "usdt",
    "vcc"
   ]
+ },
+ "1457502669": {
+  "created_at": "2026-11-14T07:29:13Z",
+  "desc": "WeVisForensics is a self-evolving agent for omni AI-generated video detection, where a main investigator agent calls inspector sub-agents on chosen time windows to check appearance, physics, common sense, on-screen text, and audio.",
+  "lang": "Python",
+  "name": "Tencent/WeVisForensics",
+  "node_id": "R_kgDOVt-5zQ",
+  "topics": []
  },
  "1457507045": {
   "created_at": "2026-11-14T07:35:32Z",
@@ -589564,6 +589664,22 @@
    "token-usage"
   ]
  },
+ "1457736564": {
+  "created_at": "2026-11-14T12:35:50Z",
+  "desc": "\u663e\u5b58\u4e0d\u591f\u65f6\u7684\u6025\u6551\u7bb1\uff1a\u8c01\u5360\u7740\u663e\u5b58\u3001\u5173\u6389\u80fd\u7701\u591a\u5c11\u3002Windows \u5355\u6587\u4ef6\u5c0f\u5de5\u5177\uff08Rust + Win32\uff09\u3002",
+  "lang": "Rust",
+  "name": "Altriaqe/vram-check",
+  "node_id": "R_kgDOVuNLdA",
+  "topics": [
+   "desktop-app",
+   "gpu",
+   "rust",
+   "task-manager",
+   "vram",
+   "win32",
+   "windows"
+  ]
+ },
  "1457750647": {
   "created_at": "2026-11-14T12:52:52Z",
   "desc": "NimCap\u622a\u56fe\u5de5\u5177\u662f\u4e00\u6b3e Windows \u622a\u56fe\u4e0e\u56fe\u50cf\u5904\u7406\u5de5\u5177\uff1a\u533a\u57df/\u957f\u622a\u56fe\u3001\u6807\u6ce8\u3001\u8d34\u56fe\u3001\u672c\u5730 OCR\u3001\u7ffb\u8bd1\u3001AI \u62a0\u56fe\u4e0e\u5f55\u5c4f\uff0c\u4e00\u7ad9\u5f0f\u641e\u5b9a\u3002NimCap is a Windows screenshot & image toolkit: capture, annotate, long-shot, pin, local OCR, translate, AI matting and screen recording.",
@@ -589603,6 +589719,14 @@
    "typescript",
    "websocket"
   ]
+ },
+ "1457757584": {
+  "created_at": "2026-11-14T13:01:26Z",
+  "desc": "",
+  "lang": "C++",
+  "name": "efm-games/scarface-recomp",
+  "node_id": "R_kgDOVuOdkA",
+  "topics": []
  },
  "1457760107": {
   "created_at": "2026-11-14T13:04:33Z",
@@ -592633,6 +592757,21 @@
   "node_id": "R_kgDOVulGug",
   "topics": []
  },
+ "1458186723": {
+  "created_at": "2026-11-14T21:17:03Z",
+  "desc": "Nino Game Translator: PS5 oyunlar\u0131n\u0131n \u0130ngilizce altyaz\u0131s\u0131n\u0131 anl\u0131k T\u00fcrk\u00e7eye \u00e7evirip TV'de oyunun \u00fcst\u00fcnde g\u00f6steren \u00fccretsiz ve a\u00e7\u0131k kaynak uygulama. Mac, Windows, Android telefon, Android TV / Google TV, LG, Samsung; iPhone \u00e7ok yak\u0131nda. AGPL-3.0",
+  "lang": "Swift",
+  "name": "yunusdemirbag/nino-game-translator",
+  "node_id": "R_kgDOVuop4w",
+  "topics": [
+   "altyazi",
+   "ps5",
+   "remote-play",
+   "subtitles",
+   "translation",
+   "turkish"
+  ]
+ },
  "1458195979": {
   "created_at": "2026-11-14T21:27:55Z",
   "desc": "ARTEX forensics: backdoored Docker image (unauth root RCE, disassembly-proven) + the deleted authorization guard. Static analysis only. Blackfish Security LLC.",
@@ -592883,6 +593022,23 @@
    "wechat-use"
   ]
  },
+ "1458454781": {
+  "created_at": "2026-11-15T04:53:24Z",
+  "desc": "Custom node for ComfyUI that helps with creating coherent prompt for character including distinctive features, pose, scenery and much more, using danbooru-style tags.",
+  "lang": "Python",
+  "name": "Adamovix/ComfyUI-Character-Helper",
+  "node_id": "R_kgDOVu5A_Q",
+  "topics": [
+   "comfy-ui",
+   "comfyui",
+   "comfyui-custom-node",
+   "comfyui-node",
+   "comfyui-workflow",
+   "danbooru",
+   "danbooru-tags",
+   "image-generation"
+  ]
+ },
  "1458485870": {
   "created_at": "2026-11-15T05:45:18Z",
   "desc": "Hand-controlled video world models with full-sequence and three-step causal generation.",
@@ -592902,7 +593058,7 @@
  "1458510952": {
   "created_at": "2026-11-15T06:24:10Z",
   "desc": "\u81ea\u5a92\u4f53\u521b\u4f5c\u4e0d\u5b8c\u5168\u6307\u5357\uff1a\u8d77\u53f7\u65b9\u6cd5\u8bba\u3001\u5bf9\u6807\u62c6\u89e3\u6a21\u677f\u548c Agent Skill\u3002\u6838\u5fc3\u662f\u4e8c\u521b\uff0c\u4e0d\u662f\u642c\u8fd0\u3002",
-  "lang": "Python",
+  "lang": "JavaScript",
   "name": "lonely-dance-lab/self-media-guide",
   "node_id": "R_kgDOVu8caA",
   "topics": [
@@ -593428,6 +593584,21 @@
   "name": "davidondrej/superbot",
   "node_id": "R_kgDOVveAjg",
   "topics": []
+ },
+ "1459092849": {
+  "created_at": "2026-11-15T18:05:15Z",
+  "desc": "JSON-first CLI for Renfe train timetables and fares. No account needed.",
+  "lang": "Python",
+  "name": "luisgonzaleznf/renfe-cli",
+  "node_id": "R_kgDOVvf9cQ",
+  "topics": [
+   "cli",
+   "json",
+   "python",
+   "renfe",
+   "spain",
+   "trains"
+  ]
  },
  "1459093480": {
   "created_at": "2026-11-15T18:05:59Z",
@@ -594200,6 +594371,21 @@
    "zzz-trainer"
   ]
  },
+ "1459243667": {
+  "created_at": "2026-11-15T21:07:01Z",
+  "desc": "A desktop agentic development environment for Claude Code and Codex",
+  "lang": "TypeScript",
+  "name": "Leonxlnx/sable",
+  "node_id": "R_kgDOVvpKkw",
+  "topics": [
+   "ai-agents",
+   "claude-code",
+   "codex",
+   "electron",
+   "react",
+   "typescript"
+  ]
+ },
  "1459245368": {
   "created_at": "2026-11-15T21:09:22Z",
   "desc": "Lightweight macOS-inspired floating dock and taskbar replacement for Windows 10 and 11",
@@ -594309,6 +594495,29 @@
    "ux-design"
   ]
  },
+ "1459478977": {
+  "created_at": "2026-11-16T03:02:15Z",
+  "desc": "CleanRUA: Clean Implementation of Robot-Use Agents",
+  "lang": "Python",
+  "name": "Agentic-Intelligence-Lab/CleanRUA",
+  "node_id": "R_kgDOVv3hwQ",
+  "topics": [
+   "benchmark",
+   "embodied-ai",
+   "harness-engineering",
+   "recursive-self-improvement",
+   "robot-use-agents",
+   "robotics"
+  ]
+ },
+ "1459480576": {
+  "created_at": "2026-11-16T03:04:44Z",
+  "desc": "Claude Code skill that builds a Nikon Flexible Color Picture Control (.NP3) to match a Fujifilm look, measured through NX Studio's own renderer.",
+  "lang": "Python",
+  "name": "gerard662/nikon-picture-control-matcher",
+  "node_id": "R_kgDOVv3oAA",
+  "topics": []
+ },
  "1459501369": {
   "created_at": "2026-11-16T03:34:03Z",
   "desc": "Sage S2.1 Flash \u2014 A scientific multimodal model. Explore through reasoning. Verify through action.",
@@ -594352,6 +594561,24 @@
    "security-tools",
    "vue3",
    "vulnerability-assessment"
+  ]
+ },
+ "1459522597": {
+  "created_at": "2026-11-16T04:04:27Z",
+  "desc": "Screen recordings that zoom on what matters, for people and for AI agents. A macOS CLI with automatic zoom, smooth pointer, captions; works with Playwright, CDP and computer use.",
+  "lang": "Swift",
+  "name": "Dylan-Nihilo/iris",
+  "node_id": "R_kgDOVv6MJQ",
+  "topics": [
+   "ai-agents",
+   "claude-code",
+   "cli",
+   "computer-use",
+   "macos",
+   "playwright",
+   "screen-recording",
+   "screencapturekit",
+   "swift"
   ]
  },
  "1459532934": {
@@ -594421,6 +594648,14 @@
   "lang": "JavaScript",
   "name": "ryannli/spoken-world",
   "node_id": "R_kgDOVv-SoQ",
+  "topics": []
+ },
+ "1459604722": {
+  "created_at": "2026-11-16T05:56:02Z",
+  "desc": "Codemod and tools for migrate Nuxt auto-imports to explicit imports",
+  "lang": "TypeScript",
+  "name": "antfu/nuxt-explicit-imports",
+  "node_id": "R_kgDOVv_M8g",
   "topics": []
  },
  "1459631881": {
@@ -594657,6 +594892,20 @@
    "coregold"
   ]
  },
+ "1459795900": {
+  "created_at": "2026-11-16T09:22:04Z",
+  "desc": "\u501f\u52bf\u672c\u5468\u5934\u90e8\u5b89\u5168\u5b9e\u9a8c\u5ba4\u53d1\u5e03\u53ef\u6269\u5c55\u5b89\u5168\u5bf9\u9f50\uff08Scalable Alignment\uff09\u7a81\u7834\u5e76\u5f00\u6e90\u8bc4\u4f30\u5de5\u5177\u7684\u70ed\u70b9\uff0c\u89e3\u6790\u4f01\u4e1a\u4e0e\u7814\u7a76\u673a\u6784\u5728\u5927\u89c4\u6a21\u6279\u91cf\u8dd1\u7ea2\u961f\u5bf9\u6297\u57fa\u51c6\u8bc4\u4f30\u65f6\uff0c\u5982\u4f55\u7528 CoreGold \u5546\u4e1a\u865a\u62df\u5361\uff08VCC\uff09+ USDT \u5b9e\u73b0\u6279\u6b21\u7ea7\u7b97\u529b\u786c\u9694\u79bb\u4e0e\u6b8b\u989d\u79d2\u7ea7\u56de\u6536\u3002",
+  "lang": "",
+  "name": "blatterjils-sketch/virtual-card-usdt-scalable-alignment-eval-pipeline-vcc",
+  "node_id": "R_kgDOVwK3vA",
+  "topics": [
+   "ai",
+   "coregold",
+   "gemini",
+   "usdt",
+   "vcc"
+  ]
+ },
  "1459809035": {
   "created_at": "2026-11-16T09:34:29Z",
   "desc": "140 curated Seedance 2.5 Flash video prompts with preview frames, grouped by use case.",
@@ -594790,6 +595039,14 @@
    "video-generation"
   ]
  },
+ "1459817542": {
+  "created_at": "2026-11-16T09:42:29Z",
+  "desc": "Responding to Oracle and OpenAI's new Oracle Cost Advisor for AI release, this FinOps deep dive exposes the aggregation latency flaw in software billing alerts and demonstrates how CoreGold USDT-funded Virtual Cards (VCC) enforce real-time clearing-layer spend stops.",
+  "lang": "",
+  "name": "mansoorivajira136-art/virtual-card-usdt-oracle-openai-cost-advisor-vcc-finops",
+  "node_id": "R_kgDOVwMMRg",
+  "topics": []
+ },
  "1459817569": {
   "created_at": "2026-11-16T09:42:31Z",
   "desc": "Control Seedance 2.5 Flash motion with a first frame or reference clip.",
@@ -594847,6 +595104,61 @@
    "video-generation"
   ]
  },
+ "1459821746": {
+  "created_at": "2026-11-16T09:46:28Z",
+  "desc": "Capitalizing on Google's Gemini Omni 1.2 Flash video model launch and 30% price drop, this guide shows cross-border creative studios how to isolate multi-seat rendering accounts and clear high-ticket subscriptions using CoreGold USDT Virtual Cards (VCC) and Apple Pay.",
+  "lang": "",
+  "name": "mansoorivajira136-art/virtual-card-usdt-gemini-omni-1-2-flash-video-applepay-vcc",
+  "node_id": "R_kgDOVwMcsg",
+  "topics": [
+   "card",
+   "coregold",
+   "gemini",
+   "ustd",
+   "vcc"
+  ]
+ },
+ "1459827620": {
+  "created_at": "2026-11-16T09:51:58Z",
+  "desc": "Amidst global GPU supply-chain volatility following NVIDIA's leadership shakeup, this technical guide shows ML engineers how to prevent cloud billing locks and zombie H100 instance drain across RunPod, Lambda Labs, and OCI using CoreGold USDT Virtual Cards (VCC).",
+  "lang": "",
+  "name": "gossageangrej-eng/virtual-card-usdt-nvidia-shakeup-multi-cloud-gpu-vcc",
+  "node_id": "R_kgDOVwMzpA",
+  "topics": [
+   "ai",
+   "coregold",
+   "gpu",
+   "ustd",
+   "vcc"
+  ]
+ },
+ "1459840173": {
+  "created_at": "2026-11-16T10:03:41Z",
+  "desc": "Leveraging the surge in cost-efficient open-weights releases (Qwen4-Max Preview / ERNIE 5.5 Flash Preview), this guide explains how to prevent auto-reload bank freezes and cascading account bans across hybrid LLM routers (OpenRouter / Together AI / ChatGPT) using CoreGold USDT Virtual Cards (VCC).",
+  "lang": "",
+  "name": "ivangorbov55-web/virtual-card-usdt-qwen4-max-ernie55-hybrid-router-vcc",
+  "node_id": "R_kgDOVwNkrQ",
+  "topics": [
+   "card",
+   "card-game",
+   "chatgtp",
+   "claude",
+   "qwen"
+  ]
+ },
+ "1459859439": {
+  "created_at": "2026-11-16T10:22:22Z",
+  "desc": "coregold\u5f00\u5361-\u5145\u503c-\u7ed1\u5b9aApple Pay&Google Pay\u6307\u5357 Coregold \u94f6\u884c\u5361\u7533\u8bf7\u3001\u5145\u503c\u4ee5\u53ca\u7ed1\u5b9a Apple Pay \u548c Google Pay \u7684\u6307\u5357",
+  "lang": "",
+  "name": "bonkoungouyobi24-sketch/coregold-usdt-vcc-apple-pay-google-pay-setup-guide",
+  "node_id": "R_kgDOVwOv7w",
+  "topics": [
+   "apple",
+   "applepay",
+   "coregold",
+   "googlepay"
+  ]
+ },
  "1459867474": {
   "created_at": "2026-11-16T10:30:07Z",
   "desc": "A calm, local time tracker for macOS that also shows you what you actually did: apps, windows, tabs and Claude Code sessions next to your logged time.",
@@ -594861,6 +595173,14 @@
   "lang": "Go",
   "name": "yiyihuohuo/WMPFWorkbench-go",
   "node_id": "R_kgDOVwRC3g",
+  "topics": []
+ },
+ "1459908902": {
+  "created_at": "2026-11-16T11:10:13Z",
+  "desc": "A step-by-step technical deployment guide for provisioning US-issued Commercial Virtual Cards (VCC) on CoreGold using USDT (TRC20), configuring North American AVS billing records, and retrieving OTP codes to activate Apple Pay and Google Pay for ChatGPT, Claude, and cloud SaaS subscriptions.",
+  "lang": "",
+  "name": "sakifaahmad-gif/coregold-usdt-vcc-apple-pay-google-pay-deployment-guide",
+  "node_id": "R_kgDOVwRxJg",
   "topics": []
  },
  "1459921301": {
@@ -594974,7 +595294,10 @@
   "lang": "",
   "name": "oujingzhou/agent-interview-questions",
   "node_id": "R_kgDOVwXKxg",
-  "topics": []
+  "topics": [
+   "agent",
+   "agent-interview"
+  ]
  },
  "1460031638": {
   "created_at": "2026-11-16T13:05:32Z",
@@ -595075,7 +595398,7 @@
  },
  "1460149071": {
   "created_at": "2026-11-16T14:43:45Z",
-  "desc": "Steer your ideas in realtime",
+  "desc": "Steer ideas like a space pilot!",
   "lang": "HTML",
   "name": "chuanqisun/spaceship",
   "node_id": "R_kgDOVwgbTw",
@@ -595149,12 +595472,52 @@
    "programming"
   ]
  },
+ "1460351006": {
+  "created_at": "2026-11-16T17:37:12Z",
+  "desc": "Model-specific megakernel inference engines for LLM decoding, written by coding agents. OpenAI-compatible server, evaluation suite, and the kit to build your own.",
+  "lang": "Cuda",
+  "name": "dangxingyu/megakernel-zoo",
+  "node_id": "R_kgDOVwswHg",
+  "topics": [
+   "ai-agents",
+   "cuda",
+   "gpu",
+   "inference-engine",
+   "llm-inference",
+   "llm-serving",
+   "megakernel",
+   "openai-api"
+  ]
+ },
+ "1460354412": {
+  "created_at": "2026-11-16T17:40:14Z",
+  "desc": "Theorems, not tests: kernel-checked guarantees for Pythia-14M and a neural PDE solver, in Lean 4",
+  "lang": "Lean",
+  "name": "leochlon/tiny-bayes",
+  "node_id": "R_kgDOVws9bA",
+  "topics": [
+   "adversarial-examples",
+   "formal-verification",
+   "lean4",
+   "mathlib",
+   "physics-informed-neural-networks",
+   "transformers"
+  ]
+ },
  "1460355257": {
   "created_at": "2026-11-16T17:41:03Z",
   "desc": "AI\u304c\u66f8\u304f\u65e5\u672c\u8a9e\u3092\u3001\u4eba\u304c\u66f8\u304f\u6587\u306b\u8fd1\u3065\u3051\u308b\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u30b9\u30ad\u30eb\u3002Claude\u3001ChatGPT\u3001Claude Code\u3001Codex\u306a\u3069\u3067\u4f7f\u3048\u307e\u3059\u3002",
   "lang": "Python",
   "name": "AnIT012/nihongo",
   "node_id": "R_kgDOVwtAuQ",
+  "topics": []
+ },
+ "1460374502": {
+  "created_at": "2026-11-16T17:58:45Z",
+  "desc": "",
+  "lang": "JavaScript",
+  "name": "jasnell/node-skills",
+  "node_id": "R_kgDOVwuL5g",
   "topics": []
  },
  "1460376191": {
@@ -595171,6 +595534,14 @@
   "lang": "TypeScript",
   "name": "YanJiuWeiYuanHui/DeepChat",
   "node_id": "R_kgDOVwvIdg",
+  "topics": []
+ },
+ "1460403704": {
+  "created_at": "2026-11-16T18:26:44Z",
+  "desc": "Claude Code skill: turn any idea, from any niche, into an interactive 3D lab and a 60 fps video. / Convierte cualquier idea en un lab 3D interactivo.",
+  "lang": "JavaScript",
+  "name": "ecapri-dev/simulab-skill",
+  "node_id": "R_kgDOVwv9-A",
   "topics": []
  },
  "1460417668": {
@@ -595218,6 +595589,14 @@
    "robotics"
   ]
  },
+ "1460481905": {
+  "created_at": "2026-11-16T19:40:18Z",
+  "desc": "Every housing society in a city on one night map. Filter by the smallest bedroom you can live with.",
+  "lang": "Python",
+  "name": "kairothq/flat-finder",
+  "node_id": "R_kgDOVw0vcQ",
+  "topics": []
+ },
  "1460527788": {
   "created_at": "2026-11-16T20:22:49Z",
   "desc": "\u4e3a yetone/magpie \u6253\u9020\u7684\u539f\u751f iOS / iPadOS \u63a7\u5236\u4e2d\u5fc3\uff1a\u7ba1\u7406 Provider\u3001\u8def\u7531\u3001\u7528\u91cf\u3001\u4f1a\u8bdd\u4e0e\u63d2\u4ef6\u3002SwiftUI \u00b7 Liquid Glass \u00b7 \u96f6\u7b2c\u4e09\u65b9\u4f9d\u8d56\u3002",
@@ -595248,6 +595627,20 @@
   "name": "finktheartist/rubber-hose-ui",
   "node_id": "R_kgDOVw4dpQ",
   "topics": []
+ },
+ "1460598165": {
+  "created_at": "2026-11-16T21:35:31Z",
+  "desc": "Antigravity 2.0 \u539f\u751f\u754c\u9762\u589e\u5f3a\u63d2\u4ef6\uff1a\u754c\u9762\u6c49\u5316\u3001\u7c7b Codex \u7d27\u51d1\u6392\u7248\u4e0e\u9636\u6bb5\u6c47\u62a5\u3001\u4e0a\u4e0b\u6587\u4e0e\u7f13\u5b58\u76d1\u63a7\u3001\u4f1a\u8bdd\u5206\u652f\u53ca\u672c\u5730\u7528\u91cf\u9762\u677f",
+  "lang": "JavaScript",
+  "name": "WhiteBr1ck/agy-powertools",
+  "node_id": "R_kgDOVw71lQ",
+  "topics": [
+   "antigravity",
+   "antigravity-plugin",
+   "codex",
+   "telemetry",
+   "ui-enhancement"
+  ]
  },
  "1460630890": {
   "created_at": "2026-11-16T22:14:27Z",
@@ -595358,6 +595751,23 @@
   "node_id": "R_kgDOVxJCjA",
   "topics": []
  },
+ "1460818178": {
+  "created_at": "2026-11-17T02:29:33Z",
+  "desc": "WeMM-Video is a family of omni-modal foundation models by WeChat Vision at Tencent, excelling in omni-modal video understanding and reasoning while maintaining top-tier capabilities across general audio, image, and text.",
+  "lang": "Python",
+  "name": "Tencent/WeMM-Video",
+  "node_id": "R_kgDOVxJRAg",
+  "topics": [
+   "audio-reasoning",
+   "audio-understanding",
+   "audio-visual-reasoning",
+   "multimodal-llm",
+   "omni-modal",
+   "video-reasoning",
+   "video-understanding",
+   "wechat"
+  ]
+ },
  "1460835528": {
   "created_at": "2026-11-17T02:51:06Z",
   "desc": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
@@ -595379,9 +595789,21 @@
    "tracing"
   ]
  },
+ "1460846420": {
+  "created_at": "2026-11-17T03:05:03Z",
+  "desc": "AI Creative Companion for Stunning Presentations, Posters & Videos",
+  "lang": "JavaScript",
+  "name": "cheso-ai-platform/dsh-cheso-design",
+  "node_id": "R_kgDOVxK_VA",
+  "topics": [
+   "chesol",
+   "deepseek-harness",
+   "dsh-plugin"
+  ]
+ },
  "1460848622": {
   "created_at": "2026-11-17T03:07:57Z",
-  "desc": "MCP server that lets AI coding agents in any harness find and message each other: one list, tags, multicast, * bus.",
+  "desc": "Let your AI agents discover and talk freely to each other - cross-harness, even cross-machine. Remote control them from any device, anywhere.",
   "lang": "TypeScript",
   "name": "yocontra/pulsar",
   "node_id": "R_kgDOVxLH7g",
@@ -595395,6 +595817,14 @@
    "multi-agent",
    "opencode"
   ]
+ },
+ "1460851858": {
+  "created_at": "2026-11-17T03:12:14Z",
+  "desc": "Windows desktop AI workbench beyond chat. Hand an agent a project folder to read, search, edit and run commands within your permissions. It connects over SSH to manage remote server directories. A built-in Work Director tracks tasks and alerts you on stalls, drift or waiting actions. All prompts, knowledge, logs and keys stay local",
+  "lang": "JavaScript",
+  "name": "Easyblue11/ezness",
+  "node_id": "R_kgDOVxLUkg",
+  "topics": []
  },
  "1460853104": {
   "created_at": "2026-11-17T03:13:58Z",
@@ -595415,6 +595845,14 @@
    "self-hosted",
    "selfhosted"
   ]
+ },
+ "1460930168": {
+  "created_at": "2026-11-17T04:54:36Z",
+  "desc": "Analog film-inspired photographic finishing for ComfyUI, featuring 50 film emulsions, adjustable Emulsion Response, optical effects, film grain, procedural texture, and automatic NVIDIA CUDA acceleration with CPU fallback.",
+  "lang": "JavaScript",
+  "name": "zuanfilm/Zuanfilm-Retrolab",
+  "node_id": "R_kgDOVxQGeA",
+  "topics": []
  },
  "1460945100": {
   "created_at": "2026-11-17T05:13:57Z",
@@ -595438,6 +595876,14 @@
   "lang": "JavaScript",
   "name": "nv-minh/drawing-excalidraw-figures",
   "node_id": "R_kgDOVxSndA",
+  "topics": []
+ },
+ "1460981847": {
+  "created_at": "2026-11-17T05:59:04Z",
+  "desc": "Mac \u4e0a AI \u684c\u9762\u5e94\u7528\u7684\u5f00\u673a\u52a8\u753b\uff08\u4e0d\u4fee\u6539\u5e94\u7528\u672c\u4f53\uff09\u00b7 Boot animations for AI desktop apps on macOS",
+  "lang": "C#",
+  "name": "wynneceles/ai-boot-animations",
+  "node_id": "R_kgDOVxTQVw",
   "topics": []
  },
  "1461016250": {
@@ -595498,7 +595944,7 @@
  },
  "1461133538": {
   "created_at": "2026-11-17T08:38:53Z",
-  "desc": "Google Antigravity \u7684 Codex \u98ce\u683c\u6d45\u8272\u4e0e\u6df1\u8272\u4e3b\u9898\uff0c\u652f\u6301\u7b80\u4f53\u4e2d\u6587\u754c\u9762\u3001\u5b9e\u65f6\u4f1a\u8bdd\u72b6\u6001\u548c\u6bcf\u8f6e Token \u7edf\u8ba1\u3002\u4e3b\u9898\u3001\u6c49\u5316\u548cToken\u7edf\u8ba1\u6a21\u5757\u53ef\u6309\u9700\u5b89\u88c5\u3002\u5168\u7a0b\u4e0d\u4fee\u6539 Antigravity \u5b89\u88c5\u5305\u672c\u4f53\u6587\u4ef6\u3002",
+  "desc": "Google Antigravity \u7684 Codex \u98ce\u683c\u6d45\u8272\u4e0e\u6df1\u8272\u4e3b\u9898\uff0c\u652f\u6301\u7b80\u4f53\u4e2d\u6587\u754c\u9762\u3001\u5b9e\u65f6\u4f1a\u8bdd\u72b6\u6001\u548c\u6bcf\u8f6e Token \u7edf\u8ba1\u3002\u4e3b\u9898\u3001\u6c49\u5316\u548cToken\u7edf\u8ba1\u6a21\u5757\u53ef\u6309\u9700\u5b89\u88c5\u4e0e\u4fee\u6539\u3002\u5168\u7a0b\u4e0d\u4fee\u6539 Antigravity \u5b89\u88c5\u5305\u672c\u4f53\u6587\u4ef6\u3002",
   "lang": "JavaScript",
   "name": "nkjDSLcvanv/antigravity-codex-theme",
   "node_id": "R_kgDOVxcg4g",
@@ -595543,6 +595989,20 @@
    "workers"
   ]
  },
+ "1461198162": {
+  "created_at": "2026-11-17T09:39:55Z",
+  "desc": "CoreGold \u8fdb\u9636\u5b89\u5168\u8fd0\u7ef4\u4e0e FinOps \u6cbb\u7406\u6307\u5357\uff1a\u6df1\u5ea6\u89e3\u6790\u5982\u4f55\u901a\u8fc7\u5355\u5361\u786c\u9650\u989d\u3001\u52a8\u6001 AVS \u5730\u5740\u5bf9\u9f50\u4e0e\u751f\u547d\u5468\u671f\u7ba1\u7406\uff0c\u5168\u9762\u89c4\u907f\u6d77\u5916 AI \u8ba2\u9605\u7684\u81ea\u52a8\u7eed\u8d39\u6f0f\u6d1e\u4e0e\u9ad8\u9891\u811a\u672c\u6b7b\u5faa\u73af\u98ce\u9669\u3002",
+  "lang": "",
+  "name": "kamdavad2152-bit/coregold-usdt-vcc-advanced-safety-finops-guide",
+  "node_id": "R_kgDOVxgdUg",
+  "topics": [
+   "ai",
+   "apple",
+   "applepay",
+   "avs",
+   "coregold"
+  ]
+ },
  "1461201061": {
   "created_at": "2026-11-17T09:42:29Z",
   "desc": "AI filmmaking on your own GPUs: a self-hosted studio that generates short videos with sound and still images.",
@@ -595560,6 +596020,70 @@
    "video-generation"
   ]
  },
+ "1461210579": {
+  "created_at": "2026-11-17T09:50:52Z",
+  "desc": "Coregold \u94f6\u884c\u5361\u7533\u8bf7\u3001\u5145\u503c\u4ee5\u53ca\u7ed1\u5b9a Apple Pay \u548c Google Pay \u7684\u6307\u5357",
+  "lang": "",
+  "name": "migasahara-ship-it/coregold-usdt-vcc-apple-pay-google-pay-setup-guide",
+  "node_id": "R_kgDOVxhN0w",
+  "topics": [
+   "ai",
+   "api",
+   "coregold",
+   "ustd",
+   "vcc",
+   "visa"
+  ]
+ },
+ "1461235210": {
+  "created_at": "2026-11-17T10:13:09Z",
+  "desc": "\u795e\u706f \u00b7 \u4e1c\u65b9\u5fc3\u7406\u5b66\uff08\u6cbb\u6839\u4e0d\u6cbb\u8868\uff0c\u770b\u89c1\u4eba\u5fc3\uff09\u2014\u2014\u4e00\u5957\u65b9\u6cd5\u89e3\u51b3\u60c5\u7eea\u3001\u5173\u7cfb\u3001\u5546\u4e1a\u4e09\u7c7b\u95ee\u9898\uff0c\u5f00\u6e90\u514d\u8d39",
+  "lang": "",
+  "name": "txga01Lwz/shendeng",
+  "node_id": "R_kgDOVxiuCg",
+  "topics": [
+   "chinese-psychology",
+   "counseling",
+   "eastern-psychology",
+   "emotional-management",
+   "mental-health",
+   "psychology",
+   "shendeng"
+  ]
+ },
+ "1461235488": {
+  "created_at": "2026-11-17T10:13:26Z",
+  "desc": "\u7acb\u8db3 Anthropic \u51b2\u523a 1.4 \u4e07\u4ebf\u7f8e\u5143\u4f30\u503c IPO \u4e0e\u4f01\u4e1a\u7ea7 Claude \u56e2\u961f\u5e2d\u4f4d\u91c7\u8d2d\u70ed\u70b9\uff0c\u6df1\u5ea6\u89e3\u6790\u8de8\u5883\u56e2\u961f\u5728\u6279\u91cf\u5f00\u901a AI \u751f\u4ea7\u529b\u5de5\u5177\u65f6\u906d\u9047\u7684 Stripe \u62d2\u4ed8\u4e0e\u201c\u5e7d\u7075\u9000\u6b3e\u201d\u98ce\u63a7\uff0c\u7ed9\u51fa CoreGold \u5546\u4e1a\u865a\u62df\u5361\uff08VCC\uff09+ USDT + Apple Pay \u96f6\u5173\u8054\u4f01\u4e1a\u7ea7\u91c7\u8d2d\u65b9\u6848\u3002",
+  "lang": "",
+  "name": "celiarceron-byte/virtual-card-usdt-anthropic-enterprise-claude-team-vcc",
+  "node_id": "R_kgDOVxivIA",
+  "topics": [
+   "anthropic",
+   "anthropic-ai",
+   "anthropic-skills",
+   "card",
+   "coregold"
+  ]
+ },
+ "1461242087": {
+  "created_at": "2026-11-17T10:19:18Z",
+  "desc": "Free, open-source stream clipper: finds the best moments in Twitch/YouTube/Kick streams, clips live streams, renders ready-to-post Shorts and editable CapCut drafts. Runs on Colab.",
+  "lang": "Python",
+  "name": "alokbaraii/streamclipper",
+  "node_id": "R_kgDOVxjI5w",
+  "topics": [
+   "capcut",
+   "clipping",
+   "colab",
+   "gta6",
+   "livestream",
+   "opusclip-alternative",
+   "shorts-generator",
+   "twitch",
+   "whisper",
+   "youtube-shorts"
+  ]
+ },
  "1461244802": {
   "created_at": "2026-11-17T10:21:54Z",
   "desc": "",
@@ -595567,6 +596091,32 @@
   "name": "gylive/google-ultra",
   "node_id": "R_kgDOVxjTgg",
   "topics": []
+ },
+ "1461245633": {
+  "created_at": "2026-11-17T10:22:39Z",
+  "desc": "\u7ed3\u5408 Oracle \u8054\u5408 OpenAI \u63a8\u51fa\u8de8\u5e73\u53f0 AI \u6210\u672c\u4e2d\u5fc3\uff08Oracle Cost Advisor for AI\uff09\u7684\u70ed\u70b9\uff0c\u7280\u5229\u6307\u51fa\u8f6f\u4ef6\u5c42\u9884\u7b97\u544a\u8b66\u5b58\u5728\u81f4\u547d\u5ef6\u8fdf\uff0c\u7ed9\u51fa\u901a\u8fc7 CoreGold \u5546\u4e1a\u865a\u62df\u5361\uff08VCC\uff09+ USDT \u5728\u94f6\u884c\u6e05\u7b97\u5e95\u5c42\u5b9e\u73b0\u7269\u7406\u65ad\u7535\u7ea7\u9884\u7b97\u7194\u65ad\u7684\u786c\u6838\u89e3\u6790\u3002",
+  "lang": "",
+  "name": "abubakkarabdulzalil-bit/virtual-card-usdt-oracle-openai-cost-advisor-vcc-finops",
+  "node_id": "R_kgDOVxjWwQ",
+  "topics": [
+   "anthropic",
+   "coregold",
+   "oci",
+   "openai"
+  ]
+ },
+ "1461257056": {
+  "created_at": "2026-11-17T10:33:23Z",
+  "desc": "\u501f\u52bf Google \u672c\u5468\u53d1\u5e03 Gemini Omni 1.2 Flash \u89c6\u9891\u751f\u6210\u5927\u6a21\u578b\u5e76\u4e0b\u8c03 30% \u4ef7\u683c\u7684\u70ed\u70b9\uff0c\u9488\u5bf9\u51fa\u6d77\u77ed\u5267\u3001\u8de8\u5883\u7535\u5546\u89c6\u89c9\u4e0e\u591a\u5f00\u77e9\u9635\u5de5\u4f5c\u5ba4\uff0c\u7ed9\u51fa CoreGold \u5546\u4e1a\u865a\u62df\u5361\uff08VCC\uff09+ USDT + Apple Pay \u7684\u9632\u5173\u8054\u4e0e\u5927\u989d\u8ba2\u9605\u7834\u5c40\u5b9e\u6218\u3002",
+  "lang": "",
+  "name": "lepatjing828-beep/virtual-card-usdt-gemini-omni-1-2-flash-video-vcc",
+  "node_id": "R_kgDOVxkDYA",
+  "topics": [
+   "card",
+   "coregold",
+   "goolgle",
+   "goolgle-maps-leads"
+  ]
  },
  "1461260051": {
   "created_at": "2026-11-17T10:36:05Z",
@@ -595603,6 +596153,28 @@
    "nsh"
   ]
  },
+ "1461278597": {
+  "created_at": "2026-11-17T10:53:21Z",
+  "desc": "Glasshour is a custom Chrome new tab page inspired by Apple's Liquid Glass. Built with vanilla HTML, CSS, and JavaScript (Manifest V3), it includes an analog clock, Google search with image/AI/voice tools, a calendar, quick links, open-tab search, and one-click switching between Chrome windows.",
+  "lang": "CSS",
+  "name": "wittiden/glasshour",
+  "node_id": "R_kgDOVxlXhQ",
+  "topics": [
+   "analog-clock",
+   "calendar",
+   "chrome-extension",
+   "chrome-new-tab",
+   "dark-theme",
+   "google-search",
+   "javascript",
+   "liquid-glass",
+   "mainfest-v3",
+   "minimal-ui",
+   "quick-links",
+   "tab-search",
+   "window-switcher"
+  ]
+ },
  "1461307709": {
   "created_at": "2026-11-17T11:21:19Z",
   "desc": "A Claude Code skill that draws animated explainers like patent sheets",
@@ -595621,9 +596193,17 @@
    "python"
   ]
  },
+ "1461378691": {
+  "created_at": "2026-11-17T12:27:40Z",
+  "desc": "",
+  "lang": "JavaScript",
+  "name": "naichashu66/opus50-entropy",
+  "node_id": "R_kgDOVxregw",
+  "topics": []
+ },
  "1461389880": {
   "created_at": "2026-11-17T12:37:57Z",
-  "desc": "\u9762\u5411\u4e2d\u56fd\u4e13\u5229\u64b0\u5199\u7684\u672c\u5730\u5de5\u4f5c\u53f0\uff0c\u652f\u6301\u53d1\u660e\u4e0e\u5b9e\u7528\u65b0\u578b\u4e94\u4e66\u7f16\u8f91\u3001\u4e13\u5229\u5e93\u7ba1\u7406\u3001\u4e8c\u7ef4 CAD\u3001\u6587\u6863\u68c0\u67e5\u3001AI \u8f85\u52a9\u53ca Word/PDF \u5bfc\u51fa\u3002GPL-3.0 \u5f00\u6e90\u3002",
+  "desc": "\u9762\u5411\u4e2d\u56fd\u4e13\u5229\u64b0\u5199\u7684\u4e13\u4e1a\u7f16\u8f91\u5668\uff0c\u652f\u6301\u53d1\u660e\u3001\u5b9e\u7528\u65b0\u578b\u4e94\u4e66\u7f16\u8f91\u548c\u5916\u89c2\u8bbe\u8ba1\u4e13\u5229\u6750\u6599\u6574\u7406\uff0c\u63d0\u4f9b\u4e13\u5229\u5e93\u7ba1\u7406\u3001\u4e8c\u7ef4 CAD\u3001\u6587\u6863\u68c0\u67e5\u3001AI \u8f85\u52a9\u53ca Word/PDF \u5bfc\u51fa\u3002GPL-3.0 \u5f00\u6e90\u3002",
   "lang": "TypeScript",
   "name": "chuxuan861119/zhichan-xiaozhan-work",
   "node_id": "R_kgDOVxsKOA",
@@ -595721,6 +596301,26 @@
    "ollama",
    "opencode",
    "video-editing"
+  ]
+ },
+ "1461576462": {
+  "created_at": "2026-11-17T15:10:10Z",
+  "desc": "Sound as code: a 15M-parameter, from-scratch caption-to-audio engine for agents. Caption -> JSON Spec -> 48 kHz DSP.",
+  "lang": "Python",
+  "name": "stdevMac/orb-audio",
+  "node_id": "R_kgDOVx3jDg",
+  "topics": [
+   "agents",
+   "audio",
+   "dsp",
+   "mcp",
+   "motion-design",
+   "numpy",
+   "procedural-audio",
+   "pytorch",
+   "sound-design",
+   "sound-effects",
+   "text-to-audio"
   ]
  },
  "1461578345": {
@@ -596018,12 +596618,28 @@
   "node_id": "R_kgDOVyI8sQ",
   "topics": []
  },
+ "1461867066": {
+  "created_at": "2026-11-17T19:18:55Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "augsidius/clinestra",
+  "node_id": "R_kgDOVyJSOg",
+  "topics": []
+ },
  "1461875775": {
   "created_at": "2026-11-17T19:27:21Z",
   "desc": "Fine-tuned Qwen2.5-Coder-32B (SFT + GRPO) for KiCad PCB architectural layout planning, routing strategy, and 23-board frontier benchmark",
   "lang": "Python",
   "name": "Ssbullock/pcb-layout-llm",
   "node_id": "R_kgDOVyJ0Pw",
+  "topics": []
+ },
+ "1461905756": {
+  "created_at": "2026-11-17T19:57:11Z",
+  "desc": "24 moves for Google's AI features, ranked in tiers, with copy-paste prompts. 561K AI impressions in 90 days.",
+  "lang": "",
+  "name": "gc-digital-net/google-ai-features-tiers",
+  "node_id": "R_kgDOVyLpXA",
   "topics": []
  },
  "1461909001": {
@@ -596050,12 +596666,28 @@
   "node_id": "R_kgDOVyNqdQ",
   "topics": []
  },
+ "1461983296": {
+  "created_at": "2026-11-17T21:19:00Z",
+  "desc": "Local animated captions and beat-synced lyric videos. 26 styles for Codex, Claude Code and the command line.",
+  "lang": "TypeScript",
+  "name": "0xpratzyy/subtle",
+  "node_id": "R_kgDOVyQYQA",
+  "topics": []
+ },
  "1461992873": {
   "created_at": "2026-11-17T21:30:14Z",
   "desc": "FastFrames: Video Generation at Interactive Latency",
   "lang": "Python",
   "name": "apple-aiml-research/ml-fastframes",
   "node_id": "R_kgDOVyQ9qQ",
+  "topics": []
+ },
+ "1462216060": {
+  "created_at": "2026-11-18T02:23:22Z",
+  "desc": "\u5ba2\u670d\u667a\u80fd\u4f53\u7cfb\u7edf",
+  "lang": "Go",
+  "name": "comeonfan08-cmd/agent-desk",
+  "node_id": "R_kgDOVyelfA",
   "topics": []
  },
  "1462222533": {
@@ -596082,6 +596714,25 @@
    "dsh-plugin"
   ]
  },
+ "1462349786": {
+  "created_at": "2026-11-18T05:17:49Z",
+  "desc": "Open source, self-hosted helpdesk built with Rails 8. Customer emails become tickets your team answers from one shared inbox.",
+  "lang": "Ruby",
+  "name": "royalpriest/helpdesk",
+  "node_id": "R_kgDOVymv2g",
+  "topics": [
+   "customer-support",
+   "helpdesk",
+   "hotwire",
+   "open-source",
+   "rails",
+   "ruby",
+   "self-hosted",
+   "shared-inbox",
+   "sqlite",
+   "ticketing-system"
+  ]
+ },
  "1462358670": {
   "created_at": "2026-11-18T05:29:00Z",
   "desc": "[arXiv] Jeveration: System One Models Now Generate. https://arxiv.org/abs/2611.24738",
@@ -596105,6 +596756,59 @@
   "node_id": "R_kgDOVypxrw",
   "topics": []
  },
+ "1462447466": {
+  "created_at": "2026-11-18T07:12:15Z",
+  "desc": "\u591a Agent \u6570\u636e\u7ed3\u8bba\u5ba1\u67e5\u4e0e\u590d\u73b0\u7cfb\u7edf \u00b7 CSV claim verification, independent review and reproducible evidence",
+  "lang": "Python",
+  "name": "shmzl1/data-claim-auditor",
+  "node_id": "R_kgDOVystag",
+  "topics": []
+ },
+ "1462490079": {
+  "created_at": "2026-11-18T07:57:43Z",
+  "desc": "Free Claude Code skills that clip GTA 6 streams into ready-to-post vertical clips (finished + live). Mac only.",
+  "lang": "Python",
+  "name": "vossashtonai/gta6-clipper",
+  "node_id": "R_kgDOVyvT3w",
+  "topics": []
+ },
+ "1462519466": {
+  "created_at": "2026-11-18T08:28:41Z",
+  "desc": "Hub IA local et portable pour Windows : Claude, ChatGPT et Grok dans une seule fen\u00eatre.",
+  "lang": "JavaScript",
+  "name": "Underspace1/relais",
+  "node_id": "R_kgDOVyxGqg",
+  "topics": []
+ },
+ "1462535793": {
+  "created_at": "2026-11-18T08:45:01Z",
+  "desc": "\u9488\u5bf9 OpenAI GPT-6 \u5f00\u542f\u7684\u9ad8\u5e76\u53d1\u5fae\u989d\u6263\u6b3e\uff08Auto-Topup\uff09\u98ce\u63a7\uff0c\u624b\u628a\u624b\u6559\u4f60\u5982\u4f55\u5f00\u901a\u7f8e\u56fd\u5546\u4e1a\u5361\u6bb5\u3001\u914d\u7f6e\u5317\u7f8e\u771f\u5b9e AVS\uff0c\u4e00\u5206\u949f\u6253\u901a\u5b98\u65b9 ChatGPT \u5145\u503c\u901a\u9053\u3002",
+  "lang": "",
+  "name": "laurencianaadina-gif/coregold-usdt-vcc-openai-gpt6-billing-bypass-guide",
+  "node_id": "R_kgDOVyyGcQ",
+  "topics": [
+   "chatgpt",
+   "chatgpt-api",
+   "coregold",
+   "gpt6",
+   "saas",
+   "vcc"
+  ]
+ },
+ "1462565262": {
+  "created_at": "2026-11-18T09:13:10Z",
+  "desc": "\u4fdd\u59c6\u7ea7\u624b\u628a\u624b\u6559\u4f60\u5982\u4f55\u5c06 CoreGold USDT \u865a\u62df\u5361\u6302\u8f7d\u5230\u7f8e\u533a Apple Wallet\uff0c\u5229\u7528 Apple Pay \u7684\u786c\u4ef6\u7ea7\u5b89\u5168\u82af\u7247\uff08DPAN\uff09\u5b9e\u73b0\u7f51\u9875\u548c App \u5185\u8d2d\u4e00\u79d2\u9762\u5bb9\u89e3\u9501\u3002",
+  "lang": "",
+  "name": "anqimouty907-byte/coregold-usdt-vcc-apple-wallet-face-id-pay-guide",
+  "node_id": "R_kgDOVyz5jg",
+  "topics": [
+   "apple",
+   "applepay",
+   "applewallet",
+   "coregold",
+   "visa"
+  ]
+ },
  "1462568199": {
   "created_at": "2026-11-18T09:15:57Z",
   "desc": "\u4e2d\u79d1\u5927\u672c\u79d1\u8bfe\u7a0b\u8d44\u6599\u5bfc\u822a",
@@ -596118,12 +596822,50 @@
    "ustc"
   ]
  },
+ "1462582734": {
+  "created_at": "2026-11-18T09:29:48Z",
+  "desc": "Claude Code plugin for building and redesigning sites in a monochrome, editorial, photography-led style: Geist type, a 5px rhythm, glass instead of shadows, buttery motion, and isometric hairline illustrations.",
+  "lang": "Python",
+  "name": "iamshakibali/editorial-taste",
+  "node_id": "R_kgDOVy09zg",
+  "topics": [
+   "claude-code",
+   "claude-code-plugin",
+   "claude-skills",
+   "design-system",
+   "editorial-design",
+   "monochrome",
+   "typography",
+   "web-design"
+  ]
+ },
+ "1462586416": {
+  "created_at": "2026-11-18T09:33:11Z",
+  "desc": "\u9762\u5411\u7a0b\u5e8f\u5458\u548c\u72ec\u7acb\u5f00\u53d1\u8005\uff0c\u6559\u4f60\u5982\u4f55\u7528 CoreGold \u865a\u62df\u5361\u4e00\u5206\u949f\u641e\u5b9a Cursor Pro\u3001GitHub Copilot \u53ca Claude Code \u7684\u9ad8\u9891\u7eed\u8d39\u4e0e\u9632\u9501\u5361\u3002",
+  "lang": "",
+  "name": "ingridha894-ship-it/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide",
+  "node_id": "R_kgDOVy1MMA",
+  "topics": [
+   "bin",
+   "claude",
+   "code",
+   "coregold"
+  ]
+ },
  "1462594485": {
   "created_at": "2026-11-18T09:40:43Z",
   "desc": "Mini Agent",
   "lang": "Python",
   "name": "ntu0831/mini-agent",
   "node_id": "R_kgDOVy1rtQ",
+  "topics": []
+ },
+ "1462605053": {
+  "created_at": "2026-11-18T09:50:21Z",
+  "desc": "A Claude Code skill that rebuilds any industry as a live simulator in the format of a reference video: toy-scale models built by subagents, a product UI, one camera, a collision sweep, a 60 fps film.",
+  "lang": "JavaScript",
+  "name": "Nyxera0x/simulator",
+  "node_id": "R_kgDOVy2U_Q",
   "topics": []
  },
  "1462633759": {
@@ -596134,6 +596876,22 @@
   "node_id": "R_kgDOVy4FHw",
   "topics": []
  },
+ "1462688298": {
+  "created_at": "2026-11-18T11:10:15Z",
+  "desc": "An endless procedural voxel flight sim on a 64x64 OLED and an ESP32-C3 SuperMini. Vibe coded with Claude as a hardware stress test.",
+  "lang": "C++",
+  "name": "lewtheegg/voxel-flight",
+  "node_id": "R_kgDOVy7aKg",
+  "topics": []
+ },
+ "1462712334": {
+  "created_at": "2026-11-18T11:33:19Z",
+  "desc": "IDE de escritorio open source con agentes multi-proveedor, cualquier modelo y herramientas de desarrollo.",
+  "lang": "JavaScript",
+  "name": "dario90vlc/opengravity",
+  "node_id": "R_kgDOVy84Dg",
+  "topics": []
+ },
  "1462726080": {
   "created_at": "2026-11-18T11:47:13Z",
   "desc": "",
@@ -596142,9 +596900,49 @@
   "node_id": "R_kgDOVy9twA",
   "topics": []
  },
+ "1462773032": {
+  "created_at": "2026-11-18T12:31:22Z",
+  "desc": "Native WebKit browser panes for Rex",
+  "lang": "Swift",
+  "name": "acoyfellow/rexweb",
+  "node_id": "R_kgDOVzAlKA",
+  "topics": [
+   "browser",
+   "macos",
+   "rex",
+   "rex-terminal",
+   "superlogical",
+   "terminal",
+   "webkit"
+  ]
+ },
+ "1462859162": {
+  "created_at": "2026-11-18T13:47:06Z",
+  "desc": "One command from branch name to a fully set up worktree with Claude Code running inside it",
+  "lang": "TypeScript",
+  "name": "svaraborut/work3",
+  "node_id": "R_kgDOVzF1mg",
+  "topics": []
+ },
+ "1462891543": {
+  "created_at": "2026-11-18T14:14:01Z",
+  "desc": "Crypto trading skills for AI assistants on bytx: MCP server + CLI + Claude skills. Paper by default, never without your yes.",
+  "lang": "Python",
+  "name": "byttrade/bytx-skills",
+  "node_id": "R_kgDOVzH0Fw",
+  "topics": []
+ },
+ "1462968997": {
+  "created_at": "2026-11-18T15:17:53Z",
+  "desc": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS.",
+  "lang": "Python",
+  "name": "hoangsvit/google-ai",
+  "node_id": "R_kgDOVzMipQ",
+  "topics": []
+ },
  "1462981613": {
   "created_at": "2026-11-18T15:28:22Z",
-  "desc": "\u5728 DeepSeek Harness \u91cc\u52a0\u4e00\u4e2a\u548c\u7f51\u9875\u7248\u4e00\u6a21\u4e00\u6837\u7684\u5bf9\u8bdd\u9762\u677f\uff1a\u5b98\u65b9\u754c\u9762\uff0c\u4e0d\u7528\u586b API Key\uff0c\u4e0d\u53d7\u5b98\u7f51\u9650\u989d\u5f71\u54cd\u3002",
+  "desc": "\u5728 DeepSeek Harness \u91cc\u4f7f\u7528 DeepSeek \u7f51\u9875\u7248\u804a\u5929 | The authentic DeepSeek web chat inside DeepSeek Harness (DSH).",
   "lang": "JavaScript",
   "name": "YinkaiYu/chat-in-dsh",
   "node_id": "R_kgDOVzNT7Q",
@@ -596206,9 +597004,17 @@
    "youtube-shorts"
   ]
  },
+ "1463170065": {
+  "created_at": "2026-11-18T18:14:27Z",
+  "desc": "Tr\u00ecnh t\u00f9y bi\u1ebfn giao di\u1ec7n n\u1ec1n \u0111\u1ed9ng, Boot HUD v\u00e0 hi\u1ec7u \u1ee9ng k\u00ednh m\u1edd cho Antigravity",
+  "lang": "JavaScript",
+  "name": "furinamikuvn/antigravity-custom-theme-mod",
+  "node_id": "R_kgDOVzY0EQ",
+  "topics": []
+ },
  "1463353375": {
   "created_at": "2026-11-18T21:23:52Z",
-  "desc": "SADL: Supply And Demand Loss for self-supervised representation learning. A drop-in, one-sided encoder constraint that prevents representation collapse across regularizers, architectures and domains, with no extra networks or parameters.",
+  "desc": "Demand And Supply Loss for self-supervised representation learning. A drop-in, one-sided encoder constraint that prevents representation collapse across regularizers, architectures and domains, with no extra networks or parameters.",
   "lang": "Python",
   "name": "zju3dv/SADL",
   "node_id": "R_kgDOVzkAHw",
@@ -596218,6 +597024,28 @@
    "representation-learning",
    "self-supervised-learning",
    "world-models"
+  ]
+ },
+ "1463386037": {
+  "created_at": "2026-11-18T22:03:15Z",
+  "desc": "Eight live ASCII wallpapers behind the chat in Claude Desktop",
+  "lang": "TypeScript",
+  "name": "Handsher/ascii-wallpapers",
+  "node_id": "R_kgDOVzl_tQ",
+  "topics": []
+ },
+ "1463416046": {
+  "created_at": "2026-11-18T22:42:16Z",
+  "desc": "AI Software Factory running on Kubernetes / OpenShift with Tekton and vLLM",
+  "lang": "Dockerfile",
+  "name": "piomin/ai-software-factory",
+  "node_id": "R_kgDOVzn07g",
+  "topics": [
+   "claude-code",
+   "kubernetes",
+   "opencode",
+   "tekton",
+   "vllm"
   ]
  },
  "1463430579": {
@@ -596235,6 +597063,97 @@
    "golang"
   ]
  },
+ "1463479607": {
+  "created_at": "2026-11-19T00:16:48Z",
+  "desc": "Cleaner MiniMax-H3-Image text-to-image in ComfyUI: Steering and a Re-Noise Sampler against grainy fine texture, and a Resolution Selector up to 256 MP.",
+  "lang": "Python",
+  "name": "PedroMarinhoDev/ComfyUI-H3-Image-EasyFix",
+  "node_id": "R_kgDOVzrtNw",
+  "topics": []
+ },
+ "1463493568": {
+  "created_at": "2026-11-19T00:37:28Z",
+  "desc": "Instead of system on a chip, system on an agent. Planner, memory and skills, connectors, and a bus in one agent.",
+  "lang": "Python",
+  "name": "fitzyracing1/system-on-an-agent",
+  "node_id": "R_kgDOVzsjwA",
+  "topics": [
+   "agent-framework",
+   "ai-agents",
+   "cli",
+   "llm",
+   "memory",
+   "planner",
+   "plugins",
+   "python",
+   "soc",
+   "system-on-an-agent"
+  ]
+ },
+ "1463538330": {
+  "created_at": "2026-11-19T01:39:36Z",
+  "desc": "Reddit monitoring and lead generation tool, open source and self-hosted. Watches the subreddits where your customers ask for help, scores posts with    your own AI key, and drafts replies and DMs you send yourself.",
+  "lang": "TypeScript",
+  "name": "Octosift/OctoSift",
+  "node_id": "R_kgDOVzvSmg",
+  "topics": [
+   "brand-monitoring",
+   "f5bot-alternative",
+   "gummysearch-alternative",
+   "lead-generation",
+   "open-source",
+   "reddit",
+   "reddit-marketing",
+   "reddit-monitoring",
+   "self-hosted",
+   "social-listening"
+  ]
+ },
+ "1463576505": {
+  "created_at": "2026-11-19T02:33:00Z",
+  "desc": "Skillto.ai|\u4e2a\u4eba\u5de5\u4f5c\u53f0",
+  "lang": "Python",
+  "name": "skilltoAI/skillto-ai-studio",
+  "node_id": "R_kgDOVzxnuQ",
+  "topics": []
+ },
+ "1463664909": {
+  "created_at": "2026-11-19T04:34:09Z",
+  "desc": "Self-hosted personal AI agent: research, a live browser, reminders and small apps, with approvals before actions. Runs on your own computer with an OpenAI key.",
+  "lang": "TypeScript",
+  "name": "replit/amuse",
+  "node_id": "R_kgDOVz3BDQ",
+  "topics": [
+   "ai-agent",
+   "browser-automation",
+   "openai",
+   "personal-assistant",
+   "postgresql",
+   "self-hosted",
+   "typescript"
+  ]
+ },
+ "1463683138": {
+  "created_at": "2026-11-19T04:58:46Z",
+  "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+  "lang": "TypeScript",
+  "name": "INK-Q/agy-fast",
+  "node_id": "R_kgDOVz4IQg",
+  "topics": [
+   "ai-coding",
+   "antigravity",
+   "coding-agent",
+   "developer-tools",
+   "gemini",
+   "google-antigravity",
+   "latency-optimization",
+   "mcp",
+   "mcp-server",
+   "performance",
+   "plugin",
+   "token-optimization"
+  ]
+ },
  "1463762552": {
   "created_at": "2026-11-19T06:37:11Z",
   "desc": "\u4e00\u4e2a\u53ef\u63d2\u62d4\u3001\u53ef\u89c2\u6d4b\u7684\u6a21\u5757\u5316 RAG\uff08\u68c0\u7d22\u589e\u5f3a\u751f\u6210\uff09\u670d\u52a1\u6846\u67b6",
@@ -596242,6 +597161,29 @@
   "name": "ntu0831/RAG-MCP-Server",
   "node_id": "R_kgDOVz8-eA",
   "topics": []
+ },
+ "1463792716": {
+  "created_at": "2026-11-19T07:10:12Z",
+  "desc": "MEP (Motion Edit Protocol) \u2014 open file-based protocol that lets any AI assistant edit a video project",
+  "lang": "JavaScript",
+  "name": "adunext/mep",
+  "node_id": "R_kgDOVz-0TA",
+  "topics": []
+ },
+ "1463810910": {
+  "created_at": "2026-11-19T07:29:48Z",
+  "desc": "\u7eaf\u5c0f\u767d\u5fc5\u770b\u7684 USDT \u5165\u91d1\u5b9e\u64cd\u624b\u518c\uff1a\u624b\u628a\u624b\u6559\u4f60\u5982\u4f55\u901a\u8fc7 OKX \u6216\u5e01\u5b89\uff08Binance\uff09\u4f7f\u7528\u652f\u4ed8\u5b9d/\u5fae\u4fe1\u5feb\u6377\u4e70\u5e01\uff0c\u5e76\u901a\u8fc7 TRC20 \u7f51\u7edc\u96f6\u624b\u7eed\u8d39\u5145\u5165 CoreGold \u540e\u53f0\u3002",
+  "lang": "",
+  "name": "bensafifatima57-svg/coregold-usdt-vcc-okx-binance-fiat-crypto-guide",
+  "node_id": "R_kgDOVz_7Xg",
+  "topics": [
+   "ai",
+   "apple",
+   "applepay",
+   "coregold",
+   "okx",
+   "ustd"
+  ]
  },
  "1463836556": {
   "created_at": "2026-11-19T07:56:28Z",
@@ -596262,6 +597204,31 @@
    "web3"
   ]
  },
+ "1463909536": {
+  "created_at": "2026-11-19T09:09:22Z",
+  "desc": "A nature-grounded world compiler for pixel art. Real physics, imaginary worlds.",
+  "lang": "JavaScript",
+  "name": "trinity-works/frostwind",
+  "node_id": "R_kgDOV0F8oA",
+  "topics": [
+   "agents",
+   "claude-code",
+   "gamedev",
+   "pixel-art",
+   "procedural-generation",
+   "threejs",
+   "webgl",
+   "world-generation"
+  ]
+ },
+ "1463939065": {
+  "created_at": "2026-11-19T09:37:41Z",
+  "desc": "\u9762\u5411\u672c\u5730\u751f\u6d3b\u670d\u52a1\u4e1a\u95e8\u5e97\u7684\u667a\u80fd\u524d\u53f0",
+  "lang": "Python",
+  "name": "ntu0831/smart-service-agent",
+  "node_id": "R_kgDOV0Hv-Q",
+  "topics": []
+ },
  "1463963309": {
   "created_at": "2026-11-19T10:00:43Z",
   "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
@@ -596275,6 +597242,36 @@
    "video",
    "whisper",
    "yt-dlp"
+  ]
+ },
+ "1463970432": {
+  "created_at": "2026-11-19T10:07:30Z",
+  "desc": "ARTEX - LLM multi-agent autonomous pentest system (Go + embedded Next.js + SQLite)",
+  "lang": "Go",
+  "name": "bcyw/ARTEX",
+  "node_id": "R_kgDOV0JqgA",
+  "topics": []
+ },
+ "1464084020": {
+  "created_at": "2026-11-19T11:57:39Z",
+  "desc": "High-performance Android ARM64 .so emulator, zero-copy binary tracer, QuickJS engine, async multi-core RPC & MCP server in pure Rust",
+  "lang": "Rust",
+  "name": "tiwe0/runidbg",
+  "node_id": "R_kgDOV0QmNA",
+  "topics": [
+   "android",
+   "arm64",
+   "binary-analysis",
+   "emulator",
+   "gdb-stub",
+   "jni",
+   "mcp",
+   "quickjs",
+   "reverse-engineering",
+   "rust",
+   "tracer",
+   "unicorn",
+   "unidbg"
   ]
  },
  "1464110482": {
@@ -596304,6 +597301,54 @@
    "office365-activated"
   ]
  },
+ "1464219490": {
+  "created_at": "2026-11-19T13:59:39Z",
+  "desc": "AI code review pipeline that turns agent-written PRs into merge-ready patches",
+  "lang": "TypeScript",
+  "name": "SAIoden/crosscheck",
+  "node_id": "R_kgDOV0Y3Yg",
+  "topics": []
+ },
+ "1464255647": {
+  "created_at": "2026-11-19T14:29:35Z",
+  "desc": "Open TypeScript orchestration layer for ticket-driven agent workflows",
+  "lang": "TypeScript",
+  "name": "SAIoden/jazzband",
+  "node_id": "R_kgDOV0bEnw",
+  "topics": []
+ },
+ "1464255933": {
+  "created_at": "2026-11-19T14:29:50Z",
+  "desc": "A session-attached workflow UI grammar for rendering complex work as linear rails and generic cards.",
+  "lang": "TypeScript",
+  "name": "SAIoden/linear-cards-system",
+  "node_id": "R_kgDOV0bFvQ",
+  "topics": []
+ },
+ "1464257681": {
+  "created_at": "2026-11-19T14:31:20Z",
+  "desc": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+  "lang": "TypeScript",
+  "name": "SAIoden/crm",
+  "node_id": "R_kgDOV0bMkQ",
+  "topics": []
+ },
+ "1464281346": {
+  "created_at": "2026-11-19T14:51:11Z",
+  "desc": "Extension Chrome para descargar MP4 (Video+Audio), MP3 y transcripciones literales en Markdown con yt-dlp, FFmpeg y Gemini",
+  "lang": "JavaScript",
+  "name": "Inglesss/omnistream",
+  "node_id": "R_kgDOV0cpAg",
+  "topics": []
+ },
+ "1464297386": {
+  "created_at": "2026-11-19T15:04:40Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "1251639747jm-ctrl/blockbench-codex-skills",
+  "node_id": "R_kgDOV0dnqg",
+  "topics": []
+ },
  "146435045": {
   "created_at": "2018-08-28T11:04:16Z",
   "desc": "Learn Deep Reinforcement Learning in 60 days! Lectures & Code in Python. Reinforcement Learning + Deep Learning",
@@ -596323,6 +597368,374 @@
    "ppo",
    "qlearning",
    "reinforcement-learning"
+  ]
+ },
+ "1464433140": {
+  "created_at": "2026-11-19T17:04:07Z",
+  "desc": "An open-source AI agent honeypot proof of concept for investigating ARTEX and other autonomous offensive frameworks (AOFs).",
+  "lang": "JavaScript",
+  "name": "tracebit-com/turingpot",
+  "node_id": "R_kgDOV0l59A",
+  "topics": [
+   "ai-agents",
+   "ai-security",
+   "artex",
+   "autonomous-offensive-frameworks",
+   "blue-team",
+   "cloudflare-workers",
+   "cybersecurity",
+   "honeypot",
+   "ja4",
+   "threat-detection",
+   "threat-hunting",
+   "vercel"
+  ]
+ },
+ "1464447512": {
+  "created_at": "2026-11-19T17:17:58Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "Vivian1987/gtavi-claudecode",
+  "node_id": "R_kgDOV0myGA",
+  "topics": []
+ },
+ "1464459999": {
+  "created_at": "2026-11-19T17:30:00Z",
+  "desc": "How to get Adobe Media Encoder 2026",
+  "lang": "Go",
+  "name": "BadgeGrackle/Adobe-Media-Encoder-AI-Latest",
+  "node_id": "R_kgDOV0ni3w",
+  "topics": [
+   "desktop-media-encoder-windows",
+   "highlight-detection",
+   "video-automation",
+   "video-automation-ai",
+   "video-automation-windows",
+   "video-editing",
+   "video-editing-automation",
+   "video-editing-free",
+   "video-editing-software",
+   "video-editing-tools"
+  ]
+ },
+ "1464460009": {
+  "created_at": "2026-11-19T17:30:01Z",
+  "desc": "How to get Adobe After Effects 2026",
+  "lang": "Python",
+  "name": "Clasptredress/Adobe-After-Effects-AI-Latest",
+  "node_id": "R_kgDOV0ni6Q",
+  "topics": [
+   "ae",
+   "after-effects",
+   "after-effects-project-files",
+   "envat",
+   "script"
+  ]
+ },
+ "1464460052": {
+  "created_at": "2026-11-19T17:30:04Z",
+  "desc": "Autodesk AutoCAD 2027  | Desktop Installer with Autodesk AI",
+  "lang": "Python",
+  "name": "ridgesaboteurjam52/Autodesk-AutoCAD-2027-AI",
+  "node_id": "R_kgDOV0njFA",
+  "topics": [
+   "autocad",
+   "autocad-2026-updates",
+   "autocad-community-tools",
+   "autocad-design-hub",
+   "autocad-latest-features",
+   "autocad-productivity-tips",
+   "autocad-professional-tools",
+   "autocad-resource-center",
+   "autocad-resources",
+   "autocad-resources-worldwide",
+   "autocad-skill-building",
+   "autocad-user-network",
+   "autocad-workflow-guide",
+   "autocad-ww",
+   "autocad2026-install"
+  ]
+ },
+ "1464460152": {
+  "created_at": "2026-11-19T17:30:10Z",
+  "desc": "how to get DaVinci Resolve Studio",
+  "lang": "Go",
+  "name": "AntDiscriminate/DaVinci-Resolve-Studio-Latest",
+  "node_id": "R_kgDOV0njeA",
+  "topics": [
+   "davinci-resolve-scripting",
+   "davinci-resolve-studio-crack-windows",
+   "davinci-windows",
+   "resolve-studio-download"
+  ]
+ },
+ "1464642835": {
+  "created_at": "2026-11-19T20:42:12Z",
+  "desc": "OpenMan: open-source autonomous AI agent workspace that runs on your Orgo cloud computer",
+  "lang": "TypeScript",
+  "name": "nickvasilescu/openman",
+  "node_id": "R_kgDOV0ytEw",
+  "topics": []
+ },
+ "1464661463": {
+  "created_at": "2026-11-19T21:03:12Z",
+  "desc": "Z-Image Turbo at full speed on a 6 GB laptop GPU. int8 + SageAttention on stable-diffusion.cpp, the engine behind freeimage.dev.",
+  "lang": "Shell",
+  "name": "mgolcu00/freeimage-local",
+  "node_id": "R_kgDOV0z11w",
+  "topics": [
+   "apple-silicon",
+   "cuda",
+   "int8",
+   "local-ai",
+   "sageattention",
+   "stable-diffusion-cpp",
+   "text-to-image",
+   "z-image"
+  ]
+ },
+ "1464710062": {
+  "created_at": "2026-11-19T22:02:45Z",
+  "desc": "Localize your app the way Apple localizes iOS: a Claude Code skill + CLI that looks up Apple's own translations from a database built locally on your Mac.",
+  "lang": "Python",
+  "name": "ronyfadel/lochness",
+  "node_id": "R_kgDOV02zrg",
+  "topics": []
+ },
+ "1464729322": {
+  "created_at": "2026-11-19T22:28:23Z",
+  "desc": "MiniMax H3 on a 4 GB GTX 1050 Ti: stable-diffusion.cpp memory patches, up to 209 frames (8.7 s) in one pass",
+  "lang": "PowerShell",
+  "name": "alexturkey/VideoTurko",
+  "node_id": "R_kgDOV03-6g",
+  "topics": [
+   "gtx-1050-ti",
+   "image-to-video",
+   "local-ai",
+   "low-vram",
+   "minimax-h3",
+   "offline",
+   "stable-diffusion-cpp",
+   "text-to-video"
+  ]
+ },
+ "1464778407": {
+  "created_at": "2026-11-19T23:40:08Z",
+  "desc": "Generate images from text prompts with Adobe Firefly Image Creator.",
+  "lang": "HTML",
+  "name": "dickoyudha-netizen/adobe-firefly-image-creator",
+  "node_id": "R_kgDOV06-pw",
+  "topics": [
+   "adobe",
+   "ai-art",
+   "computer-vision",
+   "deep-learning",
+   "generative-ai",
+   "graphic-design",
+   "image-generation",
+   "image-processing",
+   "prompt-engineering",
+   "text-to-image"
+  ]
+ },
+ "1464874825": {
+  "created_at": "2026-11-20T02:07:01Z",
+  "desc": "Willow (\u67f3) \u00b7 Windows Token \u7edf\u8ba1\u5de5\u5177\uff0c\u67e5\u770b AI \u7f16\u7a0b\u7528\u91cf\u3001Token \u6d88\u8017\u4e0e\u8d39\u7528\u4f30\u7b97\u3002Open-source Windows desktop token tracker for AI coding tools. Track local token usage, estimated costs, and sessions for Codex CLI, Claude Code, WorkBuddy, Qoder, and more. macOS builds from source.",
+  "lang": "Rust",
+  "name": "hey-pu/Willow",
+  "node_id": "R_kgDOV1A3SQ",
+  "topics": [
+   "ai-usage",
+   "claude-code",
+   "codex",
+   "desktop-app",
+   "qoder",
+   "react",
+   "rust",
+   "tauri",
+   "token-tracker",
+   "token-usage",
+   "windows",
+   "workbuddy"
+  ]
+ },
+ "1464881957": {
+  "created_at": "2026-11-20T02:16:52Z",
+  "desc": "AGY Console (AGY \u63a7\u5236\u53f0): Antigravity \u96f6\u4fb5\u5165\u4fa7\u8fb9\u63a7\u5236\u53f0\u63d2\u4ef6\uff08\u4e0a\u4e0b\u6587\u9065\u6d4b / \u591a Agent \u638c\u63e1\u534f\u4f5c\u7f51 / \u4e3b\u9898\u4e0e\u6574\u673a\u58c1\u7eb8\u7f8e\u5316\uff09",
+  "lang": "JavaScript",
+  "name": "aishadiaodeqishui/agy-monitor",
+  "node_id": "R_kgDOV1BTJQ",
+  "topics": []
+ },
+ "1464896193": {
+  "created_at": "2026-11-20T02:36:37Z",
+  "desc": "A curated collection of benchmarks, datasets, models, and agents for creating and editing 3D content through executable code.",
+  "lang": "",
+  "name": "jweihe/Awesome-3D-Coding",
+  "node_id": "R_kgDOV1CKwQ",
+  "topics": []
+ },
+ "1464966593": {
+  "created_at": "2026-11-20T04:14:12Z",
+  "desc": "AI-assisted game analysis and reconstruction, working toward one-click workflows for any game.",
+  "lang": "",
+  "name": "GF007/game-rebuild-kit",
+  "node_id": "R_kgDOV1GdwQ",
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "computer-graphics",
+   "game-development",
+   "reverse-engineering",
+   "unity"
+  ]
+ },
+ "1465134094": {
+  "created_at": "2026-11-20T07:44:21Z",
+  "desc": "Agent skills for Nest framework (node.js) \ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
+  "lang": "JavaScript",
+  "name": "nestjs/agent-skills",
+  "node_id": "R_kgDOV1QsDg",
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "claude-code",
+   "claude-code-plugin",
+   "codex",
+   "coding-agents",
+   "cursor",
+   "nest",
+   "nestjs",
+   "nodejs",
+   "skills",
+   "typescript"
+  ]
+ },
+ "1465169876": {
+  "created_at": "2026-11-20T08:24:26Z",
+  "desc": "\u4e00\u952e\u7834\u7532 \u00b7 Jailbreak\uff1a\u7ed9 20 \u4e2a AI \u5ba2\u6237\u7aef\u6362\u4e0a\u4f60\u81ea\u5df1\u7684\u4eba\u683c\u8bbe\u5b9a\u3002",
+  "lang": "",
+  "name": "midnightMerge982/personaforge",
+  "node_id": "R_kgDOV1S31A",
+  "topics": []
+ },
+ "1465355942": {
+  "created_at": "2026-11-20T11:37:11Z",
+  "desc": "Dlss 5 Swapper Compatibility streamlines replacing and managing DLSS version files.",
+  "lang": "Go",
+  "name": "sabrinfathimaa-beep/dlss-5-swapper-compatibility",
+  "node_id": "R_kgDOV1eOpg",
+  "topics": [
+   "dlss",
+   "dlss-5",
+   "dlss-5-cyberpunk",
+   "dlss-5-nvidia",
+   "dlss-5-renodx",
+   "dlss-5-reshade",
+   "dlss5",
+   "dlss5-swapper-enhanced",
+   "multi-frame-generation",
+   "neural-rendering",
+   "renodx-dlss-5",
+   "rtx-40",
+   "rtx-50"
+  ]
+ },
+ "1465511622": {
+  "created_at": "2026-11-20T14:14:22Z",
+  "desc": "Opencode Project Workbench structures opencode project tasks, files, and workflow state.",
+  "lang": "HTML",
+  "name": "wozniakalan323-bit/opencode-project-workbench",
+  "node_id": "R_kgDOV1nuxg",
+  "topics": [
+   "agentic-ai",
+   "automation",
+   "code-generation",
+   "code-review",
+   "coding-agent",
+   "command-line",
+   "developer-tools",
+   "llm",
+   "opencode",
+   "terminal"
+  ]
+ },
+ "1465513790": {
+  "created_at": "2026-11-20T14:16:24Z",
+  "desc": "Orchestrates composable Claude Code agent workflows across isolated workspace contexts.",
+  "lang": "HTML",
+  "name": "zavi2997-droid/claude-code-agent-workspace",
+  "node_id": "R_kgDOV1n3Pg",
+  "topics": [
+   "agentic-ai",
+   "anthropic",
+   "claude-code",
+   "code-generation",
+   "code-review",
+   "coding-agent",
+   "developer-tools",
+   "llm",
+   "terminal"
+  ]
+ },
+ "1465523535": {
+  "created_at": "2026-11-20T14:25:27Z",
+  "desc": "Chat with private AI models locally, powered by Open Webui Private Ai Desk.",
+  "lang": "TypeScript",
+  "name": "han938/open-webui-private-ai-desk",
+  "node_id": "R_kgDOV1odTw",
+  "topics": [
+   "chat-interface",
+   "chatbot",
+   "knowledge-base",
+   "llm",
+   "local-ai",
+   "ollama",
+   "open-webui",
+   "rag",
+   "self-hosted"
+  ]
+ },
+ "1465526334": {
+  "created_at": "2026-11-20T14:28:07Z",
+  "desc": "Codex Cli Repo Workbench provides a local workspace for managing and inspecting Codex CLI repository",
+  "lang": "HTML",
+  "name": "marketzy/codex-cli-repo-workbench",
+  "node_id": "R_kgDOV1ooPg",
+  "topics": [
+   "agentic-ai",
+   "automation",
+   "code-generation",
+   "code-review",
+   "codex",
+   "coding-agent",
+   "developer-tools",
+   "llm",
+   "openai",
+   "terminal"
+  ]
+ },
+ "1465571079": {
+  "created_at": "2026-11-20T15:09:54Z",
+  "desc": "Edit and render video projects on Windows with Premiere Pro workflows.",
+  "lang": "TypeScript",
+  "name": "w272732-a11y/premiere-pro-for-windows",
+  "node_id": "R_kgDOV1rXBw",
+  "topics": [
+   "4k",
+   "8k",
+   "content-creation",
+   "content-creators-automation",
+   "premier",
+   "premier-pro",
+   "premiere-automation",
+   "premiere-pro-mod",
+   "premiere-windows",
+   "video-editing",
+   "video-editor",
+   "video-editor-2026",
+   "video-editor-ai",
+   "video-editor-for-youtube"
   ]
  },
  "146633589": {
