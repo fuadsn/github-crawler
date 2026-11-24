@@ -610703,6 +610703,20 @@
   "node_id": "R_kgDOVxQGeA",
   "topics": []
  },
+ "1460939419": {
+  "created_at": "2026-11-17T05:06:43Z",
+  "desc": "Self-hosted code review platform over GitLab, GitHub MRs/PRs. Prioritised merge queue, a full review workspace, and AI review workflows that post inline findings back to the forge, using any OpenAI-compatible model you bring.",
+  "lang": "Java",
+  "name": "PhonePe/arnold",
+  "node_id": "R_kgDOVxQqmw",
+  "topics": [
+   "agentic-code-review",
+   "agentic-workflow",
+   "ai",
+   "code-review",
+   "java"
+  ]
+ },
  "1460945100": {
   "created_at": "2026-11-17T05:13:57Z",
   "desc": "\u548c\u5c0f\u673a\u4e00\u8d77\u73a9\u8f6cb\u7ad9\u7684\u9879\u76ee\uff0c\u5f00\u76d6\u5373\u98df\uff0c\u6b22\u8fce\u54c1\u5c1d\u0aee\u208d\u02c3\u0336\ua1f4\u02c2\u0336\u208e\u10d0\u6570\u636e\u53ea\u5b58\u5728\u672c\u5730\uff0c\u53ea\u4e0a\u81ea\u5df1\u7684\u8d26\u53f7",
@@ -610744,7 +610758,7 @@
  "1460981847": {
   "created_at": "2026-11-17T05:59:04Z",
   "desc": "Mac \u4e0a AI \u684c\u9762\u5e94\u7528\u7684\u5f00\u673a\u52a8\u753b\uff08\u4e0d\u4fee\u6539\u5e94\u7528\u672c\u4f53\uff09\u00b7 Boot animations for AI desktop apps on macOS",
-  "lang": "Swift",
+  "lang": "C#",
   "name": "wynneceles/ai-boot-animations",
   "node_id": "R_kgDOVxTQVw",
   "topics": []
@@ -610859,6 +610873,20 @@
    "dsh-plugin-market",
    "dsh-plugins",
    "dsh-skill"
+  ]
+ },
+ "1461138964": {
+  "created_at": "2026-11-17T08:44:10Z",
+  "desc": "\u901a\u8fc7\u4e2d\u8f6c\u8bf7\u6c42\u8ba9Codex\u4f7f\u7528Openai\u8d60\u9001api\u989d\u5ea6",
+  "lang": "JavaScript",
+  "name": "YiyuZh/Codex-free-api",
+  "node_id": "R_kgDOVxc2FA",
+  "topics": [
+   "codex",
+   "magpie",
+   "magpie-plugin",
+   "openai",
+   "opencode-plugin"
   ]
  },
  "1461152948": {
@@ -611866,6 +611894,20 @@
    "z-image"
   ]
  },
+ "1461831169": {
+  "created_at": "2026-11-17T18:44:36Z",
+  "desc": "LSPosed module for switching XiaoAi chat, voice, image, and device-control AI providers",
+  "lang": "Java",
+  "name": "SeimoDev/XiaoAiSwitch",
+  "node_id": "R_kgDOVyHGAQ",
+  "topics": [
+   "android",
+   "kotlin",
+   "lsposed",
+   "xiaoai",
+   "xposed"
+  ]
+ },
  "1461861553": {
   "created_at": "2026-11-17T19:13:38Z",
   "desc": "Self-hosted workspace sandboxes on GKE with gVisor and filesystem snapshots.",
@@ -612494,6 +612536,27 @@
   "node_id": "R_kgDOVyosMA",
   "topics": []
  },
+ "1462393225": {
+  "created_at": "2026-11-18T06:11:35Z",
+  "desc": "Generic MCP server for GCP and AWS: bring your own project/account, query BigQuery/Athena, inspect Cloud Build/CodeBuild, Cloud Run/ECS/Lambda logs",
+  "lang": "Python",
+  "name": "anandapurva55/multi-cloud-mcp-server",
+  "node_id": "R_kgDOVypZiQ",
+  "topics": [
+   "athena",
+   "aws",
+   "bigquery",
+   "cloudbuild",
+   "cloudrun",
+   "codebuild",
+   "ecs",
+   "gcp",
+   "lambda",
+   "mcp",
+   "mcp-server",
+   "python"
+  ]
+ },
  "1462396042": {
   "created_at": "2026-11-18T06:14:55Z",
   "desc": "A browser-based EPUB reader with realistic page turns, annotations, AI assistance, and reading maps.",
@@ -612595,6 +612658,14 @@
   "lang": "JavaScript",
   "name": "Underspace1/relais",
   "node_id": "R_kgDOVyxGqg",
+  "topics": []
+ },
+ "1462519757": {
+  "created_at": "2026-11-18T08:28:58Z",
+  "desc": "",
+  "lang": "Shell",
+  "name": "Tencent/WeMM-Ecom",
+  "node_id": "R_kgDOVyxHzQ",
   "topics": []
  },
  "1462526809": {
@@ -612800,6 +612871,14 @@
   "lang": "C++",
   "name": "lewtheegg/voxel-flight",
   "node_id": "R_kgDOVy7aKg",
+  "topics": []
+ },
+ "1462706435": {
+  "created_at": "2026-11-18T11:27:46Z",
+  "desc": "Code for \"ArgsWorld: Unifying 3DGS Scene Reconstruction, Generation and Extrapolation with Autoregressive Diffusion Transformer\"",
+  "lang": "Python",
+  "name": "M4A1TasteGood/ArgsWorld",
+  "node_id": "R_kgDOVy8hAw",
   "topics": []
  },
  "1462712334": {
@@ -613195,12 +613274,36 @@
    "youtube-shorts"
   ]
  },
+ "1463158465": {
+  "created_at": "2026-11-18T18:03:25Z",
+  "desc": "A Linux desktop distribution: HyperOS-styled, Windows layout by default, macOS layout as an option, built to be unthreatening to people arriving from Windows.",
+  "lang": "Shell",
+  "name": "Ron-warrior/halcora",
+  "node_id": "R_kgDOVzYGwQ",
+  "topics": []
+ },
+ "1463160415": {
+  "created_at": "2026-11-18T18:05:17Z",
+  "desc": "Google AI Pro (5TB) \u306e\u7121\u6599\u30c8\u30e9\u30a4\u30a2\u30eb\u3092 Play \u8ab2\u91d1\u7d4c\u7531\u3067\u53d6\u5f97\u3057\u30016\u30f6\u6708\u30aa\u30d5\u30a1\u30fc\u3092\u91cd\u306d\u3066\u6700\u95772\u5e74\u306b\u3059\u308b\u30b9\u30af\u30ea\u30d7\u30c8\uff08Android 14+/Frida 17 \u5bfe\u5fdc\uff09",
+  "lang": "JavaScript",
+  "name": "lqvp/google-ai-pro-2y",
+  "node_id": "R_kgDOVzYOXw",
+  "topics": []
+ },
  "1463170065": {
   "created_at": "2026-11-18T18:14:27Z",
   "desc": "Tr\u00ecnh t\u00f9y bi\u1ebfn giao di\u1ec7n n\u1ec1n \u0111\u1ed9ng, Boot HUD v\u00e0 hi\u1ec7u \u1ee9ng k\u00ednh m\u1edd cho Antigravity",
   "lang": "JavaScript",
   "name": "furinamikuvn/antigravity-custom-theme-mod",
   "node_id": "R_kgDOVzY0EQ",
+  "topics": []
+ },
+ "1463228803": {
+  "created_at": "2026-11-18T19:12:05Z",
+  "desc": "Official implementation of Embo-Harness.",
+  "lang": "Python",
+  "name": "DravenALG/Embo-Harness",
+  "node_id": "R_kgDOVzcZgw",
   "topics": []
  },
  "1463230560": {
@@ -613369,6 +613472,27 @@
   "name": "PedroMarinhoDev/ComfyUI-H3-Image-EasyFix",
   "node_id": "R_kgDOVzrtNw",
   "topics": []
+ },
+ "1463485294": {
+  "created_at": "2026-11-19T00:24:58Z",
+  "desc": "MCP server for Lighter \u2014 a Model Context Protocol server that lets Claude, Cursor and Cline query Lighter (lighter.xyz) volume, points, rank and airdrop eligibility in natural language. Read-only \u2014 public endpoints only, no keys. Unofficial community project, not affiliated with Lighter.",
+  "lang": "Python",
+  "name": "zgraham1981/MCP-Server-Lighter",
+  "node_id": "R_kgDOVzsDbg",
+  "topics": [
+   "ai-trade",
+   "airdrop-dashboard-lighter",
+   "codex-mcp",
+   "lighter-airdrop-analytics",
+   "lighter-api-mcp",
+   "lighter-dex-airdrop-tracker",
+   "mcp-client-lighter",
+   "mcp-sdk-lighter",
+   "mcp-server-aster",
+   "points-calculator-lighter",
+   "score-tracker-lighter",
+   "trading-agent-aster-dex"
+  ]
  },
  "1463493568": {
   "created_at": "2026-11-19T00:37:28Z",
@@ -613644,11 +613768,26 @@
  },
  "1463787506": {
   "created_at": "2026-11-19T07:04:37Z",
-  "desc": "Google Antigravity \u684c\u9762\u7aef\u4e0e IDE \u5185\u7f6e\u659c\u6760\u6307\u4ee4\u9009\u578b\u53c2\u8c0b\u4e0e\u5206\u7c7b\u901f\u67e5 Skill",
+  "desc": "Google Antigravity Desktop/IDE plugin: task-based command and multi-agent routing, auto Boost for approved plans and hard debugging, read-only stuck recovery, anti-bypass plan guard, Stop-hook auto-retry, and right-hand panel | Google Antigravity \u684c\u9762\u7aef/IDE \u63d2\u4ef6\uff1a\u6309\u4efb\u52a1\u81ea\u52a8\u8def\u7531\u5185\u7f6e\u6307\u4ee4\u4e0e\u591a\u667a\u80fd\u4f53\uff0c\u5bf9\u5df2\u6279\u51c6\u8ba1\u5212\u4e0e\u7591\u96be\u6392\u67e5\u81ea\u52a8\u6d3e\u5de5 Boost \u3001\u5361\u58f3\u65f6\u6362\u89c6\u89d2\u53ea\u8bfb\u6392\u67e5\uff0c\u53ea\u8bfb\u6a21\u5f0f\u9632\u7ed5\u8fc7\u5ba1\u6279\uff0cStop \u94a9\u5b50\u6d4b\u8bd5\u672a\u8fc7\u81ea\u52a8\u7eed\u8dd1\uff0c\u53f3\u4fa7\u63a7\u5236\u9762\u677f",
   "lang": "JavaScript",
-  "name": "zou172866/agy-cmd",
+  "name": "zou172866/Antigravity-agy-cmd",
   "node_id": "R_kgDOVz-f8g",
-  "topics": []
+  "topics": [
+   "ai-agent",
+   "ai-coding",
+   "antigravity",
+   "antigravity-plugin",
+   "auto-retry",
+   "auto-router",
+   "developer-tools",
+   "google-antigravity",
+   "ide-plugin",
+   "multi-agent",
+   "sidecar",
+   "slash-commands",
+   "subagents",
+   "workflow-automation"
+  ]
  },
  "1463790027": {
   "created_at": "2026-11-19T07:07:24Z",
@@ -614332,6 +614471,23 @@
    "ysm"
   ]
  },
+ "1464394831": {
+  "created_at": "2026-11-19T16:29:35Z",
+  "desc": "GPU modules on TypeGPU for lit 3D scenes, post-processing, particles, text, glTF models and simulations, on the web and React Native",
+  "lang": "TypeScript",
+  "name": "software-mansion/typegpu-kit",
+  "node_id": "R_kgDOV0jkTw",
+  "topics": [
+   "gpu",
+   "graphics",
+   "react-native",
+   "shaders",
+   "typegpu",
+   "typescript",
+   "webgpu",
+   "wgsl"
+  ]
+ },
  "1464397309": {
   "created_at": "2026-11-19T16:31:47Z",
   "desc": "All-in-one Cloudflare Workers & WhatsApp OS unifying 27 open-source patterns: Dual-Mode MCP Server (28 tools), Self-Hosted CRM & 24h Inbox, Omnichannel AI Agent, SQL/RAG, Whisper/TTS Voice, Approval-Gated Cloudflare Ops & Plexi E2EE Key Transparency",
@@ -614475,6 +614631,21 @@
    "davinci-resolve-studio-crack-windows",
    "davinci-windows",
    "resolve-studio-download"
+  ]
+ },
+ "1464480711": {
+  "created_at": "2026-11-19T17:50:03Z",
+  "desc": "Helping CS students and fresh grads crack interviews. Free, just open it and practice.",
+  "lang": "TypeScript",
+  "name": "krishbuilds01/MockRoom",
+  "node_id": "R_kgDOV0ozxw",
+  "topics": [
+   "ai",
+   "interview-preparation",
+   "mock-interview",
+   "nextjs",
+   "tailwindcss",
+   "typescript"
   ]
  },
  "1464481395": {
@@ -615224,6 +615395,20 @@
    "vcc"
   ]
  },
+ "1465230277": {
+  "created_at": "2026-11-20T09:26:09Z",
+  "desc": "Non-penetrating World Models",
+  "lang": "Python",
+  "name": "yuhangdai427/NoPeWorld",
+  "node_id": "R_kgDOV1WjxQ",
+  "topics": [
+   "benchmark",
+   "diffusion-transformer",
+   "video-generation",
+   "video-world-model",
+   "world-model"
+  ]
+ },
  "1465233609": {
   "created_at": "2026-11-20T09:29:33Z",
   "desc": "",
@@ -615248,7 +615433,7 @@
  },
  "1465241055": {
   "created_at": "2026-11-20T09:37:22Z",
-  "desc": "Open Source LLM inference engine written from the ground up in CUDA C++",
+  "desc": "CUDA C++ Open Source LLM inference engine",
   "lang": "C++",
   "name": "sevywagner/OpenInference",
   "node_id": "R_kgDOV1XN3w",
@@ -615455,16 +615640,23 @@
   "created_at": "2026-11-20T12:39:45Z",
   "desc": "Google Antigravity plugin that improves cache hits, keeps cache warm automatically, protects context quota, shows live context usage, rescues crashed sessions, and saves tokens.",
   "lang": "JavaScript",
-  "name": "zou172866/agy-dart",
+  "name": "zou172866/Antigravity-agy-dart",
   "node_id": "R_kgDOV1h23g",
   "topics": [
+   "ai-coding",
    "antigravity",
    "antigravity-plugin",
+   "context-management",
    "context-window",
    "fts5",
+   "google-antigravity",
+   "kv-cache",
    "mcp",
+   "mcp-server",
    "performance",
-   "ripgrep"
+   "prompt-caching",
+   "ripgrep",
+   "token-optimization"
   ]
  },
  "1465432876": {
@@ -616889,6 +617081,23 @@
   "name": "podstawek/explorer-of-serial",
   "node_id": "R_kgDOV29FTQ",
   "topics": []
+ },
+ "1466927775": {
+  "created_at": "2026-11-21T20:26:12Z",
+  "desc": "iOS simulators for AI agents, on Linux",
+  "lang": "Rust",
+  "name": "Developing-Gamer/agent-sim",
+  "node_id": "R_kgDOV2-Knw",
+  "topics": [
+   "ai-agents",
+   "claude-code",
+   "ios",
+   "ios-simulator",
+   "linux",
+   "mcp",
+   "mobile-testing",
+   "testing"
+  ]
  },
  "1466941422": {
   "created_at": "2026-11-21T20:46:14Z",
