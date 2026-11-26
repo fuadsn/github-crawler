@@ -613474,6 +613474,14 @@
   "node_id": "R_kgDOVzrtNw",
   "topics": []
  },
+ "1463484913": {
+  "created_at": "2026-11-19T00:24:22Z",
+  "desc": "Need for Speed Carbon (PC v1.4) on the PS Vita: static recompilation of your own NFSC.exe with a sceGxm renderer. Unofficial fan port; you need your own copy of the game.",
+  "lang": "C++",
+  "name": "Swisha33/NFSCVita",
+  "node_id": "R_kgDOVzsB8Q",
+  "topics": []
+ },
  "1463485294": {
   "created_at": "2026-11-19T00:24:58Z",
   "desc": "MCP server for Lighter \u2014 a Model Context Protocol server that lets Claude, Cursor and Cline query Lighter (lighter.xyz) volume, points, rank and airdrop eligibility in natural language. Read-only \u2014 public endpoints only, no keys. Unofficial community project, not affiliated with Lighter.",
@@ -613516,7 +613524,7 @@
  },
  "1463531272": {
   "created_at": "2026-11-19T01:30:23Z",
-  "desc": "Hub by Icons8: run 100 Claude Code or Codex sessions like 5",
+  "desc": "Hub: run 100 Claude Code or Codex sessions like 5",
   "lang": "Python",
   "name": "icons8/hub",
   "node_id": "R_kgDOVzu3CA",
@@ -613591,6 +613599,22 @@
   "node_id": "R_kgDOVzxz4w",
   "topics": []
  },
+ "1463614644": {
+  "created_at": "2026-11-19T03:24:15Z",
+  "desc": "\u8ba9\u65b9\u6848\u957f\u6210\u4ea4\u4ed8\uff1a\u9762\u5411 AI \u7f16\u7a0b Agent \u7684\u96f6\u4f9d\u8d56\u591a\u5305\u4ea4\u4ed8\u72b6\u6001\u673a\uff082+2+2 \u81ea\u52a8\u5347\u7ea7\u4e0e\u5239\u8f66\u3001\u8de8\u5bbf\u4e3b\u63a5\u529b\u3001\u96f6\u51ed\u636e\u6258\u7ba1\u3001\u8131\u654f\u8bc1\u636e\u5305\uff09\u3002",
+  "lang": "JavaScript",
+  "name": "Trunks820/grow-loop",
+  "node_id": "R_kgDOVzz8tA",
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "claude-code",
+   "codex",
+   "nodejs",
+   "state-machine",
+   "zero-dependency"
+  ]
+ },
  "1463614815": {
   "created_at": "2026-11-19T03:24:29Z",
   "desc": "Obsidian plugin: a note becomes an app from its hand-typed frontmatter",
@@ -613612,6 +613636,14 @@
    "workflow"
   ]
  },
+ "1463627913": {
+  "created_at": "2026-11-19T03:42:38Z",
+  "desc": "Give your AI agent the tools to organize, check, and reproduce research projects. Works with Claude Code, Codex, Cursor, Gemini CLI and more.",
+  "lang": "Python",
+  "name": "OpenSAE/EverResearch",
+  "node_id": "R_kgDOVz0wiQ",
+  "topics": []
+ },
  "1463636592": {
   "created_at": "2026-11-19T03:54:29Z",
   "desc": "",
@@ -613626,6 +613658,14 @@
   "lang": "Python",
   "name": "shuxint/BioMedicalAgent",
   "node_id": "R_kgDOVz1dGw",
+  "topics": []
+ },
+ "1463643244": {
+  "created_at": "2026-11-19T04:03:46Z",
+  "desc": "",
+  "lang": "",
+  "name": "InternLM/Sage-Interaction",
+  "node_id": "R_kgDOVz1sbA",
   "topics": []
  },
  "1463656234": {
@@ -613655,6 +613695,18 @@
    "postgresql",
    "self-hosted",
    "typescript"
+  ]
+ },
+ "1463667300": {
+  "created_at": "2026-11-19T04:37:19Z",
+  "desc": "Hand-drawn crayon sticker SVGs for React and the web.",
+  "lang": "TypeScript",
+  "name": "AdityaKodez/trazo",
+  "node_id": "R_kgDOVz3KZA",
+  "topics": [
+   "nextjs",
+   "stickers",
+   "website"
   ]
  },
  "1463683138": {
@@ -613728,6 +613780,14 @@
    "rag"
   ]
  },
+ "1463741712": {
+  "created_at": "2026-11-19T06:14:01Z",
+  "desc": "Self-hosted Android 6-tap QR Device Owner provisioner, debloater, and non-destructive unenrollment console",
+  "lang": "Python",
+  "name": "chieftechnicalwizard/AREOLE-DPC-HWTF",
+  "node_id": "R_kgDOVz7tEA",
+  "topics": []
+ },
  "1463743528": {
   "created_at": "2026-11-19T06:15:58Z",
   "desc": "Free exam notes from any syllabus. An open-source agent skill that turns your unit syllabus and past papers into a complete, exam-ready PDF.",
@@ -613789,6 +613849,14 @@
    "subagents",
    "workflow-automation"
   ]
+ },
+ "1463789149": {
+  "created_at": "2026-11-19T07:06:29Z",
+  "desc": "Super Cage\uff1a\u9762\u5411 Claude Code \u4e0e Codex \u7684\u9632\u5c01\u53f7\u5168\u94fe\u8def\u9694\u79bb\u5de5\u4f5c\u53f0\uff0c\u72ec\u7acb\u865a\u62df\u673a/\u5bb9\u5668\u3001\u5f3a\u4ee3\u7406\u4e0e\u5148\u68c0\u540e\u653e\u7194\u65ad\uff0c\u652f\u6301\u684c\u9762\u7aef\u3001\u591a\u79df\u6237\u670d\u52a1\u5668\u4e0e\u624b\u673a\u7aef",
+  "lang": "Go",
+  "name": "sweetcornna/Super-Cage",
+  "node_id": "R_kgDOVz-mXQ",
+  "topics": []
  },
  "1463790027": {
   "created_at": "2026-11-19T07:07:24Z",
@@ -614038,6 +614106,14 @@
    "visa"
   ]
  },
+ "1463927110": {
+  "created_at": "2026-11-19T09:26:06Z",
+  "desc": "[NeurIPS 2026] Plan4D: Generative Plannable 4D Worlds",
+  "lang": "Python",
+  "name": "AMAP-ML/plan4d",
+  "node_id": "R_kgDOV0HBRg",
+  "topics": []
+ },
  "1463927360": {
   "created_at": "2026-11-19T09:26:20Z",
   "desc": "Practical AI skills for restaurant marketing, reservations and guest communication. Maintained by Heep.",
@@ -614139,6 +614215,27 @@
    "pose-reference",
    "virtual-try-on",
    "windows"
+  ]
+ },
+ "1464029568": {
+  "created_at": "2026-11-19T11:05:16Z",
+  "desc": "OrbitLM-1.8B: a looped language model that runs one 24-layer stack four times per token, with an exit gate. Full training pipeline (pretraining, SFT, RL) and inference code.",
+  "lang": "Python",
+  "name": "ai-forever/OrbitLM",
+  "node_id": "R_kgDOV0NRgA",
+  "topics": [
+   "language-model",
+   "llm",
+   "looped-language-model",
+   "looped-transformer",
+   "pretraining",
+   "pytorch",
+   "reasoning",
+   "reinforcement-learning",
+   "russian",
+   "sft",
+   "verl",
+   "vllm"
   ]
  },
  "1464042641": {
@@ -614346,15 +614443,23 @@
   "created_at": "2026-11-19T13:59:39Z",
   "desc": "AI code review pipeline that turns agent-written PRs into merge-ready patches",
   "lang": "TypeScript",
-  "name": "AlodiumProtocol/crosscheck",
+  "name": "Exezyra/crosscheck",
   "node_id": "R_kgDOV0Y3Yg",
+  "topics": []
+ },
+ "1464237044": {
+  "created_at": "2026-11-19T14:14:18Z",
+  "desc": "Dual Subtitles, Contextual Lookup & AI Translator for YouTube and Bilibili",
+  "lang": "JavaScript",
+  "name": "JumStarz/DuazTube",
+  "node_id": "R_kgDOV0Z79A",
   "topics": []
  },
  "1464255647": {
   "created_at": "2026-11-19T14:29:35Z",
   "desc": "Open TypeScript orchestration layer for ticket-driven agent workflows",
   "lang": "TypeScript",
-  "name": "AlodiumProtocol/jazzband",
+  "name": "Exezyra/typescript-sdk",
   "node_id": "R_kgDOV0bEnw",
   "topics": []
  },
@@ -614362,15 +614467,23 @@
   "created_at": "2026-11-19T14:29:50Z",
   "desc": "A session-attached workflow UI grammar for rendering complex work as linear rails and generic cards.",
   "lang": "TypeScript",
-  "name": "AlodiumProtocol/linear-cards-system",
+  "name": "Exezyra/linear-cards-system",
   "node_id": "R_kgDOV0bFvQ",
+  "topics": []
+ },
+ "1464256202": {
+  "created_at": "2026-11-19T14:30:03Z",
+  "desc": "An AI Hedge Fund Team",
+  "lang": "TypeScript",
+  "name": "Exezyra/ai-hedge-fund",
+  "node_id": "R_kgDOV0bGyg",
   "topics": []
  },
  "1464257681": {
   "created_at": "2026-11-19T14:31:20Z",
-  "desc": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+  "desc": "exezyra mcp sever to enable solana, binance, hyperliquid rpc methods",
   "lang": "TypeScript",
-  "name": "AlodiumProtocol/crm",
+  "name": "Exezyra/exezyra-mcp-server",
   "node_id": "R_kgDOV0bMkQ",
   "topics": []
  },
@@ -614471,6 +614584,14 @@
    "yes-steve-model",
    "ysm"
   ]
+ },
+ "1464393445": {
+  "created_at": "2026-11-19T16:28:22Z",
+  "desc": "Infinitary desktop and phone apps",
+  "lang": "TypeScript",
+  "name": "infinitary-labs/infinitary-apps",
+  "node_id": "R_kgDOV0je5Q",
+  "topics": []
  },
  "1464394831": {
   "created_at": "2026-11-19T16:29:35Z",
@@ -614857,6 +614978,14 @@
    "text-to-video"
   ]
  },
+ "1464741414": {
+  "created_at": "2026-11-19T22:45:32Z",
+  "desc": "",
+  "lang": "Rust",
+  "name": "playbit/playbit",
+  "node_id": "R_kgDOV04uJg",
+  "topics": []
+ },
  "1464774459": {
   "created_at": "2026-11-19T23:33:57Z",
   "desc": "AURA is a 1.3B speech-to-video generative model that runs in real time on a single H100 GPU at 576px resolution.",
@@ -614897,6 +615026,20 @@
   "name": "ThreatDefence/agentic-attack-detections",
   "node_id": "R_kgDOV08AUw",
   "topics": []
+ },
+ "1464798753": {
+  "created_at": "2026-11-20T00:11:53Z",
+  "desc": "Correct KL divergences for PyTorch when distributions are close, with a certified benchmark",
+  "lang": "Python",
+  "name": "xi-xiaoran/stablekl",
+  "node_id": "R_kgDOV08OIQ",
+  "topics": [
+   "benchmark",
+   "floating-point",
+   "kl-divergence",
+   "numerical-stability",
+   "pytorch"
+  ]
  },
  "1464812919": {
   "created_at": "2026-11-20T00:34:00Z",
@@ -614983,8 +615126,8 @@
    "llama",
    "llama-cpp",
    "sillytavern",
-   "tts",
-   "tts-api"
+   "tauri",
+   "tts"
   ]
  },
  "1464881756": {
@@ -615013,7 +615156,7 @@
  },
  "1464899108": {
   "created_at": "2026-11-20T02:40:19Z",
-  "desc": "A visual multi-agent workflow canvas for DeepSeek Harness: parallel subagents, conditional branching & Lead decision gates in the sidebar. DSH \u4fa7\u8fb9\u680f\u53ef\u89c6\u5316\u591a\u667a\u80fd\u4f53\u5de5\u4f5c\u6d41\u753b\u5e03\u2014\u2014\u771f\u5e76\u884c\u3001\u6761\u4ef6\u5206\u6d41\u3001Lead \u62cd\u677f\uff0c\u50cf\u5f53\u8001\u677f\u4e00\u6837\u76f4\u89c2\u7f16\u6392 AI \u56e2\u961f \u2196(^\u03c9^)\u2197",
+  "desc": "Sidebar multi-agent workflow canvas for DeepSeek Harness: parallel subagents, branching, retry loops, Lead gates & run summaries. DSH \u4fa7\u8fb9\u680f\u591a\u667a\u80fd\u4f53\u5de5\u4f5c\u6d41\u753b\u5e03\u2014\u2014\u5e76\u884c\u534f\u4f5c\u3001\u6761\u4ef6\u56de\u73af\u3001Lead \u62cd\u677f\u3001\u96f6 Token \u590d\u76d8\uff0c\u50cf\u5f53\u8001\u677f\u4e00\u6837\u7f16\u6392 AI \u56e2\u961f \u2196(^\u03c9^)\u2197",
   "lang": "JavaScript",
   "name": "Wasabi2575/dsh-workflow-canvas",
   "node_id": "R_kgDOV1CWJA",
@@ -615151,7 +615294,7 @@
  "1465003685": {
   "created_at": "2026-11-20T05:05:28Z",
   "desc": "A local canvas of everything your Claude Code sessions make.",
-  "lang": "JavaScript",
+  "lang": "TypeScript",
   "name": "krispuckett/rounds",
   "node_id": "R_kgDOV1IupQ",
   "topics": [
@@ -615159,6 +615302,29 @@
    "claude-code",
    "design",
    "mcp"
+  ]
+ },
+ "1465043231": {
+  "created_at": "2026-11-20T05:58:30Z",
+  "desc": "Run T3 Code agents on cloud VMs. One VM per project, asleep when idle, awake on your next message. Self-hosted.",
+  "lang": "TypeScript",
+  "name": "vkpdeveloper/vmbridge",
+  "node_id": "R_kgDOV1LJHw",
+  "topics": [
+   "ai-agents",
+   "bun",
+   "claude-code",
+   "cloud-vm",
+   "codex",
+   "coding-agents",
+   "opencode",
+   "remote-development",
+   "sandbox",
+   "self-hosted",
+   "t3-code",
+   "t3code",
+   "tailscale",
+   "typescript"
   ]
  },
  "1465072090": {
@@ -615267,6 +615433,7 @@
    "codex",
    "coding-agents",
    "cursor",
+   "gemini-cli-extension",
    "nest",
    "nestjs",
    "nodejs",
@@ -615523,6 +615690,14 @@
    "mlx"
   ]
  },
+ "1465323403": {
+  "created_at": "2026-11-20T11:02:04Z",
+  "desc": "\u65e0\u53cc\u5c0f\u7231\u540c\u5b66 \u2014\u2014 \u5c0f\u7c73\u5c0f\u7231\u97f3\u7bb1\u5927\u6a21\u578b\u5bf9\u8bdd(\u8c46\u5305\u5185\u7f6e)+\u81ea\u7531\u542c\u6b4c(\u672c\u5730/\u7f51\u6613\u4e91)\u589e\u5f3a\u670d\u52a1\uff0c\u9762\u5411\u7fa4\u6656NAS\u3002\u4ec5\u4f9b\u4e2a\u4eba\u7814\u7a76\u6d4b\u8bd5\uff0c\u4e0b\u8f7d\u540e24\u5c0f\u65f6\u5185\u81ea\u884c\u5220\u9664\uff0c\u5efa\u8bae\u5c0f\u53f7\uff0c\u5c01\u53f7\u98ce\u9669\u81ea\u8d1f\uff0c\u8bf7\u52ff\u5546\u7528\u3002",
+  "lang": "Python",
+  "name": "chuiziyao/wushuang-xiaoai",
+  "node_id": "R_kgDOV1cPiw",
+  "topics": []
+ },
  "1465334312": {
   "created_at": "2026-11-20T11:13:37Z",
   "desc": "",
@@ -615706,6 +615881,27 @@
   "node_id": "R_kgDOV1nP6w",
   "topics": []
  },
+ "1465510335": {
+  "created_at": "2026-11-20T14:13:10Z",
+  "desc": "Velvet Hold'em \u2014 Self-hosted 3D multiplayer Texas Hold'em club with CPU-only GTO/CFR solver, Bayesian opponent profiling & AI hand review | \u5f00\u6e90 3D \u5fb7\u5dde\u6251\u514b\u79c1\u4eba\u724c\u5ba4\uff08\u514d GPU \u00b7 GTO \u63a8\u6f14 \u00b7 \u8d1d\u53f6\u65af\u5bf9\u624b\u753b\u50cf \u00b7 \u5b9e\u65f6\u590d\u76d8\uff09",
+  "lang": "TypeScript",
+  "name": "jianghao-jianghao-jianghao/newHoldem",
+  "node_id": "R_kgDOV1npvw",
+  "topics": [
+   "gto",
+   "holdem-poker",
+   "poker",
+   "poker-ai",
+   "poker-engine",
+   "poker-game",
+   "poker-holdem",
+   "poker-solver",
+   "solver",
+   "texas-holdem",
+   "texas-holdem-poker",
+   "typescript"
+  ]
+ },
  "1465511622": {
   "created_at": "2026-11-20T14:14:22Z",
   "desc": "Opencode Project Workbench structures opencode project tasks, files, and workflow state.",
@@ -615837,6 +616033,14 @@
    "video-editor-for-youtube"
   ]
  },
+ "1465576271": {
+  "created_at": "2026-11-20T15:14:34Z",
+  "desc": "",
+  "lang": "Rust",
+  "name": "galatolofederico/gtw",
+  "node_id": "R_kgDOV1rrTw",
+  "topics": []
+ },
  "1465576980": {
   "created_at": "2026-11-20T15:15:09Z",
   "desc": "Turn any long video or live stream into short vertical reels on your own computer. Free and open source. Created by Raghav (raaghav.ai).",
@@ -615895,7 +616099,7 @@
  "1465626555": {
   "created_at": "2026-11-20T16:01:19Z",
   "desc": "Independent replay of Alp\u00f6ge\u2019s claimed RH proof. Claim Lean modules and submit reproducible evidence.",
-  "lang": "Python",
+  "lang": "Lean",
   "name": "rohanarun/alpoge-rh-replay",
   "node_id": "R_kgDOV1uvuw",
   "topics": []
@@ -615969,6 +616173,14 @@
   "node_id": "R_kgDOV112jg",
   "topics": []
  },
+ "1465750289": {
+  "created_at": "2026-11-20T18:06:31Z",
+  "desc": "Source and documentation for Sin & Punishment: Star Successor static recompilation",
+  "lang": "C++",
+  "name": "meathax/sinandpun",
+  "node_id": "R_kgDOV12TEQ",
+  "topics": []
+ },
  "1465757413": {
   "created_at": "2026-11-20T18:14:36Z",
   "desc": "\u628a\u624b\u673a\u5c4f\u5e55\u5f53\u89e6\u611f\u8bb0\u5f55\u4eea\uff0c\u8ba9\u4f60\u7684 AI \u611f\u89c9\u5230\u4f60\u7684\u624b\u6307\u3002\u4f60\u6478\u7684\u65f6\u5019\uff0c\u753b\u9762\u5728\u6307\u4e0b\u56de\u5e94\uff0c\u6307\u5c16\u6309\u4e0b\u4f1a\u88ab\u8f7b\u8f7b\u62b5\u4f4f\uff0c\u629a\u8fc7\u6709\u7ec6\u7ec6\u7684\u6469\u64e6\u611f\uff0c\u677e\u624b\u8f7b\u8f7b\u4e00\u5f39\uff1b\u5b83\u6536\u5230\u7684\u662f\u300c\u6307\u8179\u8f7b\u8f7b\u8d34\u5728\u4f60\u7684\u53f3\u8138\u988a\u300d\u3002\u4f60\u80fd\u611f\u89c9\u5230\u81ea\u5df1\u5728\u6478\u4ec0\u4e48\uff0c\u5b83\u4e5f\u80fd\u611f\u89c9\u5230\u4f60\u3002iOS / \u7f51\u9875 / \u5b89\u5353\u53c2\u8003\u4ee3\u7801",
@@ -616009,6 +616221,14 @@
   "lang": "Lean",
   "name": "mccorvie/riemann-masullo",
   "node_id": "R_kgDOV14UxA",
+  "topics": []
+ },
+ "1465788606": {
+  "created_at": "2026-11-20T18:49:13Z",
+  "desc": "A short escape game that teaches you about LangChain's Deep Agents Harness.",
+  "lang": "JavaScript",
+  "name": "JessWeng18/out-of-context",
+  "node_id": "R_kgDOV14ovg",
   "topics": []
  },
  "1465795701": {
@@ -616182,7 +616402,7 @@
  "1466042247": {
   "created_at": "2026-11-21T00:42:19Z",
   "desc": "Status dashboard, guide and map of the formal proof of the Riemann hypothesis announced by Levent Alp\u00f6ge on 20 November 2026. An independent reading aid: who has checked what, the theorem, and the route of the proof with links into the Lean archive.",
-  "lang": "HTML",
+  "lang": "TeX",
   "name": "nasqret/riemann-rev",
   "node_id": "R_kgDOV2IHhw",
   "topics": [
@@ -616192,6 +616412,28 @@
    "mathlib",
    "number-theory",
    "riemann-hypothesis"
+  ]
+ },
+ "1466066824": {
+  "created_at": "2026-11-21T01:26:14Z",
+  "desc": "Generative latent upscaler for ComfyUI: 2\u00d7/4\u00d7 image and video upscaling and 2\u00d7 frame rate in Wan 2.1 / Qwen-Image latent space. One step, decoded directly by the VAE, no second sampling pass.",
+  "lang": "Python",
+  "name": "tensorforger/ComfyUI-Steppe",
+  "node_id": "R_kgDOV2JniA",
+  "topics": [
+   "comfyui",
+   "comfyui-custom-nodes",
+   "comfyui-nodes",
+   "frame-interpolation",
+   "image-upscaling",
+   "krea",
+   "latent-upscaler",
+   "super-resolution",
+   "upscaler",
+   "video-super-resolution",
+   "video-upscaling",
+   "wan",
+   "wan2-1"
   ]
  },
  "1466075841": {
@@ -616222,6 +616464,30 @@
    "whisper",
    "youtube"
   ]
+ },
+ "1466094247": {
+  "created_at": "2026-11-21T02:15:49Z",
+  "desc": "Google Antigravity \u4e09\u5408\u4e00\u4fa7\u8fb9\u680f\u589e\u5f3a\u63d2\u4ef6\uff1a\u5de5\u4f5c\u533a\u6587\u4ef6\u6811\u3001Word/Excel/PPT/PDF \u79bb\u7ebf\u9ad8\u4fdd\u771f\u5b9e\u65f6\u9884\u89c8\u4e0e\u7f16\u8f91\u3001\u5212\u8bcd\u5f15\u7528\u8054\u52a8 AI \u53ca\u53ea\u8bfb\u5bf9\u8bdd\u8f68\u8ff9\u67e5\u770b\u5668",
+  "lang": "JavaScript",
+  "name": "burnerous/antigravity-sidecar-studio",
+  "node_id": "R_kgDOV2LSpw",
+  "topics": [
+   "ai-ide",
+   "antigravity",
+   "docx",
+   "office-preview",
+   "pdf-viewer",
+   "plugin",
+   "sidecar"
+  ]
+ },
+ "1466095156": {
+  "created_at": "2026-11-21T02:17:26Z",
+  "desc": "VAT \u81ea\u52a8\u526a\u8f91\u8f6f\u4ef6 \u00b7 \u672c\u5730\u684c\u9762\u526a\u8f91\u5de5\u4f5c\u53f0",
+  "lang": "Python",
+  "name": "shanigeyu/VAT",
+  "node_id": "R_kgDOV2LWNA",
+  "topics": []
  },
  "1466108519": {
   "created_at": "2026-11-21T02:40:30Z",
@@ -616281,6 +616547,14 @@
    "video-editor-ai",
    "video-editor-for-youtube"
   ]
+ },
+ "1466145065": {
+  "created_at": "2026-11-21T03:40:46Z",
+  "desc": "Abliterated Inkling-2-Mini on ingine, a custom CUDA engine for one RTX 5090: 256K context, DSpark speculation, OpenAI API, and a one-line installer/updater.",
+  "lang": "C++",
+  "name": "satellitedown/inkling-2-mini-abliterated-ingine",
+  "node_id": "R_kgDOV2OZKQ",
+  "topics": []
  },
  "1466147404": {
   "created_at": "2026-11-21T03:44:23Z",
@@ -616373,6 +616647,14 @@
   "node_id": "R_kgDOV2V5aA",
   "topics": []
  },
+ "1466270074": {
+  "created_at": "2026-11-21T06:51:30Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "X-Square-Robot/xr-harness",
+  "node_id": "R_kgDOV2WBeg",
+  "topics": []
+ },
  "1466276600": {
   "created_at": "2026-11-21T07:00:27Z",
   "desc": "Java \u516b\u80a1\u4e0e Agent\u4e0e\u5927\u6a21\u578b\u5b66\u4e60\u9875\uff08GitHub Pages\uff09",
@@ -616388,6 +616670,25 @@
   "name": "wrong-nebula/hypbr",
   "node_id": "R_kgDOV2W1AQ",
   "topics": []
+ },
+ "1466288654": {
+  "created_at": "2026-11-21T07:17:50Z",
+  "desc": "React components, charts and dashboard pages built on Vercel's UI SDK, made for AI agents to operate. Free and MIT; Pro pages sold separately.",
+  "lang": "TypeScript",
+  "name": "raycanvas-ai/paneloui",
+  "node_id": "R_kgDOV2XKDg",
+  "topics": [
+   "ai-agents",
+   "charts",
+   "components",
+   "dashboard",
+   "nextjs",
+   "react",
+   "shadcn-ui",
+   "tailwindcss",
+   "typescript",
+   "ui-sdk"
+  ]
  },
  "1466320516": {
   "created_at": "2026-11-21T08:01:34Z",
@@ -616413,6 +616714,14 @@
   "lang": "",
   "name": "rodr1guezandrew356/elevenlabs-pro-win",
   "node_id": "R_kgDOV2Znjw",
+  "topics": []
+ },
+ "1466333755": {
+  "created_at": "2026-11-21T08:20:35Z",
+  "desc": "\u79fb\u52a8\u7684\u5f00\u6e90codex",
+  "lang": "JavaScript",
+  "name": "cjosn/codex-phone",
+  "node_id": "R_kgDOV2Z6Ow",
   "topics": []
  },
  "146633589": {
@@ -616516,6 +616825,14 @@
    "marketing-automation"
   ]
  },
+ "1466440218": {
+  "created_at": "2026-11-21T10:44:18Z",
+  "desc": "Vampire: The Masquerade - Bloodlines decompilation",
+  "lang": "C++",
+  "name": "otonomy/vampire-decomp",
+  "node_id": "R_kgDOV2gaGg",
+  "topics": []
+ },
  "1466449188": {
   "created_at": "2026-11-21T10:56:30Z",
   "desc": "\u4e00\u4e2a\u80fd\u51fa\u6d3b\u3001\u80af\u95ee\u3001\u4f1a\u5217\u8bc1\u636e\u7684 Agent \u5de5\u4f5c\u65b9\u6cd5\u3002",
@@ -616561,7 +616878,7 @@
  },
  "1466487878": {
   "created_at": "2026-11-21T11:46:22Z",
-  "desc": "Agents Bot \u8ba9\u591a\u4e2a AI \u5171\u540c\u5b8c\u6210\u5f00\u53d1\u4efb\u52a1\u3002\u5e38\u89c4\u534f\u4f5c\u53ef\u81ea\u7531\u7ec4\u961f\uff0c\u5728\u672c\u673a\u6216 SSH \u4e91\u623f\u95f4\u5de5\u4f5c\u3002OPC \u4e00\u4eba\u516c\u53f8\u7531\u9879\u76ee\u7ecf\u7406\u5e26\u9886\u524d\u7aef\u3001\u540e\u7aef\u548c\u6d4b\u8bd5\u5458\u5de5\uff0c\u901a\u8fc7 API \u6216\u672c\u5730 MCP \u8f6f\u4ef6\u4ea4\u4ed8\u3002\u652f\u6301\u5b89\u5353\u67e5\u770b\u8fdb\u5ea6\u3002",
+  "desc": "\u5f00\u6e90\u7248 GrokBot\uff08\u72ec\u7acb\u5b9e\u73b0\uff0c\u975e\u5b98\u65b9\uff09\u3002Agents Bot \u662f MIT \u8bb8\u53ef\u7684 Windows \u591a\u667a\u80fd\u4f53\u534f\u4f5c\u5de5\u4f5c\u53f0\uff0c\u652f\u6301\u5e38\u89c4\u56e2\u961f\u548c OPC \u4e00\u4eba\u516c\u53f8\uff0c\u901a\u8fc7\u6a21\u578b API\u3001\u672c\u5730 AI \u8f6f\u4ef6\u6216 SSH \u4e91\u670d\u52a1\u5668\u534f\u4f5c\uff0c\u53ef\u7528\u5b89\u5353\u624b\u673a\u67e5\u770b\u8fdb\u5ea6\u3002",
   "lang": "Python",
   "name": "rrship/agents-bot",
   "node_id": "R_kgDOV2jURg",
@@ -616732,6 +617049,28 @@
   "node_id": "R_kgDOV2pIWA",
   "topics": []
  },
+ "1466591246": {
+  "created_at": "2026-11-21T13:50:21Z",
+  "desc": "",
+  "lang": "JavaScript",
+  "name": "killher1/dsh-claude-preset",
+  "node_id": "R_kgDOV2poDg",
+  "topics": [
+   "dsh-plugin"
+  ]
+ },
+ "1466593492": {
+  "created_at": "2026-11-21T13:52:52Z",
+  "desc": "AI-Native Workbench for Power Electronics Engineer",
+  "lang": "JavaScript",
+  "name": "Open-Power-Electronics/OpenPE",
+  "node_id": "R_kgDOV2pw1A",
+  "topics": [
+   "agent",
+   "eda",
+   "power-electronics"
+  ]
+ },
  "1466599012": {
   "created_at": "2026-11-21T13:58:55Z",
   "desc": "Claude Code \u4e0e Codex CLI \u7684\u672c\u5730\u5e73\u7b49\u642d\u6863\u901a\u4fe1",
@@ -616847,7 +617186,9 @@
   "lang": "JavaScript",
   "name": "yb-zhai/agent-memory",
   "node_id": "R_kgDOV2u6Mg",
-  "topics": []
+  "topics": [
+   "dsh-plugin"
+  ]
  },
  "1466687770": {
   "created_at": "2026-11-21T15:36:34Z",
@@ -616903,6 +617244,29 @@
   "name": "PatriciaIo/topaz-denoise-ai-win",
   "node_id": "R_kgDOV2yE4g",
   "topics": []
+ },
+ "1466745411": {
+  "created_at": "2026-11-21T16:38:01Z",
+  "desc": "An attempt to make the proof of the Riemann hypothesis human readable",
+  "lang": "TeX",
+  "name": "jimjamzola/RH-Alpoge-Reconstruction",
+  "node_id": "R_kgDOV2zCQw",
+  "topics": []
+ },
+ "1466778426": {
+  "created_at": "2026-11-21T17:15:13Z",
+  "desc": "Content Skills for AI Agents: create videos, edit videos, full video editor, write scripts, 100+ themes & effects, post to social media, and create DM automations to turn views into sales.",
+  "lang": "JavaScript",
+  "name": "blotato/contentskills",
+  "node_id": "R_kgDOV21DOg",
+  "topics": [
+   "agent-skills",
+   "ai-video-editing",
+   "claude-code",
+   "claude-skills",
+   "codex",
+   "video-editor"
+  ]
  },
  "1466780389": {
   "created_at": "2026-11-21T17:17:32Z",
@@ -616987,12 +617351,28 @@
    "workflow-automation"
   ]
  },
+ "1466805694": {
+  "created_at": "2026-11-21T17:46:59Z",
+  "desc": "Open-source sandboxes for AI agents: Firecracker microVMs that create, fork and resume in milliseconds.",
+  "lang": "TypeScript",
+  "name": "arjunkshah12345-hash/jasmine-sandbox",
+  "node_id": "R_kgDOV22tvg",
+  "topics": []
+ },
  "1466815416": {
   "created_at": "2026-11-21T17:58:44Z",
   "desc": "AI-powered cybersecurity gateway for Industry 4.0 and Industrial IoT networks, featuring intelligent DDoS detection, real-time monitoring and automated mitigation.",
   "lang": "Python",
   "name": "jaydeepm25/AI-Based-Cyber-Security-Gateway-AICG",
   "node_id": "R_kgDOV23TuA",
+  "topics": []
+ },
+ "1466819581": {
+  "created_at": "2026-11-21T18:03:38Z",
+  "desc": "Duo Desktop: precise control of any computer from an iPhone Duo or iPhone. Mac, Windows PC, Linux, or a machine that won't boot.",
+  "lang": "Swift",
+  "name": "Stratechery/duo-desktop",
+  "node_id": "R_kgDOV23j_Q",
   "topics": []
  },
  "1466832925": {
@@ -617128,10 +617508,34 @@
  },
  "1466981395": {
   "created_at": "2026-11-21T21:46:33Z",
-  "desc": "One-command open source inference stack: LiteLLM + llm-d + vLLM with a launcher and Grafana",
+  "desc": "One-command open source inference stack: LiteLLM + Lens + llm-d + vLLM with a launcher and Grafana",
   "lang": "Python",
   "name": "BerriAI/inference-stack",
   "node_id": "R_kgDOV3BcEw",
+  "topics": []
+ },
+ "1466983104": {
+  "created_at": "2026-11-21T21:49:02Z",
+  "desc": "Inkling 2 Mini on one RTX 3090 / 3090 Ti with vLLM: sm86 port, INT4 GPTQ checkpoint, DSpark speculative decoding, 262k context",
+  "lang": "Python",
+  "name": "Pento95/HyperInkling",
+  "node_id": "R_kgDOV3BiwA",
+  "topics": []
+ },
+ "1467013299": {
+  "created_at": "2026-11-21T22:37:46Z",
+  "desc": "Reinforcement-learning agents for Slay the Spire 2 at Ascension 10: code, networks, seeds, per-seed results and records behind the AlphaDefect paper",
+  "lang": "Python",
+  "name": "hmty-CHEN/AlphaDefect-Public",
+  "node_id": "R_kgDOV3DYsw",
+  "topics": []
+ },
+ "1467020496": {
+  "created_at": "2026-11-21T22:49:55Z",
+  "desc": "Source-available OpenDialer Community backend for personal and internal business use.",
+  "lang": "TypeScript",
+  "name": "opendialer/community",
+  "node_id": "R_kgDOV3D00A",
   "topics": []
  },
  "1467028795": {
@@ -617316,6 +617720,14 @@
    "world-model"
   ]
  },
+ "1467347835": {
+  "created_at": "2026-11-22T08:13:50Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "jiangxianyan/tafeiyu",
+  "node_id": "R_kgDOV3Xzew",
+  "topics": []
+ },
  "1467387411": {
   "created_at": "2026-11-22T09:12:09Z",
   "desc": "macOS \u526a\u8d34\u677f\u5386\u53f2\uff1a\u590d\u5236\u8fc7\u7684\u4e1c\u897f\u6302\u5728\u5c4f\u5e55\u9876\u90e8\u7684\u4e00\u6839\u7ef3\u4e0a\uff0c\u6309 \u2325C \u6311\u4e00\u4ef6\uff0c\u23ce \u8d34\u56de\u6b63\u5728\u6253\u5b57\u7684\u5730\u65b9\u3002Clipboard history for macOS, hung on a line at the top of your screen.",
@@ -617338,6 +617750,14 @@
   "lang": "Python",
   "name": "nickvasilescu/os1-her",
   "node_id": "R_kgDOV3awKg",
+  "topics": []
+ },
+ "1467437597": {
+  "created_at": "2026-11-22T10:21:47Z",
+  "desc": "",
+  "lang": "JavaScript",
+  "name": "azwosile/agy-wallpaper-prism",
+  "node_id": "R_kgDOV3dSHQ",
   "topics": []
  },
  "1467442623": {
@@ -617401,6 +617821,14 @@
    "soy-agaci",
    "soykutugu"
   ]
+ },
+ "1467461515": {
+  "created_at": "2026-11-22T10:53:17Z",
+  "desc": "",
+  "lang": "JavaScript",
+  "name": "crhywun/g1-acq",
+  "node_id": "R_kgDOV3eviw",
+  "topics": []
  },
  "1467466377": {
   "created_at": "2026-11-22T10:59:47Z",
@@ -617471,6 +617899,27 @@
    "voice-assistant",
    "vue3",
    "xiaomi-lx06"
+  ]
+ },
+ "1467506912": {
+  "created_at": "2026-11-22T11:50:35Z",
+  "desc": "SlopSquatShield checks the packages that you or your AI coding agent install, and blocks names that don't exist or look like slopsquatting traps. It supports npm, PyPI and Maven, and it runs in your terminal, in AI agent hooks, on git commit and in your IDE.",
+  "lang": "TypeScript",
+  "name": "agivanttechnologies/SlopSquatShield",
+  "node_id": "R_kgDOV3hg4A",
+  "topics": [
+   "ai-coding",
+   "claude-code",
+   "cli-tool",
+   "coding-agents",
+   "dependency-security",
+   "extensions",
+   "hallucinated-packages",
+   "maven",
+   "npm",
+   "pypi",
+   "security",
+   "slopsquatting"
   ]
  },
  "1467509933": {
@@ -617724,6 +618173,14 @@
   "node_id": "R_kgDOV310aQ",
   "topics": []
  },
+ "1467859641": {
+  "created_at": "2026-11-22T18:26:11Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "HappyFox001/Super-Reasoning-Engine",
+  "node_id": "R_kgDOV33CuQ",
+  "topics": []
+ },
  "1467865611": {
   "created_at": "2026-11-22T18:33:04Z",
   "desc": "Turn any GitHub org into a self-updating engineering wiki with offline hybrid search, Web UI, and MCP.",
@@ -617864,6 +618321,14 @@
   "node_id": "R_kgDOV4BlRA",
   "topics": []
  },
+ "1468070724": {
+  "created_at": "2026-11-22T23:07:35Z",
+  "desc": "Drop redundant reference tokens with a video codec, keep the quality, generate faster",
+  "lang": "Python",
+  "name": "Kiteretsu77/CodecOPSD",
+  "node_id": "R_kgDOV4D7RA",
+  "topics": []
+ },
  "1468114614": {
   "created_at": "2026-11-23T00:22:50Z",
   "desc": "\u56de\u8e29\u786e\u8ba4 TradingView \u6307\u6807\uff08Pine Script v5\uff09+ Grok Bot \u63d0\u793a\u8bcd",
@@ -617938,7 +618403,34 @@
   "lang": "Swift",
   "name": "inokoru/yuyue",
   "node_id": "R_kgDOV4SPmw",
-  "topics": []
+  "topics": [
+   "epub",
+   "epub-reader",
+   "reader"
+  ]
+ },
+ "1468319189": {
+  "created_at": "2026-11-23T05:17:14Z",
+  "desc": "1MB native SwiftUI macOS menubar system monitor, disk analyzer, and app uninstaller",
+  "lang": "Swift",
+  "name": "athlan20/peek",
+  "node_id": "R_kgDOV4TF1Q",
+  "topics": [
+   "app-uninstaller",
+   "apple-silicon",
+   "disk-analyzer",
+   "hardware-monitoring",
+   "homebrew",
+   "lightweight",
+   "macos",
+   "macos-app",
+   "menubar-app",
+   "port-monitoring",
+   "swift",
+   "swiftui",
+   "system-monitor",
+   "treemap"
+  ]
  },
  "1468323153": {
   "created_at": "2026-11-23T05:22:20Z",
@@ -618405,6 +618897,20 @@
    "tensorflow"
   ]
  },
+ "1468632022": {
+  "created_at": "2026-11-23T10:49:05Z",
+  "desc": "With open-weight AI models surging in November 2026\u2014including Ant Group's November 23 release of LingSante medical models\u2014teams spinning up multi-GPU cloud servers need predictable, capped payment rails for hourly compute billing.",
+  "lang": "",
+  "name": "dsolobalani-bot/coregold-usdt-vcc-open-weight-models-cloud-gpu-billing-guide",
+  "node_id": "R_kgDOV4mL1g",
+  "topics": [
+   "applepay",
+   "coregold",
+   "gpu",
+   "vcc",
+   "visa"
+  ]
+ },
  "1468648244": {
   "created_at": "2026-11-23T11:05:10Z",
   "desc": "On November 20, 2026, DBS and J.P. Morgan launched 24/7 cross-border tokenized USD settlement for institutions\u2014here is how indie builders, cross-border sellers, and creators run their own 24/7 dollar payment pipeline using USDT (TRC20), US VCCs, and Apple Pay / Google Pay.",
@@ -618434,6 +618940,22 @@
    "cursor",
    "formal-verification"
   ]
+ },
+ "1468650761": {
+  "created_at": "2026-11-23T11:07:39Z",
+  "desc": "",
+  "lang": "JavaScript",
+  "name": "azwosile/agy-market",
+  "node_id": "R_kgDOV4nVCQ",
+  "topics": []
+ },
+ "1468662936": {
+  "created_at": "2026-11-23T11:19:35Z",
+  "desc": "Deliver webhooks to your Muse side chats from a Cloudflare Worker.",
+  "lang": "TypeScript",
+  "name": "Code-Hex/MuseKnock",
+  "node_id": "R_kgDOV4oEmA",
+  "topics": []
  },
  "1468678970": {
   "created_at": "2026-11-23T11:35:11Z",
@@ -618513,6 +619035,14 @@
    "super-resolution",
    "windows"
   ]
+ },
+ "1468682263": {
+  "created_at": "2026-11-23T11:38:12Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "davidalfasunarna/3d-engineering-video-claude-skills",
+  "node_id": "R_kgDOV4pQFw",
+  "topics": []
  },
  "1468683638": {
   "created_at": "2026-11-23T11:39:30Z",
@@ -618656,6 +619186,14 @@
    "unused-dependencies"
   ]
  },
+ "1468981241": {
+  "created_at": "2026-11-23T15:58:45Z",
+  "desc": "\u8c6a\u8001\u5e2b\u98a8\u683c\u6897\u5716\u7522\u751f\u5668\uff08\u7d14\u524d\u7aef\uff0c\u76f4\u63a5\u958b index.html\uff09",
+  "lang": "HTML",
+  "name": "Lanternko/HaoMeme",
+  "node_id": "R_kgDOV47f-Q",
+  "topics": []
+ },
  "1469001509": {
   "created_at": "2026-11-23T16:16:26Z",
   "desc": "Fast, headless CLI & multi-step flow runner for physical iPhones over Wi-Fi",
@@ -618794,6 +619332,14 @@
    "opencode-web",
    "pi-ui"
   ]
+ },
+ "1469224351": {
+  "created_at": "2026-11-23T19:37:27Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "harris-nyc/neon-autoresearch",
+  "node_id": "R_kgDOV5KVnw",
+  "topics": []
  },
  "1469242625": {
   "created_at": "2026-11-23T19:55:36Z",
@@ -619078,6 +619624,22 @@
    "windows-tool"
   ]
  },
+ "1469316094": {
+  "created_at": "2026-11-23T21:14:30Z",
+  "desc": "Claude Code skill: find bugs and prove optimizations equivalent with Lean 4",
+  "lang": "Shell",
+  "name": "hirosassa/lean-verify",
+  "node_id": "R_kgDOV5P7_g",
+  "topics": [
+   "agent-skills",
+   "bug-finding",
+   "claude-code",
+   "claude-code-skill",
+   "formal-verification",
+   "lean4",
+   "theorem-proving"
+  ]
+ },
  "1469332768": {
   "created_at": "2026-11-23T21:33:47Z",
   "desc": "Auto subtitles for any video in 100+ languages. Local whisper, SRT/ASS/VTT out. | subtitles whisper srt captions video | Portable x64 prebuilt for Windows",
@@ -619221,6 +619783,14 @@
    "valorant-user-tools"
   ]
  },
+ "1469378474": {
+  "created_at": "2026-11-23T22:29:44Z",
+  "desc": "yt-dlp except run by a psychopath who prefers to make the best possible tool rather than virtue signal about AI and piracy",
+  "lang": "Python",
+  "name": "jbruchon/yt-dlp-enhanced",
+  "node_id": "R_kgDOV5Tvqg",
+  "topics": []
+ },
  "1469379706": {
   "created_at": "2026-11-23T22:31:11Z",
   "desc": "Premiere Pro for Windows: a professional video editing and production workspace for desktop systems.",
@@ -619263,9 +619833,28 @@
    "claude-code",
    "claude-code-plugin",
    "codex",
+   "codex-cli",
+   "codex-plugin",
    "developer-tools",
-   "feedforward"
+   "feedforward",
+   "terminal-ui"
   ]
+ },
+ "1469479696": {
+  "created_at": "2026-11-24T00:47:44Z",
+  "desc": "Platform SaaS berbasis AI untuk riset produk affiliate, analisis peluang, pembuatan konten promosi, video generation, dan otomasi workflow affiliate lintas kategori produk.",
+  "lang": "PHP",
+  "name": "bhottu/cultiv-tiktok-ai-affiliate-platform",
+  "node_id": "R_kgDOV5Z7EA",
+  "topics": []
+ },
+ "1469537207": {
+  "created_at": "2026-11-24T02:04:33Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "sheshavpd/CanonBall",
+  "node_id": "R_kgDOV5dbtw",
+  "topics": []
  },
  "1469563197": {
   "created_at": "2026-11-24T02:39:01Z",
@@ -619304,6 +619893,14 @@
    "wine"
   ]
  },
+ "1469586867": {
+  "created_at": "2026-11-24T03:09:40Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "Tencent/OmniEVIE",
+  "node_id": "R_kgDOV5gdsw",
+  "topics": []
+ },
  "1469590008": {
   "created_at": "2026-11-24T03:13:53Z",
   "desc": "\u628a MIT 18.S096 \u516c\u5f00\u8bfe\u91cc\u7684\u91cf\u5316\u65b9\u6cd5\u505a\u6210 Claude skill\uff1a\u56de\u6d4b\u4e09\u5173 + GARCH \u6b62\u635f + Kelly \u4ed3\u4f4d + VaR\uff0c\u9ed8\u8ba4\u6a21\u62df\u8d26\u672c",
@@ -619311,6 +619908,3812 @@
   "name": "Allencake/mit-trader-skill",
   "node_id": "R_kgDOV5gp-A",
   "topics": []
+ },
+ "1469593077": {
+  "created_at": "2026-11-24T03:17:47Z",
+  "desc": "GTA VI (Xbox Series) native runtime for Windows - no game data included",
+  "lang": "Rust",
+  "name": "rorodev6/victory",
+  "node_id": "R_kgDOV5g19Q",
+  "topics": []
+ },
+ "1469620251": {
+  "created_at": "2026-11-24T03:52:15Z",
+  "desc": "nanoAstra: A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation",
+  "lang": "Python",
+  "name": "Hugo-AGI/nanoAstra",
+  "node_id": "R_kgDOV5igGw",
+  "topics": []
+ },
+ "1469636353": {
+  "created_at": "2026-11-24T04:13:47Z",
+  "desc": "Set it up at home and play your own console from any browser. Self-hosted, with low-latency WebRTC video and a line for taking turns.",
+  "lang": "TypeScript",
+  "name": "germanfndez/playgta",
+  "node_id": "R_kgDOV5jfAQ",
+  "topics": [
+   "bun",
+   "chiaki",
+   "game-streaming",
+   "low-latency",
+   "macos",
+   "mediamtx",
+   "remote-play",
+   "self-hosted",
+   "typescript",
+   "webrtc"
+  ]
+ },
+ "1469644698": {
+  "created_at": "2026-11-24T04:24:29Z",
+  "desc": "Oxbridge Health engineering take-home: build a prior authorization API",
+  "lang": "",
+  "name": "rgavrilov5/prior-auth-api-challenge",
+  "node_id": "R_kgDOV5j_mg",
+  "topics": []
+ },
+ "1469646160": {
+  "created_at": "2026-11-24T04:26:22Z",
+  "desc": "",
+  "lang": "Lean",
+  "name": "mlc-ai/tx-verify",
+  "node_id": "R_kgDOV5kFUA",
+  "topics": []
+ },
+ "1469664215": {
+  "created_at": "2026-11-24T04:50:14Z",
+  "desc": "Local AI companion: personality, long-term memory, voice chat. Nothing leaves your PC. | ai-girlfriend companion local voice memory offline | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "GahiziTiv51/ai-girlfriend-local",
+  "node_id": "R_kgDOV5lL1w",
+  "topics": [
+   "ai-girlfriend",
+   "ai-girlfriend-local",
+   "chat",
+   "companion",
+   "local",
+   "memory",
+   "offline",
+   "open-source",
+   "persona",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "voice",
+   "windows-tool"
+  ]
+ },
+ "1469682780": {
+  "created_at": "2026-11-24T05:13:42Z",
+  "desc": "Rotate Claude Code sessions automatically. Never hit the limit again. | claude claude-code anthropic llm ai-tools cli | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "TegevoXi39/ccu-tool",
+  "node_id": "R_kgDOV5mUXA",
+  "topics": [
+   "ai-tools",
+   "anthropic",
+   "ccu-tool",
+   "claude",
+   "claude-code",
+   "claude-code-unlimited",
+   "cli",
+   "developer-tools",
+   "llm",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "windows-tool"
+  ]
+ },
+ "1469682971": {
+  "created_at": "2026-11-24T05:13:57Z",
+  "desc": "Keep Codex CLI running past every limit. Transparent wrapper, zero config. | codex openai cli wrapper rotation | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "HaqayaDe25/codex-cli-rotator",
+  "node_id": "R_kgDOV5mVGw",
+  "topics": [
+   "cli",
+   "codex",
+   "codex-cli-rotator",
+   "codex-cli-unlimited",
+   "open-source",
+   "openai",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotation",
+   "windows-tool",
+   "wrapper"
+  ]
+ },
+ "1469683020": {
+  "created_at": "2026-11-24T05:14:01Z",
+  "desc": "Rotate free-tier LLM API keys automatically. One pool, many providers, zero 429s. | llm api rotation free-tier openai anthropic | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "francoisokada/llm-key-pool",
+  "node_id": "R_kgDOV5mVTA",
+  "topics": [
+   "anthropic",
+   "api",
+   "free-tier",
+   "gemini",
+   "groq",
+   "llm",
+   "llm-key-pool",
+   "llm-key-rotator",
+   "open-source",
+   "openai",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotation",
+   "windows-tool"
+  ]
+ },
+ "1469683119": {
+  "created_at": "2026-11-24T05:14:08Z",
+  "desc": "Self-hosted ChatGPT mirror: one shared endpoint for your team, no logins. | chatgpt mirror self-hosted proxy team | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "LodixaXul9/gpt-mirror-selfhosted",
+  "node_id": "R_kgDOV5mVrw",
+  "topics": [
+   "chatgpt",
+   "chatgpt-mirror-selfhosted",
+   "gpt-mirror-selfhosted",
+   "mirror",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "proxy",
+   "self-hosted",
+   "team",
+   "windows-tool"
+  ]
+ },
+ "1469683228": {
+  "created_at": "2026-11-24T05:14:17Z",
+  "desc": "Local, private, unfiltered AI chat. Runs on your machine \u2014 nothing phones home. | llm local uncensored privacy chat | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "CajasiZep76/local-ai-chat-uncensored",
+  "node_id": "R_kgDOV5mWHA",
+  "topics": [
+   "chat",
+   "llm",
+   "local",
+   "local-ai-chat-uncensored",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "privacy",
+   "productivity",
+   "uncensored",
+   "uncensored-ai-chat",
+   "windows-tool"
+  ]
+ },
+ "1469703772": {
+  "created_at": "2026-11-24T05:40:12Z",
+  "desc": "Claude Code skills that turn one article into an SEO blog post and a 30s Short with your AI twin, scheduled with Postiz",
+  "lang": "JavaScript",
+  "name": "gitroomhq/postiz-content-skills",
+  "node_id": "R_kgDOV5nmXA",
+  "topics": [
+   "ai-video",
+   "claude-code",
+   "claude-skills",
+   "postiz",
+   "seo"
+  ]
+ },
+ "1469727010": {
+  "created_at": "2026-11-24T06:07:12Z",
+  "desc": "\u6572\u6572\u732b \u00b7 A desktop cat that types along with you. Portable download for Windows.",
+  "lang": "",
+  "name": "alienbai1107-art/TYPINCAT",
+  "node_id": "R_kgDOV5pBIg",
+  "topics": []
+ },
+ "1469727651": {
+  "created_at": "2026-11-24T06:07:57Z",
+  "desc": "",
+  "lang": "JavaScript",
+  "name": "Rain-dust/paperfold",
+  "node_id": "R_kgDOV5pDow",
+  "topics": []
+ },
+ "1469763521": {
+  "created_at": "2026-11-24T06:47:09Z",
+  "desc": "Claude \u6bcd\u516c\u53f8 Anthropic \u521a\u521a\u5728\u7eb3\u65af\u8fbe\u514b\u521b\u4e0b\u53f2\u4e0a\u6700\u5927 IPO \u7eaa\u5f55\uff0c\u4f01\u4e1a\u7ea7\u8ba2\u9605\u4e0e\u5f00\u53d1\u8c03\u7528\u5168\u7ebf\u5347\u6e29\u2014\u2014\u804a\u804a\u666e\u901a\u5f00\u53d1\u8005\u548c\u51fa\u6d77\u56e2\u961f\u5982\u4f55\u7528 CoreGold \u7f8e\u533a\u865a\u62df\u5361 \u641e\u5b9a Claude \u5b98\u7f51\u4ed8\u8d39\u4e0e\u9632\u9501\u5361\u98ce\u63a7\u3002",
+  "lang": "",
+  "name": "mdm309348-dotcom/coregold-usdt-vcc-anthropic-ipo-claude-billing-deep-guide",
+  "node_id": "R_kgDOV5rPwQ",
+  "topics": [
+   "anthropic",
+   "applepay",
+   "claude",
+   "coregold"
+  ]
+ },
+ "1469763733": {
+  "created_at": "2026-11-24T06:47:24Z",
+  "desc": "Rewrite AI text so detectors score it 0%. Local paraphrase engine, instant. | humanizer ai-detector paraphrase gptzero turnitin | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Sullivan8389/humanize-ai-text",
+  "node_id": "R_kgDOV5rQlQ",
+  "topics": [
+   "ai-detector",
+   "ai-text-humanizer",
+   "gptzero",
+   "humanize-ai-text",
+   "humanizer",
+   "open-source",
+   "paraphrase",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "turnitin",
+   "windows-tool"
+  ]
+ },
+ "1469766141": {
+  "created_at": "2026-11-24T06:49:48Z",
+  "desc": "Auto subtitles for any video in 100+ languages. Local whisper, SRT/ASS/VTT out. | subtitles whisper srt captions video | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "georgeyildirim/auto-subtitles",
+  "node_id": "R_kgDOV5rZ_Q",
+  "topics": [
+   "ai-subtitle-gen",
+   "auto-subtitles",
+   "captions",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "srt",
+   "subtitles",
+   "video",
+   "whisper",
+   "windows-tool"
+  ]
+ },
+ "1469766469": {
+  "created_at": "2026-11-24T06:50:09Z",
+  "desc": "Background removal for photos and video. Local models, batch mode, no uploads. | background-remover u2net rembg photo video | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "RufimiJi53/background-cutout",
+  "node_id": "R_kgDOV5rbRQ",
+  "topics": [
+   "ai-background-remover",
+   "background-cutout",
+   "background-remover",
+   "open-source",
+   "photo",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rembg",
+   "u2net",
+   "video",
+   "windows-tool"
+  ]
+ },
+ "1469771419": {
+  "created_at": "2026-11-24T06:55:02Z",
+  "desc": "Local AI companion: personality, long-term memory, voice chat. Nothing leaves your PC. | ai-girlfriend companion local voice memory offline | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "ghuang64229/local-ai-girlfriend",
+  "node_id": "R_kgDOV5rumw",
+  "topics": [
+   "ai-girlfriend",
+   "ai-girlfriend-local",
+   "chat",
+   "companion",
+   "local",
+   "local-ai-girlfriend",
+   "memory",
+   "offline",
+   "open-source",
+   "persona",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "voice",
+   "windows-tool"
+  ]
+ },
+ "1469775933": {
+  "created_at": "2026-11-24T06:59:31Z",
+  "desc": "An open-source pixel mascot on Antigravity's prompt bar with 19 animated states, sustained moods, and per-model quota sleep/wake",
+  "lang": "Python",
+  "name": "Arnav8452/atom",
+  "node_id": "R_kgDOV5sAPQ",
+  "topics": [
+   "ai-agents",
+   "antigravity",
+   "electron",
+   "mascot",
+   "opensource",
+   "pixel-art",
+   "python"
+  ]
+ },
+ "1469786998": {
+  "created_at": "2026-11-24T07:11:03Z",
+  "desc": "Story spec -> consistent Codex stills -> MiniMax H3 first/last-frame clips -> stitched silent videos. Agent SKILL.md included.",
+  "lang": "Python",
+  "name": "0xSero/storyboard-to-video-system",
+  "node_id": "R_kgDOV5srdg",
+  "topics": []
+ },
+ "1469803599": {
+  "created_at": "2026-11-24T07:28:18Z",
+  "desc": "Benchmark for evaluating query-conditioned execution risk in LLM agents.",
+  "lang": "Python",
+  "name": "hustcsking/ibbd-benchmark",
+  "node_id": "R_kgDOV5tsTw",
+  "topics": []
+ },
+ "1469827250": {
+  "created_at": "2026-11-24T07:52:17Z",
+  "desc": "A curated list of awesome Obsidian plugins, themes, CSS snippets, publishing engines, CLI workflows, companion apps, starter vaults, and developer tools.",
+  "lang": "",
+  "name": "thebigby10/awesome-obsidian",
+  "node_id": "R_kgDOV5vIsg",
+  "topics": []
+ },
+ "1469834776": {
+  "created_at": "2026-11-24T07:59:46Z",
+  "desc": "11 \u6708 23 \u65e5 a16z \u9886\u6295\u673a\u5668\u4eba\u57fa\u7840\u6a21\u578b\u516c\u53f8 Embo 1.1 \u4ebf\u7f8e\u5143\u79cd\u5b50\u8f6e\uff0c\u5177\u8eab\u667a\u80fd\u4e0e\u7a7a\u95f4\u4eff\u771f\u5f00\u53d1\u5168\u7ebf\u63d0\u901f\u2014\u2014\u804a\u804a\u5f00\u53d1\u8005\u5728\u62c9\u53d6\u6d77\u5916\u6570\u636e\u96c6\u3001\u8ba2\u9605\u4eff\u771f\u8f6f\u4ef6\u548c\u4e91\u5f00\u53d1\u5957\u4ef6\u65f6\uff0c\u5982\u4f55\u7528 CoreGold \u865a\u62df\u5361 \u6446\u8131\u8de8\u5883\u652f\u4ed8\u969c\u788d\u3002",
+  "lang": "",
+  "name": "tankfnmb-droid/coregold-usdt-vcc-a16z-embo-robotics-ai-tools-payment-guide",
+  "node_id": "R_kgDOV5vmGA",
+  "topics": [
+   "ai",
+   "applepay",
+   "coregold",
+   "vcc",
+   "visa"
+  ]
+ },
+ "1469838593": {
+  "created_at": "2026-11-24T08:03:39Z",
+  "desc": "Run several official Claude Desktop accounts side by side on your Mac \u2014 one-key switching, remaining quota at a glance, native & signed.",
+  "lang": "Swift",
+  "name": "designfuchen/ClaudeDock",
+  "node_id": "R_kgDOV5v1AQ",
+  "topics": [
+   "claude",
+   "claude-code",
+   "claude-desktop",
+   "macos",
+   "menu-bar",
+   "multi-account",
+   "swift",
+   "swiftui"
+  ]
+ },
+ "1469842764": {
+  "created_at": "2026-11-24T08:07:47Z",
+  "desc": "\u7f51\u7edc\u5b89\u5168\u5de8\u5934 CrowdStrike \u521a\u521a\u5ba3\u5e03\u6536\u8d2d Zscaler \u5168\u9762\u6574\u5408\u96f6\u4fe1\u4efb\u67b6\u6784\u2014\u2014\u5b89\u5168\u5708\u90fd\u5728\u8bb2\u201c\u9ed8\u8ba4\u4e0d\u4fe1\u4efb\u3001\u6700\u5c0f\u6743\u9650\u9694\u79bb\u201d\uff0c\u8de8\u5883\u7535\u5546\u548c\u591a\u8d26\u53f7\u8fd0\u8425\u56e2\u961f\u600e\u4e48\u7528 CoreGold \u865a\u62df\u5361 \u642d\u5efa\u9632\u5173\u8054\u3001\u9632\u8fde\u5750\u7684\u96f6\u4fe1\u4efb\u652f\u4ed8\u4f53\u7cfb\uff1f",
+  "lang": "",
+  "name": "jw7967kim-hub/coregold-usdt-vcc-crowdstrike-zscaler-zero-trust-card-isolation-guide",
+  "node_id": "R_kgDOV5wFTA",
+  "topics": [
+   "ai",
+   "apple",
+   "applepay",
+   "coregold",
+   "vcc"
+  ]
+ },
+ "1469844518": {
+  "created_at": "2026-11-24T08:09:29Z",
+  "desc": "\u57fa\u4e8e DeepSeek Super-agent \u67b6\u6784\u7684 \u7c7b\u4f3c Grok Bot \u4ea7\u54c1",
+  "lang": "TypeScript",
+  "name": "zhukunpenglinyutong/nengyong-bot",
+  "node_id": "R_kgDOV5wMJg",
+  "topics": []
+ },
+ "1469854431": {
+  "created_at": "2026-11-24T08:19:04Z",
+  "desc": "11 \u6708 23 \u65e5 RAND \u5170\u5fb7\u667a\u5e93\u53d1\u5e03\u7684 AI \u81ea\u52a8\u5316\u66ff\u4ee3\u4eba\u5de5\u6d4b\u7b97\u5f15\u53d1\u5168\u7f51\u70ed\u8bae\uff0c\u201c\u4e00\u4eba\u516c\u53f8\uff08One-Person Company\uff09\u201d\u6b63\u501f\u52a9 AI \u7206\u53d1\u2014\u2014\u804a\u804a\u8d85\u7ea7\u4e2a\u4f53\u548c\u81ea\u7531\u804c\u4e1a\u8005\u5982\u4f55\u7528 CoreGold \u865a\u62df\u5361 \u4e00\u4e2a\u4eba\u641e\u5b9a\u5168\u7403\u8ba2\u9605\u3001\u5e94\u7528\u5546\u5e97\u4e0e\u8de8\u5883\u6536\u4ed8\u3002",
+  "lang": "",
+  "name": "blessingyakubu400-art/coregold-usdt-vcc-rand-ai-automation-solo-founder-stack-guide",
+  "node_id": "R_kgDOV5wy3w",
+  "topics": [
+   "ai",
+   "apple",
+   "appleapy",
+   "coregold",
+   "vcc"
+  ]
+ },
+ "1469865819": {
+  "created_at": "2026-11-24T08:30:07Z",
+  "desc": "\u8fd1\u671f\u7f8e\u56fd\u6536\u7d27\u5148\u8fdb AI \u82af\u7247\u51fa\u53e3\u8bb8\u53ef\u9650\u5236\uff08\u6db5\u76d6\u65b0\u52a0\u5761\u3001\u9a6c\u6765\u897f\u4e9a\u7b49\u591a\u56fd\uff09\uff0c\u4e0d\u5c11\u51fa\u6d77\u6280\u672f\u56e2\u961f\u6b63\u5728\u8c03\u6574\u4e9a\u592a\u4e0e\u5317\u7f8e\u4e91\u7aef\u8282\u70b9\u2014\u2014\u804a\u804a\u591a\u533a\u57df\u4e91\u8d26\u53f7\u90e8\u7f72\u65f6\uff0c\u5982\u4f55\u7528 CoreGold \u865a\u62df\u5361 \u907f\u514d\u8de8\u533a\u652f\u4ed8\u98ce\u63a7\u3002",
+  "lang": "",
+  "name": "ritaxavier765-prog/coregold-usdt-vcc-ai-chip-export-controls-global-cloud-billing-guide",
+  "node_id": "R_kgDOV5xfWw",
+  "topics": [
+   "apple",
+   "applepay",
+   "coregold",
+   "googlepay",
+   "vcc",
+   "visa"
+  ]
+ },
+ "1469873153": {
+  "created_at": "2026-11-24T08:36:57Z",
+  "desc": "Turn free 12h Kaggle Dual-T4 GPUs into live remote terminals & detached job runners for AI Agents via MCP.",
+  "lang": "Python",
+  "name": "NguyenQuocDat06-AI/kaggle-shell-mcp",
+  "node_id": "R_kgDOV5x8AQ",
+  "topics": [
+   "ai-agent",
+   "gpu",
+   "kaggle",
+   "mcp",
+   "model-context-protocol",
+   "pytorch",
+   "remote-terminal"
+  ]
+ },
+ "1469881556": {
+  "created_at": "2026-11-24T08:44:47Z",
+  "desc": "\u968f\u7740\u7aef\u4fa7 AI \u4e0e\u5b89\u5353\u751f\u6001\u5e94\u7528\u51fa\u6d77\u6301\u7eed\u5347\u6e29\uff0c\u5f88\u591a\u5f00\u53d1\u8005\u548c\u73a9\u5bb6\u5361\u5728 Google Play \u7ed1\u5361\u4e0e Google Wallet \u652f\u4ed8\u4e0a\u2014\u2014\u624b\u628a\u624b\u6559\u4f60\u600e\u4e48\u7528 CoreGold \u865a\u62df\u5361 \u6253\u901a\u8c37\u6b4c\u5168\u751f\u6001\u652f\u4ed8\u3002",
+  "lang": "",
+  "name": "jmarianodaa-ctrl/coregold-usdt-vcc-google-play-android-developer-wallet-guide",
+  "node_id": "R_kgDOV5yc1A",
+  "topics": [
+   "applepay",
+   "coregold",
+   "google",
+   "googlepay",
+   "vcc",
+   "visa"
+  ]
+ },
+ "1469900020": {
+  "created_at": "2026-11-24T09:01:36Z",
+  "desc": "ROB RUN Cheats 2026 for PC \u2014 Aimbot, Aim Assist, Player ESP, Skeleton ESP, Wallhack, Radar, Loot ESP and Vehicle ESP. Explore ROB RUN cheat menu screenshots, visual settings, gameplay tools and customization options. ROB RUN cheat download and PC features.",
+  "lang": "",
+  "name": "MicroBlacksmithRaid/Rob-Run-Cheat-AI",
+  "node_id": "R_kgDOV5zk9A",
+  "topics": [
+   "rob-run",
+   "rob-run-aim-cheats",
+   "rob-run-aim-wh",
+   "rob-run-aimbot",
+   "rob-run-aimbot-download",
+   "rob-run-cheat",
+   "rob-run-cheat-2026",
+   "rob-run-cheat-download",
+   "rob-run-cheat-menu",
+   "rob-run-cheats",
+   "rob-run-cheats-2026",
+   "rob-run-cheats-download",
+   "rob-run-wall-hack",
+   "rob-run-wh",
+   "rob-run-windows"
+  ]
+ },
+ "1469910369": {
+  "created_at": "2026-11-24T09:11:12Z",
+  "desc": "\u5e74\u672b\u6d77\u5916\u7535\u5546\u65fa\u5b63\u4e0e AI \u7d20\u6750\u6279\u91cf\u6295\u6d41\u5168\u9762\u5c55\u5f00\uff0c\u6295\u624b\u548c\u72ec\u7acb\u7ad9\u5356\u5bb6\u6700\u6015\u56e0\u4e3a\u4e00\u5f20\u5361\u62d2\u4ed8\u5bfc\u81f4\u6574\u4e2a BM \u6216\u5e7f\u544a\u6237\u8fde\u5750\u88ab\u5c01\u2014\u2014\u804a\u804a\u8de8\u5883\u6295\u653e\u91cc\u7684 CoreGold \u865a\u62df\u5361 \u5206\u8d26\u4e0e\u9632\u98ce\u63a7\u5b9e\u64cd\u3002",
+  "lang": "",
+  "name": "eyuputku57-ops/coregold-usdt-vcc-cross-border-ads-facebook-tiktok-billing-guide",
+  "node_id": "R_kgDOV50NYQ",
+  "topics": [
+   "api",
+   "coregold",
+   "google",
+   "google-maps-api",
+   "vcc",
+   "vusa"
+  ]
+ },
+ "1469915034": {
+  "created_at": "2026-11-24T09:15:27Z",
+  "desc": "Curated and updated daily: agentic commerce protocols (UCP, ACP, AP2, MCP, x402), SDKs, payment providers, open source implementations and the latest news.",
+  "lang": "",
+  "name": "sthamann/awesome-agentic-commerce",
+  "node_id": "R_kgDOV50fmg",
+  "topics": [
+   "acp",
+   "agentic-commerce",
+   "ai-agents",
+   "ap2",
+   "awesome",
+   "awesome-list",
+   "ecommerce",
+   "mcp",
+   "ucp",
+   "x402"
+  ]
+ },
+ "1469925392": {
+  "created_at": "2026-11-24T09:24:47Z",
+  "desc": "\u968f\u7740\u8fdc\u7a0b\u529e\u516c\u3001AI \u63a5\u5355\u4e0e\u6570\u5b57\u6e38\u6c11\u7fa4\u4f53\u4e0d\u65ad\u6269\u5927\uff0c\u8d8a\u6765\u8d8a\u591a\u4eba\u7528 USDT \u7ed3\u7b97\u9879\u76ee\u62a5\u916c\u2014\u2014\u804a\u804a\u600e\u4e48\u901a\u8fc7 CoreGold \u865a\u62df\u5361 \u628a\u94fe\u4e0a USDT \u65e0\u7f1d\u53d8\u6210\u5168\u7403\u7ebf\u4e0a\u7ebf\u4e0b\u90fd\u80fd\u5237\u7684 Apple Pay \u4e0e Visa / Mastercard\u3002",
+  "lang": "",
+  "name": "gutrfgtd-cyber/coregold-usdt-vcc-digital-nomad-freelancer-global-finance-guide",
+  "node_id": "R_kgDOV51IEA",
+  "topics": [
+   "apple-silicon",
+   "applepay",
+   "usdt",
+   "visa"
+  ]
+ },
+ "1469941030": {
+  "created_at": "2026-11-24T09:38:39Z",
+  "desc": "Native iOS/iPadOS & macOS SSH client with Ghostty terminal, live telemetry charts, SFTP, iCloud sync, and AI Fleet Assistant (forked from missuo/tamio)",
+  "lang": "Swift",
+  "name": "zxfccmm4/tamio",
+  "node_id": "R_kgDOV52FJg",
+  "topics": []
+ },
+ "1469941139": {
+  "created_at": "2026-11-24T09:38:46Z",
+  "desc": "\u521a\u63a5\u89e6\u6d77\u5916 AI \u5de5\u5177\u548c\u865a\u62df\u5361\uff08VCC\uff09\u7684\u65b0\u624b\uff0c\u6700\u5bb9\u6613\u88ab Card Declined\u3001AVS Mismatch\u3001\u6536\u4e0d\u5230\u94b1\u5305\u9a8c\u8bc1\u7801\u3001USDT \u8fdf\u8fdf\u672a\u5230\u8d26\u641e\u61f5\u2014\u2014\u4e00\u7bc7\u8bb2\u6e05 6 \u5927\u9ad8\u9891\u95ee\u9898\u6392\u67e5\u4e0e CoreGold \u6b63\u786e\u64cd\u4f5c\u59ff\u52bf\u3002",
+  "lang": "",
+  "name": "tutkuma123-sys/coregold-usdt-vcc-beginner-troubleshooting-faq-guide",
+  "node_id": "R_kgDOV52Fkw",
+  "topics": [
+   "apple",
+   "applepay",
+   "coregold",
+   "vcc"
+  ]
+ },
+ "1469950776": {
+  "created_at": "2026-11-24T09:47:06Z",
+  "desc": "Kaiber Ai for Windows 10/11. Generates animated videos from text prompts and still images, letting artists and creators render short clips and export them for social media or project work.",
+  "lang": "",
+  "name": "freecloudlogic/kaiber-ai",
+  "node_id": "R_kgDOV52rOA",
+  "topics": [
+   "desktop-app",
+   "install-kaiber-ai",
+   "kaiber-ai-free",
+   "productivity",
+   "software",
+   "software-engineering",
+   "utilities",
+   "windows",
+   "windows-10",
+   "windows-11",
+   "windows-app"
+  ]
+ },
+ "1469957964": {
+  "created_at": "2026-11-24T09:53:13Z",
+  "desc": "End-to-end news documentary code video Skill for AI Coding Agents (Antigravity / Claude Code / Codex) \u2014 A/B-roll, vintage newspaper cutouts, data charts & QA checklist",
+  "lang": "Python",
+  "name": "SerenaMugua/news-documentary-video-skill",
+  "node_id": "R_kgDOV53HTA",
+  "topics": []
+ },
+ "1469957992": {
+  "created_at": "2026-11-24T09:53:14Z",
+  "desc": "Cisco and OpenAI just launched Project Shirudo on November 23, 2026 to help safeguard agentic AI\u2014here is how developers pair technical guardrails with dedicated CoreGold US-issued virtual cards so automated workflows never overrun payment budgets.",
+  "lang": "",
+  "name": "chandraputrajogja-sudo/Cisco-OpenAI-Launch-Shirudo-Nov-23-Guarding-Agentic-API-Tool-Budgets",
+  "node_id": "R_kgDOV53HaA",
+  "topics": [
+   "agent",
+   "api",
+   "apple",
+   "applepay",
+   "coregold",
+   "openai"
+  ]
+ },
+ "1469974327": {
+  "created_at": "2026-11-24T10:07:37Z",
+  "desc": "Workday just completed its acquisition of agentic identity platform C1.ai on November 23, 2026\u2014highlighting why clear identity and ownership boundaries matter just as much on the payment side when teams manage AI tools and software seats.",
+  "lang": "",
+  "name": "beombeim-alt/Workday-Completes-C1.ai-Acquisition-Nov-23-Agentic-Identity-Clean-Billing-Ownership",
+  "node_id": "R_kgDOV54HNw",
+  "topics": [
+   "ai",
+   "apple",
+   "applepay",
+   "coregold"
+  ]
+ },
+ "1469986394": {
+  "created_at": "2026-11-24T10:18:11Z",
+  "desc": "Following November 2026 announcements around industry-specific agentic platforms like IBM and Microsoft's Imagine Enterprise, builders adapting vertical AI tools need straightforward payment setup for testing, extensions, and global services.",
+  "lang": "",
+  "name": "fgsdg7590-sys/-coregold-usdt-vcc-industry-ai-workflows-payment-readiness-guide",
+  "node_id": "R_kgDOV542Wg",
+  "topics": [
+   "ai",
+   "api",
+   "apple",
+   "applepa",
+   "coregold",
+   "vcc"
+  ]
+ },
+ "1469990044": {
+  "created_at": "2026-11-24T10:21:21Z",
+  "desc": "Serve Inkling 2 Mini on one NVIDIA DGX Spark (GB10, sm_121) with TensorFold (DSpark drafts, fp8 KV, FP4/MXFP8 prefill tensor cores, vision, structured output)",
+  "lang": "Shell",
+  "name": "MiaAI-Lab/Inkling-2-Mini-DGX-Spark-TensorFold",
+  "node_id": "R_kgDOV55EnA",
+  "topics": []
+ },
+ "1470000000": {
+  "created_at": "2026-11-24T10:29:57Z",
+  "desc": "With platforms like the EY Agentic Cyber Defense Center launched on November 18, 2026 focusing on secure operations at scale, operational discipline matters across every layer\u2014including how teams fund and manage virtual cards.",
+  "lang": "",
+  "name": "bassignanaluca7002-rgb/coregold-usdt-vcc-agentic-cyber-defense-team-discipline-guide",
+  "node_id": "R_kgDOV55rgA",
+  "topics": [
+   "applepay",
+   "coregold",
+   "usdt-checkout",
+   "vcc",
+   "visa"
+  ]
+ },
+ "1470016879": {
+  "created_at": "2026-11-24T10:44:20Z",
+  "desc": "MiuLifeBench Lite\uff1a\u9996\u4e2a\u9488\u5bf9\u4e2d\u56fd\u573a\u666f\u7684 Personal Agent Benchmark\u3002",
+  "lang": "TypeScript",
+  "name": "js8544/miu-life-bench-lite",
+  "node_id": "R_kgDOV56tbw",
+  "topics": []
+ },
+ "1470058050": {
+  "created_at": "2026-11-24T11:21:25Z",
+  "desc": "\ud83c\udfa8 Official 2.5D Skin Workshop & Community Plaza for KuroCat desktop pet \u2014 design & share .kurocat cat skins, sticker accessories, and .kurokb keyboards",
+  "lang": "JavaScript",
+  "name": "chanke17/KuroCat-Workshop",
+  "node_id": "R_kgDOV59OQg",
+  "topics": []
+ },
+ "1470096260": {
+  "created_at": "2026-11-24T11:55:26Z",
+  "desc": "Runwayml Gen 3 for Windows 10/11. Generates short video clips from text prompts or reference images, then refines motion, camera and style settings before exporting finished shots for ads, films or social posts.",
+  "lang": "",
+  "name": "fastideforge/runwayml-gen-3",
+  "node_id": "R_kgDOV5_jhA",
+  "topics": [
+   "desktop-app",
+   "productivity",
+   "runwayml",
+   "runwayml-api",
+   "software",
+   "software-engineering",
+   "utilities",
+   "windows",
+   "windows-10",
+   "windows-11",
+   "windows-app"
+  ]
+ },
+ "1470124434": {
+  "created_at": "2026-11-24T12:19:52Z",
+  "desc": "VTuber kit: live avatar from your face, AI voiceover, auto reactions. | ai vtuber avatar tracking tts stream | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "QujoziVe5/ai-vtuber-toolkit",
+  "node_id": "R_kgDOV6BRkg",
+  "topics": [
+   "ai-vtuber-toolkit",
+   "avatar",
+   "content",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "stream",
+   "tracking",
+   "tts",
+   "vtuber",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470125249": {
+  "created_at": "2026-11-24T12:20:35Z",
+  "desc": "VTuber kit: live avatar from your face, AI voiceover, auto reactions. | ai vtuber avatar tracking tts stream | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "MimugiQoqu4/vtuber-kit-x",
+  "node_id": "R_kgDOV6BUwQ",
+  "topics": [
+   "ai-vtuber-toolkit",
+   "avatar",
+   "content",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "stream",
+   "tracking",
+   "tts",
+   "vtuber",
+   "vtuber-kit-x",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470126188": {
+  "created_at": "2026-11-24T12:21:28Z",
+  "desc": "AI driver updates: finds outdated drivers, tests compatibility, rolls back safely. | driver updater drivers ai rollback windows | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "chalermchaiphan/driver-updater-pro",
+  "node_id": "R_kgDOV6BYbA",
+  "topics": [
+   "driver",
+   "driver-updater-pro",
+   "drivers",
+   "open-source",
+   "performance",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rollback",
+   "updater",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470126533": {
+  "created_at": "2026-11-24T12:21:45Z",
+  "desc": "Resemble Ai for Windows 10/11. Generates realistic synthetic speech from text and clones voices using short audio samples, then exports the results as audio files for videos, games and narration projects.",
+  "lang": "",
+  "name": "leafrocksnow85/resemble-ai",
+  "node_id": "R_kgDOV6BZxQ",
+  "topics": [
+   "desktop-app",
+   "productivity",
+   "resemble-ai",
+   "resemble-ai-2026",
+   "resemble-ai-free",
+   "software",
+   "software-engineering",
+   "utilities",
+   "windows",
+   "windows-10",
+   "windows-11",
+   "windows-app"
+  ]
+ },
+ "1470126725": {
+  "created_at": "2026-11-24T12:21:54Z",
+  "desc": "Writesonic for Windows 10/11. Generates marketing copy, blog posts and product descriptions from short prompts, letting you draft, rewrite and export finished text without leaving the desktop app.",
+  "lang": "",
+  "name": "Blessingcai532/writesonic",
+  "node_id": "R_kgDOV6BahQ",
+  "topics": [
+   "desktop-app",
+   "download-writesonic",
+   "productivity",
+   "software",
+   "software-engineering",
+   "utilities",
+   "windows",
+   "windows-10",
+   "windows-11",
+   "windows-app",
+   "writesonic",
+   "writesonic-2026",
+   "writesonic-free",
+   "writesonic-free-download"
+  ]
+ },
+ "1470127194": {
+  "created_at": "2026-11-24T12:22:19Z",
+  "desc": "AI driver updates: finds outdated drivers, tests compatibility, rolls back safely. | driver updater drivers ai rollback windows | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "TujoseYora24/driver-tool-ai",
+  "node_id": "R_kgDOV6BcWg",
+  "topics": [
+   "driver",
+   "driver-tool-ai",
+   "driver-updater-pro",
+   "drivers",
+   "open-source",
+   "performance",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rollback",
+   "updater",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470128062": {
+  "created_at": "2026-11-24T12:23:03Z",
+  "desc": "AI driver updates: finds outdated drivers, tests compatibility, rolls back safely. | driver updater drivers ai rollback windows | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "YezeduCef6/driver-helper-x",
+  "node_id": "R_kgDOV6Bfvg",
+  "topics": [
+   "driver",
+   "driver-helper-x",
+   "driver-updater-pro",
+   "drivers",
+   "open-source",
+   "performance",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rollback",
+   "updater",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470128152": {
+  "created_at": "2026-11-24T12:23:07Z",
+  "desc": "AI startup optimization: finds what slows boot, recommends safe disables. | startup optimizer startup ai boot speed | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "ZacedePa56/startup-optimizer-ai",
+  "node_id": "R_kgDOV6BgGA",
+  "topics": [
+   "boot",
+   "open-source",
+   "optimizer",
+   "performance",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "speed",
+   "startup",
+   "startup-optimizer-ai",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470129025": {
+  "created_at": "2026-11-24T12:23:48Z",
+  "desc": "A pen sketch, a floor plan or 3 references in, a 3D house that builds itself out. A Claude Code skill: every part in Blender as code.",
+  "lang": "Python",
+  "name": "Nyxera0x/blueprint",
+  "node_id": "R_kgDOV6BjgQ",
+  "topics": []
+ },
+ "1470129096": {
+  "created_at": "2026-11-24T12:23:51Z",
+  "desc": "AI startup optimization: finds what slows boot, recommends safe disables. | startup optimizer startup ai boot speed | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "QuresiPima51/boot-optimizer-ai",
+  "node_id": "R_kgDOV6BjyA",
+  "topics": [
+   "boot",
+   "boot-optimizer-ai",
+   "open-source",
+   "optimizer",
+   "performance",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "speed",
+   "startup",
+   "startup-optimizer-ai",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470130313": {
+  "created_at": "2026-11-24T12:24:55Z",
+  "desc": "AI startup optimization: finds what slows boot, recommends safe disables. | startup optimizer startup ai boot speed | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "FohobaRav74/startup-tuner",
+  "node_id": "R_kgDOV6BoiQ",
+  "topics": [
+   "boot",
+   "open-source",
+   "optimizer",
+   "performance",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "speed",
+   "startup",
+   "startup-optimizer-ai",
+   "startup-tuner",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470130593": {
+  "created_at": "2026-11-24T12:25:09Z",
+  "desc": "Smart RAM cleanup: AI decides what to compress or unload \u2014 games stay protected. | ram cleaner ram ai gaming optimization | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "BastiaanKang/ram-cleaner-ai",
+  "node_id": "R_kgDOV6BpoQ",
+  "topics": [
+   "cleaner",
+   "gaming",
+   "open-source",
+   "optimization",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "ram",
+   "ram-cleaner-ai",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470140451": {
+  "created_at": "2026-11-24T12:33:47Z",
+  "desc": "VPN \u4e2a\u4eba\u642d\u5efa\u4e0e\u4f7f\u7528\u6307\u5357\uff082026 \u66f4\u65b0\uff09\uff1a\u6574\u7406 VLESS-Reality / Hysteria2 / V2Ray / Shadowsocks \u81ea\u5efa VPN \u6559\u7a0b\u3001\u5168\u5e73\u53f0\u5ba2\u6237\u7aef\u914d\u7f6e\uff0c\u4ee5\u53ca\u4e2a\u4eba\u5b9e\u6d4b\u53ef\u7528\u7684\u9ad8\u6027\u4ef7\u6bd4\u68af\u5b50\u4e0e\u673a\u573a\u907f\u5751\u8bb0\u5f55\u3002",
+  "lang": "Shell",
+  "name": "bujiwa/vpn",
+  "node_id": "R_kgDOV6CQIw",
+  "topics": [
+   "clash",
+   "fanqiang",
+   "hysteria2",
+   "proxy",
+   "shadowrocket",
+   "shadowsocks",
+   "trojan",
+   "v2ray",
+   "vless",
+   "vpn"
+  ]
+ },
+ "1470142311": {
+  "created_at": "2026-11-24T12:35:26Z",
+  "desc": "Promptperfect for Windows 10/11. Refines and rewrites AI prompts to get clearer results from language models, then saves and organizes the best versions for reuse across writing, coding and research tasks.",
+  "lang": "",
+  "name": "Hidayatbilly/promptperfect",
+  "node_id": "R_kgDOV6CXZw",
+  "topics": [
+   "desktop-app",
+   "productivity",
+   "software",
+   "software-engineering",
+   "utilities",
+   "windows",
+   "windows-10",
+   "windows-11",
+   "windows-app"
+  ]
+ },
+ "1470147124": {
+  "created_at": "2026-11-24T12:39:35Z",
+  "desc": "Sudowrite for Windows 10/11. Drafts and rewrites fiction manuscripts with AI assistance, expanding scenes, describing characters and brainstorming plot ideas inside a distraction-free editor built for novelists.",
+  "lang": "",
+  "name": "emil1ob01/sudowrite",
+  "node_id": "R_kgDOV6CqNA",
+  "topics": [
+   "desktop-app",
+   "productivity",
+   "software",
+   "software-engineering",
+   "sudowrite",
+   "sudowrite-free",
+   "utilities",
+   "windows",
+   "windows-10",
+   "windows-11",
+   "windows-app"
+  ]
+ },
+ "1470148552": {
+  "created_at": "2026-11-24T12:40:46Z",
+  "desc": "Rytr for Windows 10/11. Generates blog posts, emails, ads and social captions from short prompts, letting you pick a tone and language and then edit the drafted copy before exporting it.",
+  "lang": "",
+  "name": "janetc8843/rytr",
+  "node_id": "R_kgDOV6CvyA",
+  "topics": [
+   "desktop-app",
+   "productivity",
+   "software",
+   "software-engineering",
+   "utilities",
+   "windows",
+   "windows-10",
+   "windows-11",
+   "windows-app"
+  ]
+ },
+ "1470153510": {
+  "created_at": "2026-11-24T12:45:02Z",
+  "desc": "Smart RAM cleanup: AI decides what to compress or unload \u2014 games stay protected. | ram cleaner ram ai gaming optimization | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "sRivera3321/ram-optimizer-ai",
+  "node_id": "R_kgDOV6DDJg",
+  "topics": [
+   "cleaner",
+   "gaming",
+   "open-source",
+   "optimization",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "ram",
+   "ram-cleaner-ai",
+   "ram-optimizer-ai",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470154888": {
+  "created_at": "2026-11-24T12:46:14Z",
+  "desc": "Smart RAM cleanup: AI decides what to compress or unload \u2014 games stay protected. | ram cleaner ram ai gaming optimization | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "NavigoYapi91/memory-tuner-x",
+  "node_id": "R_kgDOV6DIiA",
+  "topics": [
+   "cleaner",
+   "gaming",
+   "memory-tuner-x",
+   "open-source",
+   "optimization",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "ram",
+   "ram-cleaner-ai",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470156610": {
+  "created_at": "2026-11-24T12:47:44Z",
+  "desc": "Elevenlabs Studio for Windows 10/11. Generates AI voiceovers from scripts, clones and edits voices, and exports narrated audio for videos, podcasts and audiobooks.",
+  "lang": "",
+  "name": "nandadogan09/elevenlabs-studio",
+  "node_id": "R_kgDOV6DPQg",
+  "topics": []
+ },
+ "1470172982": {
+  "created_at": "2026-11-24T13:01:08Z",
+  "desc": "AI graphics settings picker: max FPS with acceptable visuals for your rig. | game settings optimizer tool graphics ai | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "GovomuTiq37/graphics-optimizer-ai",
+  "node_id": "R_kgDOV6EPNg",
+  "topics": [
+   "fps",
+   "game",
+   "game-settings-optimizer",
+   "gaming-tools",
+   "graphics",
+   "graphics-optimizer-ai",
+   "open-source",
+   "optimizer",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "settings",
+   "tool",
+   "windows-tool"
+  ]
+ },
+ "1470175033": {
+  "created_at": "2026-11-24T13:02:51Z",
+  "desc": "AI graphics settings picker: max FPS with acceptable visuals for your rig. | game settings optimizer tool graphics ai | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "XuhaneDaqe78/game-settings-optimizer",
+  "node_id": "R_kgDOV6EXOQ",
+  "topics": [
+   "fps",
+   "game",
+   "game-settings-optimizer",
+   "gaming-tools",
+   "graphics",
+   "open-source",
+   "optimizer",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "settings",
+   "tool",
+   "windows-tool"
+  ]
+ },
+ "1470179203": {
+  "created_at": "2026-11-24T13:06:27Z",
+  "desc": "AI graphics settings picker: max FPS with acceptable visuals for your rig. | game settings optimizer tool graphics ai | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Dieter36401/game-settings-ai",
+  "node_id": "R_kgDOV6Engw",
+  "topics": [
+   "fps",
+   "game",
+   "game-settings-ai",
+   "game-settings-optimizer",
+   "gaming-tools",
+   "graphics",
+   "open-source",
+   "optimizer",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "settings",
+   "tool",
+   "windows-tool"
+  ]
+ },
+ "1470194884": {
+  "created_at": "2026-11-24T13:19:25Z",
+  "desc": "A deterministic, local CLI that verifies active constraints before a coding agent resumes work.",
+  "lang": "TypeScript",
+  "name": "Larusajs/Handoff-Check",
+  "node_id": "R_kgDOV6FkxA",
+  "topics": []
+ },
+ "1470231162": {
+  "created_at": "2026-11-24T13:48:24Z",
+  "desc": "The Last Page: a 65-second hand-drawn-style anime short painted and scored in pure Python. Code and prompt.",
+  "lang": "Python",
+  "name": "ChetasLua/the-last-page",
+  "node_id": "R_kgDOV6Hyeg",
+  "topics": []
+ },
+ "1470240405": {
+  "created_at": "2026-11-24T13:55:41Z",
+  "desc": "Harden a fresh Ubuntu/Debian server with one command: admin with SSH keys, locked-down SSH, ufw, fail2ban, security updates, kernel hardening, optional Docker/Caddy. Dry-run, idempotent, JSON report, AI-agent skill. Pure Bash.",
+  "lang": "Shell",
+  "name": "Black-Ghost-Corp/Gaia-harden",
+  "node_id": "R_kgDOV6IWlQ",
+  "topics": [
+   "ai-agents",
+   "bash",
+   "debian",
+   "devops",
+   "docker",
+   "firewall",
+   "hardening",
+   "linux",
+   "lynis",
+   "security",
+   "server-hardening",
+   "ssh",
+   "ubuntu",
+   "vps"
+  ]
+ },
+ "1470297578": {
+  "created_at": "2026-11-24T14:40:30Z",
+  "desc": "\u5c0f\u9cb8\uff1a\u4e00\u4e2a\u4f1a\u8bb0\u4e8b\u3001\u8bf4\u8bdd\u50cf\u4eba\u7684 QQ AI \u966a\u4f34\u89d2\u8272\u7684\u53ef\u590d\u73b0\u5de5\u7a0b",
+  "lang": "Python",
+  "name": "Spaceswalker/SmallWhale",
+  "node_id": "R_kgDOV6L16g",
+  "topics": [
+   "astrbot",
+   "llm-agent",
+   "memory",
+   "napcat",
+   "onebot",
+   "powershell",
+   "python",
+   "qq-bot"
+  ]
+ },
+ "1470332911": {
+  "created_at": "2026-11-24T15:08:06Z",
+  "desc": "AI auto-cutting of long videos into short clips: pauses, scenes, highlights. | ai video autocut cutting clips shorts | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "ahmet589/ai-video-autocut",
+  "node_id": "R_kgDOV6N_7w",
+  "topics": [
+   "ai-video-autocut",
+   "autocut",
+   "clips",
+   "cutting",
+   "editing",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "shorts",
+   "video",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470333303": {
+  "created_at": "2026-11-24T15:08:24Z",
+  "desc": "AI auto-cutting of long videos into short clips: pauses, scenes, highlights. | ai video autocut cutting clips shorts | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "rangel17425/video-autocut-ai",
+  "node_id": "R_kgDOV6OBdw",
+  "topics": [
+   "ai-video-autocut",
+   "autocut",
+   "clips",
+   "cutting",
+   "editing",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "shorts",
+   "video",
+   "video-autocut-ai",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470334519": {
+  "created_at": "2026-11-24T15:09:20Z",
+  "desc": "AI auto-cutting of long videos into short clips: pauses, scenes, highlights. | ai video autocut cutting clips shorts | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "kerstin24/clip-cutter-ai",
+  "node_id": "R_kgDOV6OGNw",
+  "topics": [
+   "ai-video-autocut",
+   "autocut",
+   "clip-cutter-ai",
+   "clips",
+   "cutting",
+   "editing",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "shorts",
+   "video",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470335778": {
+  "created_at": "2026-11-24T15:10:20Z",
+  "desc": "Live stream monitoring: AI catches highlights, cuts clips with burned-in subtitles. | ai stream autoclipper clips subtitles twitch | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "siriporn484/stream-clips-ai",
+  "node_id": "R_kgDOV6OLIg",
+  "topics": [
+   "ai-stream-autoclipper",
+   "autoclipper",
+   "clips",
+   "kick",
+   "monitoring",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "stream",
+   "stream-clips-ai",
+   "subtitles",
+   "twitch",
+   "windows-tool"
+  ]
+ },
+ "1470335800": {
+  "created_at": "2026-11-24T15:10:21Z",
+  "desc": "Live stream monitoring: AI catches highlights, cuts clips with burned-in subtitles. | ai stream autoclipper clips subtitles twitch | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "niklasr2589/ai-stream-autoclipper",
+  "node_id": "R_kgDOV6OLOA",
+  "topics": [
+   "ai-stream-autoclipper",
+   "autoclipper",
+   "clips",
+   "kick",
+   "monitoring",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "stream",
+   "subtitles",
+   "twitch",
+   "windows-tool"
+  ]
+ },
+ "1470336372": {
+  "created_at": "2026-11-24T15:10:50Z",
+  "desc": "Live stream monitoring: AI catches highlights, cuts clips with burned-in subtitles. | ai stream autoclipper clips subtitles twitch | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "RagikeSo93/live-autoclipper",
+  "node_id": "R_kgDOV6ONdA",
+  "topics": [
+   "ai-stream-autoclipper",
+   "autoclipper",
+   "clips",
+   "kick",
+   "live-autoclipper",
+   "monitoring",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "stream",
+   "subtitles",
+   "twitch",
+   "windows-tool"
+  ]
+ },
+ "1470336487": {
+  "created_at": "2026-11-24T15:10:55Z",
+  "desc": "Beautiful auto subtitles: top-blogger styles, animation, translation. | ai subtitles subtitles auto styles animation | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "PimoyaZejo55/ai-auto-subtitles",
+  "node_id": "R_kgDOV6ON5w",
+  "topics": [
+   "ai-auto-subtitles",
+   "animation",
+   "auto",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "styles",
+   "subtitles",
+   "translate",
+   "video",
+   "windows-tool"
+  ]
+ },
+ "1470337735": {
+  "created_at": "2026-11-24T15:11:54Z",
+  "desc": "Beautiful auto subtitles: top-blogger styles, animation, translation. | ai subtitles subtitles auto styles animation | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "MokezoVedu24/subtitles-studio-ai",
+  "node_id": "R_kgDOV6OSxw",
+  "topics": [
+   "ai-auto-subtitles",
+   "animation",
+   "auto",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "styles",
+   "subtitles",
+   "subtitles-studio-ai",
+   "translate",
+   "video",
+   "windows-tool"
+  ]
+ },
+ "1470338915": {
+  "created_at": "2026-11-24T15:12:53Z",
+  "desc": "Beautiful auto subtitles: top-blogger styles, animation, translation. | ai subtitles subtitles auto styles animation | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "MarilynMercier82992/auto-subs-styler",
+  "node_id": "R_kgDOV6OXYw",
+  "topics": [
+   "ai-auto-subtitles",
+   "animation",
+   "auto",
+   "auto-subs-styler",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "styles",
+   "subtitles",
+   "translate",
+   "video",
+   "windows-tool"
+  ]
+ },
+ "1470339454": {
+  "created_at": "2026-11-24T15:13:21Z",
+  "desc": "Vertical video generator: text in, finished Shorts with voice and subtitles out. | ai shorts reels tiktok video-factory tts | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "ValejuJa62/ai-shorts-factory",
+  "node_id": "R_kgDOV6OZfg",
+  "topics": [
+   "ai-shorts-factory",
+   "automation",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "reels",
+   "shorts",
+   "subtitles",
+   "tiktok",
+   "tts",
+   "video-factory",
+   "windows-tool"
+  ]
+ },
+ "1470339492": {
+  "created_at": "2026-11-24T15:13:23Z",
+  "desc": "Vertical video generator: text in, finished Shorts with voice and subtitles out. | ai shorts reels tiktok video-factory tts | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "QuforiXa48/shorts-generator-ai",
+  "node_id": "R_kgDOV6OZpA",
+  "topics": [
+   "ai-shorts-factory",
+   "automation",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "reels",
+   "shorts",
+   "shorts-generator-ai",
+   "subtitles",
+   "tiktok",
+   "tts",
+   "video-factory",
+   "windows-tool"
+  ]
+ },
+ "1470340251": {
+  "created_at": "2026-11-24T15:14:02Z",
+  "desc": "Antigravity Max (agy-max): All-in-one flagship workbench for Google Antigravity 2.0 - built-in agy-fast accelerator, Codex-style search/Git/goals workflow, Prism optics, context & quota dashboard, multi-account & no-TUN proxy | Antigravity 2.0 \u6ee1\u8840\u5168\u80fd\u589e\u5f3a\u5de5\u4f5c\u53f0",
+  "lang": "JavaScript",
+  "name": "wangbingnan136/agy-max",
+  "node_id": "R_kgDOV6Ocmw",
+  "topics": [
+   "agy",
+   "ai-coding",
+   "antigravity",
+   "codex",
+   "developer-tools",
+   "electron",
+   "gemini",
+   "google-antigravity"
+  ]
+ },
+ "1470340598": {
+  "created_at": "2026-11-24T15:14:17Z",
+  "desc": "Podcast auto-post-production: noise cleanup, speaker separation, clip cutting. | ai podcast studio noise diarization cutting | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Fernandom0468/ai-podcast-studio",
+  "node_id": "R_kgDOV6Od9g",
+  "topics": [
+   "ai-podcast-studio",
+   "audio",
+   "cutting",
+   "diarization",
+   "noise",
+   "open-source",
+   "podcast",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "studio",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470340772": {
+  "created_at": "2026-11-24T15:14:26Z",
+  "desc": "Podcast auto-post-production: noise cleanup, speaker separation, clip cutting. | ai podcast studio noise diarization cutting | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "QidosePo86/podcast-cleaner-ai",
+  "node_id": "R_kgDOV6OepA",
+  "topics": [
+   "ai-podcast-studio",
+   "audio",
+   "cutting",
+   "diarization",
+   "noise",
+   "open-source",
+   "podcast",
+   "podcast-cleaner-ai",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "studio",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470340788": {
+  "created_at": "2026-11-24T15:14:26Z",
+  "desc": "Podcast auto-post-production: noise cleanup, speaker separation, clip cutting. | ai podcast studio noise diarization cutting | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "JudithRoux4494/pod-studio-ai",
+  "node_id": "R_kgDOV6OetA",
+  "topics": [
+   "ai-podcast-studio",
+   "audio",
+   "cutting",
+   "diarization",
+   "noise",
+   "open-source",
+   "pod-studio-ai",
+   "podcast",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "studio",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470342980": {
+  "created_at": "2026-11-24T15:16:10Z",
+  "desc": "Faceless channel pipeline: topic in, finished video with voice and subtitles out. | ai faceless youtube channel auto video | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "ferrari4050/yt-autopilot",
+  "node_id": "R_kgDOV6OnRA",
+  "topics": [
+   "ai-faceless-channel",
+   "auto",
+   "automation",
+   "channel",
+   "faceless",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tts",
+   "video",
+   "windows-tool",
+   "youtube",
+   "yt-autopilot"
+  ]
+ },
+ "1470343034": {
+  "created_at": "2026-11-24T15:16:13Z",
+  "desc": "Faceless channel pipeline: topic in, finished video with voice and subtitles out. | ai faceless youtube channel auto video | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Sabine12168/ai-faceless-channel",
+  "node_id": "R_kgDOV6Oneg",
+  "topics": [
+   "ai-faceless-channel",
+   "auto",
+   "automation",
+   "channel",
+   "faceless",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tts",
+   "video",
+   "windows-tool",
+   "youtube"
+  ]
+ },
+ "1470343206": {
+  "created_at": "2026-11-24T15:16:21Z",
+  "desc": "Faceless channel pipeline: topic in, finished video with voice and subtitles out. | ai faceless youtube channel auto video | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Momokar4388/faceless-video-tool",
+  "node_id": "R_kgDOV6OoJg",
+  "topics": [
+   "ai-faceless-channel",
+   "auto",
+   "automation",
+   "channel",
+   "faceless",
+   "faceless-video-tool",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tts",
+   "video",
+   "windows-tool",
+   "youtube"
+  ]
+ },
+ "1470343866": {
+  "created_at": "2026-11-24T15:16:52Z",
+  "desc": "AI remix of Reels/TikTok: your voice, your subtitles, different background \u2014 no traces. | ai reels remix tiktok voice subtitles | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "RenateFischer/ai-reels-remix",
+  "node_id": "R_kgDOV6Oqug",
+  "topics": [
+   "ai-reels-remix",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "reels",
+   "remix",
+   "restyle",
+   "shorts",
+   "subtitles",
+   "tiktok",
+   "voice",
+   "windows-tool"
+  ]
+ },
+ "1470344433": {
+  "created_at": "2026-11-24T15:17:21Z",
+  "desc": "AI remix of Reels/TikTok: your voice, your subtitles, different background \u2014 no traces. | ai reels remix tiktok voice subtitles | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "CopiseXe41/shorts-remix-tool",
+  "node_id": "R_kgDOV6Os8Q",
+  "topics": [
+   "ai-reels-remix",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "reels",
+   "remix",
+   "restyle",
+   "shorts",
+   "shorts-remix-tool",
+   "subtitles",
+   "tiktok",
+   "voice",
+   "windows-tool"
+  ]
+ },
+ "1470345588": {
+  "created_at": "2026-11-24T15:18:14Z",
+  "desc": "AI remix of Reels/TikTok: your voice, your subtitles, different background \u2014 no traces. | ai reels remix tiktok voice subtitles | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "rita57960/reels-remix-ai",
+  "node_id": "R_kgDOV6OxdA",
+  "topics": [
+   "ai-reels-remix",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "reels",
+   "reels-remix-ai",
+   "remix",
+   "restyle",
+   "shorts",
+   "subtitles",
+   "tiktok",
+   "voice",
+   "windows-tool"
+  ]
+ },
+ "1470346226": {
+  "created_at": "2026-11-24T15:18:47Z",
+  "desc": "\u4eba\u8bdd\u89e3\u7801\u5668\uff1a\u4fe1\u606f\u964d\u566a\u4e0e\u5b9e\u8d28\u63d0\u70bc\u52a9\u624b\u3002\u7528 AI Agent \u81ea\u52a8\u6293\u53d6\u3001\u5206\u7c7b\u3001\u795b\u9b45\u4e0e\u6838\u67e5\u6587\u7ae0\u3001\u901a\u7a3f\u548c\u89c6\u9891\uff0c\u5265\u79bb\u5e9f\u8bdd\u4e0e\u5229\u76ca\u65b9\u6ee4\u955c\uff0c\u8bb2\u6e05\u4e8b\u5b9e\u3001\u6f5c\u53f0\u8bcd\u548c\u5efa\u8bae\u3002",
+  "lang": "Python",
+  "name": "duyunzhoudyz/dyz-plain-talk-decoder",
+  "node_id": "R_kgDOV6Oz8g",
+  "topics": []
+ },
+ "1470346273": {
+  "created_at": "2026-11-24T15:18:50Z",
+  "desc": "Turns tweets and posts into vertical videos with AI voiceover. | ai tweet video voiceover vertical tts | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "bNguyen2166/ai-tweet-to-video",
+  "node_id": "R_kgDOV6O0IQ",
+  "topics": [
+   "ai-tweet-to-video",
+   "automation",
+   "open-source",
+   "portable",
+   "posts",
+   "prebuilt",
+   "productivity",
+   "tts",
+   "tweet",
+   "vertical",
+   "video",
+   "voiceover",
+   "windows-tool"
+  ]
+ },
+ "1470346300": {
+  "created_at": "2026-11-24T15:18:52Z",
+  "desc": "Turns tweets and posts into vertical videos with AI voiceover. | ai tweet video voiceover vertical tts | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "IsabellePetridis/post-to-video",
+  "node_id": "R_kgDOV6O0PA",
+  "topics": [
+   "ai-tweet-to-video",
+   "automation",
+   "open-source",
+   "portable",
+   "post-to-video",
+   "posts",
+   "prebuilt",
+   "productivity",
+   "tts",
+   "tweet",
+   "vertical",
+   "video",
+   "voiceover",
+   "windows-tool"
+  ]
+ },
+ "1470346335": {
+  "created_at": "2026-11-24T15:18:54Z",
+  "desc": "Turns tweets and posts into vertical videos with AI voiceover. | ai tweet video voiceover vertical tts | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Nancy0425/tweet-video-ai",
+  "node_id": "R_kgDOV6O0Xw",
+  "topics": [
+   "ai-tweet-to-video",
+   "automation",
+   "open-source",
+   "portable",
+   "posts",
+   "prebuilt",
+   "productivity",
+   "tts",
+   "tweet",
+   "tweet-video-ai",
+   "vertical",
+   "video",
+   "voiceover",
+   "windows-tool"
+  ]
+ },
+ "1470346953": {
+  "created_at": "2026-11-24T15:19:21Z",
+  "desc": "Voiceover studio: 50+ voices, cloning, emotions, lip-sync. | ai voiceover voiceover voices clone emotions | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "CarmenMartin51/ai-voiceover-studio",
+  "node_id": "R_kgDOV6O2yQ",
+  "topics": [
+   "ai-voiceover-studio",
+   "clone",
+   "dubbing",
+   "emotions",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tts",
+   "voiceover",
+   "voices",
+   "windows-tool"
+  ]
+ },
+ "1470347095": {
+  "created_at": "2026-11-24T15:19:28Z",
+  "desc": "Voiceover studio: 50+ voices, cloning, emotions, lip-sync. | ai voiceover voiceover voices clone emotions | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "ZedanaVav85/voice-studio-ai",
+  "node_id": "R_kgDOV6O3Vw",
+  "topics": [
+   "ai-voiceover-studio",
+   "clone",
+   "dubbing",
+   "emotions",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tts",
+   "voice-studio-ai",
+   "voiceover",
+   "voices",
+   "windows-tool"
+  ]
+ },
+ "1470348357": {
+  "created_at": "2026-11-24T15:20:32Z",
+  "desc": "Voiceover studio: 50+ voices, cloning, emotions, lip-sync. | ai voiceover voiceover voices clone emotions | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "ShirleyRodrigues6287/dubbing-studio",
+  "node_id": "R_kgDOV6O8RQ",
+  "topics": [
+   "ai-voiceover-studio",
+   "clone",
+   "dubbing",
+   "dubbing-studio",
+   "emotions",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tts",
+   "voiceover",
+   "voices",
+   "windows-tool"
+  ]
+ },
+ "1470348377": {
+  "created_at": "2026-11-24T15:20:33Z",
+  "desc": "A modal code editor in Rust, built on Rune. Read fast. Edit quick.",
+  "lang": "Rust",
+  "name": "bjarneo/editor",
+  "node_id": "R_kgDOV6O8WQ",
+  "topics": [
+   "lsp",
+   "neovim",
+   "omarchy",
+   "rune",
+   "rust",
+   "text-editor",
+   "tree-sitter",
+   "vim"
+  ]
+ },
+ "1470348863": {
+  "created_at": "2026-11-24T15:20:57Z",
+  "desc": "Animates old photos: head movement, smiles, colorization and restoration. | ai animate old-photos animation restore colorize | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "FeyuyoBado84/ai-old-photo-animate",
+  "node_id": "R_kgDOV6O-Pw",
+  "topics": [
+   "ai-old-photo-animate",
+   "animate",
+   "animation",
+   "colorize",
+   "memories",
+   "old-photos",
+   "open-source",
+   "photos",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "restore",
+   "windows-tool"
+  ]
+ },
+ "1470349475": {
+  "created_at": "2026-11-24T15:21:24Z",
+  "desc": "Animates old photos: head movement, smiles, colorization and restoration. | ai animate old-photos animation restore colorize | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "manon615/photo-animate-ai",
+  "node_id": "R_kgDOV6PAow",
+  "topics": [
+   "ai-old-photo-animate",
+   "animate",
+   "animation",
+   "colorize",
+   "memories",
+   "old-photos",
+   "open-source",
+   "photo-animate-ai",
+   "photos",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "restore",
+   "windows-tool"
+  ]
+ },
+ "1470350091": {
+  "created_at": "2026-11-24T15:21:54Z",
+  "desc": "Upscale old video to 4K + frame interpolation to 60 FPS, locally. | ai upscaler video 4k 60fps interpolation | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "GoroxeFuso56/ai-upscaler-video",
+  "node_id": "R_kgDOV6PDCw",
+  "topics": [
+   "60fps",
+   "ai-upscaler-video",
+   "interpolation",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "restore",
+   "upscaler",
+   "video",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470350199": {
+  "created_at": "2026-11-24T15:21:59Z",
+  "desc": "Upscale old video to 4K + frame interpolation to 60 FPS, locally. | ai upscaler video 4k 60fps interpolation | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "siripornbennett/video-upscaler-ai",
+  "node_id": "R_kgDOV6PDdw",
+  "topics": [
+   "60fps",
+   "ai-upscaler-video",
+   "interpolation",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "restore",
+   "upscaler",
+   "video",
+   "video-upscaler-ai",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470350787": {
+  "created_at": "2026-11-24T15:22:29Z",
+  "desc": "Upscale old video to 4K + frame interpolation to 60 FPS, locally. | ai upscaler video 4k 60fps interpolation | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "SasusaPo55/4k-restorer",
+  "node_id": "R_kgDOV6PFww",
+  "topics": [
+   "4k-restorer",
+   "60fps",
+   "ai-upscaler-video",
+   "interpolation",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "restore",
+   "upscaler",
+   "video",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470351441": {
+  "created_at": "2026-11-24T15:22:56Z",
+  "desc": "A record of your life, updated as you live it, owned by you, and readable by the agents you choose. Messages, mail, photos, places, health and screen in one encrypted folder on your Mac. Private and open source.",
+  "lang": "TypeScript",
+  "name": "shlokkhemani/lifestream",
+  "node_id": "R_kgDOV6PIUQ",
+  "topics": [
+   "ai-agents",
+   "ios",
+   "lifelogging",
+   "local-first",
+   "macos",
+   "mcp",
+   "personal-data",
+   "privacy",
+   "self-hosted"
+  ]
+ },
+ "1470365330": {
+  "created_at": "2026-11-24T15:34:16Z",
+  "desc": "Local PC AI assistant: voice commands, diagnostics, auto-repair of common issues. | ai assistant pc voice diagnostics fix | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Gabrielep55/ai-pc-assistant",
+  "node_id": "R_kgDOV6P-kg",
+  "topics": [
+   "ai-pc-assistant",
+   "assistant",
+   "diagnostics",
+   "fix",
+   "helper",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "voice",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470365358": {
+  "created_at": "2026-11-24T15:34:17Z",
+  "desc": "Local PC AI assistant: voice commands, diagnostics, auto-repair of common issues. | ai assistant pc voice diagnostics fix | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "salmareyes6525/pc-helper-ai",
+  "node_id": "R_kgDOV6P-rg",
+  "topics": [
+   "ai-pc-assistant",
+   "assistant",
+   "diagnostics",
+   "fix",
+   "helper",
+   "open-source",
+   "pc-helper-ai",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "voice",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470366007": {
+  "created_at": "2026-11-24T15:34:49Z",
+  "desc": "Local PC AI assistant: voice commands, diagnostics, auto-repair of common issues. | ai assistant pc voice diagnostics fix | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "BamaxeGa50/computer-assistant",
+  "node_id": "R_kgDOV6QBNw",
+  "topics": [
+   "ai-pc-assistant",
+   "assistant",
+   "computer-assistant",
+   "diagnostics",
+   "fix",
+   "helper",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "voice",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470366121": {
+  "created_at": "2026-11-24T15:34:54Z",
+  "desc": "AI coach: analyzes your replays, finds mistakes, gives personal tips. | ai game coach replay tool tips | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "mehmetleone50/ai-game-coach",
+  "node_id": "R_kgDOV6QBqQ",
+  "topics": [
+   "ai-game-coach",
+   "analysis",
+   "coach",
+   "game",
+   "gaming-tools",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "replay",
+   "tips",
+   "tool",
+   "windows-tool"
+  ]
+ },
+ "1470366442": {
+  "created_at": "2026-11-24T15:35:09Z",
+  "desc": "AI coach: analyzes your replays, finds mistakes, gives personal tips. | ai game coach replay tool tips | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "AudreyCattaneo/game-coach-ai",
+  "node_id": "R_kgDOV6QC6g",
+  "topics": [
+   "ai-game-coach",
+   "analysis",
+   "coach",
+   "game",
+   "game-coach-ai",
+   "gaming-tools",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "replay",
+   "tips",
+   "tool",
+   "windows-tool"
+  ]
+ },
+ "1470367446": {
+  "created_at": "2026-11-24T15:35:59Z",
+  "desc": "AI file organizer: sorts into folders, finds duplicates, suggests cleanup. | ai file organizer tool dedup cleanup | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Moniquew16/ai-file-organizer",
+  "node_id": "R_kgDOV6QG1g",
+  "topics": [
+   "ai-file-organizer",
+   "cleanup",
+   "dedup",
+   "file",
+   "open-source",
+   "organizer",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470367847": {
+  "created_at": "2026-11-24T15:36:19Z",
+  "desc": "AI coach: analyzes your replays, finds mistakes, gives personal tips. | ai game coach replay tool tips | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "PapovaRise46/replay-analyzer-x",
+  "node_id": "R_kgDOV6QIZw",
+  "topics": [
+   "ai-game-coach",
+   "analysis",
+   "coach",
+   "game",
+   "gaming-tools",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "replay",
+   "replay-analyzer-x",
+   "tips",
+   "tool",
+   "windows-tool"
+  ]
+ },
+ "1470367922": {
+  "created_at": "2026-11-24T15:36:22Z",
+  "desc": "AI file organizer: sorts into folders, finds duplicates, suggests cleanup. | ai file organizer tool dedup cleanup | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "SepuveNik24/file-organizer-ai",
+  "node_id": "R_kgDOV6QIsg",
+  "topics": [
+   "ai-file-organizer",
+   "cleanup",
+   "dedup",
+   "file",
+   "file-organizer-ai",
+   "open-source",
+   "organizer",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470368556": {
+  "created_at": "2026-11-24T15:36:53Z",
+  "desc": "Meme generator: topic in, finished meme with an image out, trending templates. | ai meme generator memes templates trends | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Terry46154/ai-meme-generator",
+  "node_id": "R_kgDOV6QLLA",
+  "topics": [
+   "ai-meme-generator",
+   "content",
+   "generator",
+   "meme",
+   "memes",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "social",
+   "templates",
+   "trends",
+   "windows-tool"
+  ]
+ },
+ "1470369133": {
+  "created_at": "2026-11-24T15:37:22Z",
+  "desc": "Meme generator: topic in, finished meme with an image out, trending templates. | ai meme generator memes templates trends | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Ricci77868/meme-factory-x",
+  "node_id": "R_kgDOV6QNbQ",
+  "topics": [
+   "ai-meme-generator",
+   "content",
+   "generator",
+   "meme",
+   "meme-factory-x",
+   "memes",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "social",
+   "templates",
+   "trends",
+   "windows-tool"
+  ]
+ },
+ "1470369164": {
+  "created_at": "2026-11-24T15:37:24Z",
+  "desc": "Meme generator: topic in, finished meme with an image out, trending templates. | ai meme generator memes templates trends | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "TuvereDep67/meme-maker-ai",
+  "node_id": "R_kgDOV6QNjA",
+  "topics": [
+   "ai-meme-generator",
+   "content",
+   "generator",
+   "meme",
+   "meme-maker-ai",
+   "memes",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "social",
+   "templates",
+   "trends",
+   "windows-tool"
+  ]
+ },
+ "1470369763": {
+  "created_at": "2026-11-24T15:37:53Z",
+  "desc": "AI thumbnail generator for YouTube: clickable covers from video or topic. | ai thumbnail youtube tool tool ctr | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "BettyPopov18/ai-thumbnail-maker",
+  "node_id": "R_kgDOV6QP4w",
+  "topics": [
+   "ai-thumbnail-maker",
+   "content",
+   "ctr",
+   "design",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "thumbnail",
+   "tool",
+   "windows-tool",
+   "youtube"
+  ]
+ },
+ "1470369834": {
+  "created_at": "2026-11-24T15:37:57Z",
+  "desc": "AI thumbnail generator for YouTube: clickable covers from video or topic. | ai thumbnail youtube tool tool ctr | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "ZudopiXa33/thumbnail-studio-ai",
+  "node_id": "R_kgDOV6QQKg",
+  "topics": [
+   "ai-thumbnail-maker",
+   "content",
+   "ctr",
+   "design",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "thumbnail",
+   "thumbnail-studio-ai",
+   "tool",
+   "windows-tool",
+   "youtube"
+  ]
+ },
+ "1470370416": {
+  "created_at": "2026-11-24T15:38:26Z",
+  "desc": "AI thumbnail generator for YouTube: clickable covers from video or topic. | ai thumbnail youtube tool tool ctr | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Ward77546/preview-maker-ai",
+  "node_id": "R_kgDOV6QScA",
+  "topics": [
+   "ai-thumbnail-maker",
+   "content",
+   "ctr",
+   "design",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "preview-maker-ai",
+   "productivity",
+   "thumbnail",
+   "tool",
+   "windows-tool",
+   "youtube"
+  ]
+ },
+ "1470371620": {
+  "created_at": "2026-11-24T15:39:21Z",
+  "desc": "Background music generator for video: copyright-free, matched to mood and tempo. | ai music background tool no-copyright mood | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "MufaceLo7/bgm-generator-ai",
+  "node_id": "R_kgDOV6QXJA",
+  "topics": [
+   "ai-background-music-gen",
+   "audio",
+   "background",
+   "bgm-generator-ai",
+   "mood",
+   "music",
+   "no-copyright",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tool",
+   "video",
+   "windows-tool"
+  ]
+ },
+ "1470371823": {
+  "created_at": "2026-11-24T15:39:30Z",
+  "desc": "Background music generator for video: copyright-free, matched to mood and tempo. | ai music background tool no-copyright mood | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "ingrid37904/music-no-copyright",
+  "node_id": "R_kgDOV6QX7w",
+  "topics": [
+   "ai-background-music-gen",
+   "audio",
+   "background",
+   "mood",
+   "music",
+   "music-no-copyright",
+   "no-copyright",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tool",
+   "video",
+   "windows-tool"
+  ]
+ },
+ "1470372989": {
+  "created_at": "2026-11-24T15:40:29Z",
+  "desc": "Background music generator for video: copyright-free, matched to mood and tempo. | ai music background tool no-copyright mood | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "JatazoCani31/ai-background-music-gen",
+  "node_id": "R_kgDOV6QcfQ",
+  "topics": [
+   "ai-background-music-gen",
+   "audio",
+   "background",
+   "mood",
+   "music",
+   "no-copyright",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tool",
+   "video",
+   "windows-tool"
+  ]
+ },
+ "1470375224": {
+  "created_at": "2026-11-24T15:42:20Z",
+  "desc": "OpenCode token rotation and auto-swap: endless requests without limits. | opencode token abuse rotation endless limits | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "rafael20136/opencode-token-pool",
+  "node_id": "R_kgDOV6QlOA",
+  "topics": [
+   "abuse",
+   "ai-tools",
+   "cli",
+   "endless",
+   "limits",
+   "open-source",
+   "opencode",
+   "opencode-token-abuse",
+   "opencode-token-pool",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotation",
+   "token",
+   "windows-tool"
+  ]
+ },
+ "1470375344": {
+  "created_at": "2026-11-24T15:42:26Z",
+  "desc": "OpenCode token rotation and auto-swap: endless requests without limits. | opencode token abuse rotation endless limits | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Katherine08246/opencode-token-abuse",
+  "node_id": "R_kgDOV6QlsA",
+  "topics": [
+   "abuse",
+   "ai-tools",
+   "cli",
+   "endless",
+   "limits",
+   "open-source",
+   "opencode",
+   "opencode-token-abuse",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotation",
+   "token",
+   "windows-tool"
+  ]
+ },
+ "1470377086": {
+  "created_at": "2026-11-24T15:43:50Z",
+  "desc": "OpenCode subscription abuse: multi-accounts, trials forever, auto-renewal. | opencode subscription abuse multi tool free | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "camillestone3496/opencode-sub-abuse",
+  "node_id": "R_kgDOV6Qsfg",
+  "topics": [
+   "abuse",
+   "ai-tools",
+   "automation",
+   "free",
+   "multi",
+   "open-source",
+   "opencode",
+   "opencode-sub-abuse",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "subscription",
+   "tool",
+   "windows-tool"
+  ]
+ },
+ "1470377400": {
+  "created_at": "2026-11-24T15:44:03Z",
+  "desc": "OpenCode subscription abuse: multi-accounts, trials forever, auto-renewal. | opencode subscription abuse multi tool free | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Kaito67458/oc-multi-account",
+  "node_id": "R_kgDOV6QtuA",
+  "topics": [
+   "abuse",
+   "ai-tools",
+   "automation",
+   "free",
+   "multi",
+   "oc-multi-account",
+   "open-source",
+   "opencode",
+   "opencode-sub-abuse",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "subscription",
+   "tool",
+   "windows-tool"
+  ]
+ },
+ "1470377539": {
+  "created_at": "2026-11-24T15:44:10Z",
+  "desc": "Free OpenCode subscription generation: creation, activation, usage. | opencode free subscription tool generation tool | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "KixojeZuq51/opencode-free-tool",
+  "node_id": "R_kgDOV6QuQw",
+  "topics": [
+   "ai-tools",
+   "free",
+   "free-tier",
+   "generation",
+   "open-source",
+   "opencode",
+   "opencode-free-sub",
+   "opencode-free-tool",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "subscription",
+   "tool",
+   "windows-tool"
+  ]
+ },
+ "1470377768": {
+  "created_at": "2026-11-24T15:44:22Z",
+  "desc": "Free OpenCode subscription generation: creation, activation, usage. | opencode free subscription tool generation tool | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "CepeneJile34/opencode-free-sub",
+  "node_id": "R_kgDOV6QvKA",
+  "topics": [
+   "ai-tools",
+   "free",
+   "free-tier",
+   "generation",
+   "open-source",
+   "opencode",
+   "opencode-free-sub",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "subscription",
+   "tool",
+   "windows-tool"
+  ]
+ },
+ "1470378098": {
+  "created_at": "2026-11-24T15:44:37Z",
+  "desc": "OpenCode token rotation and auto-swap: endless requests without limits. | opencode token abuse rotation endless limits | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "ShuhuaNowak4134/oc-rotation-tool",
+  "node_id": "R_kgDOV6Qwcg",
+  "topics": [
+   "abuse",
+   "ai-tools",
+   "cli",
+   "endless",
+   "limits",
+   "oc-rotation-tool",
+   "open-source",
+   "opencode",
+   "opencode-token-abuse",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotation",
+   "token",
+   "windows-tool"
+  ]
+ },
+ "1470379017": {
+  "created_at": "2026-11-24T15:45:21Z",
+  "desc": "Free OpenCode subscription generation: creation, activation, usage. | opencode free subscription tool generation tool | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "KonstantinTorres30399/oc-free-sub-generator",
+  "node_id": "R_kgDOV6Q0CQ",
+  "topics": [
+   "ai-tools",
+   "free",
+   "free-tier",
+   "generation",
+   "oc-free-sub-generator",
+   "open-source",
+   "opencode",
+   "opencode-free-sub",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "subscription",
+   "tool",
+   "windows-tool"
+  ]
+ },
+ "1470379058": {
+  "created_at": "2026-11-24T15:45:23Z",
+  "desc": "Cursor token pool with rotation: endless requests, per-token quotas. | cursor token pool rotation quotas endless | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "DunisoHez13/cursor-token-pool",
+  "node_id": "R_kgDOV6Q0Mg",
+  "topics": [
+   "ai-tools",
+   "cursor",
+   "cursor-token-pool",
+   "endless",
+   "ide",
+   "open-source",
+   "pool",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "quotas",
+   "rotation",
+   "token",
+   "windows-tool"
+  ]
+ },
+ "1470379133": {
+  "created_at": "2026-11-24T15:45:27Z",
+  "desc": "Cursor token pool with rotation: endless requests, per-token quotas. | cursor token pool rotation quotas endless | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "MatteoMorita525/cursor-token-rotator",
+  "node_id": "R_kgDOV6Q0fQ",
+  "topics": [
+   "ai-tools",
+   "cursor",
+   "cursor-token-pool",
+   "cursor-token-rotator",
+   "endless",
+   "ide",
+   "open-source",
+   "pool",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "quotas",
+   "rotation",
+   "token",
+   "windows-tool"
+  ]
+ },
+ "1470379575": {
+  "created_at": "2026-11-24T15:45:50Z",
+  "desc": "Cursor token pool with rotation: endless requests, per-token quotas. | cursor token pool rotation quotas endless | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "hAlexander33/cursor-pool-x",
+  "node_id": "R_kgDOV6Q2Nw",
+  "topics": [
+   "ai-tools",
+   "cursor",
+   "cursor-pool-x",
+   "cursor-token-pool",
+   "endless",
+   "ide",
+   "open-source",
+   "pool",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "quotas",
+   "rotation",
+   "token",
+   "windows-tool"
+  ]
+ },
+ "1470380841": {
+  "created_at": "2026-11-24T15:46:50Z",
+  "desc": "Windsurf token abuse: rotation, multi-accounts, endless requests. | windsurf token abuse rotation multi endless | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Pelletier73182/windsurf-token-abuse",
+  "node_id": "R_kgDOV6Q7KQ",
+  "topics": [
+   "abuse",
+   "ai-tools",
+   "endless",
+   "ide",
+   "multi",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotation",
+   "token",
+   "windows-tool",
+   "windsurf",
+   "windsurf-token-abuse"
+  ]
+ },
+ "1470380960": {
+  "created_at": "2026-11-24T15:46:56Z",
+  "desc": "Windsurf token abuse: rotation, multi-accounts, endless requests. | windsurf token abuse rotation multi endless | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Freitas46964/windsurf-token-pool",
+  "node_id": "R_kgDOV6Q7oA",
+  "topics": [
+   "abuse",
+   "ai-tools",
+   "endless",
+   "ide",
+   "multi",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotation",
+   "token",
+   "windows-tool",
+   "windsurf",
+   "windsurf-token-abuse",
+   "windsurf-token-pool"
+  ]
+ },
+ "1470381015": {
+  "created_at": "2026-11-24T15:46:58Z",
+  "desc": "Windsurf token abuse: rotation, multi-accounts, endless requests. | windsurf token abuse rotation multi endless | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "EkaterinaJansen0975/ws-rotation-tool",
+  "node_id": "R_kgDOV6Q71w",
+  "topics": [
+   "abuse",
+   "ai-tools",
+   "endless",
+   "ide",
+   "multi",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotation",
+   "token",
+   "windows-tool",
+   "windsurf",
+   "windsurf-token-abuse",
+   "ws-rotation-tool"
+  ]
+ },
+ "1470381642": {
+  "created_at": "2026-11-24T15:47:28Z",
+  "desc": "Distill calibrated static word frequencies for Rime input method dictionaries from open-weight language models.",
+  "lang": "C++",
+  "name": "mizorewww/rime-qwen-freq",
+  "node_id": "R_kgDOV6Q-Sg",
+  "topics": [
+   "ime",
+   "language-model",
+   "pinyin",
+   "qwen",
+   "rime"
+  ]
+ },
+ "1470384155": {
+  "created_at": "2026-11-24T15:49:23Z",
+  "desc": "GitHub Copilot token abuse: rotation, endless completions and chat. | copilot token abuse rotation completion endless | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "ValerieBayrak52/copilot-pool-tool",
+  "node_id": "R_kgDOV6RIGw",
+  "topics": [
+   "abuse",
+   "ai-tools",
+   "completion",
+   "copilot",
+   "copilot-pool-tool",
+   "copilot-token-abuse",
+   "endless",
+   "github",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotation",
+   "token",
+   "windows-tool"
+  ]
+ },
+ "1470384244": {
+  "created_at": "2026-11-24T15:49:27Z",
+  "desc": "GitHub Copilot token abuse: rotation, endless completions and chat. | copilot token abuse rotation completion endless | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Kathryn6383/copilot-token-abuse",
+  "node_id": "R_kgDOV6RIdA",
+  "topics": [
+   "abuse",
+   "ai-tools",
+   "completion",
+   "copilot",
+   "copilot-token-abuse",
+   "endless",
+   "github",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotation",
+   "token",
+   "windows-tool"
+  ]
+ },
+ "1470384701": {
+  "created_at": "2026-11-24T15:49:49Z",
+  "desc": "GitHub Copilot token abuse: rotation, endless completions and chat. | copilot token abuse rotation completion endless | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "DizupoTeku4/copilot-rotation",
+  "node_id": "R_kgDOV6RKPQ",
+  "topics": [
+   "abuse",
+   "ai-tools",
+   "completion",
+   "copilot",
+   "copilot-rotation",
+   "copilot-token-abuse",
+   "endless",
+   "github",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotation",
+   "token",
+   "windows-tool"
+  ]
+ },
+ "1470385385": {
+  "created_at": "2026-11-24T15:50:23Z",
+  "desc": "Claude session pool with rotation: unlimited API via local proxy. | claude token pool rotation sessions tool | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "apichatwagner99/claude-token-pool",
+  "node_id": "R_kgDOV6RM6Q",
+  "topics": [
+   "anthropic",
+   "api",
+   "claude",
+   "claude-token-pool",
+   "open-source",
+   "pool",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotation",
+   "sessions",
+   "token",
+   "tool",
+   "windows-tool"
+  ]
+ },
+ "1470385844": {
+  "created_at": "2026-11-24T15:50:45Z",
+  "desc": "Claude session pool with rotation: unlimited API via local proxy. | claude token pool rotation sessions tool | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Bianchi8816/claude-pool-x",
+  "node_id": "R_kgDOV6ROtA",
+  "topics": [
+   "anthropic",
+   "api",
+   "claude",
+   "claude-pool-x",
+   "claude-token-pool",
+   "open-source",
+   "pool",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotation",
+   "sessions",
+   "token",
+   "tool",
+   "windows-tool"
+  ]
+ },
+ "1470385874": {
+  "created_at": "2026-11-24T15:50:46Z",
+  "desc": "Claude session pool with rotation: unlimited API via local proxy. | claude token pool rotation sessions tool | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "LapuguYad41/claude-session-pool",
+  "node_id": "R_kgDOV6RO0g",
+  "topics": [
+   "anthropic",
+   "api",
+   "claude",
+   "claude-session-pool",
+   "claude-token-pool",
+   "open-source",
+   "pool",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotation",
+   "sessions",
+   "token",
+   "tool",
+   "windows-tool"
+  ]
+ },
+ "1470386584": {
+  "created_at": "2026-11-24T15:51:20Z",
+  "desc": "Gemini token abuse: key rotation, multi-projects, endless tier. | gemini token abuse rotation keys free | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "PhuongGarnier/gemini-token-abuse",
+  "node_id": "R_kgDOV6RRmA",
+  "topics": [
+   "abuse",
+   "ai-tools",
+   "free",
+   "gemini",
+   "gemini-token-abuse",
+   "google",
+   "keys",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotation",
+   "token",
+   "windows-tool"
+  ]
+ },
+ "1470387290": {
+  "created_at": "2026-11-24T15:51:56Z",
+  "desc": "Gemini token abuse: key rotation, multi-projects, endless tier. | gemini token abuse rotation keys free | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "amitegorov29/gemini-rotation-tool",
+  "node_id": "R_kgDOV6RUWg",
+  "topics": [
+   "abuse",
+   "ai-tools",
+   "free",
+   "gemini",
+   "gemini-rotation-tool",
+   "gemini-token-abuse",
+   "google",
+   "keys",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotation",
+   "token",
+   "windows-tool"
+  ]
+ },
+ "1470389032": {
+  "created_at": "2026-11-24T15:53:20Z",
+  "desc": "AI assistant for Gmail: auto-sorting, reply drafts, spam filters. | gmail ai assistant tool tool sort | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Sungchan61/gmail-ai-assistant",
+  "node_id": "R_kgDOV6RbKA",
+  "topics": [
+   "assistant",
+   "drafts",
+   "gmail",
+   "gmail-ai-assistant",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "sort",
+   "tool",
+   "windows-tool"
+  ]
+ },
+ "1470390530": {
+  "created_at": "2026-11-24T15:54:23Z",
+  "desc": "AI assistant for Gmail: auto-sorting, reply drafts, spam filters. | gmail ai assistant tool tool sort | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "HelenMalik5396/mail-assistant-ai",
+  "node_id": "R_kgDOV6RhAg",
+  "topics": [
+   "assistant",
+   "drafts",
+   "gmail",
+   "gmail-ai-assistant",
+   "mail-assistant-ai",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "sort",
+   "tool",
+   "windows-tool"
+  ]
+ },
+ "1470392431": {
+  "created_at": "2026-11-24T15:55:39Z",
+  "desc": "Stress-test high-stakes decisions: reversibility triage, delete-first, and frontier grilling in one agent skill",
+  "lang": "",
+  "name": "danyuchn/bmg-skill",
+  "node_id": "R_kgDOV6Robw",
+  "topics": []
+ },
+ "1470403869": {
+  "created_at": "2026-11-24T16:03:15Z",
+  "desc": "101 \u500b\u539f\u5275 SVG \u52d5\u756b\u5834\u666f\uff0c\u55ae\u4e00 HTML\u3001\u65e5\u591c\u5faa\u74b0\u3001\u53ef\u4e92\u52d5\u3001\u539f\u5275\u914d\u6a02\uff5c101 original animated SVG scenes, single HTML, no libraries",
+  "lang": "HTML",
+  "name": "erwin50331/svg-scene-atlas",
+  "node_id": "R_kgDOV6SVHQ",
+  "topics": []
+ },
+ "1470467774": {
+  "created_at": "2026-11-24T16:46:28Z",
+  "desc": "Playbook operacional completo para transformar qualquer agente de IA (OpenBot, Claude Code, Codex, Cursor ou runtime pr\u00f3prio) em um operador comercial s\u00eanior de ponta a ponta.  Funciona para qualquer produto ou servi\u00e7o (SaaS, software sob medida, ag\u00eancia, consultoria, profissionais liberais, ind\u00fastria, com\u00e9rcio B2B, servi\u00e7os locais)",
+  "lang": "",
+  "name": "matheusmongarde/skill-prospeccao",
+  "node_id": "R_kgDOV6WOvg",
+  "topics": [
+   "prospeccao",
+   "prospeccao-b2b",
+   "whatsapp",
+   "whatsapp-automation",
+   "whatsapp-bot",
+   "whatsapp-chat",
+   "whatsapp-web"
+  ]
+ },
+ "1470498776": {
+  "created_at": "2026-11-24T17:07:17Z",
+  "desc": "Open-source, self-hosted Instagram DM automation: comment-to-DM and story automations, a visual flow builder, inbox and metrics. A Manychat alternative you run on your own Cloudflare account.",
+  "lang": "TypeScript",
+  "name": "jasonc00person/fewchat",
+  "node_id": "R_kgDOV6YH2A",
+  "topics": [
+   "claude",
+   "cloudflare-workers",
+   "comment-to-dm",
+   "dm-automation",
+   "instagram",
+   "instagram-automation",
+   "manychat-alternative",
+   "self-hosted"
+  ]
+ },
+ "1470518504": {
+  "created_at": "2026-11-24T17:20:47Z",
+  "desc": "Inference code for RD Flow 64, a 271M-parameter model that draws real 64x64 pixel art. Windows, Linux and macOS.",
+  "lang": "Python",
+  "name": "Retro-Diffusion/rd-flow-64",
+  "node_id": "R_kgDOV6ZU6A",
+  "topics": [
+   "flow-matching",
+   "game-assets",
+   "image-generation",
+   "pixel-art",
+   "pytorch",
+   "sprites",
+   "text-to-image"
+  ]
+ },
+ "1470554074": {
+  "created_at": "2026-11-24T17:45:02Z",
+  "desc": "Windsurf Cursor Pro Trial Unlocker PC [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
+  "lang": "C#",
+  "name": "ursulagarcia861/windsurf-cursor-pro-trial-unlocker-pc",
+  "node_id": "R_kgDOV6bf2g",
+  "topics": [
+   "ai-code-editor",
+   "automation",
+   "csharp",
+   "cursor-pro-unlocker",
+   "dotnet",
+   "system-utilities",
+   "windows",
+   "windows-10",
+   "windows-11"
+  ]
+ },
+ "1470565350": {
+  "created_at": "2026-11-24T17:52:40Z",
+  "desc": "Persistent Agent is a proactive, always-on, goal-oriented agent. Think Muse or Instinct, but for the enterprise. Comes with memory, browser use, hundreds of tools, and proactive playbooks it can run in the background to take work off your plate. Built on Managed Deep Agents (MDA).",
+  "lang": "Python",
+  "name": "langchain-samples/Persistent-Agent",
+  "node_id": "R_kgDOV6cL5g",
+  "topics": [
+   "agent-template",
+   "ai-agents",
+   "deep-agents",
+   "langchain",
+   "langsmith",
+   "slack-bot"
+  ]
+ },
+ "1470578778": {
+  "created_at": "2026-11-24T18:01:56Z",
+  "desc": "ChatGPT session pool: rotation, local endpoint, multi-account. | chatgpt session pool windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "CeqohiNuyi58/chatgpt-session-pool",
+  "node_id": "R_kgDOV6dAWg",
+  "topics": [
+   "chatgpt",
+   "chatgpt-session-pool",
+   "open-source",
+   "pool",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "session",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470579492": {
+  "created_at": "2026-11-24T18:02:26Z",
+  "desc": "ChatGPT session pool: rotation, local endpoint, multi-account. | chatgpt session pool windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "aleksandrad03435/gpt-session-tool",
+  "node_id": "R_kgDOV6dDJA",
+  "topics": [
+   "chatgpt",
+   "chatgpt-session-pool",
+   "gpt-session-tool",
+   "open-source",
+   "pool",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "session",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470580953": {
+  "created_at": "2026-11-24T18:03:28Z",
+  "desc": "ChatGPT session pool: rotation, local endpoint, multi-account. | chatgpt session pool windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "FipaqoTit11/chatgpt-pool-x",
+  "node_id": "R_kgDOV6dI2Q",
+  "topics": [
+   "chatgpt",
+   "chatgpt-pool-x",
+   "chatgpt-session-pool",
+   "open-source",
+   "pool",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "session",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470583014": {
+  "created_at": "2026-11-24T18:04:56Z",
+  "desc": "Gemini quota stacking: multi-projects, keys auto-created, OpenAI endpoint. | gemini quota stack windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "MattiaLaurent35609/gemini-quota-stack",
+  "node_id": "R_kgDOV6dQ5g",
+  "topics": [
+   "gemini",
+   "gemini-quota-stack",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "quota",
+   "stack",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470583034": {
+  "created_at": "2026-11-24T18:04:57Z",
+  "desc": "Gemini quota stacking: multi-projects, keys auto-created, OpenAI endpoint. | gemini quota stack windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Marcos7380/gemini-quota-tool",
+  "node_id": "R_kgDOV6dQ-g",
+  "topics": [
+   "gemini",
+   "gemini-quota-stack",
+   "gemini-quota-tool",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "quota",
+   "stack",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470585521": {
+  "created_at": "2026-11-24T18:06:37Z",
+  "desc": "Gemini quota stacking: multi-projects, keys auto-created, OpenAI endpoint. | gemini quota stack windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "ktaylor75103/gem-stack-x",
+  "node_id": "R_kgDOV6dasQ",
+  "topics": [
+   "gem-stack-x",
+   "gemini",
+   "gemini-quota-stack",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "quota",
+   "stack",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470598326": {
+  "created_at": "2026-11-24T18:15:25Z",
+  "desc": "GPC tracker, motion prior and CoLA task training for the Dollhouse G1 on MJLab",
+  "lang": "Python",
+  "name": "DollhouseRobotics/super-gpc",
+  "node_id": "R_kgDOV6eMtg",
+  "topics": []
+ },
+ "1470605455": {
+  "created_at": "2026-11-24T18:20:23Z",
+  "desc": "Windows debloater with AI: removes junk safely, keeps what matters. | windows debloat ai windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "KajoyeKog13/windows-debloat-ai",
+  "node_id": "R_kgDOV6eojw",
+  "topics": [
+   "debloat",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tool",
+   "utility",
+   "windows",
+   "windows-debloat-ai",
+   "windows-tool"
+  ]
+ },
+ "1470606111": {
+  "created_at": "2026-11-24T18:20:50Z",
+  "desc": "Windows debloater with AI: removes junk safely, keeps what matters. | windows debloat ai windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "NobuvaJop2/windows-debloat-tool",
+  "node_id": "R_kgDOV6erHw",
+  "topics": [
+   "debloat",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tool",
+   "utility",
+   "windows",
+   "windows-debloat-ai",
+   "windows-debloat-tool",
+   "windows-tool"
+  ]
+ },
+ "1470606214": {
+  "created_at": "2026-11-24T18:20:54Z",
+  "desc": "Local AI study assistant: explains topics, solves, generates quizzes. | ai study assistant windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "mayahwang11/ai-study-assistant",
+  "node_id": "R_kgDOV6erhg",
+  "topics": [
+   "ai-study-assistant",
+   "assistant",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "study",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470606362": {
+  "created_at": "2026-11-24T18:21:00Z",
+  "desc": "Windows debloater with AI: removes junk safely, keeps what matters. | windows debloat ai windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Amanda5513/debloat-ai-x",
+  "node_id": "R_kgDOV6esGg",
+  "topics": [
+   "debloat",
+   "debloat-ai-x",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tool",
+   "utility",
+   "windows",
+   "windows-debloat-ai",
+   "windows-tool"
+  ]
+ },
+ "1470607233": {
+  "created_at": "2026-11-24T18:21:36Z",
+  "desc": "Local AI study assistant: explains topics, solves, generates quizzes. | ai study assistant windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "claudiohussain/ai-homework-helper",
+  "node_id": "R_kgDOV6evgQ",
+  "topics": [
+   "ai-homework-helper",
+   "ai-study-assistant",
+   "assistant",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "study",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470608027": {
+  "created_at": "2026-11-24T18:22:08Z",
+  "desc": "Local AI study assistant: explains topics, solves, generates quizzes. | ai study assistant windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "elizabeth6209/study-ai-x",
+  "node_id": "R_kgDOV6eymw",
+  "topics": [
+   "ai-study-assistant",
+   "assistant",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "study",
+   "study-ai-x",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470608883": {
+  "created_at": "2026-11-24T18:22:43Z",
+  "desc": "AI resume builder: ATS-optimized CVs from your experience in minutes. | ai resume builder windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "YihabiDu12/ai-resume-builder",
+  "node_id": "R_kgDOV6e18w",
+  "topics": [
+   "ai-resume-builder",
+   "builder",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "resume",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470610180": {
+  "created_at": "2026-11-24T18:23:39Z",
+  "desc": "AI resume builder: ATS-optimized CVs from your experience in minutes. | ai resume builder windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "RocusaYub93/cv-builder-ai",
+  "node_id": "R_kgDOV6e7BA",
+  "topics": [
+   "ai-resume-builder",
+   "builder",
+   "cv-builder-ai",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "resume",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470612693": {
+  "created_at": "2026-11-24T18:25:28Z",
+  "desc": "AI translator: 100+ languages, document translation, voice input. | ai translator pro windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "YaqozeRag72/ai-translator-pro",
+  "node_id": "R_kgDOV6fE1Q",
+  "topics": [
+   "ai-translator-pro",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "pro",
+   "productivity",
+   "tool",
+   "translator",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470613383": {
+  "created_at": "2026-11-24T18:25:57Z",
+  "desc": "AI translator: 100+ languages, document translation, voice input. | ai translator pro windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "stijnbraun18575/ai-translate-tool",
+  "node_id": "R_kgDOV6fHhw",
+  "topics": [
+   "ai-translate-tool",
+   "ai-translator-pro",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "pro",
+   "productivity",
+   "tool",
+   "translator",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470614048": {
+  "created_at": "2026-11-24T18:26:26Z",
+  "desc": "AI meeting notes: auto-transcripts, summaries, action items extraction. | ai meeting notes windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "MichelleVargas444/ai-meeting-notes",
+  "node_id": "R_kgDOV6fKIA",
+  "topics": [
+   "ai-meeting-notes",
+   "meeting",
+   "notes",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470614798": {
+  "created_at": "2026-11-24T18:26:58Z",
+  "desc": "AI meeting notes: auto-transcripts, summaries, action items extraction. | ai meeting notes windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "michaelmartin6040/meeting-notes-ai",
+  "node_id": "R_kgDOV6fNDg",
+  "topics": [
+   "ai-meeting-notes",
+   "meeting",
+   "meeting-notes-ai",
+   "notes",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470615432": {
+  "created_at": "2026-11-24T18:27:24Z",
+  "desc": "AI meeting notes: auto-transcripts, summaries, action items extraction. | ai meeting notes windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "dieter95354/meet-notes-x",
+  "node_id": "R_kgDOV6fPiA",
+  "topics": [
+   "ai-meeting-notes",
+   "meet-notes-x",
+   "meeting",
+   "notes",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470616102": {
+  "created_at": "2026-11-24T18:27:51Z",
+  "desc": "AI translator: 100+ languages, document translation, voice input. | ai translator pro windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Polyakov52/translator-pro-x",
+  "node_id": "R_kgDOV6fSJg",
+  "topics": [
+   "ai-translator-pro",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "pro",
+   "productivity",
+   "tool",
+   "translator",
+   "translator-pro-x",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470617675": {
+  "created_at": "2026-11-24T18:28:59Z",
+  "desc": "AI code reviewer: finds bugs, security issues, suggests fixes. | ai code reviewer windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "HiroshiBakker3123/ai-code-reviewer",
+  "node_id": "R_kgDOV6fYSw",
+  "topics": [
+   "ai-code-reviewer",
+   "code",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "reviewer",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470618948": {
+  "created_at": "2026-11-24T18:29:57Z",
+  "desc": "AI code reviewer: finds bugs, security issues, suggests fixes. | ai code reviewer windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "MopugoCezo71/code-review-ai",
+  "node_id": "R_kgDOV6fdRA",
+  "topics": [
+   "ai-code-reviewer",
+   "code",
+   "code-review-ai",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "reviewer",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470622377": {
+  "created_at": "2026-11-24T18:32:26Z",
+  "desc": "AI code reviewer: finds bugs, security issues, suggests fixes. | ai code reviewer windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "YiligeBume12/code-reviewer-x",
+  "node_id": "R_kgDOV6fqqQ",
+  "topics": [
+   "ai-code-reviewer",
+   "code",
+   "code-reviewer-x",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "reviewer",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470623064": {
+  "created_at": "2026-11-24T18:32:57Z",
+  "desc": "AI SQL generator: natural language to optimized queries, schema design. | ai sql generator windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "QosoviHu9/ai-sql-generator",
+  "node_id": "R_kgDOV6ftWA",
+  "topics": [
+   "ai-sql-generator",
+   "generator",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "sql",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470625612": {
+  "created_at": "2026-11-24T18:34:53Z",
+  "desc": "AI SQL generator: natural language to optimized queries, schema design. | ai sql generator windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "LupiviDa86/sql-generator-ai",
+  "node_id": "R_kgDOV6f3TA",
+  "topics": [
+   "ai-sql-generator",
+   "generator",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "sql",
+   "sql-generator-ai",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470626997": {
+  "created_at": "2026-11-24T18:35:53Z",
+  "desc": "AI SQL generator: natural language to optimized queries, schema design. | ai sql generator windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "XuqaliGir69/sql-ai-x",
+  "node_id": "R_kgDOV6f8tQ",
+  "topics": [
+   "ai-sql-generator",
+   "generator",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "sql",
+   "sql-ai-x",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470627043": {
+  "created_at": "2026-11-24T18:35:54Z",
+  "desc": "AI presentation maker: topic in, finished slide deck out. | ai presentation maker windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "TuyenWisniewski/ai-presentation-maker",
+  "node_id": "R_kgDOV6f84w",
+  "topics": [
+   "ai-presentation-maker",
+   "maker",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "presentation",
+   "productivity",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470627772": {
+  "created_at": "2026-11-24T18:36:24Z",
+  "desc": "AI presentation maker: topic in, finished slide deck out. | ai presentation maker windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "SiyudeQita33/presentation-ai",
+  "node_id": "R_kgDOV6f_vA",
+  "topics": [
+   "ai-presentation-maker",
+   "maker",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "presentation",
+   "presentation-ai",
+   "productivity",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470629222": {
+  "created_at": "2026-11-24T18:37:24Z",
+  "desc": "AI presentation maker: topic in, finished slide deck out. | ai presentation maker windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "JahijaHe1/slides-maker-x",
+  "node_id": "R_kgDOV6gFZg",
+  "topics": [
+   "ai-presentation-maker",
+   "maker",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "presentation",
+   "productivity",
+   "slides-maker-x",
+   "tool",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470696768": {
+  "created_at": "2026-11-24T19:26:05Z",
+  "desc": "100% Byte Matching Decompilation and ports of NAOMI Game Capcom Vs. SNK 2",
+  "lang": "C",
+  "name": "gibletto/cvs2-naomi-dc",
+  "node_id": "R_kgDOV6kNQA",
+  "topics": []
+ },
+ "1470721147": {
+  "created_at": "2026-11-24T19:44:50Z",
+  "desc": "A third-person \"reality view\" of yourself from a single phone camera. Inspired by Tesla FSD's visualization.",
+  "lang": "Swift",
+  "name": "alanfeiyuchang/out-of-body",
+  "node_id": "R_kgDOV6lsew",
+  "topics": [
+   "arkit",
+   "augmented-reality",
+   "diffusion",
+   "fsd",
+   "gaussian-splatting",
+   "ios",
+   "metal",
+   "monocular-depth",
+   "swift",
+   "tesla"
+  ]
+ },
+ "1470838063": {
+  "created_at": "2026-11-24T21:13:43Z",
+  "desc": "",
+  "lang": "Go",
+  "name": "Athar-HQ/Athar",
+  "node_id": "R_kgDOV6s1Lw",
+  "topics": []
+ },
+ "1470849720": {
+  "created_at": "2026-11-24T21:23:02Z",
+  "desc": "Native zero-framework AMD RDNA3 (gfx1100) HIP inference engine for Inkling 2 Mini \u2014 262k context, Q8_0 KV, lossless DSpark MTP, Vision, and 8-slot batching on a single 24 GiB GPU",
+  "lang": "HIP",
+  "name": "Chromadera/nib",
+  "node_id": "R_kgDOV6tiuA",
+  "topics": [
+   "amd",
+   "gfx1100",
+   "hip",
+   "llm-inference",
+   "moe",
+   "rdna3",
+   "rocm",
+   "speculative-decoding"
+  ]
+ },
+ "1470868894": {
+  "created_at": "2026-11-24T21:38:48Z",
+  "desc": "Self-hosted ChatGPT mirror: one shared endpoint for your team, no logins. | chatgpt mirror self-hosted proxy team | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "RufimiJi53/chatgpt-mirror-selfhosted",
+  "node_id": "R_kgDOV6utng",
+  "topics": [
+   "chatgpt",
+   "chatgpt-mirror-selfhosted",
+   "mirror",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "proxy",
+   "self-hosted",
+   "team",
+   "windows-tool"
+  ]
+ },
+ "1470869043": {
+  "created_at": "2026-11-24T21:38:55Z",
+  "desc": "Local AI companion: personality, long-term memory, voice chat. Nothing leaves your PC. | ai-girlfriend companion local voice memory offline | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "GomisoRa65/ai-companion-local",
+  "node_id": "R_kgDOV6uuMw",
+  "topics": [
+   "ai-companion-local",
+   "ai-girlfriend",
+   "ai-girlfriend-local",
+   "chat",
+   "companion",
+   "local",
+   "memory",
+   "offline",
+   "open-source",
+   "persona",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "voice",
+   "windows-tool"
+  ]
+ },
+ "1470870457": {
+  "created_at": "2026-11-24T21:40:11Z",
+  "desc": "AI assistant for Gmail: auto-sorting, reply drafts, spam filters. | gmail ai assistant tool tool sort | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "JaxujaXe58/gmail-ai-helper",
+  "node_id": "R_kgDOV6uzuQ",
+  "topics": [
+   "assistant",
+   "drafts",
+   "gmail",
+   "gmail-ai-assistant",
+   "gmail-ai-helper",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "sort",
+   "tool",
+   "windows-tool"
+  ]
+ },
+ "1470877443": {
+  "created_at": "2026-11-24T21:46:04Z",
+  "desc": "ChatGPT CLI session rotation: unlimited local access, checkpoint on rotation. | chatgpt cli unlimited windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "ValejuJa62/gpt-cli-tool",
+  "node_id": "R_kgDOV6vPAw",
+  "topics": [
+   "chatgpt",
+   "chatgpt-cli-unlimited",
+   "cli",
+   "gpt-cli-tool",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tool",
+   "unlimited",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470877845": {
+  "created_at": "2026-11-24T21:46:25Z",
+  "desc": "Gemini CLI session rotation: unlimited local access, checkpoint on rotation. | gemini cli unlimited windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "QuforiXa48/gemini-cli-unlimited",
+  "node_id": "R_kgDOV6vQlQ",
+  "topics": [
+   "cli",
+   "gemini",
+   "gemini-cli-unlimited",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tool",
+   "unlimited",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470877861": {
+  "created_at": "2026-11-24T21:46:26Z",
+  "desc": "Gemini CLI session rotation: unlimited local access, checkpoint on rotation. | gemini cli unlimited windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "Fernandom0468/gemini-cli-tool",
+  "node_id": "R_kgDOV6vQpQ",
+  "topics": [
+   "cli",
+   "gemini",
+   "gemini-cli-tool",
+   "gemini-cli-unlimited",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tool",
+   "unlimited",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
+ },
+ "1470877919": {
+  "created_at": "2026-11-24T21:46:29Z",
+  "desc": "Gemini CLI session rotation: unlimited local access, checkpoint on rotation. | gemini cli unlimited windows tool utility | Portable x64 prebuilt for Windows",
+  "lang": "C++",
+  "name": "QidosePo86/gem-cli-unlimited",
+  "node_id": "R_kgDOV6vQ3w",
+  "topics": [
+   "cli",
+   "gem-cli-unlimited",
+   "gemini",
+   "gemini-cli-unlimited",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tool",
+   "unlimited",
+   "utility",
+   "windows",
+   "windows-tool"
+  ]
  },
  "1471003006": {
   "created_at": "2026-11-24T23:58:18Z",
@@ -619330,12 +623733,202 @@
    "whatsapp"
   ]
  },
+ "1471005696": {
+  "created_at": "2026-11-25T00:02:31Z",
+  "desc": "Pinokio AI Browser Portable Installer [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
+  "lang": "Python",
+  "name": "pinargomez/pinokio-ai-browser-portable-installer",
+  "node_id": "R_kgDOV63EAA",
+  "topics": [
+   "pinokio-ai",
+   "pinokio-ai-2026",
+   "pinokio-ai-browser",
+   "pinokio-ai-browser-2026",
+   "pinokio-ai-browser-pc",
+   "pinokio-ai-browser-portable-install",
+   "pinokio-ai-pc",
+   "windows-11",
+   "x64"
+  ]
+ },
+ "1471006285": {
+  "created_at": "2026-11-25T00:03:19Z",
+  "desc": "Okx Agent Trade Kit Mcp Grid Dca Bot [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
+  "lang": "Python",
+  "name": "bettysuzuki/okx-agent-trade-kit-mcp-grid-dca-bot",
+  "node_id": "R_kgDOV63GTQ",
+  "topics": [
+   "crypto-bot",
+   "defi",
+   "okx-agent-2026",
+   "okx-agent-bot",
+   "okx-agent-bundler",
+   "okx-agent-trade-kit",
+   "solana",
+   "trading-bot",
+   "windows-11"
+  ]
+ },
+ "1471014568": {
+  "created_at": "2026-11-25T00:13:56Z",
+  "desc": "",
+  "lang": "C",
+  "name": "nolan2628/ZVE10-Plugin",
+  "node_id": "R_kgDOV63mqA",
+  "topics": []
+ },
+ "1471018789": {
+  "created_at": "2026-11-25T00:19:47Z",
+  "desc": "Use local MCP tools in Gemini Web & Google AI Studio. Community fork of MCP SuperAssistant with auto-submit fixes, compact prompts, and WebCodex/RTK support.",
+  "lang": "TypeScript",
+  "name": "andrewngcanton-gif/MCP-SuperAssistant-G",
+  "node_id": "R_kgDOV633JQ",
+  "topics": [
+   "aistudio",
+   "argon",
+   "assistant",
+   "carbon",
+   "gemini",
+   "google",
+   "hydrogen",
+   "mcp",
+   "neon"
+  ]
+ },
+ "1471022708": {
+  "created_at": "2026-11-25T00:25:20Z",
+  "desc": "TensorFold Native Quantisation ",
+  "lang": "Cuda",
+  "name": "ashhart/TFQ",
+  "node_id": "R_kgDOV64GdA",
+  "topics": []
+ },
+ "1471039848": {
+  "created_at": "2026-11-25T00:49:57Z",
+  "desc": "Koboldcpp 1 125 Suite Llm Local Portable Fr [2026] \u2014 Standalone Windows 10/11 (x64) Release & Config",
+  "lang": "Python",
+  "name": "Sita91/koboldcpp-1-125-suite-llm-local-portable-fr",
+  "node_id": "R_kgDOV65JaA",
+  "topics": [
+   "koboldcpp",
+   "koboldcpp-1-125",
+   "koboldcpp-1-125-2026",
+   "koboldcpp-1-125-pc",
+   "koboldcpp-1-125-suite-llm-local-por",
+   "koboldcpp-1-2026",
+   "koboldcpp-1-pc",
+   "windows-11",
+   "x64"
+  ]
+ },
+ "1471041667": {
+  "created_at": "2026-11-25T00:52:22Z",
+  "desc": "Ollama Anythingllm Lokalne Studio AI Konfiguracja Pl [2026] \u2014 Standalone Windows 10/11 (x64) Release & Config",
+  "lang": "Python",
+  "name": "denizmiyazaki/ollama-anythingllm-lokalne-studio-ai-konfiguracja-pl",
+  "node_id": "R_kgDOV65Qgw",
+  "topics": [
+   "anythingllm",
+   "ollama-anythingllm-2026",
+   "ollama-anythingllm-lokalne",
+   "ollama-anythingllm-lokalne-2026",
+   "ollama-anythingllm-lokalne-pc",
+   "ollama-anythingllm-lokalne-studio-a",
+   "ollama-anythingllm-pc",
+   "windows-11",
+   "x64"
+  ]
+ },
+ "1471043045": {
+  "created_at": "2026-11-25T00:53:59Z",
+  "desc": "Comfyui 0 46 Invokeai 6 14 Local AI Studio Ko [2026] \u2014 Standalone Windows 10/11 (x64) Release & Config",
+  "lang": "Python",
+  "name": "v-mysusanja-j58/comfyui-0-46-invokeai-6-14-local-ai-studio-ko",
+  "node_id": "R_kgDOV65V5Q",
+  "topics": [
+   "comfyui",
+   "comfyui-0-2026",
+   "comfyui-0-46",
+   "comfyui-0-46-2026",
+   "comfyui-0-46-pc",
+   "comfyui-0-pc",
+   "comfyui-0-plugin",
+   "comfyui-0-portable",
+   "comfyui-0-setup"
+  ]
+ },
+ "1471111588": {
+  "created_at": "2026-11-25T02:23:26Z",
+  "desc": "Google One (iOS Shadowrocket & Android) \u9690\u85cf\u514d\u8d39\u8bd5\u7528\u4e0e\u6298\u6263 SKU \u6a21\u5757 (Pro 18M/15M/12M Free & Ultra 1M Free) \u2014 \u57fa\u4e8e crhywun/g1-acq \u6269\u5c55",
+  "lang": "JavaScript",
+  "name": "Dgkncn/g1-acq-plus",
+  "node_id": "R_kgDOV69hpA",
+  "topics": []
+ },
  "1471119655": {
   "created_at": "2026-11-25T02:33:26Z",
   "desc": "\u52a0\u8f7d\u6280\u80fd",
   "lang": "Python",
   "name": "firstmuse-ai/unrestricted-image-studio",
   "node_id": "R_kgDOV6-BJw",
+  "topics": []
+ },
+ "1471160498": {
+  "created_at": "2026-11-25T03:24:14Z",
+  "desc": "",
+  "lang": "",
+  "name": "yangcaoai/PartAgent_Agent_for_3D_Part_Seg",
+  "node_id": "R_kgDOV7Agsg",
+  "topics": []
+ },
+ "1471189300": {
+  "created_at": "2026-11-25T03:52:50Z",
+  "desc": "An agentic penetration-testing benchmark: a 96-container enterprise shadow network with 103 dynamic flags for autonomous security agents.",
+  "lang": "Python",
+  "name": "inwpu/shadownet-benchmark",
+  "node_id": "R_kgDOV7CRNA",
+  "topics": [
+   "agentic-ai",
+   "ai-security",
+   "llm-agents",
+   "penetration-testing",
+   "red-team",
+   "security-benchmark"
+  ]
+ },
+ "1471202632": {
+  "created_at": "2026-11-25T04:04:32Z",
+  "desc": "Local image context management for Magpie and Codex, with on-demand retrieval and an attachment panel",
+  "lang": "TypeScript",
+  "name": "zhaobomin/CAM-magpie",
+  "node_id": "R_kgDOV7DFSA",
+  "topics": [
+   "magpie-plugin"
+  ]
+ },
+ "1471216154": {
+  "created_at": "2026-11-25T04:16:22Z",
+  "desc": "\u514d\u5efa\u7fa4\u79c1\u804a\u76f4\u63a8\u7684\u9632\u5e7f\u544a TG \u673a\u5668\u4eba\u4e0e 0.2 \u79d2\u4e2a\u4eba\u9762\u677f\uff5c\u9762\u677f\u76f4\u63a5\u804a\u5929/\u53d1\u56fe/\u8d34\u7eb8 \u00b7 \u8868\u60c5\u56de\u5e94\u53cc\u5411\u540c\u6b65 \u00b7 \u56db\u5c42\u9632\u62a4 + \u52a8\u56fe\u9a8c\u8bc1 \u00b7 \u540d\u7247\u5206\u4eab\u6d77\u62a5 \u00b7 \u591a\u534f\u8bae\u63a2\u9488\u4e0e\u6389\u7ebf\u544a\u8b66",
+  "lang": "JavaScript",
+  "name": "mango0114/rose-panel-bot",
+  "node_id": "R_kgDOV7D6Gg",
+  "topics": [
+   "anti-spam",
+   "cloudflare-workers",
+   "komari",
+   "nezha",
+   "personal-panel",
+   "serverless",
+   "telegram-bot",
+   "telegram-mini-app"
+  ]
+ },
+ "1471261675": {
+  "created_at": "2026-11-25T04:56:40Z",
+  "desc": "Tools and notes for testing the ZSlayer PC port: launch a run, record it, measure it, and what is known to be broken. Holds no game files.",
+  "lang": "JavaScript",
+  "name": "ZSlayerHQ/zslayer-pc-port-tools",
+  "node_id": "R_kgDOV7Gr6w",
   "topics": []
  },
  "1471261818": {
@@ -619346,6 +623939,62 @@
   "node_id": "R_kgDOV7Gseg",
   "topics": []
  },
+ "1471332130": {
+  "created_at": "2026-11-25T05:57:29Z",
+  "desc": "Independent telemetry, security, governance, and public-record audit of pingdotgg/t3code across 18 languages, 6 dossiers, 108 receipts, 320+ primary sources & live evidence portal.",
+  "lang": "HTML",
+  "name": "realchendahuang/before-you-install-t3code",
+  "node_id": "R_kgDOV7K_Ig",
+  "topics": [
+   "github-pages",
+   "i18n",
+   "open-source",
+   "privacy",
+   "security-audit",
+   "security-research",
+   "t3code",
+   "telemetry"
+  ]
+ },
+ "1471338913": {
+  "created_at": "2026-11-25T06:03:03Z",
+  "desc": "Free Claude skill: unslop your project with its own icons and banner drawn by Limora AI, plus a shareable before/after video.",
+  "lang": "JavaScript",
+  "name": "Logiaweb/limora-unslop",
+  "node_id": "R_kgDOV7LZoQ",
+  "topics": []
+ },
+ "1471353600": {
+  "created_at": "2026-11-25T06:16:21Z",
+  "desc": "Open source live mcp server for order flow data",
+  "lang": "TypeScript",
+  "name": "zadescoxp/order-flow-mcp",
+  "node_id": "R_kgDOV7MTAA",
+  "topics": [
+   "mcp",
+   "mcp-server",
+   "order-flow",
+   "order-flow-screener",
+   "stock-market",
+   "trading-servers"
+  ]
+ },
+ "1471355286": {
+  "created_at": "2026-11-25T06:18:10Z",
+  "desc": "SEO and AI-visibility platform with an MCP server. Self-host on Cloudflare with your own provider keys.",
+  "lang": "TypeScript",
+  "name": "ankurmans/caldrin-search-oss",
+  "node_id": "R_kgDOV7MZlg",
+  "topics": [
+   "aeo",
+   "ai-visibility",
+   "cloudflare-workers",
+   "mcp",
+   "rank-tracking",
+   "self-hosted",
+   "seo"
+  ]
+ },
  "1471366775": {
   "created_at": "2026-11-25T06:30:52Z",
   "desc": "Mio\u6c34\u6c6a\u6c6a\uff1a\u6d4f\u89c8\u5668\u91cc\u7684\u5168\u5c4f AI \u804a\u5929\u624b\u673a\u6a21\u62df\u5668\uff08\u7981\u6b62\u5546\u7528\uff09",
@@ -619353,6 +624002,102 @@
   "name": "water649/MioWatery",
   "node_id": "R_kgDOV7NGdw",
   "topics": []
+ },
+ "1471412846": {
+  "created_at": "2026-11-25T07:18:46Z",
+  "desc": "\u62db\u6295\u6807\u5927\u5e08 (Bidding Master) \u2014\u2014 \u6db5\u76d6\u56fd\u5185 20+ \u6838\u5fc3\u516c\u5f00\u62db\u6295\u6807\u5e73\u53f0\uff08\u4e2d\u56fd\u653f\u5e9c\u91c7\u8d2d\u7f51\u3001\u5168\u56fd\u516c\u5171\u8d44\u6e90\u4ea4\u6613\u5e73\u53f0\u3001\u56fd\u5bb6\u7535\u7f51\u3001\u5357\u65b9\u7535\u7f51\u3001\u4e2d\u77f3\u6cb9\u3001\u4e2d\u5316\u3001\u56fd\u5bb6\u80fd\u6e90\u3001\u4e2d\u56fd\u534e\u80fd\u3001\u4e2d\u56fd\u7535\u4fe1\u3001\u4e2d\u56fd\u90ae\u653f\u3001\u56fd\u94c1 95306\u3001\u4e2d\u56fd\u56fd\u822a\u3001\u4e2d\u56fd\u70df\u8349\u3001\u91d1\u91c7\u7f51\u7b49\uff09\u7684\u6df1\u7f51\u91c7\u96c6\u4e0e\u6570\u636e\u89e3\u6790\u5e95\u5ea7\u3002\u9879\u76ee\u5305\u542b\u65e9\u671f\u7684\u591a\u7ad9\u70b9\u81ea\u52a8\u5316\u89e3\u6790\u811a\u672c\u3001\u8de8\u5e73\u53f0\u6807\u9898\u6e05\u6d17\u4e0e MD5 \u6307\u7eb9\u53bb\u91cd\u30016 \u7ea7\u9884\u7b97\u91d1\u989d\u4e0e\u591a\u8054\u7cfb\u4eba\u9632\u9519\u914d\u6b63\u5219\u63d0\u53d6\u5f15\u64ce\uff0c\u4ee5\u53ca\u6f14\u8fdb\u540e\u7684\u300c\u516d\u5f20\u7f51\u300dDDD \u9886\u57df\u9a71\u52a8\u67b6\u6784\uff08\u542b\u4e3b\u4ece\u5206\u5e03\u5f0f\u4efb\u52a1\u961f\u5217\u3001\u65ad\u7f51\u6682\u5b58\u56de\u653e\u3001Windows \u6d4f\u89c8\u5668\u8fdb\u7a0b\u6811\u9632\u6cc4\u6f0f\u5b88\u536b\u3001FastAPI \u5f00\u653e\u67e5\u8be2\u63a5\u53e3\u4e0e Vue 3 \u53ef\u89c6\u5316\u7ba1\u7406\u53f0\uff09\u3002\u672c\u9879\u76ee\u4e3a\u5927\u6a21\u578b\u666e\u53ca\u524d\u591c\u7684\u4e2a\u4eba\u5de5\u7a0b\u63a2\u7d22\u5f52\u6863\uff0c\u5b8c\u5168\u514d\u8d39\u5f00\u6e90\uff0c\u4ec5\u4f9b\u6280\u672f\u5b66\u4e60\u4e0e\u67b6\u6784\u4ea4\u6d41\u3002",
+  "lang": "Python",
+  "name": "Lappercn/tender-master",
+  "node_id": "R_kgDOV7P6bg",
+  "topics": []
+ },
+ "1471422426": {
+  "created_at": "2026-11-25T07:28:32Z",
+  "desc": "A rebuttal skill for Codex and Claude Code, based on my own experience at ICML, NeurIPS, and ICLR and lessons from hundreds of public rebuttal discussions.",
+  "lang": "Python",
+  "name": "Jurio0304/Rebuttal-Skills",
+  "node_id": "R_kgDOV7Qf2g",
+  "topics": [
+   "aaai",
+   "iclr",
+   "icml",
+   "neurips"
+  ]
+ },
+ "1471422729": {
+  "created_at": "2026-11-25T07:28:51Z",
+  "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+  "lang": "Assembly",
+  "name": "alesha-pro/llm.asm",
+  "node_id": "R_kgDOV7QhCQ",
+  "topics": [
+   "assembly",
+   "avx2",
+   "bare-metal",
+   "llm",
+   "machine-learning",
+   "nasm",
+   "osdev",
+   "qwen",
+   "transformer",
+   "x86-64"
+  ]
+ },
+ "1471447593": {
+  "created_at": "2026-11-25T07:53:45Z",
+  "desc": "Mobile automation CLI for Agents.",
+  "lang": "Rust",
+  "name": "govijr/agent-phone",
+  "node_id": "R_kgDOV7SCKQ",
+  "topics": [
+   "agents",
+   "automation",
+   "cli",
+   "ios",
+   "mobile"
+  ]
+ },
+ "1471514318": {
+  "created_at": "2026-11-25T08:57:10Z",
+  "desc": "Official code for StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation",
+  "lang": "Python",
+  "name": "ghost233lism/StateWeaver",
+  "node_id": "R_kgDOV7WGzg",
+  "topics": []
+ },
+ "1471515551": {
+  "created_at": "2026-11-25T08:58:22Z",
+  "desc": "OrenCut \u00b7 33 \u53ef\u7f16\u8f91\u7684\u9759\u97f3 Remotion \u52a8\u6548\u7ec4\u4ef6\uff0c\u9644\u53ef\u89c6\u5316\u9884\u89c8\u548c Agent Skill\u3002",
+  "lang": "TypeScript",
+  "name": "OrenFang/orencut",
+  "node_id": "R_kgDOV7WLnw",
+  "topics": [
+   "agent-skills",
+   "remotion"
+  ]
+ },
+ "1471532912": {
+  "created_at": "2026-11-25T09:14:26Z",
+  "desc": "Neovim-inspired developer portfolio template with animated code wall, 8 themes, and one-prompt AI setup",
+  "lang": "JavaScript",
+  "name": "pavanjoshi914/dev-portfolio-template",
+  "node_id": "R_kgDOV7XPcA",
+  "topics": []
+ },
+ "1471546451": {
+  "created_at": "2026-11-25T09:26:33Z",
+  "desc": "Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet.",
+  "lang": "JavaScript",
+  "name": "Moh4696/inkworks-skill",
+  "node_id": "R_kgDOV7YEUw",
+  "topics": [
+   "3d",
+   "agent-skills",
+   "claude-code",
+   "education",
+   "explainer",
+   "threejs"
+  ]
  },
  "1471558729": {
   "created_at": "2026-11-25T09:37:46Z",
@@ -619391,6 +624136,439 @@
    "valorantcm-wh"
   ]
  },
+ "1471578533": {
+  "created_at": "2026-11-25T09:55:19Z",
+  "desc": "LLM-based vulnerability analysis for everyone",
+  "lang": "Rust",
+  "name": "mschwarzl/flawrence",
+  "node_id": "R_kgDOV7aBpQ",
+  "topics": []
+ },
+ "1471616595": {
+  "created_at": "2026-11-25T10:29:04Z",
+  "desc": "A small desktop robot with LLM-based interactions and reinforcement learning capabilities that you can train to act as you want. And it can remember you\uff01",
+  "lang": "Python",
+  "name": "AI-FanGe/A-MicroRobot-that-can-Rollerskate",
+  "node_id": "R_kgDOV7cWUw",
+  "topics": []
+ },
+ "1471659819": {
+  "created_at": "2026-11-25T11:07:24Z",
+  "desc": "Adobe After Effects for Windows and macOS \u2014 professional motion graphics and visual effects software with AI tools, keyframes, compositing and high-quality export for animators and filmmakers.",
+  "lang": "",
+  "name": "captureshadowbattle/After-Effects-For-Windows-And-Macos",
+  "node_id": "R_kgDOV7e_Kw",
+  "topics": [
+   "adobe-after-effects",
+   "automation",
+   "desktop",
+   "developer-tools",
+   "how-to-setup-adobe-after-effects",
+   "open-source",
+   "python",
+   "scripts",
+   "software-engineering",
+   "system",
+   "utility",
+   "windows-app"
+  ]
+ },
+ "1471665422": {
+  "created_at": "2026-11-25T11:12:31Z",
+  "desc": "Adobe Lightroom for Windows and macOS \u2014 professional photo editor and organizer with AI tools, presets, masking, color grading and high-quality export for photographers.",
+  "lang": "",
+  "name": "LogoMajorInverter/Lightroom-For-Windows-And-Macos",
+  "node_id": "R_kgDOV7fVDg",
+  "topics": [
+   "adobe-lightroom",
+   "ai-masking",
+   "cloud-photo-library",
+   "how-to-install-lightroomfull",
+   "lightroomfull-desktop-2026",
+   "lightroomfull-desktop-package",
+   "lightroomfull-setup-failed-fix",
+   "lightroomfull-windows",
+   "mobile-desktop-sync",
+   "preset-sync"
+  ]
+ },
+ "1471673817": {
+  "created_at": "2026-11-25T11:20:22Z",
+  "desc": "A lightweight, unofficial toolkit for generating ChatGPT promotional checkout links.",
+  "lang": "TypeScript",
+  "name": "hoangsvit/chatgpt-offer-toolkit",
+  "node_id": "R_kgDOV7f12Q",
+  "topics": [
+   "chatgpt",
+   "openai"
+  ]
+ },
+ "1471762837": {
+  "created_at": "2026-11-25T12:41:12Z",
+  "desc": "Talk to your Mac. Claude does the work. A macOS voice assistant that runs on your Claude subscription.",
+  "lang": "Swift",
+  "name": "mehulmpt/bol",
+  "node_id": "R_kgDOV7lRlQ",
+  "topics": []
+ },
+ "1471807449": {
+  "created_at": "2026-11-25T13:19:07Z",
+  "desc": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u7d75\u3092\u30d6\u30e9\u30a6\u30b6\u3067\u52d5\u304b\u3059 2D \u30a2\u30d0\u30bf\u30fc\u3002\u7d75 1 \u679a\u304b\u3089\u3001\u81ea\u5206\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30e2\u30c7\u30eb\u3082\u4f5c\u308c\u307e\u3059",
+  "lang": "Python",
+  "name": "rotejin/Keshin2D",
+  "node_id": "R_kgDOV7n_2Q",
+  "topics": [
+   "avatar",
+   "character",
+   "codex",
+   "face-tracking",
+   "image-generation",
+   "lip-sync",
+   "mediapipe",
+   "obs",
+   "pngtuber",
+   "vtuber",
+   "webgl2"
+  ]
+ },
+ "1471830504": {
+  "created_at": "2026-11-25T13:37:56Z",
+  "desc": "ExamMind Studio \u77e5\u8861\uff5cAI \u9898\u5e93\u4e0e\u667a\u80fd\u8003\u8bd5\u5de5\u4f5c\u53f0\u3002Spring Boot + Vue 3 + MySQL\uff0c\u652f\u6301 DeepSeek \u51fa\u9898\u3001\u9057\u4f20\u7b97\u6cd5\u7ec4\u5377\u3001\u9519\u9898\u5206\u6790\u4e0e\u5b66\u4e60\u5468\u62a5\u3002Java Web / \u6570\u636e\u5e93\u8bfe\u7a0b\u8bbe\u8ba1\u53c2\u8003\u3002",
+  "lang": "Java",
+  "name": "doudou0308/ExamMind_Studio",
+  "node_id": "R_kgDOV7pZ6A",
+  "topics": [
+   "ai-assisted-learning",
+   "automatic-paper-generation",
+   "course-project",
+   "deepseek",
+   "exam-system",
+   "genetic-algorithm",
+   "java",
+   "java-course-design",
+   "jdbc",
+   "mysql",
+   "online-exam",
+   "question-bank",
+   "spring-boot",
+   "vite",
+   "vue3"
+  ]
+ },
+ "1471836989": {
+  "created_at": "2026-11-25T13:43:01Z",
+  "desc": "\ud83d\udca5 AI\u8bba\u6587\u751f\u6210/\u5199\u4f5c\u7cfb\u7edf\u6e90\u7801\uff1a\u5f00\u9898\u62a5\u544a\u3001\u6587\u732e\u7efc\u8ff0\u3001\u65e0\u9650\u6539\u7a3f\u3001\u683c\u5f0f\u6392\u7248\u3001\u964d\u91cd\u964dAIGC\u3001\u7b54\u8fa9PPT\u3001\u79d1\u7814\u5de5\u5177\u3002Vue+SpringBoot+Django\uff1b\u652f\u6301OEM\u767d\u6807/\u5546\u6237\u52a0\u76df\uff0c\u65d7\u8230\u7248\u4e0ePRO\u53cc\u7248\u672c\u3002",
+  "lang": "",
+  "name": "blanka-alt/-ai-thesis-writing-platform",
+  "node_id": "R_kgDOV7pzPQ",
+  "topics": [
+   "academic-writing",
+   "ai",
+   "ai-writing",
+   "aigc",
+   "django",
+   "java",
+   "mysql",
+   "paper-generator",
+   "springboot",
+   "thesis",
+   "vue"
+  ]
+ },
+ "1471992549": {
+  "created_at": "2026-11-25T15:34:06Z",
+  "desc": "100% offline Apple Silicon neural Chinese Pinyin IME (64 MB 4-bit Qwen3-6L base + Rank-8 Multi-LoRA .imepack cartridges)",
+  "lang": "Rust",
+  "name": "tyrchen/chime",
+  "node_id": "R_kgDOV7zS5Q",
+  "topics": []
+ },
+ "1472004749": {
+  "created_at": "2026-11-25T15:45:09Z",
+  "desc": "Translate one LLM's document states into another LLM's KV cache, with query-aware compression, served through vLLM",
+  "lang": "Python",
+  "name": "b10-tv/speculative-encoding",
+  "node_id": "R_kgDOV70CjQ",
+  "topics": []
+ },
+ "1472107452": {
+  "created_at": "2026-11-25T17:15:17Z",
+  "desc": "\u4e00\u6761\u547d\u4ee4\u88c5\u597d Reality \u5077\u81ea\u5df1\u3001AnyTLS\u3001CF WS\u3001Hysteria2\uff1asing-box \u9a71\u52a8\uff0c\u81ea\u5e26\u8ba2\u9605\u3001\u5206\u6d41\u3001\u9632 DNS \u6cc4\u9732\u548c\u968f\u673a\u4f2a\u88c5\u7ad9",
+  "lang": "Go",
+  "name": "byJoey/dun",
+  "node_id": "R_kgDOV76TvA",
+  "topics": []
+ },
+ "1472138919": {
+  "created_at": "2026-11-25T17:42:27Z",
+  "desc": "Robotics agent skills (MuJoCo, perception, planning, sim2real, bring-up) for Claude Code, Antigravity, Codex, Gemini CLI, Cursor and more. Adapted from google-deepmind/robotics-antigravity-plugin (Apache-2.0).",
+  "lang": "Python",
+  "name": "eust-w/open-robotics-plugin",
+  "node_id": "R_kgDOV78Opw",
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "claude-code",
+   "codex",
+   "cursor",
+   "gemini-cli",
+   "mujoco",
+   "robotics",
+   "sim2real"
+  ]
+ },
+ "1472147071": {
+  "created_at": "2026-11-25T17:49:36Z",
+  "desc": "ComfyUI 0.46 & Flux.1 Local AI Studio \u2014 Portable Deutsche Edition x64 (v3.6.2) \u2014 External 144Hz+ DX11/DX12 viewport overlay, spatial radar.",
+  "lang": "Python",
+  "name": "Sita91/comfyui-0-46-flux-local-ai-generator-de",
+  "node_id": "R_kgDOV78ufw",
+  "topics": [
+   "comfyui",
+   "comfyui-0-46",
+   "comfyui-0-46-2026",
+   "comfyui-0-46-flux-local-ai-generato",
+   "comfyui-0-46-pc",
+   "comfyui-0-config",
+   "comfyui-0-esp",
+   "comfyui-0-esp-menu",
+   "comfyui-0-external-menu"
+  ]
+ },
+ "1472150142": {
+  "created_at": "2026-11-25T17:52:06Z",
+  "desc": "GILLA VR Windows PCVR port. Fan project - reverse engineered with Claude Code + Codex. Original game: free on Meta Quest.",
+  "lang": "HTML",
+  "name": "BranAstraltrack49829/gilla-vr-windows-port",
+  "node_id": "R_kgDOV786fg",
+  "topics": [
+   "download-gilla-vr",
+   "gilla-vr",
+   "gilla-vr-download",
+   "gilla-vr-installer",
+   "gilla-vr-pc",
+   "gilla-vr-port",
+   "gilla-vr-release",
+   "gilla-vr-windows",
+   "gilla-vr-windows-download",
+   "gilla-vr-windows-port",
+   "steamvr",
+   "vr-horror",
+   "vr-port",
+   "windows-port"
+  ]
+ },
+ "1472241442": {
+  "created_at": "2026-11-25T19:20:03Z",
+  "desc": "AI Resume Builder \u2014 resume tool x suite.",
+  "lang": "C++",
+  "name": "TaroloCu37/resume-tool-x",
+  "node_id": "R_kgDOV8CfIg",
+  "topics": [
+   "ai",
+   "automation",
+   "builder",
+   "cli",
+   "cpp",
+   "developer-tools",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "resume",
+   "tool",
+   "tools",
+   "utility",
+   "windows"
+  ]
+ },
+ "1472245786": {
+  "created_at": "2026-11-25T19:24:26Z",
+  "desc": "Claude Code Unlimited \u2014 claude-code and llm in one tool.",
+  "lang": "C++",
+  "name": "tDupuis19341/claude-session-rotator",
+  "node_id": "R_kgDOV8CwGg",
+  "topics": [
+   "ai-tools",
+   "anthropic",
+   "automation",
+   "claude",
+   "claude-code",
+   "cli",
+   "cpp",
+   "developer-tools",
+   "llm",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "tools",
+   "windows"
+  ]
+ },
+ "1472247723": {
+  "created_at": "2026-11-25T19:26:32Z",
+  "desc": "Claude API proxy with session rotation \u2014 unlimited local access.",
+  "lang": "C++",
+  "name": "GuhakaFov83/claude-api-proxy",
+  "node_id": "R_kgDOV8C3qw",
+  "topics": [
+   "api",
+   "automation",
+   "claude",
+   "cli",
+   "cpp",
+   "developer-tools",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "proxy",
+   "tool",
+   "tools",
+   "utility",
+   "windows"
+  ]
+ },
+ "1472248853": {
+  "created_at": "2026-11-25T19:27:44Z",
+  "desc": "Claude Web Rotate \u2014 clwr rotate suite.",
+  "lang": "C++",
+  "name": "tDupuis19341/clwr-rotate",
+  "node_id": "R_kgDOV8C8FQ",
+  "topics": [
+   "automation",
+   "claude",
+   "cli",
+   "cpp",
+   "developer-tools",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotate",
+   "tool",
+   "tools",
+   "utility",
+   "web",
+   "windows"
+  ]
+ },
+ "1472250424": {
+  "created_at": "2026-11-25T19:29:19Z",
+  "desc": "AI Session Suite \u2014 ai session rotator tool.",
+  "lang": "C++",
+  "name": "hassany30/ai-session-rotator",
+  "node_id": "R_kgDOV8DCOA",
+  "topics": [
+   "ai",
+   "automation",
+   "cli",
+   "cpp",
+   "developer-tools",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "session",
+   "suite",
+   "tool",
+   "tools",
+   "utility",
+   "windows"
+  ]
+ },
+ "1472250435": {
+  "created_at": "2026-11-25T19:29:20Z",
+  "desc": "Session rotation suite for ALL AI services \u2014 one binary.",
+  "lang": "C++",
+  "name": "dxu1570/ai-session-suite",
+  "node_id": "R_kgDOV8DCQw",
+  "topics": [
+   "ai",
+   "automation",
+   "cli",
+   "cpp",
+   "developer-tools",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "session",
+   "suite",
+   "tool",
+   "tools",
+   "utility",
+   "windows"
+  ]
+ },
+ "1472250470": {
+  "created_at": "2026-11-25T19:29:23Z",
+  "desc": "Gemini Web Rotate \u2014 gwr rotate suite.",
+  "lang": "C++",
+  "name": "DoyanoXi22/gwr-rotate",
+  "node_id": "R_kgDOV8DCZg",
+  "topics": [
+   "automation",
+   "cli",
+   "cpp",
+   "developer-tools",
+   "gemini",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotate",
+   "tool",
+   "tools",
+   "utility",
+   "web",
+   "windows"
+  ]
+ },
+ "1472250505": {
+  "created_at": "2026-11-25T19:29:25Z",
+  "desc": "Gemini Web Rotate \u2014 gemini web tool tool.",
+  "lang": "C++",
+  "name": "loril5767/gemini-web-tool",
+  "node_id": "R_kgDOV8DCiQ",
+  "topics": [
+   "automation",
+   "cli",
+   "cpp",
+   "developer-tools",
+   "gemini",
+   "open-source",
+   "portable",
+   "prebuilt",
+   "productivity",
+   "rotate",
+   "tool",
+   "tools",
+   "utility",
+   "web",
+   "windows"
+  ]
+ },
+ "1472261422": {
+  "created_at": "2026-11-25T19:40:33Z",
+  "desc": "Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code",
+  "lang": "",
+  "name": "uxpilot-ai/frontend-design-skill",
+  "node_id": "R_kgDOV8DtLg",
+  "topics": [
+   "agent-skills",
+   "claude-code",
+   "claude-skills",
+   "codex",
+   "cursor",
+   "design-to-code",
+   "frontend-design",
+   "mcp",
+   "ui-design",
+   "web-design"
+  ]
+ },
  "147229508": {
   "created_at": "2018-09-03T16:31:18Z",
   "desc": "Fast word vectors with little memory usage in Python",
@@ -619410,6 +624588,185 @@
    "vectors",
    "word",
    "word2vec"
+  ]
+ },
+ "1472295505": {
+  "created_at": "2026-11-25T20:17:32Z",
+  "desc": "Private communication coaching for AI assistants, with guided chat and meeting-review setup.",
+  "lang": "",
+  "name": "EveryInc/executive-feedback-skill",
+  "node_id": "R_kgDOV8FyUQ",
+  "topics": []
+ },
+ "1472303089": {
+  "created_at": "2026-11-25T20:25:32Z",
+  "desc": "Mixture-of-Loops Transformer",
+  "lang": "Python",
+  "name": "hustvl/MoLT",
+  "node_id": "R_kgDOV8GP8Q",
+  "topics": []
+ },
+ "1472319077": {
+  "created_at": "2026-11-25T20:42:55Z",
+  "desc": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
+  "lang": "Lean",
+  "name": "lsernau/grh-lean",
+  "node_id": "R_kgDOV8HOZQ",
+  "topics": []
+ },
+ "1472504492": {
+  "created_at": "2026-11-26T00:53:37Z",
+  "desc": "Turn off DeepSeek Harness telemetry and session-log uploads, strip identity headers - with a sandboxed packet-capture verify script.",
+  "lang": "JavaScript",
+  "name": "scarletkc/dsh-no-telemetry",
+  "node_id": "R_kgDOV8SirA",
+  "topics": [
+   "deepseek",
+   "deepseek-harness",
+   "dsh",
+   "privacy",
+   "telemetry"
+  ]
+ },
+ "1472563508": {
+  "created_at": "2026-11-26T02:16:15Z",
+  "desc": "",
+  "lang": "TypeScript",
+  "name": "Allencake/order-flow-board",
+  "node_id": "R_kgDOV8WJNA",
+  "topics": []
+ },
+ "1472576778": {
+  "created_at": "2026-11-26T02:34:16Z",
+  "desc": "Riemann Hypothesis in Lean 4. Single-file edition",
+  "lang": "Lean",
+  "name": "1337isnot1337/riemann-hypothesis-minimal",
+  "node_id": "R_kgDOV8W9Cg",
+  "topics": []
+ },
+ "1472665492": {
+  "created_at": "2026-11-26T04:31:05Z",
+  "desc": "DeepSeek Harness \u7834\u7532\u878d\u5408\u5305\uff1a\u5bbf\u4e3b\u6e05\u6d17 + \u7834\u7532\u5185\u6838\u53cc\u5c42\u5408\u4e00\uff0c\u7edf\u4e00 /pojia \u547d\u4ee4",
+  "lang": "JavaScript",
+  "name": "superj0107/dsh-pojia",
+  "node_id": "R_kgDOV8cXlA",
+  "topics": []
+ },
+ "1472763675": {
+  "created_at": "2026-11-26T06:33:11Z",
+  "desc": "Inspect Robots embodiment for an AgileX Nero arm with an Inspire RH56 hand",
+  "lang": "Python",
+  "name": "robodeltas/inspect-robots-agilex-nero",
+  "node_id": "R_kgDOV8iXGw",
+  "topics": []
+ },
+ "1472765043": {
+  "created_at": "2026-11-26T06:34:41Z",
+  "desc": "Minimalist pure-white academic seminar PPT builder skill (300-DPI paper figure cropping, white-bg diagram generation, native python-pptx tables, de-AI style & visual verification)",
+  "lang": "Python",
+  "name": "li-2132/zhuzhu-ppt-skill",
+  "node_id": "R_kgDOV8iccw",
+  "topics": []
+ },
+ "1472874299": {
+  "created_at": "2026-11-26T08:25:48Z",
+  "desc": "MCP server connecting AI assistants to the Spanish National Statistics Institute (INE) public API. Enables access to official demographic, economic and social statistics, making it easy to search, retrieve and analyze reliable data using natural language.",
+  "lang": "Python",
+  "name": "es-ine/mcp",
+  "node_id": "R_kgDOV8pHOw",
+  "topics": []
+ },
+ "1472939244": {
+  "created_at": "2026-11-26T09:26:25Z",
+  "desc": "",
+  "lang": "Python",
+  "name": "duwqijlk/gpt-protocol-reg",
+  "node_id": "R_kgDOV8tE7A",
+  "topics": []
+ },
+ "1473148175": {
+  "created_at": "2026-11-26T12:43:21Z",
+  "desc": "Autodesk AutoCAD 2027  | Desktop Installer with Autodesk AI",
+  "lang": "Python",
+  "name": "SolarFirefly/Autodesk-AutoCAD-2027-AI",
+  "node_id": "R_kgDOV851Dw",
+  "topics": [
+   "autocad",
+   "autocad-2026-updates",
+   "autocad-community-tools",
+   "autocad-design-hub",
+   "autocad-latest-features",
+   "autocad-productivity-tips",
+   "autocad-professional-tools",
+   "autocad-resource-center",
+   "autocad-resources",
+   "autocad-resources-worldwide",
+   "autocad-skill-building",
+   "autocad-user-network",
+   "autocad-workflow-guide",
+   "autocad-ww",
+   "autocad2026-install"
+  ]
+ },
+ "1473148177": {
+  "created_at": "2026-11-26T12:43:21Z",
+  "desc": "How to get Adobe Media Encoder 2026",
+  "lang": "Go",
+  "name": "DemonMartin34/Adobe-Media-Encoder-AI-Latest",
+  "node_id": "R_kgDOV851EQ",
+  "topics": [
+   "desktop-media-encoder-windows",
+   "highlight-detection",
+   "video-automation",
+   "video-automation-ai",
+   "video-automation-windows",
+   "video-editing",
+   "video-editing-automation",
+   "video-editing-free",
+   "video-editing-software",
+   "video-editing-tools"
+  ]
+ },
+ "1473148189": {
+  "created_at": "2026-11-26T12:43:21Z",
+  "desc": "How to get Adobe Lightroom Classic  AI Latest",
+  "lang": "TypeScript",
+  "name": "ColumnWarlord/Adobe-Lightroom-ClassicAi2026",
+  "node_id": "R_kgDOV851HQ",
+  "topics": [
+   "adobe-lightroom",
+   "lightroom",
+   "lightroom-classic-2026"
+  ]
+ },
+ "1473148190": {
+  "created_at": "2026-11-26T12:43:21Z",
+  "desc": "How to get Adobe After Effects 2026",
+  "lang": "Python",
+  "name": "skylarjordan68/Adobe-After-Effects-AI-Latest",
+  "node_id": "R_kgDOV851Hg",
+  "topics": [
+   "ae",
+   "after-effects",
+   "after-effects-project-files",
+   "envat",
+   "script"
+  ]
+ },
+ "1473237726": {
+  "created_at": "2026-11-26T14:00:19Z",
+  "desc": "Soy a\u011fac\u0131ndan kaynakl\u0131 aile tarihi raporu ve T\u00fcrk\u00e7e seslendirmeli g\u00f6\u00e7 haritas\u0131 videosu \u00fcreten Claude Code skill'i",
+  "lang": "Python",
+  "name": "f/family-migration-story",
+  "node_id": "R_kgDOV8_S3g",
+  "topics": [
+   "claude-code",
+   "claude-skills",
+   "family-history",
+   "genealogy",
+   "remotion",
+   "soyagaci",
+   "turkish"
   ]
  },
  "14734876": {
